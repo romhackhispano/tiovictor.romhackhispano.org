@@ -16,7 +16,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://tiovictor-jekyll.romhackhispano.org" # the base hostname & protocol for your site
 twitter_username: vgfilducci
 github_username:  romhackhispano
-permalink: /:title.html
+permalink: /:year/:month:/:day/:title
 
 # Build settings
 markdown: kramdown
