@@ -1,0 +1,127 @@
+---
+layout: dlm_download
+status: publish
+published: true
+title: 'Star Wars Episodio I: Racer para Nintendo 64'
+author:
+  display_name: TÃ­o VÃ­ctor
+  url: http://tiovictor.romhackhispano.org
+author_url: http://tiovictor.romhackhispano.org
+wordpress_id: 2053
+wordpress_url: http://tiovictor.romhackhispano.org/?post_type=dlm_download&#038;p=2053
+date: '2014-01-15 18:16:38 +0100'
+date_gmt: '2014-01-15 16:16:38 +0100'
+categories: []
+tags: []
+---
+<p>=============================================================================<br />
+Adaptaci&Atilde;&sup3;n de la traducci&Atilde;&sup3;n al Castellano de Star Wars Episodio I Racer<br />
+para Nintendo 64 por PacoChan, SubDrag e IlDucci<br />
+-----------------------------------------------------------------------------<br />
+1.02 FINAL - 29 de octubre de 2014 - Documento creado por IlDucci<br />
+=============================================================================<br />
+Si hay alg&Atilde;&ordm;n fallo que no mencione en este documento de texto, visitad<br />
+http:&#47;&#47;tiovictor.romhackhispano.org y comentad los detalles que ve&Atilde;&iexcl;is.<br />
+-----------------------------------------------------------------------------<br />
+&Atilde;NDICE DE CONTENIDOS:<br />
+- Registro de versiones<br />
+- C&Atilde;&sup3;mo aplicar el parche de traducci&Atilde;&sup3;n<br />
+- C&Atilde;&sup3;mo jugar en los emuladores 1964 y Project 64<br />
+- Agradecimientos<br />
+-----------------------------------------------------------------------------<br />
+REGISTRO DE VERSIONES:<br />
+1.0 BETA: Primera versi&Atilde;&sup3;n<br />
+- Todos los gr&Atilde;&iexcl;ficos y subt&Atilde;&shy;tulos del juego est&Atilde;&iexcl;n completamente<br />
+traducidos al Castellano.<br />
+- Faltan por a&Atilde;&plusmn;adir los caracteres de abrir exclamaci&Atilde;&sup3;n y abrir<br />
+interrogaci&Atilde;&sup3;n. Algunas tildes muestran mal su sombra.<br />
+1.0 FINAL: Segunda versi&Atilde;&sup3;n<br />
+- Revisados todos los textos del juego, eliminados recortes de<br />
+palabras, mejorados textos, a&Atilde;&plusmn;adidos los caracteres que faltaban,<br />
+eliminado el selector de idioma obligando a mostrar solo el idioma<br />
+espa&Atilde;&plusmn;ol. Primera versi&Atilde;&sup3;n final de la adaptaci&Atilde;&sup3;n.<br />
+1.01: Actualizaci&Atilde;&sup3;n menor<br />
+- Corregido el solapamiento de la frase "Borrar piloto" en la<br />
+pantalla de selecci&Atilde;&sup3;n de partidas.<br />
+1.02 FINAL: Actualizaci&Atilde;&sup3;n menor<br />
+- Corregidos los textos relacionados con la temperatura de los<br />
+motores, ya no se salen de la pantalla.<br />
+- Retoques menores adicionales.<br />
+-----------------------------------------------------------------------------<br />
+C&Atilde;&ldquo;MO APLICAR EL PARCHE DE TRADUCCI&Atilde;&ldquo;N:</p>
+<p>Es necesario tener XDelta (Para hacerlo m&Atilde;&iexcl;s f&Atilde;&iexcl;cil utilizar XDeltaUI tambi&Atilde;&copy;n)<br />
+y una copia de la ROM "Star Wars Episode I - Racer (E) (M3) [!].v64",<br />
+en formato .v64 (Byte Swapped).</p>
+<p>Estos son los datos de la ROM original que debes tener para que funcione el<br />
+parche:<br />
+CRC1: 53ED2DC4<br />
+CRC2: 06258002</p>
+<p>CRC32: EDE47E8A<br />
+MD5: DE98F1BCEB2C317BB0A9743282CE2C2E<br />
+SHA-1: D4968CE06B93705ED40FF4433279F587F62E3C26</p>
+<p>Si la ROM es correcta, aplica el parche sobre la misma y guarda la ROM nueva<br />
+en otro archivo.<br />
+-----------------------------------------------------------------------------<br />
+C&Atilde;&ldquo;MO JUGAR EN LOS EMULADORES 1964 Y PROJECT 64</p>
+<p>Los emuladores 1964 y Project64 no guardar&Atilde;&iexcl;n los datos de partidas guardadas<br />
+si no se configura la ROM antes de jugar.</p>
+<p>En el caso de 1964, dir&Atilde;&shy;gete a la carpeta donde est&Atilde;&iexcl; el ejecutable del<br />
+emulador, abre con el Bloc de notas el archivo ROM_properties.ini y pega<br />
+el siguiente texto:</p>
+<p>[E857ED95-6028F9AF-C:50]<br />
+Game Name=STAR WARS EP1 RACER<br />
+Comments=Playable! (Use 1964Video)<br />
+Alternate Title=Star Wars Episode I - Racer (E) [T-Spa]<br />
+Check Self-modifying Code=8<br />
+Emulator=1<br />
+RDRAM Size=1<br />
+Max FPS=4<br />
+Save Type=6<br />
+TLB=1<br />
+EEPROM Size=3<br />
+Counter Factor=1<br />
+Use Register Caching=1<br />
+FPU Hack=1<br />
+DMA=1<br />
+Link 4KB Blocks=1<br />
+Advanced Block Analysis=1<br />
+Assume 32bit=2<br />
+HLE=0<br />
+RSP_RDP_Timing=2<br />
+CFB_RW=2<br />
+NumberOfPlayers=1</p>
+<p>En el caso de Project64, dir&Atilde;&shy;gete a la subcarpeta Config dentro de la<br />
+carpeta del emulador, abre con el Bloc de notas el archivo Project64.rdb<br />
+y pega el siguiente texto:</p>
+<p>[E857ED95-6028F9AF-C:50]<br />
+Good Name=Star Wars Episode I - Racer (E) [T-Spa]<br />
+Internal Name=STAR WARS EP1 RACER<br />
+RDRAM Size=8<br />
+Counter Factor=2<br />
+Save Type=16kbit Eeprom<br />
+CPU Type=Recompiler<br />
+Self-modifying code Method=Check Memory &amp; cache<br />
+Use TLB=No<br />
+Linking=Global<br />
+Reg Cache=Yes<br />
+Use Large Buffer=No<br />
+Status=Compatible<br />
+Plugin Note=<br />
+Delay SI=No<br />
+SP Hack=No<br />
+Core Note=<br />
+Clear Frame=0<br />
+Self Texture=0<br />
+Primary Frame Buffer=0<br />
+Culling=1<br />
+Emulate Clear=1<br />
+Audio Signal=No<br />
+Resolution Width=-1<br />
+Resolution Height=-1<br />
+-----------------------------------------------------------------------------<br />
+AGRADECIMIENTOS:<br />
+A SubDrag por su N64 Sound Tool, a TheFireRed y a bertobp por ayudarme con<br />
+el EverDrive 64.<br />
+=============================================================================<br />
+&Acirc;&iquest;Sugerencias, dudas...? Ve a http:&#47;&#47;tiovictor.romhackhispano.org<br />
+=============================================================================</p>
