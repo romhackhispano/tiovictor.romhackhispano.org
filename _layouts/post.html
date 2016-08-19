@@ -23,7 +23,7 @@ layout: default
   var disqus_config = function () {
     //{% if page.wordpress_id %}
     ////this.page.identifier = {{ page.wordpress_id }};
-    //this.page.url = "{{ page.wordpress_url }}";
+    this.page.url = "http://tiovictor.romhackhispano.org{{ page.url }}";
     //{% else %}
     //this.page.identifier =
     this.page.url = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}";
