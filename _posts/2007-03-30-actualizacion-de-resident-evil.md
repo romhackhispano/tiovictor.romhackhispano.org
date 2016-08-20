@@ -10,6 +10,7 @@ author:
 author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 4
 wordpress_url: http://tiovictor.romhackhispano.org/?p=4
+header_img: /img/2007/03/RE1Noti32.jpg
 date: '2007-03-30 17:10:49 +0200'
 date_gmt: '2007-03-30 15:10:49 +0200'
 categories:
