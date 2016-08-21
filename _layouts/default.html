@@ -1,20 +1,72 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 
-  {% include head.html %}
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!--
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
-  <body>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="description"
+          content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    {% include header.html %}
+    <link rel="stylesheet" href="{{ '/bootstrap/css/bootstrap.min.css' | prepend: site.baseurl }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
+          href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
+</head>
+
+<body>
+
+<div class="container" style="padding:0;">
+
+    <header class="site-header">
+
+        <div class="wrapper">
+
+            <a class="site-title" href="{{ site.baseurl }}/"><img src="/img/2014/04/banner-final-3.jpg" style="width:100%;height:auto;" /></a>
+
+        </div>
+
+    </header>
 
     <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+        <div class="wrapper">
+            {{ content }}
+        </div>
     </div>
 
-    {% include footer.html %}
+    <footer class="site-footer">
 
-  </body>
+        <div class="wrapper">
+
+            <h2 class="footer-heading">{{ site.title }}</h2>
+
+            <div class="footer-col-wrapper">
+                <div class="footer-col footer-col-1">
+                    <ul class="contact-list">
+                        <li>{{ site.title }}</li>
+                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+                    </ul>
+                </div>
+
+                <div class="footer-col footer-col-2">
+                </div>
+
+                <div class="footer-col footer-col-3">
+                    <p>{{ site.description }}</p>
+                </div>
+            </div>
+
+        </div>
+
+    </footer>
+
+</div>
+
+</body>
 
 </html>
