@@ -17,7 +17,10 @@ categories:
 tags:
 - Dead Space Extraction
 ---
-<p>Aquí os traigo las primeras imágenes capturadas por TBG de la traducción de Dead Space Extraction:</p>
-<p>(Capturas perdidas, ver página del proyecto)</p>
-<p>Y un vídeo de demostración:<br />
-<center><iframe src="//www.youtube-nocookie.com/embed/qLWvrDDhKDg?rel=0" height="398" width="530" allowfullscreen="" frameborder="0"></iframe></center></p>
+Aquí os traigo las primeras imágenes capturadas por TBG de la traducción de Dead Space Extraction:
+
+(Capturas perdidas, ver página del proyecto)
+
+Y un vídeo de demostración:
+
+(Vídeo perdido, ver página del proyecto)

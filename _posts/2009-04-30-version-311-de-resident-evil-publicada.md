@@ -17,4 +17,4 @@ categories:
 tags:
 - Resident Evil
 ---
-<p>Aquí os dejo el tardío (para variar) parche de la traducción, a ver si arregla el fallo al aplicar el parche sobre una imagen ISO. No hay cambios en la traducción en sí.</p>
+Aquí os dejo el tardío (para variar) parche de la traducción, a ver si arregla el fallo al aplicar el parche sobre una imagen ISO. No hay cambios en la traducción en sí.

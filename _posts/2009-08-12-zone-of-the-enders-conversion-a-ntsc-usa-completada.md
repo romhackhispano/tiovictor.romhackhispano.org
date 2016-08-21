@@ -17,5 +17,6 @@ categories:
 tags:
 - Zone of The Enders
 ---
-<p>Bueno, en los últimos días he ido convirtiendo poco a poco la traducción de la versión PAL de Zone Of The Enders a la versión NTSC-USA. Esto me ha servido para revisar la traducción e ir cambiando ya algunos detallitos de ambas versiones.</p>
-<p>Ahora ambas tienen los todos los subtítulos y textos traducidos (Me queda probar los menús), y los mismos problemas en espera de los menús de VR. Seguiré informando.</p>
+Bueno, en los últimos días he ido convirtiendo poco a poco la traducción de la versión PAL de Zone Of The Enders a la versión NTSC-USA. Esto me ha servido para revisar la traducción e ir cambiando ya algunos detallitos de ambas versiones.
+
+Ahora ambas tienen los todos los subtítulos y textos traducidos (Me queda probar los menús), y los mismos problemas en espera de los menús de VR. Seguiré informando.

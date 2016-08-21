@@ -17,4 +17,4 @@ categories:
 tags:
 - Resident Evil
 ---
-<p>Bueno, he ido arreglando algunos fallos de la traducción de Resident Evil Director's Cut, tengo una larga lista, y seguiré con ellos en los próximos días. Gracias a todos por vuestros comentarios.</p>
+Bueno, he ido arreglando algunos fallos de la traducción de Resident Evil Director's Cut, tengo una larga lista, y seguiré con ellos en los próximos días. Gracias a todos por vuestros comentarios.

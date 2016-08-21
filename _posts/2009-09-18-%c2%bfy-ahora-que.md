@@ -19,5 +19,6 @@ tags:
 - Zone of The Enders
 - The World Ends With You
 ---
-<p>Bueno, tras la aparente conclusión del proyecto Zone Of The Enders, del cual nadie me ha dicho nada todavía (salvo algunas noticias); el caso es que algunos os preguntaréis ¿En qué ando metido ahora?</p>
-<p>Bueno... el caso es que tengo un asunto pendiente todavía.</p>
+Bueno, tras la aparente conclusión del proyecto Zone Of The Enders, del cual nadie me ha dicho nada todavía (salvo algunas noticias); el caso es que algunos os preguntaréis ¿En qué ando metido ahora?
+
+Bueno... el caso es que tengo un asunto pendiente todavía.

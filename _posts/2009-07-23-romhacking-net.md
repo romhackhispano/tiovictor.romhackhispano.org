@@ -17,4 +17,4 @@ categories:
 tags:
 - General
 ---
-<p>Quería comentar simplemente que las traducciones de juegos de consola ya terminadas están ahora disponibles en la web www.romhacking.net.</p>
+Quería comentar simplemente que las traducciones de juegos de consola ya terminadas están ahora disponibles en la web www.romhacking.net.
