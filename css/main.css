@@ -1,0 +1,29 @@
+.overlapped-entry {
+    position: relative;
+    top: -64px;
+    margin: 0 10%;
+    padding: 12px 32px;
+    background: white;
+}
+
+@media (max-width: 767px) {
+    .overlapped-entry {
+        margin: 0;
+    }
+}
+
+.overlapped-entry h2 {
+    font-family: Lato, sans-serif;
+    font-size: 33px;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.overlapped-entry h2 a {
+    color: black;
+}
+
+.overlapped-entry h2 a:hover {
+    color: green;
+    text-decoration: none;
+}

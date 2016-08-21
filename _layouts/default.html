@@ -14,13 +14,14 @@
           content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
     <link rel="stylesheet" href="{{ '/bootstrap/css/bootstrap.min.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
           href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
     <script src="{{ '/js/jquery-3.1.0.min.js' | prepend: site.baseurl }}" type="text/javascript"></script>
 </head>
 
-<body>
+<body style="background:#1e73be;">
 
 <div class="container" style="padding:0;">
 
@@ -54,32 +55,6 @@
             {{ content }}
         </div>
     </div>
-
-    <footer class="site-footer">
-
-        <div class="wrapper">
-
-            <h2 class="footer-heading">{{ site.title }}</h2>
-
-            <div class="footer-col-wrapper">
-                <div class="footer-col footer-col-1">
-                    <ul class="contact-list">
-                        <li>{{ site.title }}</li>
-                        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-                    </ul>
-                </div>
-
-                <div class="footer-col footer-col-2">
-                </div>
-
-                <div class="footer-col footer-col-3">
-                    <p>{{ site.description }}</p>
-                </div>
-            </div>
-
-        </div>
-
-    </footer>
 
 </div>
 

@@ -9,12 +9,20 @@ layout: twocolumn
         {% if post.header_img %}
         <img src="{{ post.header_img }}" style="width:100%;height:auto;"/>
         {% endif %}
-        <h2>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <span class="post-meta"><i class="glyphicon glyphicon-time"></i> {{ post.date | date: "%b %-d, %Y" }}</span>
-        <div>
-            {{ post.excerpt }}
+        <div class="overlapped-entry">
+            <h2>
+                <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            </h2>
+            <div style="margin: 16px 0;">
+                <span class="post-meta"><i
+                        class="glyphicon glyphicon-time"></i> {{ post.date | date: "%-d %b %Y" }}</span>
+                <span style="padding-left:16px;">
+                    <i class="glyphicon glyphicon-comment"></i> <a href="http://tiovictor.romhackhispano.org{{ page.url }}#disqus_thread">Comentarios</a>
+                </span>
+            </div>
+            <div>
+                {{ post.excerpt }}
+            </div>
         </div>
     </div>
     {% endfor %}
@@ -30,7 +38,8 @@ layout: twocolumn
             {% endif %}
             <li><a href="/">1</a></li>
             {% for page in (2..paginator.total_pages) %}
-            <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+            <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{
+                page }}</a></li>
             {% endfor %}
             {% if paginator.next_page_path %}
             <li>
@@ -45,3 +54,6 @@ layout: twocolumn
     <p class="rss-subscribe">subscribe <a href="{{ '/feed.xml' | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
+
+<script id="dsq-count-scr" src="//traduccionesdeltiovictor.disqus.com/count.js" async></script>
+
