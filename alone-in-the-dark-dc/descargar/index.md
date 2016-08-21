@@ -28,14 +28,13 @@ IlDucci: Edición de textos, investigación de los formatos del juego, investiga
 *CON LA COLABORACIÓN O INFORMACIÓN DE:*  
 TuxTheWise, OVERRiDE, FamilyGuy
 
-
 *EL PARCHEADOR UTILIZA HERRAMIENTAS DE:*  
 Jöerg Schilling, Wwashington, Igor Pavlov, jj1odm, Sappharad, FamilyGuy, el equipo de FFMpeg, Muzzleflash, bITmASTER
 
-*BASADO EN LA TRADUCCIÓN DE DL MULTIMEDIA, CON LAS VOCES ORIGINALES DE:*
+*BASADO EN LA TRADUCCIÓN DE DL MULTIMEDIA, CON LAS VOCES ORIGINALES DE:*  
 Rais David Báscones, Paqui Horcajo, Jorge Teixeira, Carlos Salamanca, Javier Gámir y Antonio Cobos.
 
-<h3 style="text-align: center;">***Descargar versión 1.0 del parcheador:***</h3>
+<center><h1><b><i>Descargar versión 1.0 del parcheador:</i></b></h1></center>
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/2f3rkykay0ycu8s/AloneInTheDark4Espa%C3%B1olDreamcast10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!QRtljCAI!uziMgr5PCxNO76JPasHLLBjvybA8bifRNucl4qZ5n04">MEGA</a></strong></h1>
 
