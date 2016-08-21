@@ -25,11 +25,6 @@ gallery:
 - path: /img/2010/07/AlienSwarm16-08.jpg
 - path: /img/2010/07/AlienSwarm16-09.jpg
 - path: /img/2010/07/AlienSwarm16-10.jpg
-<!-- gallery2:
-- path: /img/2010/07/AlienSwarm16-09.jpg
-- path: /img/2010/07/AlienSwarm16-08.jpg
-- path: /img/2010/07/AlienSwarm16-07.jpg
--->
 ---
 Traducción realizada a partir de la traducción oficial de Left 4 Dead 2. Todo el resto de contenidos han sido traducidos íntegramente por IlDucci.
 
@@ -41,14 +36,4 @@ Esta traducción se guarda aquí a título de recordatorio. Faltan por traducir 
 
 Para instalar la traducción, descomprime el archivo .rar en tu carpeta de instalación de Steam/steamapps/common.
 
-<!-- Galería por defecto: -->
-
 {% include gallery.html %}
-
-<!-- Galería 1:
-
-{% include gallery.html gallery=page.gallery %}
-
-Galería 2:
-
-{% include gallery.html gallery=page.gallery2 %} -->

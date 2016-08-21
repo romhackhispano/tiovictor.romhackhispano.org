@@ -1,0 +1,32 @@
+Uso de galerías múltiples:
+(Antes del texto)
+
+gallery:
+- path: /img/2010/07/AlienSwarm16-01.jpg
+- path: /img/2010/07/AlienSwarm16-02.jpg
+- path: /img/2010/07/AlienSwarm16-03.jpg
+- path: /img/2010/07/AlienSwarm16-04.jpg
+- path: /img/2010/07/AlienSwarm16-05.jpg
+- path: /img/2010/07/AlienSwarm16-06.jpg
+- path: /img/2010/07/AlienSwarm16-07.jpg
+- path: /img/2010/07/AlienSwarm16-08.jpg
+- path: /img/2010/07/AlienSwarm16-09.jpg
+- path: /img/2010/07/AlienSwarm16-10.jpg
+gallery2:
+- path: /img/2010/07/AlienSwarm16-09.jpg
+- path: /img/2010/07/AlienSwarm16-08.jpg
+- path: /img/2010/07/AlienSwarm16-07.jpg
+
+(En texto)
+
+Galería por defecto:
+
+{% include gallery.html %}
+
+Galería 1:
+
+{% include gallery.html gallery=page.gallery %}
+
+Galería 2:
+
+{% include gallery.html gallery=page.gallery2 %}
