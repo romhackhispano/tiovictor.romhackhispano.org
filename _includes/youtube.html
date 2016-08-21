@@ -1,4 +1,4 @@
-<div class="embed-responsive embed-responsive-16by9">
+<div class="embed-responsive embed-responsive-{{ include.ratio|default: '16by9' }}">
     <iframe class="embed-responsive-item"
             width="480" height="360"
             src="//www.youtube-nocookie.com/embed/{{ include.id }}?rel=0"
