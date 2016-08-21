@@ -32,20 +32,24 @@ gallery2:
 - path: /img/2010/07/AlienSwarm16-08.jpg
 - path: /img/2010/07/AlienSwarm16-07.jpg
 ---
-<p>Traducción realizada a partir de la traducción oficial de Left 4 Dead 2. Todo el resto de contenidos han sido traducidos íntegramente por IlDucci.</p>
-<p>Este es un juego que se puede obtener de forma gratuita a través de la plataforma Steam, y que se tradujo en previsión de que no tuviera una traducción oficial. Varios meses después del lanzamiento, Valve publicó la traducción oficial de este juego.</p>
-<p>Esta traducción se guarda aquí a título de recordatorio. Faltan por traducir la línea que dice "Objectives complete!", y los textos en grande de "Misión Cumplida" y "Misión Fallida".</p>
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/download/vmp8vcme4p4kt6l/TraduccionAlienSwarm16.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!oIUj2JaK!Pl-WPfXAU5PP1RRjK-wKY5zuJ5G0q6teza2WRh6yBLs">MEGA</a></h1></p>
-Para instalar la traducción, descomprime el archivo .rar en tu carpeta de instalación de Steam/steamapps/common.</p>
+Traducción realizada a partir de la traducción oficial de Left 4 Dead 2. Todo el resto de contenidos han sido traducidos íntegramente por IlDucci.
 
-Galería por defecto:
+Este es un juego que se puede obtener de forma gratuita a través de la plataforma Steam, y que se tradujo en previsión de que no tuviera una traducción oficial. Varios meses después del lanzamiento, Valve publicó la traducción oficial de este juego.
+
+Esta traducción se guarda aquí a título de recordatorio. Faltan por traducir la línea que dice "Objectives complete!", y los textos en grande de "Misión Cumplida" y "Misión Fallida".
+
+<h1 style="text-align: center;"><a href="http://www.mediafire.com/download/vmp8vcme4p4kt6l/TraduccionAlienSwarm16.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!oIUj2JaK!Pl-WPfXAU5PP1RRjK-wKY5zuJ5G0q6teza2WRh6yBLs">MEGA</a></h1>
+
+Para instalar la traducción, descomprime el archivo .rar en tu carpeta de instalación de Steam/steamapps/common.
+
+<!-- Galería por defecto: -->
 
 {% include gallery.html %}
 
-Galería 1:
+<!-- Galería 1:
 
 {% include gallery.html gallery=page.gallery %}
 
 Galería 2:
 
-{% include gallery.html gallery=page.gallery2 %}
+{% include gallery.html gallery=page.gallery2 %} -->
