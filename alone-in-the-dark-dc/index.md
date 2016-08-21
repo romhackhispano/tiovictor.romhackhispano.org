@@ -15,7 +15,7 @@ date_gmt: '2015-10-14 12:53:36 +0200'
 categories: []
 tags: []
 ---
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2><br />
+<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2>
 
 <center><img src="/img/2015/10/AITD4DC-02.jpg" alt="Alone in the Dark DC" width="320" height="238" /></center>
 

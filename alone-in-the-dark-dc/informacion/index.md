@@ -19,13 +19,15 @@ tags: []
 
 ***REGISTRO DE VERSIONES:***
 
-1.0 - Primera versión, juego traducido y doblable al 100%:
+1.0 - Primera versión, juego traducido y doblable al 100%.
+
 * Se han adaptado todos los textos posibles de la traducción original, corrigiendo erratas y defectos menores, adaptando la estructura de párrafos dentro de los documentos.
 * Se han traducido todos los textos dedicados a Dreamcast.
 * Se ha corregido la fuente para que los caracteres acentuados no destaquen respecto al resto de letras (Solo en documentos).
 * Se han añadido (De forma exclusiva para esta versión) voces dobladas en dos puntos que solo se escuchaban en inglés (La frase de Carnby cuando ve los restos del hombre herido y las voces que dicen &laquo;Aline&raquo; en el espejo de De Certo) en el resto de versiones.
 * Se han traducido los gráficos del estado de salud de los personajes (No estaban traducidos en el resto de versiones).
 
+***CÓMO CONSEGUIR LOS ARCHIVOS DEL DOBLAJE:***
 Debido a que el juego no tiene subtítulos, se ha optado por hacer que **el parcheador obligue a tener en las carpetas Audio y Video los archivos con el doblaje en castellano**. Este parcheador reconoce los audios de las versiones de PC y de PlayStation 2 (No es compatible con la versión de PlayStation 1 por complicaciones a la hora de identificar los audios).
 
 A continuación indicaré los archivos necesarios según la versión que tengas más a mano.

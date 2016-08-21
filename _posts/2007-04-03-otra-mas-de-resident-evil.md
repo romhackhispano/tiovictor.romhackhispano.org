@@ -18,4 +18,4 @@ categories:
 tags:
 - Resident Evil
 ---
-<p>Bueno, la gente que está haciendo la traducción me ha pedido que modifique la página dedicada a la traducción de Resident Evil, con algo más de información. Ahora mismo estoy puliendo cosas que se me han podido escapar de las texturas.</p>
+Bueno, la gente que está haciendo la traducción me ha pedido que modifique la página dedicada a la traducción de Resident Evil, con algo más de información. Ahora mismo estoy puliendo cosas que se me han podido escapar de las texturas.
