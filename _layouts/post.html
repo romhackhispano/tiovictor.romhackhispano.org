@@ -2,46 +2,55 @@
 layout: twocolumn
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  {% if page.header_img %}
-  <img src="{{ page.header_img }}" />
-  {% endif %}
+    {% if page.header_img %}
+    <img src="{{ page.header_img }}" style="width:100%;height:auto;"/>
+    {% endif %}
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
+    <div style="margin-top:-64px;">
+        <header class="post-header">
+            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+            <p class="post-meta">
+                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b
+                    %-d, %Y" }}
+                </time>
+                {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
+                    itemprop="name"><a href="{{ page.author.url }}">{{ page.author.display_name }}</a></span></span>{%
+                endif %}
+            </p>
+        </header>
 
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-  </div>
+        <div class="post-content" itemprop="articleBody">
+            {{ content }}
+        </div>
+    </div>
 
 </article>
 
 <div id="comments"></div>
 <div id="disqus_thread"></div>
 <script>
-  /**
-   *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-   *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
-  var disqus_config = function () {
-    //{% if page.wordpress_id %}
-    ////this.page.identifier = {{ page.wordpress_id }};
-    this.page.url = "http://tiovictor.romhackhispano.org{{ page.url }}";
-    //{% else %}
-    //this.page.identifier =
-    this.page.url = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}";
-    //{% endif %}
-  };
-  (function () { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = '//traduccionesdeltiovictor.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-  })();
+    /**
+     *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+    var disqus_config = function () {
+        //{% if page.wordpress_id %}
+        ////this.page.identifier = {{ page.wordpress_id }};
+        this.page.url = "http://tiovictor.romhackhispano.org{{ page.url }}";
+        //{% else %}
+        //this.page.identifier =
+        this.page.url = "{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}";
+        //{% endif %}
+    };
+    (function () { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = '//traduccionesdeltiovictor.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
 </script>
 <noscript>
-  Please enable JavaScript to view the
-  <a href="https://disqus.com/?ref_noscript">
-    comments powered by Disqus.
-  </a>
+    Please enable JavaScript to view the
+    <a href="https://disqus.com/?ref_noscript">
+        comments powered by Disqus.
+    </a>
 </noscript>
