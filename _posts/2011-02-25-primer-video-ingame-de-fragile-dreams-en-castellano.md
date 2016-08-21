@@ -17,5 +17,10 @@ categories:
 tags:
 - 'Fragile Dreams: Farewell Ruins of the Moon'
 ---
-<p>Bueno, para terminar este frenesí de imágenes de Fragile Dreams traducido al Castellano, el señor Pacochan nos ha grabado un vídeo de los primeros 15 minutos del juego, completamente traducidos y subtitulados en Castellano. Disfrutadlo.<br />
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zp8ARS8fqxw?rel=0" frameborder="0" allowfullscreen></iframe></center></p>
+
+Bueno, para terminar este frenesí de imágenes de Fragile Dreams traducido al Castellano, el señor Pacochan nos
+ha grabado un vídeo de los primeros 15 minutos del juego, completamente traducidos y subtitulados en Castellano.
+Disfrutadlo.
+
+{% include youtube.html id="Zp8ARS8fqxw" %}
+
