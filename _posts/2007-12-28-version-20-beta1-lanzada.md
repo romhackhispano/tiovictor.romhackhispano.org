@@ -17,7 +17,10 @@ categories:
 tags:
 - Resident Evil
 ---
-Bueno, han sido necesarios nueve meses, pero ya están arreglados todos los punteros. Ahora los textos del juego tendrán una mejor presentación. Además, se ha revisado la traducción de la inmensa mayoría de todos los textos del juego. Se han corregido los fallos de traducción mencionados de la versión 1.0.
+Bueno, han sido necesarios nueve meses, pero ya están arreglados todos los punteros.
+Ahora los textos del juego tendrán una mejor presentación. Además, se ha revisado la
+traducción de la inmensa mayoría de todos los textos del juego. Se han corregido los
+fallos de traducción mencionados de la versión 1.0.
 
 <h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/resident-evil-directors-cut/">Ir a la página de descargas</a></strong></h2>
 

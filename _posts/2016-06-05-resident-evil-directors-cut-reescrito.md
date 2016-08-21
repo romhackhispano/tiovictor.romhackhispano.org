@@ -44,6 +44,8 @@ a seguir el texto en sí. Es nuestra visión de cómo debería haberse escrito R
 en aquel entonces a un buen traductor de japonés a inglés (Con la excepción de que no hemos tenido traductor de
 japonés a español).
 
+<!--more-->
+
 No quiere decir que esto sea una traducción comédica ni una charnegación. Es otra visión de Resident Evil,
 una bastante más liberal pero intentando mantener el respeto a la obra. Es un texto, a nuestro gusto, mucho más fluido.
 
