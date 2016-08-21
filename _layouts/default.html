@@ -15,10 +15,12 @@
 
     <link rel="stylesheet" href="{{ '/bootstrap/css/bootstrap.min.css' | prepend: site.baseurl }}">
     <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ '/js/lightbox/css/lightbox.min.css' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
           href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
     <script src="{{ '/js/jquery-3.1.0.min.js' | prepend: site.baseurl }}" type="text/javascript"></script>
+
 </head>
 
 <body style="background:#1e73be;">
@@ -57,6 +59,16 @@
     </div>
 
 </div>
+
+<script src="{{ '/js/lightbox/js/lightbox.min.js' | prepend: site.baseurl }}" type="text/javascript"></script>
+
+<script>
+    lightbox.option({
+        fadeDuration: 100,
+        resizeDuration: 100,
+        wrapAround: true
+    })
+</script>
 
 </body>
 
