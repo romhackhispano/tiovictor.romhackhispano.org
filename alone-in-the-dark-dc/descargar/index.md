@@ -33,7 +33,7 @@ Rais David Báscones, Paqui Horcajo, Jorge Teixeira, Carlos Salamanca, Javier G�
 
 <h3 style="text-align: center;">**Descargar versión 1.0 del parcheador:**</h3>
 
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/download/2f3rkykay0ycu8s/AloneInTheDark4Espa%C3%B1olDreamcast10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!QRtljCAI!uziMgr5PCxNO76JPasHLLBjvybA8bifRNucl4qZ5n04">MEGA</a></h1></p>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/2f3rkykay0ycu8s/AloneInTheDark4Espa%C3%B1olDreamcast10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!QRtljCAI!uziMgr5PCxNO76JPasHLLBjvybA8bifRNucl4qZ5n04">MEGA</a></strong></h1>
 
 <h1 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/">VOLVER</a></strong></h1>
 
