@@ -4,10 +4,35 @@ layout: default
 
 <div class="container-fluid">
     <div class="row" style="background:black;">
-        <div class="col-md-10 col-md-push-2" style="background:white;padding:0;">
+        <div class="col-md-9 col-md-push-3" style="background:white;padding:0;">
             {{ content }}
         </div>
-        <div class="col-md-2 col-md-pull-10 leftcolumn">
+        <div class="col-md-3 col-md-pull-9 leftcolumn">
+            <p>
+                Traducciones de juegos al Castellano por IlDucci
+            </p>
+
+            <h3>Traducciones</h3>
+
+            {% assign translations_by_platform = site.data.translations | group_by:"platform" %}
+
+            {% for item in translations_by_platform %}
+            <h4>{{ site.data.platforms[item.name].title }}</h4>
+            <ul>
+                {% for i2 in item.items %}
+                <li><a href="{{ i2.url }}">{{ i2.title }}</a></li>
+                {% endfor %}
+            </ul>
+            {% endfor %}
+
+            <h3>Colaboraciones</h3>
+
+            <ul>
+                {% for item in site.data.collaborations %}
+                <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+                {% endfor %}
+            </ul>
+
             <h3>Últimas noticias</h3>
 
             <ul>

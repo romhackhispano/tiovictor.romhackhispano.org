@@ -1,0 +1,10 @@
+pc:
+  title: PC
+playstation:
+  title: Playstation 1, 2, PSP
+nintendo:
+  title: Nintendo 64, Wii, DS
+sega:
+  title: Sega Saturn, Dreamcast
+microsoft:
+  title: Xbox

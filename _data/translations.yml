@@ -1,0 +1,151 @@
+# TODO: we could use site.pages already and use a custom meta for filtering!
+
+#############################################################
+# PC
+#############################################################
+
+- title: "Alien Swarm PC (V1.6)"
+  platform: pc
+  url: /alien-swarm/
+
+- title: "CONTRACT J.A.C.K. PC (VERSIÓN 1.5 2012)"
+  platform: pc
+  url: /contract-jack/
+
+- title: "SAGA RAINBOW SIX PARA PC (V1.0)"
+  platform: pc
+  url: /saga-rainbow-six-para-pc/
+
+- title: "SHADOW WATCH (EN PROGRESO, 55%)"
+  platform: pc
+  url: /shadow-watch/
+
+- title: "SOŁTYS (TRADUCCIÓN OFICIAL, PUBLICADA)"
+  platform: pc
+  url: /soltys/
+
+- title: "SWAT4: THE STETCHKOV SYNDICATE PC (V2.2 2012)"
+  platform: pc
+  url: /swat4-the-stetchkov-syndicate/
+
+#############################################################
+# Playstation 1, 2, PSP
+#############################################################
+
+- title: "CLOCK TOWER: THE FIRST FEAR PARA PSX (V2.0)"
+  platform: playstation
+  url: /clock-tower-psx-20/
+
+- title: "OPERATION WINBACK (PS2, EN PROGRESO, 85%)"
+  platform: playstation
+  url: /operation-winback/
+
+- title: "POLICENAUTS PSX Y SATURN (EN PROGRESO, 50%)"
+  platform: playstation
+  url: /policenauts/
+
+- title: "READY 2 RUMBLE 1 DE N64 Y PSONE (V1.0)"
+  platform: playstation
+  url: /ready-2-rumble-1/
+
+- title: "RESIDENT EVIL: DIRECTOR’S CUT PSONE (V3.6 Y V4.0)"
+  platform: playstation
+  url: /resident-evil-directors-cut/
+
+- title: "RESIDENT EVIL SURVIVOR (PSX, EN PROGRESO, 80%)"
+  platform: playstation
+  url: /resident-evil-survivor-psx/
+
+- title: "SILENT HILL 1 (RETRADUCCIÓN, V2.1)"
+  platform: playstation
+  url: /silent-hill-1/
+
+- title: "TIME CRISIS 1 DE PSONE (TRADUCCIÓN Y DOBLAJE, V1.0)"
+  platform: playstation
+  url: /time-crisis-1/
+
+- title: "THE 3RD BIRTHDAY PARA PSP (COLABORACIÓN, V1.0)"
+  platform: playstation
+  url: /the-3rd-birthday/
+
+- title: "ZONE OF THE ENDERS 1 (1.0 BIS)"
+  platform: playstation
+  url: /zone-of-the-enders/
+
+#############################################################
+# Nintendo 64, Wii, DS
+#############################################################
+
+- title: "DEAD SPACE EXTRACTION (V1.1)"
+  platform: nintendo
+  url: /dead-space-extraction/
+
+- title: "EL MUNDO NUNCA ES SUFICIENTE N64 (V1.0)"
+  platform: nintendo
+  url: /el-mundo-nunca-es-suficiente-n64/
+
+- title: "FRAGILE DREAMS: FAREWELL RUINS OF THE MOON (V1.1)"
+  platform: nintendo
+  url: /fragile-dreams-farewell-ruins-of-the-moon/
+
+- title: "READY 2 RUMBLE 1 DE N64 Y PSONE (V1.0)"
+  platform: nintendo
+  url: /ready-2-rumble-1/
+
+- title: "SIN AND PUNISHMENT N64 (V1.0B)"
+  platform: nintendo
+  url: /sin-and-punishment-n64/
+
+- title: "STAR WARS EPISODIO I RACER PARA NINTENDO 64 (1.0.2 FINAL)"
+  platform: nintendo
+  url: /star-wars-episodio-i-racer-para-nintendo-64/
+
+- title: "THE WORLD ENDS WITH YOU (RETRADUCIDO Y DOBLADO, 2.0)"
+  platform: nintendo
+  url: /the-world-ends-with-you-version-en-castellano-2-0/
+
+#############################################################
+# Sega Saturn, Dreamcast
+#############################################################
+
+- title: "ALONE IN THE DARK: THE NEW NIGHTMARE DC (V1.0)"
+  platform: sega
+  url: /alone-in-the-dark-dc/
+
+- title: "RESIDENT EVIL 2 PARA DREAMCAST (ADAPTACIÓN, V1.5C FINAL)"
+  platform: sega
+  url: /resident-evil-2-dreamcast/
+
+- title: "POLICENAUTS PSX Y SATURN (EN PROGRESO, 50%)"
+  platform: sega
+  url: /policenauts/
+
+- title: "SHENMUE I (1.0.5B)"
+  platform: sega
+  url: /shenmue/
+
+- title: "SHENMUE II (1.0.2)"
+  platform: sega
+  url: /shenmue-ii/
+
+- title: "WHAT’S SHENMUE (1.0.4, ENGLISH SITE)"
+  platform: sega
+  url: /whats-shenmue-eng/
+
+- title: "WHAT’S SHENMUE (1.0.4, PÁGINA EN ESPAÑOL)"
+  platform: sega
+  url: /whats-shenmue-esp/
+
+
+#############################################################
+# Xbox
+#############################################################
+
+- title: "SHENMUE II (1.0.2)"
+  platform: microsoft
+  url: /shenmue-ii/
+
+- title: "WRECKLESS: THE YAKUZA MISSIONS PARA XBOX (V1.0)"
+  platform: microsoft
+  url: /wreckless-the-yakuza-missions-para-xbox/
+

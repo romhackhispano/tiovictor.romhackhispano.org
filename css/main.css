@@ -60,3 +60,8 @@
     color: green;
     text-decoration: none;
 }
+
+.overlapped-entry {
+    line-height: 1.5em;
+    font-family: Lato, sans-serif;
+}

@@ -28,6 +28,8 @@ jubilarme de esta afición, y estos últimos cambios han fomentado dicha idea.
 Si bien hay una cosa que tengo clara: No pienso dejar nada a medias. Nunca lo he hecho y salvo por causas de
 fuerza mayor, no pienso hacerlo.
 
+<!--more-->
+
 El problema es que tengo... unos cuántos proyectos sin anunciar y bastante avanzados, y me estaba guardando el
 anuncio para algún momento concreto. Creo que es mejor soltar la liebre pronto, y eso será en mi fecha favorita
 para hacer tontunas, que es el 28 de diciembre. Entonces anunciaré las nuevas traducciones y colaboraciones en
