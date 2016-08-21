@@ -17,6 +17,7 @@ url: "http://tiovictor-jekyll.romhackhispano.org" # the base hostname & protocol
 twitter_username: vgfilducci
 github_username:  romhackhispano
 permalink: /:year/:month/:day/:title/
+excerpt_separator: <!--more-->
 paginate: 7
 paginate_path: "/page/:num/"
 gems:
