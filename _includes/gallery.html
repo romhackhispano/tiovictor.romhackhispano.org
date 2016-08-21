@@ -1,6 +1,11 @@
 <div class="container-fluid">
     <div class="row">
-        {% for img in page.gallery %}
+        {% if include.gallery %}
+        {% assign gallery = include.gallery %}
+        {% else %}
+        {% assign gallery = page.gallery %}
+        {% endif %}
+        {% for img in gallery %}
         <div class="col-lg-3 col-md-4 col-sm-6">
             <img src="{{ img.path }}" style="width:100%;height:auto;padding: 8px;"/>
         </div>
