@@ -17,6 +17,40 @@
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
           href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
+
+    <script src="{{ '/js/jquery-3.1.0.min.js' | prepend: site.baseurl }}" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(function () {
+
+            var $allVideos = $("iframe[src^='//player.vimeo.com'], iframe[src^='//www.youtube.com'], iframe[src^='//www.youtube-nocookie.com'], object, embed");
+            var $fluidEl = $("figure");
+
+            $allVideos.each(function () {
+
+                $(this)
+                // jQuery .data does not work on object/embed elements
+                        .attr('data-aspectRatio', this.height / this.width)
+                        .removeAttr('height')
+                        .removeAttr('width');
+
+            });
+
+            $(window).resize(function () {
+
+                var newWidth = $fluidEl.width();
+                $allVideos.each(function () {
+
+                    var $el = $(this);
+                    $el
+                            .width(newWidth)
+                            .height(newWidth * $el.attr('data-aspectRatio'));
+
+                });
+
+            }).resize();
+
+        });
+    </script>
 </head>
 
 <body>
@@ -27,7 +61,8 @@
 
         <div class="wrapper">
 
-            <a class="site-title" href="{{ site.baseurl }}/"><img src="/img/2014/04/banner-final-3.jpg" style="width:100%;height:auto;" /></a>
+            <a class="site-title" href="{{ site.baseurl }}/"><img src="/img/2014/04/banner-final-3.jpg"
+                                                                  style="width:100%;height:auto;"/></a>
 
         </div>
 
