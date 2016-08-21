@@ -27,3 +27,36 @@
     color: green;
     text-decoration: none;
 }
+
+.leftcolumn ul, .leftcolumn li {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.leftcolumn li {
+    padding: 2px 0;
+}
+
+.leftcolumn {
+    color: #aaa;
+    font-size: 12px;
+    font-family: Lato, sans-serif;
+    line-height: 1.5em;
+}
+
+.leftcolumn h3 {
+    color: white;
+    text-transform: uppercase;
+    font: bold 12px Lato, sans-serif;
+    margin: 32px 0;
+}
+
+.leftcolumn a {
+    color: white;
+}
+
+.leftcolumn a:hover {
+    color: green;
+    text-decoration: none;
+}

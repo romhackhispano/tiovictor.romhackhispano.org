@@ -17,7 +17,10 @@ layout: twocolumn
                 <span class="post-meta"><i
                         class="glyphicon glyphicon-time"></i> {{ post.date | date: "%-d %b %Y" }}</span>
                 <span style="padding-left:16px;">
-                    <i class="glyphicon glyphicon-comment"></i> <a href="http://tiovictor.romhackhispano.org{{ post.url }}#disqus_thread">Comentarios</a>
+                    <a href="{{ post.url }}#comments">
+                    <i class="glyphicon glyphicon-comment"></i>
+                    <span class="disqus-comment-count" data-disqus-url="http://tiovictor.romhackhispano.org{{ post.url }}">Comentarios</span>
+                        </a>
                 </span>
             </div>
             <div>
