@@ -23,4 +23,3 @@ ha grabado un vídeo de los primeros 15 minutos del juego, completamente traduci
 Disfrutadlo.
 
 {% include youtube.html id="Zp8ARS8fqxw" %}
-

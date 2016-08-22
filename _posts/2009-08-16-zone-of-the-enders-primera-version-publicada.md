@@ -7,14 +7,6 @@ author:
   display_name: Tío Víctor
   url: http://tiovictor.romhackhispano.org
 author_url: http://tiovictor.romhackhispano.org
-excerpt: "Me llena de orgullo y satisfacción... venga, va, que el chiste
-  es viejo. Hoy libero la primera versión de la traducción
-  de Zone of the Enders, ya que un servidor se pira esta semana de vacaciones.\r\n\r\nTodos
-  los subtítulos están traducidos al castellano. La parte
-  de los menús está totalmente traducida a excepción
-  del Tutorial en Realidad Virtual, los cuales están hechos a medias
-  o mal hechos, según la versión que juegues.\r\n\r\nMás
-  detalles en \"Leer más\".\r\n"
 wordpress_id: 210
 wordpress_url: http://tiovictor.romhackhispano.org/?p=210
 header_img: /img/2009/08/ZOE1Noti01.jpg
@@ -31,7 +23,7 @@ Todos los subtítulos están traducidos al castellano. La parte de los menús es
 
 Más detalles en "Leer más".
 
-<a id="more"></a><a id="more-210"></a>
+<!--more-->
 
 Hay dos archivos en este paquete: Uno para la versión PAL Europea (La que se hizo primero) y otro para la versión NTSC de EE.UU. (Que vino después por petición popular y debo decir que se ve mejor)
 

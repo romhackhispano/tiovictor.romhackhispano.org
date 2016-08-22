@@ -17,7 +17,6 @@ categories:
 tags:
 - Resident Evil
 ---
-
 Creo que ya va siendo hora de demostrar que no nos hemos olvidado de este sitio. A decir verdad,
 como a la mayoría de los traductores/romhackers, nos gusta trabajar en silencio e informar cuando tenemos progresos hechos.
 

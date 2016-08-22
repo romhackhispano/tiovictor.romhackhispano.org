@@ -29,4 +29,3 @@ Antes de nada, un aviso para todos aquellos que, por unos u otros motivos, esté
 Dicho esto, ¿os pensábais que me iba a quedar con las ganas de doblar algo de Shenmue? Este es mi pequeño tributo.
 
 {% include youtube.html id="RdVN5rz6a_Q" %}
-

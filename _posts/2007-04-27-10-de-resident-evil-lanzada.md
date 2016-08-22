@@ -18,7 +18,6 @@ categories:
 tags:
 - Resident Evil
 ---
-
 Señores, señoras, ¡detengan las rotativas! La gran noticia, como decía el pobre
 Elliot Carver, es que ya hemos publicado la primera versión de nuestra traducción
 COMPLETA de Resident Evil: Director's Cut.

@@ -18,7 +18,6 @@ categories:
 tags:
 - Resident Evil
 ---
-
 Bueno, me alegro de ver los resultados que estamos cosechando por ahí en la red sobre ésta traducción.
 Ahora, también hemos descubierto bastantes fallos, y que hay gente a la que le falla la traducción
 jugando en una PSOne/PlayStation 2. Si has conseguido ejecutar el juego en éstas consolas,

@@ -18,7 +18,6 @@ categories:
 tags:
 - Resident Evil
 ---
-
 Bueno, tras varias peticiones de gente y tras hablar con el que lleva el hosting,
 puedo (a menos que Capcom quiera cortarme los lacasones) poner enlaces directos a la ISO.
 

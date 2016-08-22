@@ -17,7 +17,6 @@ categories:
 tags:
 - Resident Evil
 ---
-
 Dije que sacaría la traducción para el 24-25 de Diciembre, y me colé. No conté con la
 tarde-noche del 24, su cena y estancia en familia, y la resaca del 25. Tengo que retrasar
 el lanzamiento de la Beta 2.0 al 28 de Diciembre. Para que al menos haya una noticia seria,
