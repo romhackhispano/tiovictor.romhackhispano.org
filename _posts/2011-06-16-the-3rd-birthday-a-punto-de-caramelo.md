@@ -17,5 +17,5 @@ categories:
 tags:
 - The 3rd Birthday
 ---
-**Traducción y revisión de textos: 80%
+**Traducción y revisión de textos: 80%  
 Inserción de gráficos: 35%**

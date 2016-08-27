@@ -17,6 +17,12 @@ categories:
 tags:
 - Zone of The Enders
 ---
-Tras analizar por petición la versión NTSC, creo que me será posible adaptar la traducción en la versión PAL hacia la versión NTSC-USA. Así que, probablemente, cuando se publique el parche (Ya que tengo problemas con el PC), saldrán dos versiones, una para el disco europeo PAL, y otra para el disco norteamericano NTSC-USA.
+Tras analizar por petición la versión NTSC, creo que me será posible adaptar 
+la traducción en la versión PAL hacia la versión NTSC-USA. Así que, probablemente, 
+cuando se publique el parche (Ya que tengo problemas con el PC), saldrán dos 
+versiones, una para el disco europeo PAL, y otra para el disco norteamericano 
+NTSC-USA.
 
-Por lo demás, no tengo nada más que añadir. Los punteros del ZOE me siguen dando el coñazo, aunque no he tenido tanto tiempo como antes para fisgonear en ellos, y la vida real tampoco ha ayudado. Seguiré informando.
+Por lo demás, no tengo nada más que añadir. Los punteros del ZOE me siguen dando 
+el coñazo, aunque no he tenido tanto tiempo como antes para fisgonear en ellos, 
+y la vida real tampoco ha ayudado. Seguiré informando.

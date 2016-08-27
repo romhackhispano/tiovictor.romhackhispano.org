@@ -24,10 +24,15 @@ tags:
 ---
 Bueno, hoy vengo a comentaros las novedades que hay en general de los proyectos.
 
-Project Zero 4: Después del retraso se ha seguido con el testeo del juego, al cual le debe de faltar poquito para terminar y posteriormente publicarlo. Espero que no se demore hasta Septiembre.
+Project Zero 4: Después del retraso se ha seguido con el testeo del juego, 
+al cual le debe de faltar poquito para terminar y posteriormente publicarlo. 
+Espero que no se demore hasta Septiembre.
 
-Shenmue: Ahora mismo, el responsable del proyecto está recuperando varios datos perdidos (Tranquilos, la traducción está a salvo) de su disco duro. Se va a intentar testear el disco 1, ya que su FREE está terminado. El cuaderno sigue progresando.
+Shenmue: Ahora mismo, el responsable del proyecto está recuperando varios datos 
+perdidos (Tranquilos, la traducción está a salvo) de su disco duro. Se va a intentar 
+testear el disco 1, ya que su FREE está terminado. El cuaderno sigue progresando.
 
-Resident Evil 2 DC: Ahora mismo se está testeando el disco de Leon, prácticamente terminado. Hay algunos fallos que deben corregirse.
+Resident Evil 2 DC: Ahora mismo se está testeando el disco de Leon, prácticamente 
+terminado. Hay algunos fallos que deben corregirse.
 
 Seguiremos informando.

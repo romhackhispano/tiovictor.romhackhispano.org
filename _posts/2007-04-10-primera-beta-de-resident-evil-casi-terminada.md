@@ -18,4 +18,7 @@ categories:
 tags:
 - Resident Evil
 ---
-Bueno, hoy mismo hemos terminado de traducir los últimos STAGEs, lo que concluye la inserción de texto al juego. Ahora, sólo quedan unos últimos toques y testear la traducción, a ver qué nos hemos dejado por ahí. Seguiremos informando, con suerte la siguiente noticia será de que hemos lannzado la beta al público.
+Bueno, hoy mismo hemos terminado de traducir los últimos STAGEs, lo que 
+concluye la inserción de texto al juego. Ahora, sólo quedan unos últimos 
+toques y testear la traducción, a ver qué nos hemos dejado por ahí. Seguiremos 
+informando, con suerte la siguiente noticia será de que hemos lannzado la beta al público.

@@ -17,6 +17,13 @@ categories:
 tags:
 - Dead Space Extraction
 ---
-Bueno, parece ser que al final se me han juntado más trabajos. Otro de los jaleos en los que me he metido es la traducción de Dead Space Extraction, juego que inició la nueva política de EA de dar por saco con las adaptaciones al Castellano de juegos deseados (O la víctima de la política de pocas localizaciones pero buenas).
+Bueno, parece ser que al final se me han juntado más trabajos. Otro de los 
+jaleos en los que me he metido es la traducción de Dead Space Extraction, 
+juego que inició la nueva política de EA de dar por saco con las adaptaciones 
+al Castellano de juegos deseados (O la víctima de la política de pocas 
+localizaciones pero buenas).
 
-En fin, que este trabajo, a diferencia de ZOE, vuelve a ser un trabajo de un equipo reducido de tres o cuatro personas entre las que me incluyo. Actualmente estamos traduciendo sobre el guión del juego antes de liarnos a insertar caracteres. Tenéis más detalles en su nueva página de mi foro. Un saludo a todos.
+En fin, que este trabajo, a diferencia de ZOE, vuelve a ser un trabajo de un 
+equipo reducido de tres o cuatro personas entre las que me incluyo. Actualmente 
+estamos traduciendo sobre el guión del juego antes de liarnos a insertar 
+caracteres. Tenéis más detalles en su nueva página de mi foro. Un saludo a todos.

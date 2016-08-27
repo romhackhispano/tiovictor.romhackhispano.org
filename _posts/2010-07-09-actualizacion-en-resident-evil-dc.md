@@ -17,6 +17,13 @@ categories:
 tags:
 - Resident Evil
 ---
-Bueno, he subido una nueva versión de la traducción de Resident Evil: Director's Cut. Versión 3.6, la cual incluye un par de arreglos corregidos y una copia del parche con soporte NTSC. No he probado ésto último así que no sé cómo saldrá.
+Bueno, he subido una nueva versión de la traducción de Resident Evil: 
+Director's Cut. Versión 3.6, la cual incluye un par de arreglos corregidos 
+y una copia del parche con soporte NTSC. No he probado ésto último así que 
+no sé cómo saldrá.
 
-Comentar que me han estado informando que los archivos de PSOne son compatibles con el Resident Evil 1 de PC, así que es probable que adapte mi traducción a la versión de PC. Seguramente intente hacer un parche que no tenga las limitaciones de la versión UK (Está capada), pero que sirva para todas o casi todas las versiones.
+Comentar que me han estado informando que los archivos de PSOne son 
+compatibles con el Resident Evil 1 de PC, así que es probable que adapte mi 
+traducción a la versión de PC. Seguramente intente hacer un parche que no 
+tenga las limitaciones de la versión UK (Está capada), pero que sirva para 
+todas o casi todas las versiones.

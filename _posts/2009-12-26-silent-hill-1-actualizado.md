@@ -17,6 +17,7 @@ categories:
 tags:
 - Silent Hill
 ---
-Debido a que parece ser que se volvió a hacer mal el PPF del Silent Hill, he actualizado el PPF. Si no os daba problemas la 1.0, no os molestéis en bajarlo.
+Debido a que parece ser que se volvió a hacer mal el PPF del Silent Hill, 
+he actualizado el PPF. Si no os daba problemas la 1.0, no os molestéis en bajarlo.
 
 <h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir a la página de descargas</a></strong></h2>

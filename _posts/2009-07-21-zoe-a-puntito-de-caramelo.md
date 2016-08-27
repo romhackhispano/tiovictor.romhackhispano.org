@@ -17,6 +17,14 @@ categories:
 tags:
 - Zone of The Enders
 ---
-Bueno, gracias ante todo a la amabilidad y el tiempo que ha dedicado el señor Barracuda, de los foros de ElOtroLado, que se ha currado la herramienta para traducir los subtítulos del juego, tengo casi todo el juego (A falta de tres archivos peleones) traducido completamente, y sin probabilidad de que se carguen el juego.
+Bueno, gracias ante todo a la amabilidad y el tiempo que ha dedicado el señor 
+Barracuda, de los foros de ElOtroLado, que se ha currado la herramienta para 
+traducir los subtítulos del juego, tengo casi todo el juego (A falta de tres 
+archivos peleones) traducido completamente, y sin probabilidad de que se 
+carguen el juego.
 
-Sólo me quedan dos problemas adicionales, no consigo encontrar los punteros del tutorial ni los de un objetivo de misión que sale en la pantalla de pausa al comenzar el juego. Aún con esos dos fallos, en unos días publicaré la primera versión de la traducción, para que podáis disfrutarla e irme comentando los posibles fallos de gramática y ortografía. Nos vemos.
+Sólo me quedan dos problemas adicionales, no consigo encontrar los punteros del 
+tutorial ni los de un objetivo de misión que sale en la pantalla de pausa al 
+comenzar el juego. Aún con esos dos fallos, en unos días publicaré la primera 
+versión de la traducción, para que podáis disfrutarla e irme comentando los 
+posibles fallos de gramática y ortografía. Nos vemos.

@@ -19,4 +19,8 @@ tags:
 - Resident Evil
 - General
 ---
-<a href="http://www.meristation.com/pc/reportaje/regreso-al-pasado-los-padres-del-survival-horror/1602515?p=3" target="_blank">Aunque de forma muy efímera.</a> Si algo está haciendo la sección "Regreso al Pasado" (Ya que no somos los primeros, anteriormente salió la traducción de Parasite Eve 1 de NeXuS) Es también darle un reconocimiento a los aficionados que hemos hecho posible que ciertos juegos se puedan jugar en el idioma de Cervantes.
+[Aunque de forma muy efímera.](http://www.meristation.com/pc/reportaje/regreso-al-pasado-los-padres-del-survival-horror/1602515?p=3) 
+Si algo está haciendo la sección "Regreso al Pasado" (Ya que no somos los primeros, 
+anteriormente salió la traducción de Parasite Eve 1 de NeXuS) Es también darle un 
+reconocimiento a los aficionados que hemos hecho posible que ciertos juegos se puedan 
+jugar en el idioma de Cervantes.

@@ -17,11 +17,18 @@ categories:
 tags:
 - Resident Evil
 ---
-Ya son varios los comentarios acerca de cuelgues en consolas originales. Vosotros, los usuarios, me habéis dicho que era por los vídeos alterados. Voy a proceder a arreglar el problema, pero de momento retiro el enlace de los vídeos y lanzaré una nueva versión pronto.
+Ya son varios los comentarios acerca de cuelgues en consolas originales. Vosotros, 
+los usuarios, me habéis dicho que era por los vídeos alterados. Voy a proceder a 
+arreglar el problema, pero de momento retiro el enlace de los vídeos y lanzaré 
+una nueva versión pronto.
 
 Si tenéis problemas, probad a poner el PPF sólo, y no los vídeos. Saludos.
 
-EDICIÓN: Versión 2.0 BETA 2 lanzada. Esto debería sustituir a los vídeos traducidos por el momento. No necesita instalar el paquete de vídeos (El vídeo del primer zombi y los subtítulos están en el PPF). Estoy usando el sistema que Capcom utilizó para subtitular los vídeos, que de momento tiene problemas de sincronización. Si alguien tiene conocimientos de desensamblador de PSOne que hable ahora o calle para siempre.
+EDICIÓN: Versión 2.0 BETA 2 lanzada. Esto debería sustituir a los vídeos traducidos 
+por el momento. No necesita instalar el paquete de vídeos (El vídeo del primer zombi 
+y los subtítulos están en el PPF). Estoy usando el sistema que Capcom utilizó para 
+subtitular los vídeos, que de momento tiene problemas de sincronización. Si alguien 
+tiene conocimientos de desensamblador de PSOne que hable ahora o calle para siempre.
 
 <h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/resident-evil-directors-cut/">Ir a la página de descargas</a></strong></h2>
 

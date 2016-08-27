@@ -17,7 +17,10 @@ categories:
 tags:
 - Resident Evil
 ---
-Para más sorna, ahora mismo creo haber resuelto el fallo que impedía abrir aquellas puertas que se tenían que desbloquear por parte del jugador, como la de la habitación del libro de botánica. También he visto un fallo menor en el que no se mostraba correctamente el nombre de la Llave Pequeña.
+Para más sorna, ahora mismo creo haber resuelto el fallo que impedía abrir aquellas puertas 
+que se tenían que desbloquear por parte del jugador, como la de la habitación del libro de 
+botánica. También he visto un fallo menor en el que no se mostraba correctamente el nombre 
+de la Llave Pequeña.
 
 Con esto, subo el número de la versión a versión 2.1.
 

@@ -17,8 +17,14 @@ categories:
 tags:
 - 'SWAT 4, The Stetchkov Syndicate'
 ---
-Bueno, he estado bastante liado en las últimas semanas, ya que he estado empezando a buscar trabajo.
+Bueno, he estado bastante liado en las últimas semanas, ya que he estado 
+empezando a buscar trabajo.
 
-He aprovechado que tenía un ratillo para corregir algunas cosas que me olvidé en la traducción de The Stetchkov Syndicate, así que he colgado en la página la versión 2.1, que contiene básicamente arreglos de espacios, tanto en SWAT4 como en la Expansión, y una cosa que estaba escondida en SWAT4: La función de subtítulos. Sí, se podía jugar al SWAT4 con subtítulos y lo escondieron en la versión española.
+He aprovechado que tenía un ratillo para corregir algunas cosas que me olvidé en la 
+traducción de The Stetchkov Syndicate, así que he colgado en la página la versión 2.1, 
+que contiene básicamente arreglos de espacios, tanto en SWAT4 como en la Expansión, y 
+una cosa que estaba escondida en SWAT4: La función de subtítulos. Sí, se podía jugar al 
+SWAT4 con subtítulos y lo escondieron en la versión española.
 
-Y ya por aburrimiento la traducción es compatible con el mod Sheriff Special Forces v3.2. A ver si puedo zanjar la traducción de Resident Evil.
+Y ya por aburrimiento la traducción es compatible con el mod Sheriff Special Forces v3.2. 
+A ver si puedo zanjar la traducción de Resident Evil.

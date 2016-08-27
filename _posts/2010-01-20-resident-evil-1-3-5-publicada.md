@@ -17,4 +17,7 @@ categories:
 tags:
 - Resident Evil
 ---
-Gracias a la inestimable ayuda de Alberto (Alu), he publicado un nuevo parche con dos correcciones, una menor y una media: la primera está en el pasillo que da al ascensor que da al helipuerto; y la más importante aparece en el menú de tarjetas de memoria con las partidas guardadas en el Laboratorio S3.
+Gracias a la inestimable ayuda de Alberto (Alu), he publicado un nuevo parche 
+con dos correcciones, una menor y una media: la primera está en el pasillo que 
+da al ascensor que da al helipuerto; y la más importante aparece en el menú de 
+tarjetas de memoria con las partidas guardadas en el Laboratorio S3.

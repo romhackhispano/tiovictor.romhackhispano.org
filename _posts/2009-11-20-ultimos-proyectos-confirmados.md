@@ -20,6 +20,10 @@ tags:
 - Shenmue
 - Shenmue I
 ---
-Bueno, quería comentar por aquí exactamente cuáles son los proyectos en los que estoy trabajando. Por un lado, estoy terminando la traducción de textos y voces de The World Ends With You, que saldrá para 2010 probablemente, y por el otro estoy ayudando a la gente de <a href="http://www.segasaturno.com" target="_blank">SegaSaturno</a> con su retraducción de Shenmue 1 (Y puede que del 2 si se tercia).
+Bueno, quería comentar por aquí exactamente cuáles son los proyectos en los 
+que estoy trabajando. Por un lado, estoy terminando la traducción de textos 
+y voces de The World Ends With You, que saldrá para 2010 probablemente, y por 
+el otro estoy ayudando a la gente de [SegaSaturno](http://www.segasaturno.com) 
+con su retraducción de Shenmue 1 (Y puede que del 2 si se tercia).
 
 Pronto tendréis noticias mías.

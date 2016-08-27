@@ -30,5 +30,5 @@ Y un regalito, para los PSPeros:
 
 <a href="http://http://tiovictor.romhackhispano.org/archivos/ResidentEvilDirectorsCutPSPExtras.rar">Imágenes y sonido para EBOOT</a>
 
-EDIT: Pifia en la primera secuencia corregida, enlaces actualizados.
+EDIT: Pifia en la primera secuencia corregida, enlaces actualizados.  
 EDIT2: Nueva versión.

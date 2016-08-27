@@ -19,4 +19,9 @@ tags:
 ---
 Bueno, va siendo hora de dar señales de vida...
 
-En cuanto al proyecto que di como secundario, el de la traducción de **Project Zero/Fatal Frame 4**, en el que colaboro como revisor, me dice su jefe, Benja, que **ha colgado varias capturas del progreso del juego** en su página web que ya puedo hacer públicas. Como nota, comentar que todas esas capturas son de mi televisor ;). Podéis seguir su progreso en <a href="http://www.projectsae.es/sae.php" target="_blank">esta página web</a>.
+En cuanto al proyecto que di como secundario, el de la traducción de 
+**Project Zero/Fatal Frame 4**, en el que colaboro como revisor, me dice su 
+jefe, Benja, que **ha colgado varias capturas del progreso del juego** en 
+su página web que ya puedo hacer públicas. Como nota, comentar que todas 
+esas capturas son de mi televisor ;). Podéis seguir su progreso en 
+[esta página web]. (http://www.projectsae.es/sae.php)

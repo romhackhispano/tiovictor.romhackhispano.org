@@ -19,6 +19,8 @@ tags:
 - Resident Evil
 - General
 ---
-Buenas, otro error que había en la plantilla del blog era que no se podían hacer comentarios en las páginas sobre mis traducciones para juegos, pero ya está resuelto. Ya se pueden (en teoría) hacer comentarios.
+Buenas, otro error que había en la plantilla del blog era que no se podían 
+hacer comentarios en las páginas sobre mis traducciones para juegos, pero ya 
+está resuelto. Ya se pueden (en teoría) hacer comentarios.
 
 Sobre Resident Evil, nos faltan 2 carpetas para acabar. Dos carpetas muy pequeñas.

@@ -17,4 +17,5 @@ categories:
 tags:
 - Dead Space Extraction
 ---
-Sobran las palabras, ¿no? Esperamos que de aquí a unos días podamos publicar la traducción.
+Sobran las palabras, ¿no? Esperamos que de aquí a unos días podamos 
+publicar la traducción.

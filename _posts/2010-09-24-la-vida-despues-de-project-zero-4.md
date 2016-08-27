@@ -20,10 +20,16 @@ tags:
 - Silent Hill
 - Resident Evil 2
 ---
-Bueno, va siendo hora de dar señales de vida. Aunque este mes he estado liado con TWEWY y con RE2, los progresos han ido lentos.
+Bueno, va siendo hora de dar señales de vida. Aunque este mes he estado liado 
+con TWEWY y con RE2, los progresos han ido lentos.
 
-Resident Evil 2 estaba en fase de testeo, pero aún tengo que terminar de oír las noticias de la finalización de las pruebas. Hay algunos bugs que resolver, cosa que estoy intentando arreglar a través de un conocido de los foros. De Shenmue, su testeo iba por SegaSaturno pero no tengo noticias de él.
+Resident Evil 2 estaba en fase de testeo, pero aún tengo que terminar de oír 
+las noticias de la finalización de las pruebas. Hay algunos bugs que resolver, 
+cosa que estoy intentando arreglar a través de un conocido de los foros. De 
+Shenmue, su testeo iba por SegaSaturno pero no tengo noticias de él.
 
-Hace poco volví a mirar Silent Hill. Probablemente cuando acabe con alguna de las traducciones que ahora mismo están a poco de terminarse, zanje esa espinita clavada en mi piel.
+Hace poco volví a mirar Silent Hill. Probablemente cuando acabe con alguna de 
+las traducciones que ahora mismo están a poco de terminarse, zanje esa espinita 
+clavada en mi piel.
 
 Seguiré informando.

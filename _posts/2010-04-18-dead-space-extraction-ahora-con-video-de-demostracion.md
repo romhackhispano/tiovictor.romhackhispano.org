@@ -19,4 +19,4 @@ tags:
 ---
 Os dejo aquí un pequeño vídeo que hemos grabado de la traducción al Castellano de Dead Space Extraction. Ya iba siendo hora de cambiar aquel vídeo de hace tanto tiempo.
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EO32e1vZsk4?rel=0" frameborder="0" allowfullscreen></iframe></object></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EO32e1vZsk4?rel=0" frameborder="0" allowfullscreen></iframe></center>

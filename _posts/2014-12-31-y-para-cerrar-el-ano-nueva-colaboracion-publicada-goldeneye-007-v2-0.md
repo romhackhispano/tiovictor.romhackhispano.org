@@ -1,0 +1,33 @@
+---
+layout: post
+status: publish
+published: true
+title: 'Y para cerrar el año... Nueva colaboración publicada:
+  GoldenEye 007 v2.0'
+author:
+  display_name: Tío Víctor
+  url: http://tiovictor.romhackhispano.org
+author_url: http://tiovictor.romhackhispano.org
+wordpress_id: 2477
+wordpress_url: http://tiovictor.romhackhispano.org/?p=2477
+header_img: /img/2014/12/GoldenEyeNoti01.jpg
+date: '2014-12-31 00:18:29 +0100'
+date_gmt: '2014-12-30 22:18:29 +0100'
+categories:
+- Colaboraciones
+tags:
+- GoldenEye
+---
+No quería despedir el año sin un último apunte...
+
+Hoy se ha publicado en <a href="http://www.goldeneyevault.com/">GoldenEye Vault</a> una de mis últimas colaboraciones: la versión 2.0 de la traducción al castellano de GoldenEye 007 por <a href="http://sogunstudio.blogspot.com.es/">Sogun</a>, Zoinkity y SubDrag.
+
+Tal y como comenté <a href="http://retromaniacmagazine.blogspot.com.es/2014/12/entrevistamos-al-tio-victor.html">en esta entrevista</a> (Uy, se me olvidó mencionarla), poco después de RetroBarcelona me dio por jugar a la traducción de Sogun y pensé que podía remozarla un poco... Y acabé no solo dándole un necesario repaso, también he mejorado algunas cosas que nos permitían hacer las herramientas de Zoinkity, SubDrag y Wreck, y la he convertido a la ROM europea (Llamadme PALeto).
+
+Os dejo una copia del parche alojada en esta web con el beneplácito de Sogun, y unas capturas variadas.
+
+Feliz 2015.
+
+<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/goldeneye-007-colaboracion/">Ir a la página de descargas</a></strong></h2>  
+
+[gallery ids="2475,2474,2473,2472,2471,2470,2469,2468,2467,2466,2465,2464,2463,2462,2461" orderby="rand"]

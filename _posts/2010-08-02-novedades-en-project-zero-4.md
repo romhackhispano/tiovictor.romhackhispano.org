@@ -17,8 +17,12 @@ categories:
 tags:
 - Project Zero 4
 ---
-Hoy vengo a hablar de un retraso. El parche de Project Zero 4 no ha salido en su fecha, debido a que aún nos falta hacer una última revisión al juego, con testeadores externos. No estoy seguro de lo que tardaremos, pero espero que sea cosa de menos de un mes.
+Hoy vengo a hablar de un retraso. El parche de Project Zero 4 no ha salido 
+en su fecha, debido a que aún nos falta hacer una última revisión al juego, 
+con testeadores externos. No estoy seguro de lo que tardaremos, pero espero 
+que sea cosa de menos de un mes.
 
-A cambio el equipo de traducción ha colgado el tráiler traducido al Castellano en YouTube, tráiler íntegramente perpetrado por el que os escribe ahora mismo:
+A cambio el equipo de traducción ha colgado el tráiler traducido al Castellano 
+en YouTube, tráiler íntegramente perpetrado por el que os escribe ahora mismo:
 
 <center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/onVyBEI-agU?rel=0" frameborder="0" allowfullscreen></iframe></center>

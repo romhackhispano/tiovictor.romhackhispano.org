@@ -18,6 +18,11 @@ categories:
 tags:
 - Resident Evil
 ---
-Hola, escribo este post por dos razones básicas: La primera es para demostrar que no estaba muerto, y la segunda, que me gustaría pediros a vosotros los jugadores que si estáis esperando a que saque una versión final, no esperéis, probad la versión actual del parche y jugad al juego en Castellano, para que así me digáis lo que veáis o dejéis de ver en la traducción.
+Hola, escribo este post por dos razones básicas: La primera es para demostrar 
+que no estaba muerto, y la segunda, que me gustaría pediros a vosotros los 
+jugadores que si estáis esperando a que saque una versión final, no esperéis, 
+probad la versión actual del parche y jugad al juego en Castellano, para que 
+así me digáis lo que veáis o dejéis de ver en la traducción.
 
-Ya he perdido la cuenta de los fallos que tengo que corregir, así que vuestra ayuda se agradece. Un saludo.
+Ya he perdido la cuenta de los fallos que tengo que corregir, así que vuestra 
+ayuda se agradece. Un saludo.

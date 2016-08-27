@@ -20,6 +20,14 @@ categories:
 tags:
 - Resident Evil
 ---
-Bueno, hoy he terminado el trabajo de los vídeos. He anulado la textura de subtítulos original de la versión francesa, y he insertado otras tres FMV que necesitaban cambios (Aparte de la intro original del primer zombi). A éstas FMV se les han fundido los subtítulos (Encima, con la fuente original de Resident Evil para mayor inmersión del jugador). Lo malo es que el paquete de los cuatro vídeos, comprimidos en rar, es de 70MB, así que, cuando saquemos la traducción, sacaré por un lado un ppf con los textos y texturas, y por otro lado el rar con los cuatro vídeos y las instrucciones para insertarlos. Un saludo.
+Bueno, hoy he terminado el trabajo de los vídeos. He anulado la textura de subtítulos 
+original de la versión francesa, y he insertado otras tres FMV que necesitaban cambios 
+(Aparte de la intro original del primer zombi). A éstas FMV se les han fundido los 
+subtítulos (Encima, con la fuente original de Resident Evil para mayor inmersión del 
+jugador). Lo malo es que el paquete de los cuatro vídeos, comprimidos en rar, es de 70MB, 
+así que, cuando saquemos la traducción, sacaré por un lado un ppf con los textos y 
+texturas, y por otro lado el rar con los cuatro vídeos y las instrucciones para insertarlos. 
+Un saludo.
 
-Como nota complementaria, he incluído en la lista de traducciones la que hice en su día para la expansión del juego de PC SWAT4, The Stetchkov Syndicate.
+Como nota complementaria, he incluído en la lista de traducciones la que hice en su día para 
+la expansión del juego de PC SWAT4, The Stetchkov Syndicate.

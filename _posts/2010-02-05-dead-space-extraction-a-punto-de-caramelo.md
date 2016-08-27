@@ -18,10 +18,16 @@ tags:
 - Resident Evil
 - Dead Space Extraction
 ---
-Me informa TBG, que es quien está insertando los contenidos de Dead Space Extraction, que la inserción está aproximándose a su fin, con un 90% de contenidos insertados.
+Me informa TBG, que es quien está insertando los contenidos de Dead Space 
+Extraction, que la inserción está aproximándose a su fin, con un 90% de contenidos 
+insertados.
 
-Sólo quedaría testear el juego a fondo, antes de publicar el parche. Esperemos que Riivolution llegue a tiempo.
+Sólo quedaría testear el juego a fondo, antes de publicar el parche. Esperemos 
+que Riivolution llegue a tiempo.
 
 Ya estamos viendo la luz al final del túnel, seguiremos informando.
 
-**EDIT:** En otro orden de cosas, necesito a personas que tengan una copia legal y original del Resident Evil Director's Cut PAL Inglés para realizar unas pruebas. Los que queráis echar una manita, por favor, dejad un comentario en esta noticia introduciendo vuestro email en el sitio de siempre.
+**EDIT:** En otro orden de cosas, necesito a personas que tengan una copia legal 
+y original del Resident Evil Director's Cut PAL Inglés para realizar unas pruebas. 
+Los que queráis echar una manita, por favor, dejad un comentario en esta noticia 
+introduciendo vuestro email en el sitio de siempre.

@@ -19,6 +19,7 @@ categories:
 tags:
 - Ready 2 Rumble
 ---
-Acabo de añadir la página con los links del Ready 2 Rumble, en dos versiones: Nintendo 64 y PSOne, ambas 100% en Castellano.
+Acabo de añadir la página con los links del Ready 2 Rumble, en dos versiones: Nintendo 64 y PSOne, 
+ambas 100% en Castellano.
 
 Sobre Resident Evil, hoy hemos hecho la parte "fácil": Menús e inventario. Llevamos 6 Stages de 14 hechos.

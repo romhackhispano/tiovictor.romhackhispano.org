@@ -18,7 +18,9 @@ categories:
 tags:
 - Time Crisis
 ---
-Bueno, pues tras hablarlo con el reparto de voces, y viendo que hay pocas descargas del parche en sí, he decidido colgar en YouTube dos gameplays con todas las escenas del juego traducidas. Podéis verlas tras el salto.
+Bueno, pues tras hablarlo con el reparto de voces, y viendo que hay pocas 
+descargas del parche en sí, he decidido colgar en YouTube dos gameplays con 
+todas las escenas del juego traducidas. Podéis verlas tras el salto.
 
 <!--more-->
 
