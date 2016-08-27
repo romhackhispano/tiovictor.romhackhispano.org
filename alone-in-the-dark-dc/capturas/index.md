@@ -28,6 +28,6 @@ gallery:
 - path: /img/2015/10/AITD4DC-11.jpg
 - path: /img/2015/10/AITD4DC-12.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2>
+<h3 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h3>
 {% include gallery.html %}
-<h1 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/">VOLVER</a></strong></h1></p>
+<h1 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/">VOLVER</a></strong></h1>

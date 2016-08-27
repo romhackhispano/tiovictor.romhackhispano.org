@@ -15,9 +15,13 @@ date_gmt: '2014-08-31 21:41:23 +0200'
 categories: []
 tags: []
 ---
-<h2 style="text-align: center;"><a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/descargar/">DESCARGAS</a> - <a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/capturas/">CAPTURAS</a></h2><br />
-Colaboración triidioma entre Shenmue Dojo y un servidor de ustedes, que se inició el 19 de marzo de 2014 y terminó con su<br />
-primera publicación el 1 de septiembre del mismo año: la traducción del software "What's Shenmue: Find Director Yukawa", para Sega Dreamcast, de Japonés a Inglés, Español y Alemán.</p>
-<center><p><img src="/img/2014/08/WhatsShenmueES-03.jpg" width="300" height="223" /></p>
-<p><img src="/img/2014/08/WhatsShenmueES-12.jpg" width="300" height="223" /></p></center>
+<h3 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/descargar/">DESCARGAS</a> - <a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/capturas/">CAPTURAS</a></strong></h3>
 
+Colaboración multiidioma entre Shenmue Dojo y un servidor de ustedes, que se inició 
+el 19 de marzo de 2014 y terminó con su primera publicación el 1 de septiembre del 
+mismo año: la traducción del software "What's Shenmue: Find Director Yukawa", para 
+Sega Dreamcast, de japonés a inglés, castellano, portugués de Brasil y alemán.
+
+<center><img src="/img/2014/08/WhatsShenmueES-03.jpg" width="300" height="223" />
+
+<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/">VOLVER</a></strong></h2>

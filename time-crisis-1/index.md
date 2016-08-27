@@ -14,23 +14,40 @@ date: '2011-05-08 16:17:26 +0200'
 date_gmt: '2011-05-08 14:17:26 +0200'
 categories: []
 tags: []
+gallery:
+- path: /img/2011/05/SCES_006.57_13072011_194938_0078-e1310586789972.png
+- path: /img/2011/05/SCES_006.57_13072011_194950_0250-e1310586768872.png
+- path: /img/2011/05/SCES_006.57_13072011_195008_0187-e1310586742999.png
+- path: /img/2011/05/SCES_006.57_13072011_195024_0812-e1310586706116.png
+- path: /img/2011/05/SCES_006.57_13072011_195034_0078-e1310586681951.png
 ---
-<p>Proyecto realizado en una unión entre Traducciones del Tío Víctor y <a href="http://www.doblajeamateur.tk">la comunidad de Doblaje Amateur</a>.</p>
-<p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/HV5kQKweX2w?rel=0" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p><br />
-Investigación y programación del proyecto: <strong>CUE y Pacochan</strong><br />
-Traducción de textos y gráficos, dirección del doblaje: <strong>IlDucci</strong></p>
-<p>Reparto de voces:<br />
-Jefe de la VSSE: <strong>Álvaro Polo</strong><br />
-Locutor: <strong>Víctor González</strong><br />
-Sherudo: <strong>Enrique Colinet</strong><br />
-Wild Dog: <strong>Néstor Moreno</strong><br />
-Rachel: <strong>Noelia de Luis</strong><br />
-Kantaris: <strong>María Cebrián</strong><br />
-Soldados/Moz: <strong>Luisma Albarracín</strong></p>
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/download/kcm26cxmbnnx08t/TimeCrisisPSOneESP10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!BU9SQQ7I!LazeE2rOZiqPJn42nERMHbq2U8qbA00jj0HcWT08_YQ">MEGA</a></h1></p>
-Este proyecto contiene un doblaje íntegro de las voces del juego al Castellano, de la mano de lo mejor que tiene la comunidad de actores de doblaje aficionados de España.</p>
-<p>Si a alguien le interesa traducir la versión NTSC-USA o hacer un doblaje en Español Latinoamericano, antes de contactarme, asegúrate de tener a alguien que sepa de desensamblador y debugging de PSOne.</p>
-<p>[gallery link="file" columns="5" ids="513,514,515,516,517"]</p>
-<p style="text-align: center;"><em><strong>Utilidades necesarias para parchear la ROM<br />
-<p style="text-align: center;"><a href="http://www.romhacking.net/utilities/598/"></a>xDeltaUI (Para aplicar el parche al juego)</p></p>
+Proyecto realizado en una unión entre Traducciones del Tío Víctor y 
+[la comunidad de Doblaje Amateur](http://www.doblajeamateur.tk).
 
+<p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/HV5kQKweX2w?rel=0" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+
+Investigación y programación del proyecto: **CUE y Pacochan**  
+Traducción de textos y gráficos, dirección del doblaje: **IlDucci**
+
+Reparto de voces:  
+Jefe de la VSSE: **Álvaro Polo**  
+Locutor: **Víctor González**  
+Sherudo: **Enrique Colinet**  
+Wild Dog: **Néstor Moreno**  
+Rachel: **Noelia de Luis**  
+Kantaris: **María Cebrián**  
+Soldados/Moz: **Luisma Albarracín**
+
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/kcm26cxmbnnx08t/TimeCrisisPSOneESP10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!BU9SQQ7I!LazeE2rOZiqPJn42nERMHbq2U8qbA00jj0HcWT08_YQ">MEGA</a></strong></h1>
+
+Este proyecto contiene un doblaje íntegro de las voces del juego al Castellano, 
+de la mano de lo mejor que tiene la comunidad de actores de doblaje aficionados 
+de España.
+
+Si a alguien le interesa traducir la versión NTSC-USA o hacer un doblaje en Español 
+Latinoamericano, antes de contactarme, asegúrate de tener a alguien que sepa de 
+desensamblador y debugging de PSOne.
+
+{% include gallery.html %}
+
+[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/)

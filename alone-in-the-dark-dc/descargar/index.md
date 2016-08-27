@@ -15,24 +15,27 @@ date_gmt: '2016-06-18 12:36:06 +0200'
 categories: []
 tags: []
 ---
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2>
 
+<h3 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h3>
 ***CRÉDITOS DEL PROYECTO:***
 
 Indiket: Instigador principal, programador de herramientas  
 SaturnAR: Herramientas para editar gráficos  
 PacoChan: Sistema de parcheado para Dreamcast  
 Releon: Testeo de la traducción  
-IlDucci: Edición de textos, investigación de los formatos del juego, investigación sobre vídeos, edición de sonido, investigación para CDs de 80 minutos.
+IlDucci: Edición de textos, investigación de los formatos del juego, investigación sobre 
+vídeos, edición de sonido, investigación para CDs de 80 minutos.
 
 *CON LA COLABORACIÓN O INFORMACIÓN DE:*  
 TuxTheWise, OVERRiDE, FamilyGuy
 
 *EL PARCHEADOR UTILIZA HERRAMIENTAS DE:*  
-Jöerg Schilling, Wwashington, Igor Pavlov, jj1odm, Sappharad, FamilyGuy, el equipo de FFMpeg, Muzzleflash, bITmASTER
+Jöerg Schilling, Wwashington, Igor Pavlov, jj1odm, Sappharad, FamilyGuy, el equipo de 
+FFMpeg, Muzzleflash, bITmASTER
 
 *BASADO EN LA TRADUCCIÓN DE DL MULTIMEDIA, CON LAS VOCES ORIGINALES DE:*  
-Rais David Báscones, Paqui Horcajo, Jorge Teixeira, Carlos Salamanca, Javier Gámir y Antonio Cobos.
+Rais David Báscones, Paqui Horcajo, Jorge Teixeira, Carlos Salamanca, Javier Gámir y 
+Antonio Cobos.
 
 <center><h1><b><i>Descargar versión 1.0 del parcheador:</i></b></h1></center>
 
@@ -40,5 +43,5 @@ Rais David Báscones, Paqui Horcajo, Jorge Teixeira, Carlos Salamanca, Javier G�
 
 <h1 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/">VOLVER</a></strong></h1>
 
-
-El parcheador necesita de la versión más reciente de las librerías Visual C++ Redistributable. Puedes descargarla pulsando en <a href="https://www.microsoft.com/es-ES/download/details.aspx?id=48145">este enlace</a>.
+El parcheador necesita de la versión más reciente de las librerías Visual C++ Redistributable. 
+Puedes descargarla pulsando en [este enlace](https://www.microsoft.com/es-ES/download/details.aspx?id=48145).

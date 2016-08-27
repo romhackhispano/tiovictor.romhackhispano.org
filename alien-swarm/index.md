@@ -26,15 +26,19 @@ gallery:
 - path: /img/2010/07/AlienSwarm16-09.jpg
 - path: /img/2010/07/AlienSwarm16-10.jpg
 ---
-Traducción realizada a partir de la traducción oficial de Left 4 Dead 2. Todo el resto de contenidos han sido traducidos íntegramente por IlDucci.
+Traducción realizada a partir de la traducción oficial de Left 4 Dead 2. Todo el resto de 
+contenidos han sido traducidos íntegramente por IlDucci.
 
-Este es un juego que se puede obtener de forma gratuita a través de la plataforma Steam, y que se tradujo en previsión de que no tuviera una traducción oficial. Varios meses después del lanzamiento, Valve publicó la traducción oficial de este juego.
+Este es un juego que se puede obtener de forma gratuita a través de la plataforma Steam, y 
+que se tradujo en previsión de que no tuviera una traducción oficial. Varios meses después del 
+lanzamiento, Valve publicó la traducción oficial de este juego.
 
-Esta traducción se guarda aquí a título de recordatorio. Faltan por traducir la línea que dice "Objectives complete!", y los textos en grande de "Misión Cumplida" y "Misión Fallida".
+Esta traducción se guarda aquí a título de recordatorio. Faltan por traducir la línea que dice 
+"Objectives complete!", y los textos en grande de "Misión Cumplida" y "Misión Fallida".
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/vmp8vcme4p4kt6l/TraduccionAlienSwarm16.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!oIUj2JaK!Pl-WPfXAU5PP1RRjK-wKY5zuJ5G0q6teza2WRh6yBLs">MEGA</a></strong></h1>
 
-Para instalar la traducción, descomprime el archivo .rar en tu carpeta de instalación de Steam/steamapps/common.
+Para instalar la traducción, descomprime el archivo .rar en tu carpeta de instalación de 
+Steam/steamapps/common.
 
 {% include gallery.html %}
-

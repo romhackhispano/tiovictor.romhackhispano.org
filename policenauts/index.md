@@ -15,13 +15,21 @@ date_gmt: '2012-06-13 11:28:49 +0200'
 categories: []
 tags: []
 ---
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/policenauts/capturas/">CAPTURAS</a></strong></h2><br />
-El proyecto está formado por SkyBladeCloud, GameZelda, Wesker y FacundoARG (De SegaSaturno), Wolverin0 (De los foros de JunkerHQ.Net) y un servidor de ustedes.</p>
-<p>La versión para Sega Saturn está siendo realizada por FacundoARG y SaturnAR, de SegaSaturno; y cafe-alpha, de SegaXtreme. Basado en el trabajo de localización al inglés de Marc Laidlaw, Artemio Urbina y Michael Sawyer.</p>
-<p><em><strong>Estado del proyecto:<br />
-</strong></em>Textos: 100% traducidos, revisión al 25%.<br />
-Gráficos: 45% traducidos.<br />
-Programación y romhacking: 75% en PSOne, 70% en Saturn.</p>
-<p>La traducción irá dirigida hacia la versión de PSOne, aunque queremos adaptarla a Saturn (Ya que es la versión con la historia más completa).</p>
-<p><strong><a href="http://www.mediafire.com/download.php?fwc6b4ac966ycor">Pulsa aquí para descargar el manual de Policenauts traducido al Castellano.</a></strong></p>
+<h3 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/policenauts/capturas/">CAPTURAS</a></strong></h3>
 
+El proyecto está formado por SkyBladeCloud, GameZelda, Wesker y FacundoARG (De SegaSaturno), 
+Wolverin0 (De los foros de JunkerHQ.Net) y un servidor de ustedes.
+
+La versión para Sega Saturn está siendo realizada por FacundoARG y SaturnAR, de SegaSaturno; 
+y cafe-alpha, de SegaXtreme. Basado en el trabajo de localización al inglés de Marc Laidlaw, 
+Artemio Urbina y Michael Sawyer.
+
+_**Estado del proyecto:**_  
+Textos: 100% traducidos, revisión al 25%.  
+Gráficos: 45% traducidos.  
+Programación y romhacking: 75% en PSOne, 70% en Saturn.
+
+La traducción irá dirigida hacia la versión de PSOne, aunque queremos adaptarla a Saturn (Ya que es la versión con la historia más completa).
+
+[**Pulsa aquí para descargar el manual de Policenauts traducido al 
+Castellano.**](http://www.mediafire.com/download.php?fwc6b4ac966ycor)
