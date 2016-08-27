@@ -1,0 +1,24 @@
+---
+layout: page
+status: publish
+published: true
+title: Sin and Punishment N64 (V1.0b)
+author:
+  display_name: Tío Víctor
+  url: http://tiovictor.romhackhispano.org
+author_url: http://tiovictor.romhackhispano.org
+wordpress_id: 2136
+wordpress_url: http://tiovictor.romhackhispano.org/?page_id=2136
+header_img: /img/2014/05/SinAndPunishmentN64Header.jpg
+date: '2014-05-26 14:52:48 +0200'
+date_gmt: '2014-05-26 12:52:48 +0200'
+categories: []
+tags: []
+---
+<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/sin-and-punishment-n64/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/sin-and-punishment-n64/descargar/">DESCARGAS</a> - <a href="http://tiovictor.romhackhispano.org/sin-and-punishment-n64/capturas-2/">CAPTURAS</a></strong></h2><br />
+Proyecto de traducción y doblaje del juego <span style="font-weight: normal;">Sin and Punishment: Successor of the Earth (<span style="font-weight: normal;"><i>Tsumi to Batsu: Hoshi no Keish&Aring;sha</i></span>) para Nintendo 64.<br />
+</span></p>
+<h2 style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/32nxXdVDGwY?rel=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h2><br />
+Basado en el proyecto de traducción de Zoinkity realizado en <a href="http://www.assemblergames.com/forums/showthread.php?47187-Sin-and-Punishment-and-other-jap-only-titels-translation" target="_blank">AssemblerGames</a>. También se utilizan herramientas de SubDrag para la inyección de audio.</p>
+<p>El doblaje corre a cargo del <a href="http://www.estudiosg3s.com/" target="_blank">grupo <strong>G3S</strong></a>, responsables de varios proyectos de fandubs, entre ellos Gurren Lagann o Fairy Tail.</p>
+

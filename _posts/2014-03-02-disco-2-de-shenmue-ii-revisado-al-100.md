@@ -17,10 +17,11 @@ categories:
 tags:
 - Shenmue II
 ---
-Pues sí. Otro disco menos, ya solo queda uno que revisar sobre papel antes de proceder al testeo y conversión a XBOX.
+Pues sí. Otro disco menos, ya solo queda uno que revisar sobre papel antes de 
+proceder al testeo y conversión a XBOX.
 
-**_Estado de la traducción de Shenmue II:_  
-Gráficos:** 70% (Mapas, gráficos de los menús)  
+**_Estado de la traducción de Shenmue II:_**  
+**Gráficos:** 70% (Mapas, gráficos de los menús)  
 **Textos:**  
 _- Cinemáticas de todo el juego:_ 100% traducidas; revisión al 100%.  
 _Diálogos con NPC (FREE Quest):_  

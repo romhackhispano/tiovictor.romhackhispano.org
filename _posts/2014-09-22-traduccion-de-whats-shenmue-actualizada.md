@@ -17,6 +17,8 @@ categories:
 tags:
 - What's Shenmue
 ---
-Hemos actualizado brevemente el parche de traducción de What's Shenmue: Se han corregido un par de erratas en inglés y español, y se han corregido varios nombres de los créditos.
+Hemos actualizado brevemente el parche de traducción de What's Shenmue: Se han corregido un par 
+de erratas en inglés y español, y se han corregido varios nombres de los créditos.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/descargar/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/descargar/">Ir 
+a la página de descargas</a></strong></h2>

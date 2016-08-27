@@ -19,7 +19,7 @@ tags:
 - Resident Evil 2
 ---
 <center><img alt="Resident Evil 2 para Dreamcast - Versión 1.5 
-FINAL" src="/img/2013/06/15Final-01-1.jpg" width="300" height="225" /></center>
+FINAL" src="/img/2013/06/15Final-01.png" width="300" height="225" /></center>
 
 Ha pasado bastante tiempo desde la última versión del parcheador, y, 
 francamente, con todo lo que tengo entre manos, lo de Resident Evil 2 iba 
@@ -55,8 +55,6 @@ De estos tres fallos, **el último no lo podemos arreglar** porque ya existía
 en el juego original en Francés. Es un bug que no lee bien ciertas partidas 
 guardadas, no lo hemos provocado nosotros, y por desgracia no tenemos la capacidad 
 de arreglarlo.
-
-[gallery link="file" columns="5" ids="1627,1628,1635,1629,1630,1634,1632,1633"]
 
 Ahora, sobre las partes nuevas, hemos reescrito bastantes diálogos, editado los 
 documentos para quitar morralla (Y que entren en la cantidad de páginas del francés), 

@@ -57,7 +57,8 @@ porque en este caso no seré yo quien dirija el doblaje.
 
 Si queréis leer una nueva vuelta de tuerca al primer Resident Evil, os aconsejo que probéis el parche.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/026swg0b4prpzw3/REDC-V40.7z">Mediafire</a> - <a href="https://mega.nz/#!URUDhIZQ!OOreSOXDSE9Vp6KI6iZ_vnRZyXm3wUdCDvJmUEMnuAE">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/026swg0b4prpzw3/REDC-V40.7z">Mediafire</a> 
+- <a href="https://mega.nz/#!URUDhIZQ!OOreSOXDSE9Vp6KI6iZ_vnRZyXm3wUdCDvJmUEMnuAE">MEGA</a></strong></h1>
 
 Y ahora unas fotitos:
 

@@ -1,0 +1,28 @@
+---
+layout: page
+status: publish
+published: true
+title: GoldenEye 007 - Colaboración
+author:
+  display_name: Tío Víctor
+  url: http://tiovictor.romhackhispano.org
+author_url: http://tiovictor.romhackhispano.org
+wordpress_id: 2446
+wordpress_url: http://tiovictor.romhackhispano.org/?page_id=2446
+header_img: /img/2014/12/GoldenEyeHeader.jpg
+date: '2014-12-04 15:46:01 +0100'
+date_gmt: '2014-12-04 13:46:01 +0100'
+categories: []
+tags: []
+---
+<p>Proyecto de traducción al castellano realizado por <a href="http://sogunstudio.blogspot.com.es/">Sogun</a>, cuya última versión fue publicada el 5 de mayo de 2013.</p>
+<p>En noviembre de 2014 entré a colaborar haciendo una revisión profunda de sus textos y convirtiendo la traducción a la ROM europea para aquellos que no tengan un televisor con soporte NTSC-U. La revisión y conversión fueron terminadas y publicadas el 30 de diciembre de 2014.</p>
+<p>En la versión 2.0 han participado <a href="http://sogunstudio.blogspot.com.es/" target="_blank">Sogun</a>, Zoinkity, <a href="http://www.goldeneyevault.com/" target="_blank">SubDrag</a> y un servidor de ustedes.</p>
+<p>Adjunto una copia del archivo con el permiso de Sogun.</p>
+<h1 style="text-align: center;"><a href="http://www.mediafire.com/download/wk6b3xanx2kbkqp/gespanishtranslationv20%5Bsogun-ilducci%5D.zip">MEDIAFIRE</a> - <a href="https://mega.nz/#!9IsDAQJY!JoGJSCmv7aOyfgdXhphB-gzleztypmOVCBungpVwZzs">MEGA</a></h1></p><br />
+[gallery ids="2461,2462,2463,2464,2465,2466,2467,2468,2469,2470,2471,2472,2473,2474,2475" orderby="rand"]</p>
+**_Utilidades necesarias para parchear la ROM_**  
+<a href="http://www.romhacking.net/utilities/598/"></a>xDeltaUI (Para aplicar el parche al juego)</p></p>
+<p style="text-align: center;">Tool64 (Para quitar el byteswap a la ROM. Cargar la carpeta y pulsar en la flecha que va a la derecha)</p></p>
+<h1 style="text-align: center;"><a href="http://www.mediafire.com/download/5z5e3813mdqp8tm/Tool64_v1.11Beta1.zip">MEDIAFIRE</a> - <a href="https://mega.nz/#!sZM3EaaL!6VxPMLqdJ4L1eCnqqiMkNaYB0Xr0e9L3tOKe9y8eXHI">MEGA</a></h1></p>
+

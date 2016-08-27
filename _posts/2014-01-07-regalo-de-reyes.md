@@ -27,5 +27,5 @@ _- Cinemáticas de todo el juego:_ 100% traducidas; revisión al 100%.
 _Diálogos con NPC (FREE Quest):_  
 - Disco 1: 100% traducido, 10% revisado.  
 **_- Disco 2: 100% traducido, 35% revisado._**  
-**_ - Disco 3: 100% traducido y revisado._**  
+**_- Disco 3: 100% traducido y revisado._**  
 - Disco 4: 100% traducido y revisado.

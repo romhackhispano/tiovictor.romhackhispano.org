@@ -1,0 +1,32 @@
+---
+layout: page
+status: publish
+published: true
+title: Resident Evil 2 para Dreamcast (Adaptación, v1.5c FINAL)
+author:
+  display_name: Tío Víctor
+  url: http://tiovictor.romhackhispano.org
+author_url: http://tiovictor.romhackhispano.org
+wordpress_id: 542
+wordpress_url: http://tiovictor.romhackhispano.org/?page_id=542
+header_img: /img/2013/12/ResidentEvil2Header.jpg
+date: '2011-07-31 23:17:44 +0200'
+date_gmt: '2011-07-31 21:17:44 +0200'
+categories: []
+tags: []
+---
+<p>Adaptación/Correción de la traducción oficial de Resident Evil 2 para Dreamcast, versión PAL por GameZelda, CUE, PacoChan, Releon e IlDucci, con la colaboración de TuxTheWise, Indiket, Wesker, Ryo Suzuki, Pat Mandin, MarkGrass, los foros de Resident Evil 1, 2 y 3 y FamilyGuy.</p>
+<p>Esta versión del parche utiliza el sistema de PacoChan y ya no necesita la release DCRES, ahora utiliza las imágenes .GDI originales del juego. Esta web no dará soporte a la piratería ni permitirá que se comente dónde conseguirlas por métodos no legales.</p>
+<p style="text-align: center;"><a href="/img/2013/06/15Final-01-1.jpg"><img src="/img/2013/06/15Final-01-1.jpg" alt="Resident Evil 2 para Dreamcast - Versión 1.5 FINAL" width="300" height="225" /></a></p><br />
+Las imágenes parcheadas resultantes replican casi a la perfección los sistemas utilizados por TuxTheWise para conseguir sus releases.</p>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/o5vpgcn3ouioq5v/ResidentEvil2DC-V15C.7z" target="_blank">DESCARGAR PARCHEADOR v1.5C</a></strong></h1><br />
+Para obtener soporte técnico para el juego, dirigiros a <a href="http://www.segasaturno.com/" target="_blank">SegaSaturno</a>. Ni Traducciones del Tío Víctor ni SegaSaturno se hacen responsables de los daños causados por un mal uso de vuestras consolas o PCs.</p>
+<p>1.0 - Primera versión. El menú principal y el de opciones están totalmente desplazados, recortados, machacados. Se está investigando cómo arreglarlo. Todo el resto de textos están completamente traducidos al Castellano, y se han corregido algunos aspectos de la traducción oficial.<br />
+1.1 - Segunda versión del parche. Se han corregido los menús principal y de opciones. Revisados varios textos del juego para mejorar la traducción original. Arreglado el bug que impedía continuar tras leer ciertos documentos del archivo. Corregidos otros tantos bugs menores. El parche pasa a utilizar el parcheador de PacoChan, por lo que ya no es necesaria la release de DCRES, se necesitan las imágenes GDI.<br />
+1.2 - Actualización importante del parche: Se han revisado todos los textos de la historia, y se han corregido los fallos que bloqueaban la consola al intentar entrar a la biblioteca de la comisaría en el disco de Leon y a la oficina de los STARS en el disco de Claire.<br />
+1.2b - Arreglados los cuelgues (De nuevo) en la oficina de STARS y de Marvin.<br />
+1.5 FINAL - Eliminados los cuelgues en los documentos Diario del jefe y Síntesis de la vacuna, y en el interior del tren-ascensor en el disco de Claire. Nueva revisión de textos, corrección ortográfica y reescrituras varias, y re-sincronización de todos los subtítulos ingame del juego. Ya no desaparecerán antes de tiempo.<br />
+1.5B- Corregido un defecto por el cual el ordenado de archivos no funcionaba. Este defecto podía provocar lecturas de disco más lentas en consola.<br />
+1.5C- Añadido soporte para exportar imágenes en formato GDI. La traducción no ha tenido cambios, así que mantiene su número de versión anterior.</p>
+<p>[gallery columns="4" ids="1626,3051,3052,3053,3054,3055,3056,3057,3058,3059,3060,3061,3062,1624,1623,1625,3064,3065,3066,3067,3068,3069,3070" orderby="rand"]</p>
+

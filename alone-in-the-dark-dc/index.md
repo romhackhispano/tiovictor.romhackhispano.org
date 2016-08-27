@@ -26,3 +26,4 @@ Entre las mejoras realizadas, se han revisado los textos, se ha reducido la exce
 La versión para jugar en consola real (Formato NRG) ha recibido una degradación de vídeo y una serie de optimizaciones para que cada disco ocupe un disco, sin pérdida de contenidos jugables. Por desgracia, la degradación puede llegar a tardar seis horas o más por disco.
 
 El parche de traducción obliga a tener los datos del doblaje español (De las versiones para PC o para PlayStation 2) antes de comenzar el proceso. Por favor, leed muy atentamente las instrucciones antes de empezar a parchear.
+

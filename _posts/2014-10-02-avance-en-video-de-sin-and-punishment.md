@@ -17,6 +17,8 @@ categories:
 tags:
 - Sin and Punishment
 ---
-Como comenté hace dos noticias, aquí tenéis el aperitivo visible (Y, sobre todo, audible) del proyecto de traducción y doblaje de **Sin and Punishment: Successor of the Earth** para Nintendo 64, en colaboración con <a href="http://www.estudiosg3s.com" target="_blank">Estudios G3S</a>.
+Como comenté hace dos noticias, aquí tenéis el aperitivo visible (Y, sobre todo, audible) 
+del proyecto de traducción y doblaje de **Sin and Punishment: Successor of the Earth** para 
+Nintendo 64, en colaboración con [Estudios G3S](http://www.estudiosg3s.com).
 
-<p style="text-align: center;"><iframe src="//www.youtube-nocookie.com/embed/IrQ-IXmQInc?rel=0&amp;showinfo=0" width="710" height="399" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: center;"><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/IrQ-IXmQInc?rel=0" frameborder="0" allowfullscreen></iframe></p>

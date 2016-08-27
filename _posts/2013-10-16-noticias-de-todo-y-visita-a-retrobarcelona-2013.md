@@ -35,7 +35,7 @@ con lo conocido:
 Como novedades en los porcentajes, ya están las cinemáticas al 100% (Sé que lo dije 
 antes pero olvidé actualizar esa cifra) Y el Disco 3 (Por no mirar, se nota que está a 
 cargo de **TheFireRed**) está revisado en un **60%**. Poco a poco va saliendo adelante.  
-- **Policenauts: **De nuevo, más noticias sobre Saturn. El equipo sigue convirtiendo al 
+- **Policenauts:** De nuevo, más noticias sobre Saturn. El equipo sigue convirtiendo al 
 juego de Saturn en su putita personal, mientras que **Marc Laidlaw**, el traductor 
 original, avanza lentamente en la traducción de contenidos nuevos. **Tenemos todas 
 las escenas con voz exclusivas de Saturn ya traducidas.**
@@ -44,7 +44,7 @@ Ahora, la parte física:
 
 Este año, a Asupiva le ha dado por montar su primera feria Retro en territorio catalán. 
 Que ya iba siendo hora. **Del 8 al 10 de Noviembre, en el Disseny Hub de Barcelona, 
-tendrá lugar [RetroBarcelona 2013](http://retrobarcelona.wordpress.com/). **Así que, 
+tendrá lugar [RetroBarcelona 2013](http://retrobarcelona.wordpress.com/).** Así que, 
 al igual que en los dos últimos RetroMadrid, el grupo Dreamcast.es - SegaSaturno.com - 
 TTV se presentará allí con las últimas novedades de la escena Seguera. Yo personalmente 
 estaré con una nueva beta de Shenmue II y de Policenauts, entre otras sorpresitas.
@@ -71,10 +71,10 @@ En las próximas semanas iré poniendo sus páginas y dando datos y capturas de 
 si queréis saber de ellos, podéis buscar en YouTube. El caso es que estos son sus estados 
 de desarrollo (Se nota que son fáciles de editar):
 
-- **Rainbow Six y Eagle Watch están traducidos al 100%, en proceso de revisión.  
-- Rogue Spear está traducido al 100% y en proceso de revisión. Black Thorn está traducido 
+- **Rainbow Six y Eagle Watch están traducidos al 100%, en proceso de revisión.**  
+- **Rogue Spear está traducido al 100% y en proceso de revisión. Black Thorn está traducido 
 en un 50% (solo contando sus líneas nuevas, no las compartidas).**  
-** - Shadow Watch está traducido en un 50%.**
+- **Shadow Watch está traducido en un 50%.**
 
 Como siempre, seguiré informando. Probablemente la próxima noticia la de después de 
 RetroBarna.

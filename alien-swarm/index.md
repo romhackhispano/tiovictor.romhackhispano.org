@@ -37,3 +37,4 @@ Esta traducción se guarda aquí a título de recordatorio. Faltan por traducir 
 Para instalar la traducción, descomprime el archivo .rar en tu carpeta de instalación de Steam/steamapps/common.
 
 {% include gallery.html %}
+

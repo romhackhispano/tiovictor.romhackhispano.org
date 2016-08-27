@@ -16,21 +16,77 @@ categories:
 - Shenmue
 tags:
 - Shenmue
+gallery:
+- path: /img/2011/11/demul-2015-05-07-18-47-44-23.jpg
+- path: /img/2011/11/demul-2015-05-07-18-49-59-85.jpg
+- path: /img/2011/11/demul-2015-05-07-18-50-41-07.jpg
+- path: /img/2011/11/demul-2015-05-08-16-11-06-16.jpg
+- path: /img/2011/11/demul-2015-05-08-16-21-36-95.jpg
+- path: /img/2011/11/demul-2015-05-08-16-22-31-32.jpg
+- path: /img/2011/11/demul-2015-05-08-16-34-52-02.jpg
+- path: /img/2011/11/demul-2015-05-11-12-56-55-32.jpg
+- path: /img/2011/11/demul-2015-05-11-13-19-53-54.jpg
+- path: /img/2011/11/demul-2015-05-11-15-30-34-72.jpg
+- path: /img/2011/11/demul-2015-05-11-15-33-04-39.jpg
+- path: /img/2011/11/demul-2015-05-11-15-36-15-06.jpg
+- path: /img/2011/11/demul-2015-05-11-15-54-19-98.jpg
+- path: /img/2011/11/demul-2015-05-11-15-55-07-63.jpg
+- path: /img/2011/11/demul-2015-05-11-16-03-41-99.jpg
+- path: /img/2011/11/demul-2015-05-11-16-05-34-79.jpg
+- path: /img/2011/11/demul-2015-05-11-16-06-13-11.jpg
+- path: /img/2011/11/demul-2015-05-11-16-18-34-26.jpg
+- path: /img/2011/11/demul-2015-05-11-16-22-10-26.jpg
+- path: /img/2011/11/demul-2015-05-11-16-22-30-76.jpg
+- path: /img/2011/11/demul-2015-05-05-11-47-12-00.jpg
+- path: /img/2011/11/demul-2015-05-05-11-49-18-47.jpg
+- path: /img/2011/11/demul-2015-05-05-11-51-59-43.jpg
+- path: /img/2011/11/demul-2015-05-05-11-57-36-48.jpg
+- path: /img/2011/11/demul-2015-05-05-11-58-37-43.jpg
+- path: /img/2011/11/demul-2015-05-05-12-01-50-61.jpg
+- path: /img/2011/11/demul-2015-05-05-12-03-38-56.jpg
+- path: /img/2011/11/demul-2015-05-05-12-05-19-18.jpg
+- path: /img/2011/11/demul-2015-05-05-12-06-40-28.jpg
+- path: /img/2011/11/demul-2015-05-05-12-44-05-24.jpg
+- path: /img/2011/11/demul-2015-05-05-12-54-36-54.jpg
+- path: /img/2011/11/demul-2015-05-05-13-00-48-96.jpg
+- path: /img/2011/11/demul-2015-05-05-13-04-43-65.jpg
+- path: /img/2011/11/demul-2015-05-05-22-58-04-83.jpg
+- path: /img/2011/11/demul-2015-05-06-21-54-30-18.jpg
+- path: /img/2011/11/demul-2015-05-06-21-57-54-29.jpg
+- path: /img/2011/11/demul-2015-05-06-22-24-15-05.jpg
+- path: /img/2011/11/demul-2015-05-06-22-31-43-81.jpg
+- path: /img/2011/11/demul-2015-05-06-22-34-47-94.jpg
+- path: /img/2011/11/demul-2015-05-06-23-24-50-21.jpg
+- path: /img/2011/11/demul-2015-05-06-23-36-18-69.jpg
+- path: /img/2011/11/demul-2015-05-06-23-50-18-59.jpg
+- path: /img/2011/11/demul-2015-05-07-00-02-19-80.jpg
+- path: /img/2011/11/demul-2015-05-07-16-38-48-68.jpg
+- path: /img/2011/11/demul-2015-05-07-18-22-13-03.jpg
+- path: /img/2011/11/demul-2015-05-07-18-25-06-94.jpg
+- path: /img/2011/11/demul-2015-05-07-18-36-05-82.jpg
+- path: /img/2011/11/demul-2015-05-07-18-40-19-09.jpg
+- path: /img/2011/11/demul-2015-05-07-18-40-39-25.jpg
+- path: /img/2011/11/demul-2015-05-07-18-46-43-11.jpg
 ---
-Aprovecho que no hice entrada en abril para hacer dos este mes: Aquí tenéis una muestra de como está quedando la revisión final de la traducción de Shenmue I.
+Aprovecho que no hice entrada en abril para hacer dos este mes: Aquí tenéis una muestra 
+de como está quedando la revisión final de la traducción de Shenmue I.
 
-Esta revisión es un lavado de cara y puesta al día de la traducción original, con bastantes mejoras:  
+Esta revisión es un lavado de cara y puesta al día de la traducción original, con bastantes 
+mejoras:  
 - Cuaderno y ayudas retraducidas desde cero sin limitaciones.  
-- Ayudas, menús, nombres de objetos del inventario y descripciones de objetos en las tiendas traducidos correctamente, sin limitaciones.  
+- Ayudas, menús, nombres de objetos del inventario y descripciones de objetos en las tiendas 
+traducidos correctamente, sin limitaciones.  
 - Repaso a todos los diálogos del juego.  
-- Ampliación de las pantallas de cargando, traduciendo correctamente varias de las mismas (Cuarto de Ryo por Habitación de Ryo, por ejemplo).  
-- Corrección de un par de términos generales: los "movimientos" de artes marciales pasarán a llamarse "técnicas" de artes marciales.  
+- Ampliación de las pantallas de cargando, traduciendo correctamente varias de las mismas 
+(Cuarto de Ryo por Habitación de Ryo, por ejemplo).  
+- Corrección de un par de términos generales: los "movimientos" de artes marciales pasarán 
+a llamarse "técnicas" de artes marciales.  
 - Alguna sincronización menor de cara a unificar términos entre Shenmue I y II.  
-- Soporte para exportar imágenes en formato GDI (Para emuladores o unidades de disco emuladas, como GDEMU).
+- Soporte para exportar imágenes en formato GDI (Para emuladores o unidades de disco emuladas, 
+como GDEMU).
 
 Os dejo las fotos pasado el salto, que son muchas.
 
 <!--more-->
 
-[gallery columns="4" ids="2580,2579,2578,2577,2575,2576,2569,2571,2570,2572,2574,2573,2568,2567,2566,2565,2564,2562,2557,2558,2559,2561,2560,2563,2556,2554,2555,2553,2552,2551,2544,2546,2548,2547,2549,2550,2545,2543,2542,2541,2540,2539,2534,2533,2536,2537,2538,2535,2532,2531" orderby="rand"]
-
+{% include gallery.html gallery=page.gallery %}

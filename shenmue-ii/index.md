@@ -1,0 +1,39 @@
+---
+layout: page
+status: publish
+published: true
+title: Shenmue II (1.0.2)
+author:
+  display_name: Tío Víctor
+  url: http://tiovictor.romhackhispano.org
+author_url: http://tiovictor.romhackhispano.org
+wordpress_id: 713
+wordpress_url: http://tiovictor.romhackhispano.org/?page_id=713
+header_img: /img/2013/12/Shemnue2Header.jpg
+date: '2012-03-30 18:33:06 +0200'
+date_gmt: '2012-03-30 16:33:06 +0200'
+categories: []
+tags: []
+---
+<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/shenmue-ii/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/shenmue-ii/capturas/">CAPTURAS</a> - <a href="http://tiovictor.romhackhispano.org/shenmue-ii/videos/">VÍDEOS</a><br />
+<a href="http://tiovictor.romhackhispano.org/shenmue-ii/descensuras/">DESCENSURAS</a> - <a href="http://tiovictor.romhackhispano.org/shenmue-ii/descargar/">DESCARGAS</a></strong></h2></p>
+<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/LLmIeX1KUYc" width="510" height="383" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p></p>
+<p style="text-align: left;"><em><strong>REGISTRO DE VERSIONES:</strong></em><br />
+<em>1.0 - Primera versión:</em><br />
+- Todo el juego está traducido al castellano.<br />
+- Se han unificado términos entre Shenmue I y Shenmue II. A partir de ahora, los "movimientos de artes marciales" pasan a ser "técnicas de artes marciales".<br />
+- Se incluye el doblaje del Anteriormente en Shenmue (Shenmue I Digest Movie Fandub) que se publicó en 2012. El parcheador de PacoChan permite subtitular o doblar este vídeo.<br />
+- En XBOX, la escena de la casete de Huang no contiene subtítulos (Han sido desactivados). Por este motivo se ha doblado al castellano esta escena (La versión para Dreamcast está en japonés con subtítulos en castellano).<br />
+- Se han descensurado las siguientes escenas:<br />
+- El sexo de Yuan, pasa a ser un hombre travestido (Textos y voces en Dreamcast, voces en inglés para XBOX próximamente)<br />
+- La etnia de Hassan (El tipo que regenta el círculo de bolas de la suerte en Kowloon)<br />
+- Las imágenes de la Virgen María con el niño Jesús (Solo en Dreamcast)<br />
+- El fragmento de la cinta de Huang con la escena subida de tono<br />
+- Se han traducido gráficos puntuales necesarios para el juego: Mapas ingame, documentos de la señal Chawan, información de apuestas...<br />
+- No se han traducido los carteles de los locales del juego. Para saber la traducción del cartel, búscalo con el gatillo de hacer zoom y Ryo nombrará el lugar.</p></p>
+<p style="text-align: left;"><em>1.0.1 - Actualización menor:</em><br />
+- Se ha recodificado el doblaje de la cinta de Huang en XBOX con unos parámetros de calidad más nítidos.<br />
+- Se ha solucionado el bloqueo del parcheador en sistemas operativos anteriores a Windows 7.<br />
+- Se ha corregido la falta de descensura en el personaje Najim Hassan durante la Colección Shenmue, y se ha descensurado la camiseta del personaje Wen Cheng You (El fan del béisbol). Gracias a Miles Prower de los foros de ShenmueDojo por el dato.<br />
+- Se ha corregido en Dreamcast la tilde de "PULSA EL BOTÓN START" en el disco 1.</p></p>
+

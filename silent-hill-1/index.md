@@ -1,0 +1,29 @@
+---
+layout: page
+status: publish
+published: true
+title: Silent Hill 1 (Retraducción, v2.1)
+author:
+  display_name: Tío Víctor
+  url: http://tiovictor.romhackhispano.org
+author_url: http://tiovictor.romhackhispano.org
+wordpress_id: 143
+wordpress_url: http://tiovictor.romhackhispano.org/?page_id=143
+header_img: /img/2013/12/SilentHillHeader.jpg
+date: '2009-06-13 13:26:43 +0200'
+date_gmt: '2009-06-13 11:26:43 +0200'
+categories:
+- General
+tags: []
+---
+<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/silent-hill-1/informacion/">INFORMACIÓN</a> - <a href="http://tiovictor.romhackhispano.org/silent-hill-1/descargar/">DESCARGAS</a> - <a href="http://tiovictor.romhackhispano.org/silent-hill-1/capturas/">CAPTURAS</a></strong></h2><br />
+Revisión/retraducción completa al castellano y al español latino de Silent Hill para PlayStation 1, disponible para las ediciones PAL europea y NTSC-U estadounidense.</p>
+<p><center><img src="/img/2009/06/SHv20-22.jpg" alt="Silent Hill - Retraducción v2.0" width="320" height="240" /></center></p>
+<p>Detalles del proyecto v2.0:<br />
+- <strong>Revisión completa</strong> de todos los textos del juego, con mayor libertad de acción. Reescritura de bastantes textos.<br />
+- <strong>Traducido todo el contenido visual restante</strong> (Vídeo de introducción, mapas...)<br />
+- Posibilidad de jugar con la versión europea o con la versión estadounidense sin censura.<br />
+Detalles de la revisión v2.1:<br />
+- Correciones menores en la traducción castellana.<br />
+- <strong>Añadido de una versión en español latino</strong> por cortesía de Giromancy, de SilentHill-SH.</p>
+
