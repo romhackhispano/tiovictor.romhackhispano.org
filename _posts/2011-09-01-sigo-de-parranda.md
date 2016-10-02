@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 529
 wordpress_url: http://tiovictor.romhackhispano.org/?p=529
 header_img: /img/2012/03/Interrogacion.jpg
-date: '2011-09-01 22:35:53 +0200'
-date_gmt: '2011-09-01 21:35:53 +0200'
 categories:
 - The World Ends With You
 - Shenmue

@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 3146
 wordpress_url: http://tiovictor.romhackhispano.org/?p=3146
 header_img: /img/2016/03/WhatsShenmueNoti04.jpg
-date: '2016-03-04 15:22:14 +0100'
-date_gmt: '2016-03-04 13:22:14 +0100'
 categories:
 - What's Shenmue Español
 - Resident Evil Survivor

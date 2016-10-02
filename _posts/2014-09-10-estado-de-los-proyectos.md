@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2304
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2304
 header_img: /img/2014/09/ResumenSept2014.jpg
-date: '2014-09-10 23:28:04 +0200'
-date_gmt: '2014-09-10 21:28:04 +0200'
 categories:
 - General
 - Shenmue

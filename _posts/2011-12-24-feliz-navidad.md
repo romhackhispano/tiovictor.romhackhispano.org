@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 655
 wordpress_url: http://tiovictor.romhackhispano.org/?p=655
 header_img: /img/2011/12/Shen1Noti10.jpg
-date: '2011-12-24 01:54:20 +0100'
-date_gmt: '2011-12-24 00:54:20 +0100'
 categories:
 - Colaboraciones
 - Shenmue

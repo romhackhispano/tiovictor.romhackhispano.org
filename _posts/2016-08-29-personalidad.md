@@ -4,12 +4,10 @@ status: publish
 published: true
 title: "Personalidad"
 author:
-- display_name: Tío Víctor
-- url: http://tiovictor.romhackhispano.org
-- author_url: http://tiovictor.romhackhispano.org
+  display_name: Tío Víctor
+  url: http://tiovictor.romhackhispano.org
+author_url: http://tiovictor.romhackhispano.org
 header_img: /img/EnObrasNoti.jpg
-date: '2016-08-29 17:34:00 +0200'
-date_gmt: '2016-08-29 15:34:30 +0200'
 categories:
 - 'Persona 3'
 tags:

@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2145
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2145
 header_img: /img/2014/05/SagaRogueSpearNoti03.jpg
-date: '2014-05-26 17:40:16 +0200'
-date_gmt: '2014-05-26 15:40:16 +0200'
 categories:
 - Saga Rainbow Six PC
 - Sin and Punishment N64

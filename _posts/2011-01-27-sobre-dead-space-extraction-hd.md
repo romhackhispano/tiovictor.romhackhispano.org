@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 430
 wordpress_url: http://tiovictor.romhackhispano.org/?p=430
 header_img: /img/2011/01/DSENoti07.jpg
-date: '2011-01-27 22:17:47 +0100'
-date_gmt: '2011-01-27 21:17:47 +0100'
 categories:
 - General
 - Dead Space Extraction

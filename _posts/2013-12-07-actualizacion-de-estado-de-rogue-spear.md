@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1540
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1540
 header_img: /img/2013/12/SagaRogueSpearNoti01.jpg
-date: '2013-12-07 20:19:37 +0100'
-date_gmt: '2013-12-07 18:19:37 +0100'
 categories:
 - General
 - Shenmue II

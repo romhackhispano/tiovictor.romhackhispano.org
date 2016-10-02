@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1459
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1459
 header_img: /img/2013/10/RetroBarnaNoti.jpg
-date: '2013-10-16 23:05:38 +0200'
-date_gmt: '2013-10-16 21:05:38 +0200'
 categories:
 - Shenmue II
 - Policenauts

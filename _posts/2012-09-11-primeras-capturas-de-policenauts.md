@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 880
 wordpress_url: http://tiovictor.romhackhispano.org/?p=880
 header_img: /img/2012/09/NautsNoti05.jpg
-date: '2012-09-11 00:27:06 +0200'
-date_gmt: '2012-09-10 22:27:06 +0200'
 categories:
 - Policenauts
 tags:

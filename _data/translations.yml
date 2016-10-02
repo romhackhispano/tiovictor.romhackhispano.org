@@ -24,6 +24,10 @@
   platform: pc
   url: /soltys/
 
+- title: "SOLDIER OF FORTUNE 1 (V1.0)"
+  platform: pc
+  url: /soldier-of-fortune-1/
+
 - title: "SWAT4: THE STETCHKOV SYNDICATE PC (V2.2 2012)"
   platform: pc
   url: /swat4-the-stetchkov-syndicate/
@@ -127,6 +131,10 @@
 - title: "SHENMUE II (1.0.2)"
   platform: sega
   url: /shenmue-ii/
+
+- title: "SOLDIER OF FORTUNE 1 (V1.0)"
+  platform: sega
+  url: /soldier-of-fortune-1/
 
 - title: "WHAT’S SHENMUE (1.0.4, ENGLISH SITE)"
   platform: sega

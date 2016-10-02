@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 824
 wordpress_url: http://tiovictor.romhackhispano.org/?p=824
 header_img: /img/2013/04/NautsNoti03.jpg
-date: '2012-08-24 00:22:16 +0200'
-date_gmt: '2012-08-23 22:22:16 +0200'
 categories:
 - General
 - Resident Evil 2 Dreamcast

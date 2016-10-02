@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2500
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2500
 header_img: /img/2015/02/WrecklessNoti01.jpg
-date: '2015-02-12 17:45:16 +0100'
-date_gmt: '2015-02-12 15:45:16 +0100'
 categories:
 - General
 - 'Wreckless, The Yakuza Missions'

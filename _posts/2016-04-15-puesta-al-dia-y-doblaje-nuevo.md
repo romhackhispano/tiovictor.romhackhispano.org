@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 3153
 wordpress_url: http://tiovictor.romhackhispano.org/?p=3153
 header_img: /img/2016/04/NotiClockTower1-01.jpg
-date: '2016-04-15 15:53:55 +0200'
-date_gmt: '2016-04-15 13:53:55 +0200'
 categories:
 - Colaboraciones
 - Shadow Watch

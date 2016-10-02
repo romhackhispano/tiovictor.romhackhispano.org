@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 470
 wordpress_url: http://tiovictor.romhackhispano.org/?p=470
 header_img: /img/2011/03/FragileNoti02.jpg
-date: '2011-03-28 12:10:21 +0200'
-date_gmt: '2011-03-28 11:10:21 +0200'
 categories:
 - General
 - Colaboraciones

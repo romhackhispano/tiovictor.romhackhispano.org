@@ -9,8 +9,6 @@ author:
 author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2528
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2528
-date: '2015-05-01 17:55:38 +0200'
-date_gmt: '2015-05-01 15:55:38 +0200'
 categories:
 - General
 - Shenmue II

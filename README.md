@@ -1,4 +1,3 @@
-MUDANZA AÚN PENDIENTE
 
 
 # tiovictor.romhackhispano.org

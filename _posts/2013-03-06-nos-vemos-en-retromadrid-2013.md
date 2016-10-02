@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1238
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1238
 header_img: /img/2013/03/RetroMadrid2013Noti01.jpg
-date: '2013-03-06 13:13:02 +0100'
-date_gmt: '2013-03-06 12:13:02 +0100'
 categories:
 - General
 - Shenmue II

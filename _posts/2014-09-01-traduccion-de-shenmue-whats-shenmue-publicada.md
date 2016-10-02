@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2278
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2278
 header_img: /img/2014/09/WhatsShenmueNoti02.jpg
-date: '2014-09-01 00:28:29 +0200'
-date_gmt: '2014-08-31 22:28:29 +0200'
 categories:
 - Shenmue
 - What's Shenmue Español

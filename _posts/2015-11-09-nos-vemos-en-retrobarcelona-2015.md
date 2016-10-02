@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 3029
 wordpress_url: http://tiovictor.romhackhispano.org/?p=3029
 header_img: /img/2015/11/RetroBarcelona2015Noti01.jpg
-date: '2015-11-09 17:19:24 +0100'
-date_gmt: '2015-11-09 15:19:24 +0100'
 categories:
 - General
 tags:

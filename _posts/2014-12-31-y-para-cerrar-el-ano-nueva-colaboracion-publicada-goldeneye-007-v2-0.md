@@ -11,8 +11,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2477
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2477
 header_img: /img/2014/12/GoldenEyeNoti01.jpg
-date: '2014-12-31 00:18:29 +0100'
-date_gmt: '2014-12-30 22:18:29 +0100'
 categories:
 - Colaboraciones
 tags:

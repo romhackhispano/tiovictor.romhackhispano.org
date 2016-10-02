@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2073
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2073
 header_img: /img/2014/01/SWRacerNoti02.jpg
-date: '2014-01-18 20:34:44 +0100'
-date_gmt: '2014-01-18 18:34:44 +0100'
 categories:
 - Star Wars Episodio I Racer
 tags:

@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 527
 wordpress_url: http://tiovictor.romhackhispano.org/?p=527
 header_img: /img/2011/07/TC1Noti01.jpg
-date: '2011-07-23 19:05:54 +0200'
-date_gmt: '2011-07-23 18:05:54 +0200'
 categories:
 - General
 - Time Crisis

@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1417
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1417
 header_img: /img/2013/07/Shen1Noti15.jpg
-date: '2013-07-30 18:24:37 +0200'
-date_gmt: '2013-07-30 16:24:37 +0200'
 categories:
 - Resident Evil 2 Dreamcast
 - Shenmue

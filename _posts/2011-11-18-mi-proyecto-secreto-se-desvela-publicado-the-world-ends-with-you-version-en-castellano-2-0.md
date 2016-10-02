@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 580
 wordpress_url: http://tiovictor.romhackhispano.org/?p=580
 header_img: /img/2011/11/TWEWYNoti03.jpg
-date: '2011-11-18 23:20:14 +0100'
-date_gmt: '2011-11-18 22:20:14 +0100'
 categories:
 - The World Ends With You
 tags:

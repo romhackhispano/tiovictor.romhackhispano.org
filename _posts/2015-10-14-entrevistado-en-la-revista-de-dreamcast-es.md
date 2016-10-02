@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2954
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2954
 header_img: /img/2015/10/RevistaDCEsNoti01.jpg
-date: '2015-10-14 15:12:18 +0200'
-date_gmt: '2015-10-14 13:12:18 +0200'
 categories:
 - General
 - Personal

@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1453
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1453
 header_img: /img/2013/09/NautsNoti02.jpg
-date: '2013-09-03 23:44:08 +0200'
-date_gmt: '2013-09-03 21:44:08 +0200'
 categories:
 - Shenmue II
 - Policenauts

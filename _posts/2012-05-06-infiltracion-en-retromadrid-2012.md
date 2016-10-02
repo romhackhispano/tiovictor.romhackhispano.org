@@ -11,8 +11,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 722
 wordpress_url: http://tiovictor.romhackhispano.org/?p=722
 header_img: /img/2012/05/RetroMadrid2012Noti.jpg
-date: '2012-05-06 20:36:05 +0200'
-date_gmt: '2012-05-06 19:36:05 +0200'
 categories:
 - General
 - Resident Evil 2 Dreamcast

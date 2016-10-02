@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 3173
 wordpress_url: http://tiovictor.romhackhispano.org/?p=3173
 header_img: /img/2016/06/RE1Noti33.jpg
-date: '2016-06-05 15:35:54 +0200'
-date_gmt: '2016-06-05 13:35:54 +0200'
 categories:
 - Resident Evil
 tags:

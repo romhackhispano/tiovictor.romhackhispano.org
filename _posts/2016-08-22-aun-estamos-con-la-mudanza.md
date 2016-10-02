@@ -8,8 +8,6 @@ author:
 - url: http://tiovictor.romhackhispano.org
 - author_url: http://tiovictor.romhackhispano.org
 header_img: /img/EnObrasNoti.jpg
-date: '2016-08-22 12:54:00 +0200'
-date_gmt: '2016-08-22 10:54:30 +0200'
 categories:
 - 'General'
 tags:

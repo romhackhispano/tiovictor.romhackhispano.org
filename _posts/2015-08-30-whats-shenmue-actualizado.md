@@ -9,8 +9,6 @@ author:
 author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2913
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2913
-date: '2015-08-30 11:34:31 +0200'
-date_gmt: '2015-08-30 09:34:31 +0200'
 categories:
 - Policenauts
 - Sin and Punishment N64

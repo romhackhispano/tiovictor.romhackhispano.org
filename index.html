@@ -15,7 +15,7 @@ layout: twocolumn
             </h2>
             <div style="margin: 16px 0;">
                 <span class="post-meta"><i
-                        class="glyphicon glyphicon-time"></i> {{ post.date | date: "%-d %b %Y" }}</span>
+                        class="glyphicon glyphicon-time"></i> {{ post.date | date: "%-d de %B de %Y" }}</span>
                 <span style="padding-left:16px;">
                     <a href="{{ post.url }}#comments">
                     <i class="glyphicon glyphicon-comment"></i>
@@ -25,6 +25,9 @@ layout: twocolumn
             </div>
             <div>
                 {{ post.excerpt }}
+            </div>
+            <div>
+                {% if page.more %}<a href="{{ post.url | prepend: site.baseurl }}">{{ Leer mas... }}</a>{% endif %}
             </div>
         </div>
     </div>

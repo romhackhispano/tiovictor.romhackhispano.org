@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2371
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2371
 header_img: /img/2014/10/TWINEHeaderNoti01.jpg
-date: '2014-10-29 12:52:31 +0100'
-date_gmt: '2014-10-29 10:52:31 +0100'
 categories:
 - Shenmue II
 - El Mundo Nunca es Suficiente (Nintendo 64)

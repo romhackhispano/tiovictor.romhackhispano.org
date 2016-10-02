@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1099
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1099
 header_img: /img/2012/12/ContractJACKNoti01.jpg
-date: '2012-12-24 00:43:01 +0100'
-date_gmt: '2012-12-23 23:43:01 +0100'
 categories:
 - Alien Swarm
 - Time Crisis

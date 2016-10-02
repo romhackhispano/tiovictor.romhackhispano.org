@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 467
 wordpress_url: http://tiovictor.romhackhispano.org/?p=467
 header_img: /img/2011/03/FragileNoti01.jpg
-date: '2011-03-19 14:16:34 +0100'
-date_gmt: '2011-03-19 13:16:34 +0100'
 categories:
 - Fragile Dreams
 tags:

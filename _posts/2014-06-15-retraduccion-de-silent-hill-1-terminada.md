@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2179
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2179
 header_img: /img/2014/06/SilentHillNoti05.jpg
-date: '2014-06-15 18:57:38 +0200'
-date_gmt: '2014-06-15 16:57:38 +0200'
 categories:
 - Silent Hill de PSOne
 tags:

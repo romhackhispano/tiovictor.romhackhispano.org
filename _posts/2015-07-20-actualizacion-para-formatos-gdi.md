@@ -9,8 +9,6 @@ author:
 author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2906
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2906
-date: '2015-07-20 19:04:48 +0200'
-date_gmt: '2015-07-20 17:04:48 +0200'
 categories:
 - Resident Evil 2 Dreamcast
 - Shenmue

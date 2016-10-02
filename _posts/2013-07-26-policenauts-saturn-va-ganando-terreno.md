@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1314
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1314
 header_img: /img/2013/07/NautsNoti07.jpg
-date: '2013-07-26 13:40:37 +0200'
-date_gmt: '2013-07-26 11:40:37 +0200'
 categories:
 - Colaboraciones
 - Policenauts

@@ -9,8 +9,6 @@ author:
 author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2481
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2481
-date: '2015-01-06 13:19:43 +0100'
-date_gmt: '2015-01-06 11:19:43 +0100'
 categories:
 - El Mundo Nunca es Suficiente (Nintendo 64)
 tags:

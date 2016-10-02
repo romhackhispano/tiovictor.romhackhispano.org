@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 808
 wordpress_url: http://tiovictor.romhackhispano.org/?p=808
 header_img: /img/2012/07/Shen1Noti07.jpg
-date: '2012-07-01 00:48:12 +0200'
-date_gmt: '2012-06-30 22:48:12 +0200'
 categories:
 - General
 - Colaboraciones

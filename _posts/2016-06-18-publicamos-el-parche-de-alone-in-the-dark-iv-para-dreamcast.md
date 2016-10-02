@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 3204
 wordpress_url: http://tiovictor.romhackhispano.org/?p=3204
 header_img: /img/2016/06/NotiAITD402.jpg
-date: '2016-06-18 15:18:22 +0200'
-date_gmt: '2016-06-18 13:18:22 +0200'
 categories:
 - Alone in the Dark IV DC
 tags:

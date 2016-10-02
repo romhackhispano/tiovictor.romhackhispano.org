@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 490
 wordpress_url: http://tiovictor.romhackhispano.org/?p=490
 header_img: /img/2011/05/3rdBirthdayNoti04.jpg
-date: '2011-05-18 20:03:18 +0200'
-date_gmt: '2011-05-18 19:03:18 +0200'
 categories:
 - Time Crisis
 - The 3rd Birthday

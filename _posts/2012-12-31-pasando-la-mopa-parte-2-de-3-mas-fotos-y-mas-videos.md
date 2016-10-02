@@ -11,8 +11,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1127
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1127
 header_img: /img/2012/12/DSENoti08.jpg
-date: '2012-12-31 18:06:23 +0100'
-date_gmt: '2012-12-31 17:06:23 +0100'
 categories:
 - Resident Evil
 - Time Crisis

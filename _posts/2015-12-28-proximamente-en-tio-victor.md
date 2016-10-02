@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 3046
 wordpress_url: http://tiovictor.romhackhispano.org/?p=3046
 header_img: /img/2015/12/NotiAITD401.jpg
-date: '2015-12-28 23:23:20 +0100'
-date_gmt: '2015-12-28 21:23:20 +0100'
 categories:
 - General
 - Colaboraciones

@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 702
 wordpress_url: http://tiovictor.romhackhispano.org/?p=702
 header_img: /img/2012/03/Interrogacion.jpg
-date: '2012-03-22 22:28:46 +0100'
-date_gmt: '2012-03-22 21:28:46 +0100'
 categories:
 - Shenmue
 - Shenmue II

@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 828
 wordpress_url: http://tiovictor.romhackhispano.org/?p=828
 header_img: /img/2012/09/Shen2Noti08.jpg
-date: '2012-09-03 22:57:08 +0200'
-date_gmt: '2012-09-03 20:57:08 +0200'
 categories:
 - General
 - The World Ends With You

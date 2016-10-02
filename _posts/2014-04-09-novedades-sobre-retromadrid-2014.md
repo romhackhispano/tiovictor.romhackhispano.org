@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2122
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2122
 header_img: /img/2014/04/RetroMadrid2014Noti01.jpg
-date: '2014-04-09 17:04:15 +0200'
-date_gmt: '2014-04-09 15:04:15 +0200'
 categories:
 - General
 - Personal

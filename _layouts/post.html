@@ -10,8 +10,7 @@ layout: twocolumn
         <header class="post-header">
             <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
             <p class="post-meta">
-                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b
-                    %-d, %Y" }}
+                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d de %B de %Y" }}
                 </time>
                 {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
                     itemprop="name"><a href="{{ page.author.url }}">{{ page.author.display_name }}</a></span></span>{%
@@ -46,9 +45,9 @@ layout: twocolumn
             })();
         </script>
         <noscript>
-            Please enable JavaScript to view the
+            Por favor, activa JavaScript para ver 
             <a href="https://disqus.com/?ref_noscript">
-                comments powered by Disqus.
+                los comentarios via Disqus.
             </a>
         </noscript>
 

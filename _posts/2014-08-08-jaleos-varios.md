@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2246
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2246
 header_img: /img/2014/08/SilentHillNoti07.jpg
-date: '2014-08-08 19:09:43 +0200'
-date_gmt: '2014-08-08 17:09:43 +0200'
 categories:
 - Personal
 - Silent Hill de PSOne

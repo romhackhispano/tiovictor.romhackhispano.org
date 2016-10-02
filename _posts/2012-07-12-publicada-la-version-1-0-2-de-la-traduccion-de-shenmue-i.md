@@ -11,8 +11,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 816
 wordpress_url: http://tiovictor.romhackhispano.org/?p=816
 header_img: /img/2012/07/Shen1Noti09.jpg
-date: '2012-07-12 20:00:41 +0200'
-date_gmt: '2012-07-12 18:00:41 +0200'
 categories:
 - Shenmue
 tags:

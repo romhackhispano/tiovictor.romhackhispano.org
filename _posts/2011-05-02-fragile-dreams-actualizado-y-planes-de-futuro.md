@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 480
 wordpress_url: http://tiovictor.romhackhispano.org/?p=480
 header_img: /img/2011/05/FragileNoti03.jpg
-date: '2011-05-02 14:18:19 +0200'
-date_gmt: '2011-05-02 13:18:19 +0200'
 categories:
 - Time Crisis
 - The 3rd Birthday

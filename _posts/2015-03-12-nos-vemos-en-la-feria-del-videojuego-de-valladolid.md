@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2520
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2520
 header_img: /img/2015/03/RetroValladolid2015Noti1.jpg
-date: '2015-03-12 22:49:12 +0100'
-date_gmt: '2015-03-12 20:49:12 +0100'
 categories:
 - General
 - Shenmue II

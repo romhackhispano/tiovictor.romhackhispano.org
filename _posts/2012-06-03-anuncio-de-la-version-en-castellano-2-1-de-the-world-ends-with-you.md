@@ -11,8 +11,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 743
 wordpress_url: http://tiovictor.romhackhispano.org/?p=743
 header_img: /img/2012/06/TWEWYNoti04.jpg
-date: '2012-06-03 22:10:27 +0200'
-date_gmt: '2012-06-03 21:10:27 +0200'
 categories:
 - The World Ends With You
 - Shenmue

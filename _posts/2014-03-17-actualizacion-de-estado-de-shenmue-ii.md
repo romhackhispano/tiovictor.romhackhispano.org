@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2115
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2115
 header_img: /img/2014/03/Shen2Noti11.jpg
-date: '2014-03-17 19:06:40 +0100'
-date_gmt: '2014-03-17 17:06:40 +0100'
 categories:
 - Shenmue II
 tags:

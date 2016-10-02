@@ -10,8 +10,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 3043
 wordpress_url: http://tiovictor.romhackhispano.org/?p=3043
 header_img: /img/2015/12/EntradaSAP03-1.jpg
-date: '2015-12-21 18:02:37 +0100'
-date_gmt: '2015-12-21 16:02:37 +0100'
 categories:
 - General
 - Sin and Punishment N64

@@ -9,8 +9,6 @@ author:
 author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2484
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2484
-date: '2015-01-15 20:15:13 +0100'
-date_gmt: '2015-01-15 18:15:13 +0100'
 categories:
 - General
 tags:

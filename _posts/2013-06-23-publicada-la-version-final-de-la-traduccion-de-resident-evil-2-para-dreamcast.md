@@ -11,8 +11,6 @@ author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 1296
 wordpress_url: http://tiovictor.romhackhispano.org/?p=1296
 header_img: /img/2013/06/RE2Noti16.jpg
-date: '2013-06-23 22:12:04 +0200'
-date_gmt: '2013-06-23 20:12:04 +0200'
 categories:
 - Resident Evil 2 Dreamcast
 tags:
