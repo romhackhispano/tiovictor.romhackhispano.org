@@ -34,16 +34,16 @@ _**Traducción:**_
 Traductor principal: Marc Laidlaw  
 Traductores adicionales: Raizing, cafe-alpha
 
-Conversión y edición de gráficos:  
+_**Conversión y edición de gráficos:**_  
 IlDucci
 
-Herramientas adicionales por:  
+_**Herramientas adicionales por:**_  
 Jörg Schilling
 
-Pruebas:  
+_**Pruebas:**_  
 Rolando Cedillo, Ross Foubister, Fred Guese, Oliver Jia, Alexander Lombardi, Joseph Migeed, Retroware, Ravi Singh, Switch, Artemio Urbina, Mr. Wolfe
 
-Agradecimientos:  
+_**Agradecimientos:**_  
 The Rockin'B, Akihabara Online, SegaSaturno y Dreamcast.es, CyberWarriorX, Axxel, FaustWolf, Michael Sabin y la comunidad de Verve Fanworks.
 
 Basado en un proyecto de Artemio Urbina, Marc Laidlaw y Michael Sawyer.
