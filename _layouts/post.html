@@ -8,9 +8,26 @@ layout: twocolumn
 
     <div class="overlapped-entry">
         <header class="post-header">
-            <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+            <h2 class="post-title" itemprop="name headline">{{ page.title }}</h2>
             <p class="post-meta">
-                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d de %B de %Y" }}
+                <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+                    {% assign m = page.date | date: "%-m" %}
+							    	{{ page.date | date: "%-d" }}
+						    		{% case m %}
+							    	{% when '1' %}de enero de
+							    	{% when '2' %}de febrero de
+							    	{% when '3' %}de marzo de
+							    	{% when '4' %}de abril de
+						    		{% when '5' %}de mayo de
+						    		{% when '6' %}de junio de
+						    		{% when '7' %}de julio de
+							    	{% when '8' %}de agosto de
+							    	{% when '9' %}de septiembre de
+							    	{% when '10' %}de octubre de
+							    	{% when '11' %}de noviembre de
+							    	{% when '12' %}de diciembre de
+							    	{% endcase %}
+							    	{{ page.date | date: "%Y" }}
                 </time>
                 {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span
                     itemprop="name"><a href="{{ page.author.url }}">{{ page.author.display_name }}</a></span></span>{%

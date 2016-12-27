@@ -8,16 +8,15 @@ layout: default
             {{ content }}
         </div>
         <div class="col-md-3 col-md-pull-9 leftcolumn">
-            <p>
-                Traducciones de juegos al Castellano por IlDucci
-            </p>
-
-            <h3>Traducciones</h3>
+            <h6>
+                <a href="{{ '/feed.xml' | prepend: site.baseurl }}">RSS</a> - <a href="{{ 'https://twitter.com/vgfilducci' }}">Twitter</a>
+            </h6>
+            <h4>Traducciones</h4>
 
             {% assign translations_by_platform = site.data.translations | group_by:"platform" %}
 
             {% for item in translations_by_platform %}
-            <h4>{{ site.data.platforms[item.name].title }}</h4>
+            <h5>{{ site.data.platforms[item.name].title }}</h5>
             <ul>
                 {% for i2 in item.items %}
                 <li><a href="{{ i2.url }}">{{ i2.title }}</a></li>
@@ -25,7 +24,7 @@ layout: default
             </ul>
             {% endfor %}
 
-            <h3>Colaboraciones</h3>
+            <h4>Colaboraciones</h4>
 
             <ul>
                 {% for item in site.data.collaborations %}
@@ -33,7 +32,7 @@ layout: default
                 {% endfor %}
             </ul>
 
-            <h3>Últimas noticias</h3>
+            <h4>Últimas noticias</h4>
 
             <ul>
                 {% for post in site.posts | limit: 5 %}
@@ -41,7 +40,7 @@ layout: default
                 {% endfor %}
             </ul>
 
-            <h3>Externo</h3>
+            <h4>Externo</h4>
 
             <ul>
                 {% for friend in site.data.friends %}
@@ -49,7 +48,7 @@ layout: default
                 {% endfor %}
             </ul>
 
-            <h3>Advertencia</h3>
+            <h4>Advertencia</h4>
 
             <p>Ni Traducciones del Tío Víctor ni ninguna de las personas mencionadas en este blog se hacen responsables
                 de los daños ocasionados en vuestras consolas o dispositivos de juego por un mal uso de las traducciones
