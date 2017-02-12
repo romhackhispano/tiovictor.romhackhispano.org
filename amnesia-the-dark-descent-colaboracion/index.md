@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Amnesia: The Dark Descent - Colaboración
+title: Amnesia The Dark Descent - Colaboración
 author:
   display_name: Tío Víctor
   url: http://tiovictor.romhackhispano.org
