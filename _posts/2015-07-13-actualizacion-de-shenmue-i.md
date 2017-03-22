@@ -9,6 +9,7 @@ author:
 author_url: http://tiovictor.romhackhispano.org
 wordpress_id: 2894
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2894
+header_img: /img/NotiEnBlancoV2.jpg
 categories:
 - General
 tags: []

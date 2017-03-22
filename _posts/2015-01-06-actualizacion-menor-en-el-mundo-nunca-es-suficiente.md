@@ -7,6 +7,7 @@ author:
   display_name: Tío Víctor
   url: http://tiovictor.romhackhispano.org
 author_url: http://tiovictor.romhackhispano.org
+header_img: /img/NotiEnBlancoV2.jpg
 wordpress_id: 2481
 wordpress_url: http://tiovictor.romhackhispano.org/?p=2481
 categories:

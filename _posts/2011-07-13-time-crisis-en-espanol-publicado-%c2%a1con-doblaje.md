@@ -20,7 +20,7 @@ colaborando en Chrono Traducciones, The 3rd Birthday para PSP, pero ha tenido
 problemas de última hora, así que hoy por fin puedo publicar otro proyecto de 
 traducción: Time Crisis 1 para PlayStation One.
 
-<p style="text-align: center;"><img src="/img/2011/05/SCES_006.57_13072011_194950_0250.png" width="256" height="256" /></a></p>
+<p style="text-align: center;"><img src="/img/2011/05/SCES_006.57_13072011_194950_0250-e1310586768872.png" width="256" height="256" /></p>
 
 Esta traducción ha sido muy especial, tanto por mi fanatismo por este tipo de 
 juegos como por el hecho de que es el primer fandoblaje que publico yo personalmente. 
