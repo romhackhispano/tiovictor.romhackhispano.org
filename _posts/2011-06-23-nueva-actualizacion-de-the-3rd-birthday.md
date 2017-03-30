@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Nueva actualización de The 3rd Birthday
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 497
-wordpress_url: http://tiovictor.romhackhispano.org/?p=497
-header_img: /img/2011/06/3rdBirthdayNoti02.jpg
+header:
+  overlay_image: /img/2011/06/3rdBirthdayNoti02.jpg
+layout: single
 categories:
 - The 3rd Birthday
 tags:

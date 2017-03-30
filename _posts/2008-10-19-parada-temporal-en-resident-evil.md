@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Parada temporal en Resident Evil
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 53
-wordpress_url: http://tiovictor.romhackhispano.org/?p=53
-header_img: /img/2008/10/TWEWYNoti01.jpg
+header:
+  overlay_image: /img/2008/10/TWEWYNoti01.jpg
 date: '2008-10-19 10:18:50 +0200'
 date_gmt: '2008-10-19 09:18:50 +0200'
+layout: single
 categories:
 - Resident Evil
 - The World Ends With You

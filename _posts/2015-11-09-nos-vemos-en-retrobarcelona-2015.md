@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Nos vemos en RetroBarcelona 2015
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 3029
-wordpress_url: http://tiovictor.romhackhispano.org/?p=3029
-header_img: /img/2015/11/RetroBarcelona2015Noti01.jpg
+header:
+  overlay_image: /img/2015/11/RetroBarcelona2015Noti01.jpg
+layout: single
 categories:
 - General
 tags:

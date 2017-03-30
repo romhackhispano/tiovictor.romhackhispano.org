@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Error en las descargas
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1529
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1529
-header_img: /img/2013/11/EnObrasNoti.jpg
+header:
+  overlay_image: /img/2013/11/EnObrasNoti.jpg
+layout: single
 categories:
 - General
 tags:

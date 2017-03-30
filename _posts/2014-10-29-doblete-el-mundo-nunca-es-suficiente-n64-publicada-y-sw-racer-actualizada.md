@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Doblete: El Mundo Nunca es Suficiente (N64) publicada y SW: Racer actualizada'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2371
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2371
-header_img: /img/2014/10/TWINEHeaderNoti01.jpg
+header:
+  overlay_image: /img/2014/10/TWINEHeaderNoti01.jpg
+layout: single
 categories:
 - Shenmue II
 - El Mundo Nunca es Suficiente (Nintendo 64)
@@ -19,21 +12,21 @@ tags:
 - El Mundo Nunca Es Suficiente
 - Star Wars Episodio I Racer
 gallery:
-- path: /img/2007/04/TWINE-ESP-20-01.jpg
-- path: /img/2007/04/TWINE-ESP-20-02.jpg
-- path: /img/2007/04/TWINE-ESP-20-03.jpg
-- path: /img/2007/04/TWINE-ESP-20-04.jpg
-- path: /img/2007/04/TWINE-ESP-20-05.jpg
-- path: /img/2007/04/TWINE-ESP-20-06.jpg
-- path: /img/2007/04/TWINE-ESP-20-07.jpg
-- path: /img/2007/04/TWINE-ESP-20-08.jpg
-- path: /img/2007/04/TWINE-ESP-20-09.jpg
-- path: /img/2007/04/TWINE-ESP-20-10.jpg
-- path: /img/2007/04/TWINE-ESP-20-11.jpg
-- path: /img/2007/04/TWINE-ESP-20-12.jpg
-- path: /img/2007/04/TWINE-ESP-20-13.jpg
-- path: /img/2007/04/TWINE-ESP-20-14.jpg
-- path: /img/2007/04/TWINE-ESP-20-15.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-01.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-02.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-03.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-04.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-05.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-06.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-07.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-08.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-09.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-10.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-11.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-12.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-13.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-14.jpg
+ - image_path: /img/2007/04/TWINE-ESP-20-15.jpg
 ---
 Dije que iba a escribir la actualización mensual mañana pero al final me iba a ser 
 imposible hacerlo. Bueno, hoy cierro un proyecto que llevaba siendo una espinita en mi 
@@ -73,4 +66,4 @@ y gráficos menores que había pasado por alto y que ya están traducidos (Mater
 y apuestas, principalmente).
 
 Y ahora sí, las capturas de El mundo nunca es suficiente.  
-{% include gallery.html gallery=page.gallery %}
+{% include gallery %}

@@ -1,13 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: "Aún estamos con la mudanza"
-author:
-- display_name: Tío Víctor
-- url: http://tiovictor.romhackhispano.org
-- author_url: http://tiovictor.romhackhispano.org
-header_img: /img/EnObrasNoti.jpg
+header:
+  overlay_image: /img/EnObrasNoti.jpg
+layout: single
 categories:
 - 'General'
 tags:

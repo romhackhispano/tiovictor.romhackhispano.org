@@ -1,16 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Pasando la mopa, parte 2 de 3: Más fotos y más
   vídeos'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1127
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1127
-header_img: /img/2012/12/DSENoti08.jpg
+header:
+  overlay_image: /img/2012/12/DSENoti08.jpg
+layout: single
 categories:
 - Resident Evil
 - Time Crisis
@@ -18,10 +11,10 @@ categories:
 - Shenmue II
 - Dead Space Extraction
 - Ready 2 Rumble
-- 'SWAT 4, The Stetchkov Syndicate'
+- SWAT 4 The Stetchkov Syndicate
 tags:
 - Dead Space Extraction
-- 'SWAT 4, The Stetchkov Syndicate'
+- SWAT 4 The Stetchkov Syndicate
 ---
 Aprovecho para comentar ahora que se nos va 2012 más cambios de las antiguas 
 traducciones que hay publicadas.

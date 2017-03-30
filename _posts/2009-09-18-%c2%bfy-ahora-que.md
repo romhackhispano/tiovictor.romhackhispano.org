@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: "¿Y ahora qué?"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 239
-wordpress_url: http://tiovictor.romhackhispano.org/?p=239
-header_img: /img/2012/03/Interrogacion.jpg
+header:
+  overlay_image: /img/2012/03/Interrogacion.jpg
 date: '2009-09-18 11:08:13 +0200'
 date_gmt: '2009-09-18 10:08:13 +0200'
+layout: single
 categories:
 - The World Ends With You
 - Zone of the Enders

@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización del porcentaje de Shenmue II
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 828
-wordpress_url: http://tiovictor.romhackhispano.org/?p=828
-header_img: /img/2012/09/Shen2Noti08.jpg
+header:
+  overlay_image: /img/2012/09/Shen2Noti08.jpg
+layout: single
 categories:
 - General
 - The World Ends With You

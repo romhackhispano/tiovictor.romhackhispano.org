@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Entrevistado por un podcast
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 248
-wordpress_url: http://tiovictor.romhackhispano.org/?p=248
-header_img: /img/2009/10/Microfono.jpg
+header:
+  overlay_image: /img/2009/10/Microfono.jpg
 date: '2009-10-08 10:20:54 +0200'
 date_gmt: '2009-10-08 09:20:54 +0200'
+layout: single
 categories:
 - General
 - The World Ends With You

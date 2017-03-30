@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Parche en camino
-author:
-- display_name: Tío Víctor
-- url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 38
-wordpress_url: http://tiovictor.romhackhispano.org/?p=38
-header_img: /img/2007/05/RE1Noti22.jpg
+header:
+  overlay_image: /img/2007/05/RE1Noti22.jpg
 date: '2007-05-02 01:21:20 +0200'
 date_gmt: '2007-05-01 23:21:20 +0200'
+layout: single
 categories:
 - Colaboraciones
 - Resident Evil

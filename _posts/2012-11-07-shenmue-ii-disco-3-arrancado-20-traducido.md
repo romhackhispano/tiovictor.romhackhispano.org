@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Shenmue II: Disco 3 arrancado, 20% traducido'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 920
-wordpress_url: http://tiovictor.romhackhispano.org/?p=920
-header_img: /img/2012/11/Shen2Noti03.jpg
+header:
+  overlay_image: /img/2012/11/Shen2Noti03.jpg
+layout: single
 categories:
 - Shenmue
 - Shenmue II

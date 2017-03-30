@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Zone Of The Enders: Conversión a NTSC-USA completada'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 201
-wordpress_url: http://tiovictor.romhackhispano.org/?p=201
-header_img: /img/2009/08/ZOE1Noti03.jpg
+header:
+  overlay_image: /img/2009/08/ZOE1Noti03.jpg
 date: '2009-08-12 22:32:19 +0200'
 date_gmt: '2009-08-12 21:32:19 +0200'
+layout: single
 categories:
 - Zone of the Enders
 tags:

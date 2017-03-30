@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Gameplay completo de What's Shenmue disponible
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2343
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2343
-header_img: /img/2014/10/WhatsShenmueNoti03.jpg
+header:
+  overlay_image: /img/2014/10/WhatsShenmueNoti03.jpg
+layout: single
 categories:
 - What's Shenmue Español
 tags:

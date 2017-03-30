@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Todos sabemos qué viene hoy... ¡Time Crisis... DOS!
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 673
-wordpress_url: http://tiovictor.romhackhispano.org/?p=673
-header_img: /img/2011/12/TC2Noti.jpg
+header:
+  overlay_image: /img/2011/12/TC2Noti.jpg
+layout: single
 categories:
 - Colaboraciones
 - Time Crisis

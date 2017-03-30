@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: "¿Queréis oir el doblaje completo de Time Crisis?"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 527
-wordpress_url: http://tiovictor.romhackhispano.org/?p=527
-header_img: /img/2011/07/TC1Noti01.jpg
+header:
+  overlay_image: /img/2011/07/TC1Noti01.jpg
+layout: single
 categories:
 - General
 - Time Crisis

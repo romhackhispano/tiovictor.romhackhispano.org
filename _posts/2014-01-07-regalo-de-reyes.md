@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Regalo de Reyes
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1821
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1821
-header_img: /img/2014/01/Shen2Noti05.jpg
+header:
+  overlay_image: /img/2014/01/Shen2Noti05.jpg
+layout: single
 categories:
 - Shenmue II
 tags:

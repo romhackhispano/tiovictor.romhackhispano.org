@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Traducción de Project Zero 4 publicada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 397
-wordpress_url: http://tiovictor.romhackhispano.org/?p=397
-header_img: /img/2010/08/PZ4Noti01.jpg
+header:
+  overlay_image: /img/2010/08/PZ4Noti01.jpg
 date: '2010-08-28 17:10:00 +0200'
 date_gmt: '2010-08-28 16:10:00 +0200'
+layout: single
 categories:
 - Colaboraciones
 - Project Zero 4

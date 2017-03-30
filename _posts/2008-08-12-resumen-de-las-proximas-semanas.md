@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Resumen de las próximas semanas
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 50
-wordpress_url: http://tiovictor.romhackhispano.org/?p=50
-header_img: /img/2008/08/RE1Noti12.jpg
+header:
+  overlay_image: /img/2008/08/RE1Noti12.jpg
 date: '2008-08-12 13:33:22 +0200'
 date_gmt: '2008-08-12 12:33:22 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

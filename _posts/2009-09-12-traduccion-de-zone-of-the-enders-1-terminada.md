@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Traducción de Zone Of The Enders 1 terminada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 216
-wordpress_url: http://tiovictor.romhackhispano.org/?p=216
-header_img: /img/2009/09/ZOE1Noti06.jpg
+header:
+  overlay_image: /img/2009/09/ZOE1Noti06.jpg
 date: '2009-09-12 10:46:08 +0200'
 date_gmt: '2009-09-12 09:46:08 +0200'
+layout: single
 categories:
 - Zone of the Enders
 tags:

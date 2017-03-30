@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Noticias y nueva traducción publicada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 369
-wordpress_url: http://tiovictor.romhackhispano.org/?p=369
-header_img: /img/2010/07/AlienSwarmNoti03.jpg
+header:
+  overlay_image: /img/2010/07/AlienSwarmNoti03.jpg
 date: '2010-07-28 16:31:48 +0200'
 date_gmt: '2010-07-28 15:31:48 +0200'
+layout: single
 categories:
 - Alien Swarm
 - Project Zero 4

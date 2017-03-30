@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Crisis... de la mediana edad
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 486
-wordpress_url: http://tiovictor.romhackhispano.org/?p=486
-header_img: /img/2011/05/TC1Noti07.jpg
+header:
+  overlay_image: /img/2011/05/TC1Noti07.jpg
+layout: single
 categories:
 - Time Crisis
 tags:

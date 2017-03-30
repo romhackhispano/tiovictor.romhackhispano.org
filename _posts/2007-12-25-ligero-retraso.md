@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Ligero retraso
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 42
-wordpress_url: http://tiovictor.romhackhispano.org/?p=42
-header_img: /img/2007/12/RE1Noti19.jpg
+header:
+  overlay_image: /img/2007/12/RE1Noti19.jpg
 date: '2007-12-25 22:11:12 +0100'
 date_gmt: '2007-12-25 20:11:12 +0100'
+layout: single
 categories:
 - Resident Evil
 tags:

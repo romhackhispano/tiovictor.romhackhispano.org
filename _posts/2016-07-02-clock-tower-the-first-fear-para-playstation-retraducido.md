@@ -1,29 +1,22 @@
 ---
-layout: post
-status: publish
-published: true
 title: "¡Clock Tower, The First Fear para PlayStation retraducido!"
-author:
-- display_name: Tío Víctor
-- url: http://tiovictor.romhackhispano.org
-- author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 3284
-wordpress_url: http://tiovictor.romhackhispano.org/?p=3284
-header_img: /img/2016/07/NotiClockTower1-02.jpg
+header:
+  overlay_image: /img/2016/07/NotiClockTower1-02.jpg
+layout: single
 categories:
-- 'Clock Tower, The First Fear'
+- 'Clock Tower The First Fear'
 tags:
-- 'Clock Tower, The First Fear'
+- 'Clock Tower The First Fear'
 gallery:
-- path: /img/2016/07/CTTTF20_V2_01.jpg
-- path: /img/2016/07/CTTTF20_V2_02.jpg
-- path: /img/2016/07/CTTTF20_V2_03.jpg
-- path: /img/2016/07/CTTTF20_V2_04.jpg
-- path: /img/2016/07/CTTTF20_V2_05.jpg
-- path: /img/2016/07/CTTTF20_V2_06.jpg
-- path: /img/2016/07/CTTTF20_V2_07.jpg
-- path: /img/2016/07/CTTTF20_V2_08.jpg
-- path: /img/2016/07/CTTTF20_V2_09.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_01.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_02.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_03.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_04.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_05.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_06.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_07.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_08.jpg
+ - image_path: /img/2016/07/CTTTF20_V2_09.jpg
 ---
 
 ¡Buenas a todos! Vamos a terminar esta pequeña orgía de lanzamientos de parches con una
@@ -43,6 +36,6 @@ hacia mi objetivo de quedarme sólo con Policenauts y con algún otro proyecto q
 
 <!--more-->
 
-{% include gallery.html gallery=page.gallery %}
+{% include gallery %}
 
 A lo largo de este mes os pondré al día del estado de las traducciones que tengo en curso. ¡Seguiremos informando!

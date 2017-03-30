@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Traducción de Shenmue I... ¡PUBLICADA!
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 771
-wordpress_url: http://tiovictor.romhackhispano.org/?p=771
-header_img: /img/2012/06/Shen1Noti03.jpg
+header:
+  overlay_image: /img/2012/06/Shen1Noti03.jpg
+layout: single
 categories:
 - Colaboraciones
 - Shenmue

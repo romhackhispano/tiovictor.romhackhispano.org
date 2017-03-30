@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Traducción de Tom Clancy's Rainbow Six publicada y otra sorpresa
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1503
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1503
-header_img: /img/2013/11/RainbowSixNoti01.jpg
+header:
+  overlay_image: /img/2013/11/RainbowSixNoti01.jpg
+layout: single
 categories:
 - General
 - Saga Rainbow Six PC

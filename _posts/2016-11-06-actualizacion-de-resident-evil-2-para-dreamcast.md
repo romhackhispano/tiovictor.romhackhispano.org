@@ -1,13 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: "Actualización de Resident Evil 2 para Dreamcast"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-header_img: /img/NotiEnBlancoV2.jpg
+header:
+  overlay_image: /img/NotiEnBlancoV2.jpg
+layout: single
 categories:
 - 'Policenauts'
 tags:

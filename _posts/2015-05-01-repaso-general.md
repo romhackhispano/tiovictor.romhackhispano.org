@@ -1,21 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: Repaso general
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-header_img: /img/NotiEnBlancoV2.jpg
-wordpress_id: 2528
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2528
+layout: single
 categories:
 - General
 - Shenmue II
 - Policenauts
 - Silent Hill de PSOne
-- Sin and Punishment N64
+- Sin and Punishment
 tags: []
 ---
 Aprovecho la caída y recuperación del servidor para hacer un breve resumen de las novedades 

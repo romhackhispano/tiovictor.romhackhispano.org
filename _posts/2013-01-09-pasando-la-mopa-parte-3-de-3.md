@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Pasando la mopa, parte 3 de ¿3?
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1224
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1224
-header_img: /img/2013/01/SilentHillNoti02.jpg
+header:
+  overlay_image: /img/2013/01/SilentHillNoti02.jpg
+layout: single
 categories:
 - Resident Evil
 - Time Crisis

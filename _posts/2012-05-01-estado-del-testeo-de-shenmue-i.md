@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Estado del testeo de Shenmue I
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 719
-wordpress_url: http://tiovictor.romhackhispano.org/?p=719
-header_img: /img/2012/05/Shen1Noti02.jpg
+header:
+  overlay_image: /img/2012/05/Shen1Noti02.jpg
+layout: single
 categories:
 - Shenmue
 tags:

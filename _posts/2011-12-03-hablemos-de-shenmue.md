@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Hablemos de Shenmue
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 632
-wordpress_url: http://tiovictor.romhackhispano.org/?p=632
-header_img: /img/2011/12/Shen1Noti12.jpg
+header:
+  overlay_image: /img/2011/12/Shen1Noti12.jpg
+layout: single
 categories:
 - Colaboraciones
 - Shenmue

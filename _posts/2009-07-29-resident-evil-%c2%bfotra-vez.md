@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Resident Evil... ¿Otra vez?
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 197
-wordpress_url: http://tiovictor.romhackhispano.org/?p=197
-header_img: /img/2009/07/RE1Noti03.jpg
+header:
+  overlay_image: /img/2009/07/RE1Noti03.jpg
 date: '2009-07-29 23:10:35 +0200'
 date_gmt: '2009-07-29 22:10:35 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

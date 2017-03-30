@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización de estado de Shenmue II
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2115
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2115
-header_img: /img/2014/03/Shen2Noti11.jpg
+header:
+  overlay_image: /img/2014/03/Shen2Noti11.jpg
+layout: single
 categories:
 - Shenmue II
 tags:

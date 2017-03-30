@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Disco 2 de Shenmue II revisado al 100%
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2108
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2108
-header_img: /img/2014/03/Shen2Noti10.jpg
+header:
+  overlay_image: /img/2014/03/Shen2Noti10.jpg
+layout: single
 categories:
 - Shenmue II
 tags:

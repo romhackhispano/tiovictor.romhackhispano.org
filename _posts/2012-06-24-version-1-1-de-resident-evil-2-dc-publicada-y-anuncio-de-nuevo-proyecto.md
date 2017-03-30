@@ -1,16 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Versión 1.1 de Resident Evil 2 DC publicada y anuncio de nuevo
   proyecto
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 803
-wordpress_url: http://tiovictor.romhackhispano.org/?p=803
-header_img: /img/2012/06/NautsNoti09.jpg
+header:
+  overlay_image: /img/2012/06/NautsNoti09.jpg
+layout: single
 categories:
 - Resident Evil 2 Dreamcast
 - Policenauts

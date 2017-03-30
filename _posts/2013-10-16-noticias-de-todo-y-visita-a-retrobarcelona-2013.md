@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Noticias de todo y visita a Retrobarcelona 2013
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1459
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1459
-header_img: /img/2013/10/RetroBarnaNoti.jpg
+header:
+  overlay_image: /img/2013/10/RetroBarnaNoti.jpg
+layout: single
 categories:
 - Shenmue II
 - Policenauts

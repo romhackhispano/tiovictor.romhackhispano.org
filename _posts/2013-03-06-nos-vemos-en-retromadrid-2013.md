@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: "¡Nos vemos en RetroMadrid 2013!"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1238
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1238
-header_img: /img/2013/03/RetroMadrid2013Noti01.jpg
+header:
+  overlay_image: /img/2013/03/RetroMadrid2013Noti01.jpg
+layout: single
 categories:
 - General
 - Shenmue II

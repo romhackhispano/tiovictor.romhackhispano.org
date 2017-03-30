@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: The World Ends With You Versión en Castellano 2.0 ya disponible
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 580
-wordpress_url: http://tiovictor.romhackhispano.org/?p=580
-header_img: /img/2011/11/TWEWYNoti03.jpg
+header:
+  overlay_image: /img/2011/11/TWEWYNoti03.jpg
+layout: single
 categories:
 - The World Ends With You
 tags:

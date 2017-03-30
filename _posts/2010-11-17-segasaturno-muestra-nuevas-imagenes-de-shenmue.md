@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: SegaSaturno muestra nuevas imágenes de Shenmue
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 415
-wordpress_url: http://tiovictor.romhackhispano.org/?p=415
-header_img: /img/2010/11/Shen1Noti14.jpg
+header:
+  overlay_image: /img/2010/11/Shen1Noti14.jpg
 date: '2010-11-17 21:13:58 +0100'
 date_gmt: '2010-11-17 20:13:58 +0100'
+layout: single
 categories:
 - Shenmue
 tags:

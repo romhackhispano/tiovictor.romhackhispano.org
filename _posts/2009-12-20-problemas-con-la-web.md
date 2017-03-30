@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Problemas con la web
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 270
-wordpress_url: http://tiovictor.romhackhispano.org/?p=270
-header_img: /img/2013/11/EnObrasNoti.jpg
+header:
+  overlay_image: /img/2013/11/EnObrasNoti.jpg
 date: '2009-12-20 15:13:26 +0100'
 date_gmt: '2009-12-20 14:13:26 +0100'
+layout: single
 categories:
 - Shenmue
 - Dead Space Extraction

@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Actualización de Silent Hill: Soporte para NTSC-U disponible'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2215
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2215
-header_img: /img/2014/07/SilentHillNoti06.jpg
+header:
+  overlay_image: /img/2014/07/SilentHillNoti06.jpg
+layout: single
 categories:
 - Silent Hill de PSOne
 tags:

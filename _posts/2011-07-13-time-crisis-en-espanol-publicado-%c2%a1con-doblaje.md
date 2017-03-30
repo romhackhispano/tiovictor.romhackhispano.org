@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Time Crisis en Español publicado (¡Con doblaje!)
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 519
-wordpress_url: http://tiovictor.romhackhispano.org/?p=519
-header_img: /img/2011/07/TC1Noti08.jpg
+header:
+  overlay_image: /img/2011/07/TC1Noti08.jpg
+layout: single
 categories:
 - Time Crisis
 tags:

@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: "Últimos proyectos confirmados"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 251
-wordpress_url: http://tiovictor.romhackhispano.org/?p=251
-header_img: /img/2009/11/TWEWYNoti02.jpg
+header:
+  overlay_image: /img/2009/11/TWEWYNoti02.jpg
 date: '2009-11-20 11:23:37 +0100'
 date_gmt: '2009-11-20 10:23:37 +0100'
+layout: single
 categories:
 - The World Ends With You
 - Shenmue

@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: "(Actualizado) 2.4b de Resident Evil ya disponible"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 48
-wordpress_url: http://tiovictor.romhackhispano.org/?p=48
-header_img: /img/2008/06/RE1Noti14.jpg
+header:
+  overlay_image: /img/2008/06/RE1Noti14.jpg
 date: '2008-06-17 20:21:40 +0200'
 date_gmt: '2008-06-17 19:21:40 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

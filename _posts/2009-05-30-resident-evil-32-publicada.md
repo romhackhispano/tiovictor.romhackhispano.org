@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Resident Evil - 3.2 publicada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 127
-wordpress_url: http://tiovictor.romhackhispano.org/?p=127
-header_img: /img/2009/05/RE1Noti05.jpg
+header:
+  overlay_image: /img/2009/05/RE1Noti05.jpg
 date: '2009-05-30 23:08:55 +0200'
 date_gmt: '2009-05-30 22:08:55 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

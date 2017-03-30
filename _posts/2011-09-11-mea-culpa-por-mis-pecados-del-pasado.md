@@ -1,22 +1,15 @@
 ---
-layout: post
-status: publish
-published: true
 title: Mea culpa por mis pecados del pasado
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 555
-wordpress_url: http://tiovictor.romhackhispano.org/?p=555
-header_img: /img/2012/03/Interrogacion.jpg
+header:
+  overlay_image: /img/2012/03/Interrogacion.jpg
+layout: single
 categories:
 - General
 - Personal
 - Fragile Dreams
 tags:
 - General
-- 'Fragile Dreams: Farewell Ruins of the Moon'
+- Fragile Dreams Farewell Ruins of the Moon
 ---
 (Sí, ya sé que esto estaba en el post del Resident Evil 2, pero creo que se merece 
 un post propio, para mi vergüenza y oprobio)

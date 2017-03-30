@@ -1,21 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
 title: Fragile Dreams publicada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 470
-wordpress_url: http://tiovictor.romhackhispano.org/?p=470
-header_img: /img/2011/03/FragileNoti02.jpg
+header:
+  overlay_image: /img/2011/03/FragileNoti02.jpg
+layout: single
 categories:
 - General
 - Colaboraciones
 - Fragile Dreams
 tags:
-- 'Fragile Dreams: Farewell Ruins of the Moon'
+- Fragile Dreams Farewell Ruins of the Moon
 ---
 Bueno, tras varios gritos, carreras y prisas, os traemos por adelantado la 
 primera versión completa de la fantraducción de Fragile Dreams: Farewell 

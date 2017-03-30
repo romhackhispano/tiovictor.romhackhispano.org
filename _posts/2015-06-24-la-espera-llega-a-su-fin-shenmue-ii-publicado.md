@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'La espera llega a su fin: Shenmue II publicado'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2862
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2862
-header_img: /img/2015/06/Shen2Noti12.jpg
+header:
+  overlay_image: /img/2015/06/Shen2Noti12.jpg
+layout: single
 categories:
 - Shenmue
 - Shenmue II

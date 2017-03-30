@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Esta es la nueva intro de Shenmue 1 doblada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 729
-wordpress_url: http://tiovictor.romhackhispano.org/?p=729
-header_img: /img/2012/05/Shen1Noti19.jpg
+header:
+  overlay_image: /img/2012/05/Shen1Noti19.jpg
+layout: single
 categories:
 - Shenmue
 tags:

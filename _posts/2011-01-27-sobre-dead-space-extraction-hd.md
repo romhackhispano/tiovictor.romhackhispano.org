@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Sobre Dead Space Extraction HD...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 430
-wordpress_url: http://tiovictor.romhackhispano.org/?p=430
-header_img: /img/2011/01/DSENoti07.jpg
+header:
+  overlay_image: /img/2011/01/DSENoti07.jpg
+layout: single
 categories:
 - General
 - Dead Space Extraction

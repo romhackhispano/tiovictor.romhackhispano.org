@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Offtopic variado...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 808
-wordpress_url: http://tiovictor.romhackhispano.org/?p=808
-header_img: /img/2012/07/Shen1Noti07.jpg
+header:
+  overlay_image: /img/2012/07/Shen1Noti07.jpg
+layout: single
 categories:
 - General
 - Colaboraciones

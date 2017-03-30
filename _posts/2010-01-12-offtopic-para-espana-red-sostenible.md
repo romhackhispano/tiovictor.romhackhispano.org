@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Offtopic para España: Red SOStenible'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 292
-wordpress_url: http://tiovictor.romhackhispano.org/?p=292
-header_img: /img/2012/03/Interrogacion.jpg
+header:
+  overlay_image: /img/2012/03/Interrogacion.jpg
 date: '2010-01-12 19:44:03 +0100'
 date_gmt: '2010-01-12 18:44:03 +0100'
+layout: single
 categories:
 - General
 tags:

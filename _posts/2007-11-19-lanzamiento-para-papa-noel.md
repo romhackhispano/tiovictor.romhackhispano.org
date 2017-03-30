@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Lanzamiento para Papá Noel
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 41
-wordpress_url: http://tiovictor.romhackhispano.org/?p=41
-header_img: /img/2007/11/RE1Noti20.jpg
+header:
+  overlay_image: /img/2007/11/RE1Noti20.jpg
 date: '2007-11-19 15:33:09 +0100'
 date_gmt: '2007-11-19 13:33:09 +0100'
+layout: single
 categories:
 - General
 - Resident Evil

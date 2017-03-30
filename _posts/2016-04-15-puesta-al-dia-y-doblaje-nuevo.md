@@ -1,26 +1,19 @@
 ---
-layout: post
-status: publish
-published: true
 title: Puesta al día y doblaje nuevo
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 3153
-wordpress_url: http://tiovictor.romhackhispano.org/?p=3153
-header_img: /img/2016/04/NotiClockTower1-01.jpg
+header:
+  overlay_image: /img/2016/04/NotiClockTower1-01.jpg
+layout: single
 categories:
 - Colaboraciones
 - Shadow Watch
 - Alone in the Dark IV DC
-- 'Clock Tower: The First Fear'
+- Clock Tower The First Fear
 - Resident Evil Survivor
 - Broken Sword 2.5
 tags:
 - Shadow Watch
 - Alone in the Dark IV DC
-- 'Clock Tower: The First Fear'
+- Clock Tower The First Fear
 - Resident Evil Survivor
 - Broken Sword 2.5
 ---

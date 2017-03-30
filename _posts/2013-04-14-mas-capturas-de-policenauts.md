@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Más capturas de Policenauts
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1264
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1264
-header_img: /img/2013/04/NautsNoti03.jpg
+header:
+  overlay_image: /img/2013/04/NautsNoti03.jpg
+layout: single
 categories:
 - Shenmue II
 - Policenauts
@@ -18,21 +11,21 @@ tags:
 - Shenmue II
 - Shenmue
 gallery:
-- path: /img/2012/06/slps_002-15_14042013_202607_0044.jpg
-- path: /img/2012/06/slps_002-15_14042013_202611_0966.jpg
-- path: /img/2012/06/slps_002-15_14042013_202831_0608.jpg
-- path: /img/2012/06/slps_002-15_14042013_210232_0094.jpg
-- path: /img/2012/06/slps_002-15_14042013_210403_0694.jpg
-- path: /img/2012/06/slps_002-15_14042013_210510_0254.jpg
-- path: /img/2012/06/slps_002-15_14042013_210538_0611.jpg
-- path: /img/2012/06/slps_002-15_14042013_215104_0562.jpg
-- path: /img/2012/06/slps_002-15_14042013_215230_0631.jpg
-- path: /img/2012/06/slps_002-15_14042013_215342_0722.jpg
-- path: /img/2012/06/slps_002-15_14042013_215450_0750-1.jpg
-- path: /img/2012/06/slps_002-15_14042013_202042_0165.jpg
-- path: /img/2012/06/slps_002-15_14042013_202246_0664.jpg
-- path: /img/2012/06/slps_002-15_14042013_202411_0900.jpg
-- path: /img/2012/06/slps_002-15_14042013_202454_0535.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_202607_0044.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_202611_0966.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_202831_0608.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_210232_0094.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_210403_0694.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_210510_0254.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_210538_0611.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_215104_0562.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_215230_0631.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_215342_0722.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_215450_0750-1.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_202042_0165.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_202246_0664.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_202411_0900.jpg
+ - image_path: /img/2012/06/slps_002-15_14042013_202454_0535.jpg
 ---
 Este mes tengo pocas noticias, pero buenas:
 
@@ -51,6 +44,6 @@ de PlayStation). Así que los progresos van despacito, pero con buena letra.
 Para no dar el coñazo con los retrasos, os adjunto una nueva ronda de capturas, de nuevo, 
 de una versión no-final de los textos.
 
-{% include gallery.html gallery=page.gallery %}
+{% include gallery %}
 
 Seguiremos informando.

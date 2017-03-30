@@ -1,19 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
 title: "Colaboración: Doblaje de Amnesia publicado"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-header_img: /img/2017/AmnesiaNoti01.jpg
+header:
+  overlay_image: /img/2017/AmnesiaNoti01.jpg
+layout: single
 categories:
 - 'General'
-- Colaboraciones
+- 'Colaboraciones'
 tags:
 - 'General'
-- Colaboraciones
+- 'Colaboraciones'
 ---
 
 Hoy haré un anuncio breve: <strong><a href="https://www.youtube.com/user/ConanCimmerio/videos">ConanCimmerio</a></strong> y su equipo han terminado 

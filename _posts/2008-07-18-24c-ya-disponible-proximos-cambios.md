@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 2.4c ya disponible, próximos cambios
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 49
-wordpress_url: http://tiovictor.romhackhispano.org/?p=49
-header_img: /img/2008/07/RE1Noti13.jpg
+header:
+  overlay_image: /img/2008/07/RE1Noti13.jpg
 date: '2008-07-18 18:43:27 +0200'
 date_gmt: '2008-07-18 17:43:27 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

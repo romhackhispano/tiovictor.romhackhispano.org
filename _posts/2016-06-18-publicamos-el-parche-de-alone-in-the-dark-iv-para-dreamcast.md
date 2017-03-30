@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: "¡Publicamos el parche de Alone In The Dark IV para Dreamcast!"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 3204
-wordpress_url: http://tiovictor.romhackhispano.org/?p=3204
-header_img: /img/2016/06/NotiAITD402.jpg
+header:
+  overlay_image: /img/2016/06/NotiAITD402.jpg
+layout: single
 categories:
 - Alone in the Dark IV DC
 tags:

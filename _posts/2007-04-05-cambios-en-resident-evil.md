@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Cambios en Resident Evil
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 32
-wordpress_url: http://tiovictor.romhackhispano.org/?p=32
-header_img: /img/2007/04/RE1Noti27.jpg
+header:
+  overlay_image: /img/2007/04/RE1Noti27.jpg
 date: '2007-04-05 21:30:55 +0200'
 date_gmt: '2007-04-05 19:30:55 +0200'
+layout: single
 categories:
 - Colaboraciones
 - Resident Evil

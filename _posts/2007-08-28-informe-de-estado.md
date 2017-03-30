@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Informe de estado
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 40
-wordpress_url: http://tiovictor.romhackhispano.org/?p=40
-header_img: /img/2007/08/RE1Noti21.jpg
+header:
+  overlay_image: /img/2007/08/RE1Noti21.jpg
 date: '2007-08-28 13:48:12 +0200'
 date_gmt: '2007-08-28 11:48:12 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

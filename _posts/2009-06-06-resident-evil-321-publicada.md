@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Resident Evil 3.2.1b publicada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 133
-wordpress_url: http://tiovictor.romhackhispano.org/?p=133
-header_img: /img/2009/06/RE1Noti04.jpg
+header:
+  overlay_image: /img/2009/06/RE1Noti04.jpg
 date: '2009-06-06 10:31:59 +0200'
 date_gmt: '2009-06-06 09:31:59 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

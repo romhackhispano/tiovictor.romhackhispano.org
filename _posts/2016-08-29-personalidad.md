@@ -1,33 +1,28 @@
 ---
-layout: post
-status: publish
-published: true
 title: "Personalidad"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-header_img: /img/NotiEnBlancoV2.jpg
+header:
+  overlay_image: /img/NotiEnBlancoV2.jpg
+layout: single
 categories:
 - 'Persona 3'
 tags:
 - 'Persona 3'
 gallery:
-- path: /img/2016/08/P3FES-20160829-01.jpg
-- path: /img/2016/08/P3FES-20160829-02.jpg
-- path: /img/2016/08/P3FES-20160829-03.jpg
-- path: /img/2016/08/P3FES-20160829-04.jpg
-- path: /img/2016/08/P3FES-20160829-05.jpg
-- path: /img/2016/08/P3FES-20160829-06.jpg
-- path: /img/2016/08/P3FES-20160829-07.jpg
-- path: /img/2016/08/P3FES-20160829-08.jpg
-- path: /img/2016/08/P3FES-20160829-09.jpg
-- path: /img/2016/08/P3FES-20160829-10.jpg
-- path: /img/2016/08/P3FES-20160829-11.jpg
-- path: /img/2016/08/P3FES-20160829-12.jpg
-- path: /img/2016/08/P3FES-20160829-13.jpg
-- path: /img/2016/08/P3FES-20160829-14.jpg
-- path: /img/2016/08/P3FES-20160829-15.jpg
+ - image_path: /img/2016/08/P3FES-20160829-01.jpg
+ - image_path: /img/2016/08/P3FES-20160829-02.jpg
+ - image_path: /img/2016/08/P3FES-20160829-03.jpg
+ - image_path: /img/2016/08/P3FES-20160829-04.jpg
+ - image_path: /img/2016/08/P3FES-20160829-05.jpg
+ - image_path: /img/2016/08/P3FES-20160829-06.jpg
+ - image_path: /img/2016/08/P3FES-20160829-07.jpg
+ - image_path: /img/2016/08/P3FES-20160829-08.jpg
+ - image_path: /img/2016/08/P3FES-20160829-09.jpg
+ - image_path: /img/2016/08/P3FES-20160829-10.jpg
+ - image_path: /img/2016/08/P3FES-20160829-11.jpg
+ - image_path: /img/2016/08/P3FES-20160829-12.jpg
+ - image_path: /img/2016/08/P3FES-20160829-13.jpg
+ - image_path: /img/2016/08/P3FES-20160829-14.jpg
+ - image_path: /img/2016/08/P3FES-20160829-15.jpg
 ---
 
 Antes de seguir con los proyectos existentes, me gustaría hacer un anuncio breve pero intenso.
@@ -46,4 +41,4 @@ relativamente sencillas).
 
 En los próximos días daré más información. Ahora, unas fotitos en una etapa temprana del desarrollo:
 
-{% include gallery.html gallery=page.gallery %}
+{% include gallery %}

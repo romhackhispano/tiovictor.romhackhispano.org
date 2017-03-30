@@ -1,21 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización rápida de TSS
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 104
-wordpress_url: http://tiovictor.romhackhispano.org/?p=104
-header_img: /img/2009/02/SWAT4XNoti04.jpg
+header:
+  overlay_image: /img/2009/02/SWAT4XNoti04.jpg
 date: '2009-02-27 18:30:39 +0100'
 date_gmt: '2009-02-27 17:30:39 +0100'
+layout: single
 categories:
-- 'SWAT 4, The Stetchkov Syndicate'
+- SWAT 4 The Stetchkov Syndicate
 tags:
-- 'SWAT 4, The Stetchkov Syndicate'
+- SWAT 4 The Stetchkov Syndicate
 ---
 Bueno, he estado bastante liado en las últimas semanas, ya que he estado 
 empezando a buscar trabajo.

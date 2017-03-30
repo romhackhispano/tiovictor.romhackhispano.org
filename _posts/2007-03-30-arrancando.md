@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Arrancando
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 3
-wordpress_url: http://tiovictor.romhackhispano.org/?p=3
-header_img: /img/2007/03/Cortina.jpg
+header:
+  overlay_image: /img/2007/03/Cortina.jpg
 date: '2007-03-30 13:55:28 +0200'
 date_gmt: '2007-03-30 11:55:28 +0200'
+layout: single
 categories:
 - General
 - Resident Evil

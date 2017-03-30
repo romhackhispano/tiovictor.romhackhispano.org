@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Entrevistado en la revista de Dreamcast.es
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2954
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2954
-header_img: /img/2015/10/RevistaDCEsNoti01.jpg
+header:
+  overlay_image: /img/2015/10/RevistaDCEsNoti01.jpg
+layout: single
 categories:
 - General
 - Personal

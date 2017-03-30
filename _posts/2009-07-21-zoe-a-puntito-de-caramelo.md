@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: ZOE a puntito de caramelo
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 184
-wordpress_url: http://tiovictor.romhackhispano.org/?p=184
-header_img: /img/2009/07/ZOE1Noti04.jpg
+header:
+  overlay_image: /img/2009/07/ZOE1Noti04.jpg
 date: '2009-07-21 15:48:49 +0200'
 date_gmt: '2009-07-21 14:48:49 +0200'
+layout: single
 categories:
 - Zone of the Enders
 tags:

@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: "¡Resident Evil: Director's Cut terminada!"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 99
-wordpress_url: http://tiovictor.romhackhispano.org/?p=99
-header_img: /img/2009/01/RE1Noti10.jpg
+header:
+  overlay_image: /img/2009/01/RE1Noti10.jpg
 date: '2009-01-24 23:44:39 +0100'
 date_gmt: '2009-01-24 22:44:39 +0100'
+layout: single
 categories:
 - Resident Evil
 tags:

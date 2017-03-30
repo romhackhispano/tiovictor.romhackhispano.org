@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Curiosa sorpresa...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 413
-wordpress_url: http://tiovictor.romhackhispano.org/?p=413
-header_img: /img/2012/03/Interrogacion.jpg
+header:
+  overlay_image: /img/2012/03/Interrogacion.jpg
 date: '2010-10-25 11:39:28 +0200'
 date_gmt: '2010-10-25 10:39:28 +0200'
+layout: single
 categories:
 - General
 tags:

@@ -1,19 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Felices fiestas
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-header_img: /img/NotiEnBlancoV2.jpg
-wordpress_id: 2453
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2453
+layout: single
 categories:
 - General
 - Shenmue II
-- Sin and Punishment N64
+- Sin and Punishment
 tags:
 - General
 - Shenmue II

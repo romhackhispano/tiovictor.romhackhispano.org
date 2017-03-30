@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: El Post-RetroMadrid 2013
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1240
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1240
-header_img: /img/2013/03/RetroMadrid2013Noti02.jpg
+header:
+  overlay_image: /img/2013/03/RetroMadrid2013Noti02.jpg
+layout: single
 categories:
 - General
 - Shenmue II

@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Gameplay de Shenmue I ya disponible
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1274
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1274
-header_img: /img/2013/06/Shen1Noti17.jpg
+header:
+  overlay_image: /img/2013/06/Shen1Noti17.jpg
+layout: single
 categories:
 - General
 - Shenmue

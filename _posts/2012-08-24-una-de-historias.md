@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Una de historias...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 824
-wordpress_url: http://tiovictor.romhackhispano.org/?p=824
-header_img: /img/2013/04/NautsNoti03.jpg
+header:
+  overlay_image: /img/2013/04/NautsNoti03.jpg
+layout: single
 categories:
 - General
 - Resident Evil 2 Dreamcast

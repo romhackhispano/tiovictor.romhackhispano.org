@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 1.0 de Resident Evil lanzada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 37
-wordpress_url: http://tiovictor.romhackhispano.org/?p=37
-header_img: /img/2007/04/RE1Noti23.jpg
+header:
+  overlay_image: /img/2007/04/RE1Noti23.jpg
 date: '2007-04-27 16:17:55 +0200'
 date_gmt: '2007-04-27 14:17:55 +0200'
+layout: single
 categories:
 - Colaboraciones
 - Resident Evil

@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Fragile Dreams actualizado y planes de futuro
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 480
-wordpress_url: http://tiovictor.romhackhispano.org/?p=480
-header_img: /img/2011/05/FragileNoti03.jpg
+header:
+  overlay_image: /img/2011/05/FragileNoti03.jpg
+layout: single
 categories:
 - Time Crisis
 - The 3rd Birthday
@@ -18,7 +11,7 @@ categories:
 tags:
 - Shenmue
 - Shenmue I
-- 'Fragile Dreams: Farewell Ruins of the Moon'
+- Fragile Dreams Farewell Ruins of the Moon
 - Time Crisis
 - The 3rd Birthday
 ---

@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: La espera llega a su fin
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 736
-wordpress_url: http://tiovictor.romhackhispano.org/?p=736
-header_img: /img/2012/06/Shen1Noti01.jpg
+header:
+  overlay_image: /img/2012/06/Shen1Noti01.jpg
+layout: single
 categories:
 - Shenmue
 tags:

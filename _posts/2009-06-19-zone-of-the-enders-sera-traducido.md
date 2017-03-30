@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Zone of The Enders será traducido
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 146
-wordpress_url: http://tiovictor.romhackhispano.org/?p=146
-header_img: /img/2009/06/ZOE1Noti09.jpg
+header:
+  overlay_image: /img/2009/06/ZOE1Noti09.jpg
 date: '2009-06-19 17:50:43 +0200'
 date_gmt: '2009-06-19 16:50:43 +0200'
+layout: single
 categories:
 - Zone of the Enders
 tags:

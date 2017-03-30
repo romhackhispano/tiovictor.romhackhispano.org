@@ -1,22 +1,15 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Estamos on fire: Resident Evil 2 de Dreamcast adaptado'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 538
-wordpress_url: http://tiovictor.romhackhispano.org/?p=538
-header_img: /img/2011/07/RE2Noti17.jpg
+header:
+  overlay_image: /img/2011/07/RE2Noti17.jpg
+layout: single
 categories:
 - General
 - Resident Evil 2 Dreamcast
 - Fragile Dreams
 tags:
 - General
-- 'Fragile Dreams: Farewell Ruins of the Moon'
+- Fragile Dreams Farewell Ruins of the Moon
 - Resident Evil 2
 ---
 Justo a los cuatro días de sacar el The 3rd Birthday, qué casualidad, 

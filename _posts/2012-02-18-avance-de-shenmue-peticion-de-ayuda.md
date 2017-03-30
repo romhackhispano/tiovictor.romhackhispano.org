@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Avance de Shenmue, petición de ayuda
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 693
-wordpress_url: http://tiovictor.romhackhispano.org/?p=693
-header_img: /img/2012/02/Shen1Noti05.jpg
+header:
+  overlay_image: /img/2012/02/Shen1Noti05.jpg
+layout: single
 categories:
 - Shenmue
 tags:

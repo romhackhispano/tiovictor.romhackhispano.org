@@ -1,16 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Shenmue II: TODOS los subtítulos TRADUCIDOS, pero aún
   falta...'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 942
-wordpress_url: http://tiovictor.romhackhispano.org/?p=942
-header_img: /img/2012/11/Shen2Noti02.jpg
+header:
+  overlay_image: /img/2012/11/Shen2Noti02.jpg
+layout: single
 categories:
 - Shenmue
 - Shenmue II

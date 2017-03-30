@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Aviso importante sobre Resident Evil
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 94
-wordpress_url: http://tiovictor.romhackhispano.org/?p=94
-header_img: /img/2009/01/RE1Noti11.jpg
+header:
+  overlay_image: /img/2009/01/RE1Noti11.jpg
 date: '2009-01-21 14:04:11 +0100'
 date_gmt: '2009-01-21 13:04:11 +0100'
+layout: single
 categories:
 - Resident Evil
 tags:

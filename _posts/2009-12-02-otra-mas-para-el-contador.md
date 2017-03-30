@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Otra más para el contador
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 256
-wordpress_url: http://tiovictor.romhackhispano.org/?p=256
-header_img: /img/2009/12/DSENoti12.jpg
+header:
+  overlay_image: /img/2009/12/DSENoti12.jpg
 date: '2009-12-02 22:11:18 +0100'
 date_gmt: '2009-12-02 21:11:18 +0100'
+layout: single
 categories:
 - Dead Space Extraction
 tags:

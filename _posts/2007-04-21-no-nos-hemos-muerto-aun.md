@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: No nos hemos muerto aún
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 35
-wordpress_url: http://tiovictor.romhackhispano.org/?p=35
-header_img: /img/2007/04/RE1Noti25.jpg
+header:
+  overlay_image: /img/2007/04/RE1Noti25.jpg
 date: '2007-04-21 10:22:21 +0200'
 date_gmt: '2007-04-21 08:22:21 +0200'
+layout: single
 categories:
 - Colaboraciones
 - Resident Evil

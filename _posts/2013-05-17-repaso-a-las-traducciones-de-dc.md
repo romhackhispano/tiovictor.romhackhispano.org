@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Repaso a las traducciones de DC
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1268
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1268
-header_img: /img/2013/05/Shen1Noti11.jpg
+header:
+  overlay_image: /img/2013/05/Shen1Noti11.jpg
+layout: single
 categories:
 - Resident Evil 2 Dreamcast
 - Shenmue

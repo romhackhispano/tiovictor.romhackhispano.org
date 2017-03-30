@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Pasando la mopa: Actualización y vídeos nuevos'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1099
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1099
-header_img: /img/2012/12/ContractJACKNoti01.jpg
+header:
+  overlay_image: /img/2012/12/ContractJACKNoti01.jpg
+layout: single
 categories:
 - Alien Swarm
 - Time Crisis

@@ -1,16 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: "¿Quién te enseñó a
-  echar el gotelé?"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1717
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1717
-header_img: /img/2013/11/EnObrasNoti.jpg
+title: "¿Quién te enseñó a echar el gotelé?"
+header:
+  overlay_image: /img/2013/11/EnObrasNoti.jpg
+layout: single
 categories:
 - General
 tags:

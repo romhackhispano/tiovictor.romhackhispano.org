@@ -1,16 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Publicada la versión final de la traducción de Resident
   Evil 2 para Dreamcast
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1296
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1296
-header_img: /img/2013/06/RE2Noti16.jpg
+header:
+  overlay_image: /img/2013/06/RE2Noti16.jpg
+layout: single
 categories:
 - Resident Evil 2 Dreamcast
 tags:

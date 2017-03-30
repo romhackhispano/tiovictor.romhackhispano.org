@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: "(INOCENTADA) Nuevo vídeo de Shenmue II"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1119
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1119
-header_img: /img/2012/12/Inocentada.jpg
+header:
+  overlay_image: /img/2012/12/Inocentada.jpg
+layout: single
 categories:
 - Shenmue
 - Shenmue II

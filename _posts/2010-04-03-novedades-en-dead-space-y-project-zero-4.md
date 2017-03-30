@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades en Project Zero 4
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 320
-wordpress_url: http://tiovictor.romhackhispano.org/?p=320
-header_img: /img/2010/04/PZ4Noti05.jpg
+header:
+  overlay_image: /img/2010/04/PZ4Noti05.jpg
 date: '2010-04-03 20:21:08 +0200'
 date_gmt: '2010-04-03 19:21:08 +0200'
+layout: single
 categories:
 - Project Zero 4
 tags:

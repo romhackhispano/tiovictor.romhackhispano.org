@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Silent Hill 1 actualizado
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 277
-wordpress_url: http://tiovictor.romhackhispano.org/?p=277
-header_img: /img/2009/12/SilentHillNoti01.jpg
+header:
+  overlay_image: /img/2009/12/SilentHillNoti01.jpg
 date: '2009-12-26 21:21:12 +0100'
 date_gmt: '2009-12-26 20:21:12 +0100'
+layout: single
 categories:
 - Silent Hill de PSOne
 tags:

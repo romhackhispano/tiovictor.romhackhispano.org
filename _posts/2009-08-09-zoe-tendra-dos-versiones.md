@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: ZOE tendrá dos versiones
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 199
-wordpress_url: http://tiovictor.romhackhispano.org/?p=199
-header_img: /img/2009/08/ZOE1Noti05.jpg
+header:
+  overlay_image: /img/2009/08/ZOE1Noti05.jpg
 date: '2009-08-09 21:48:32 +0200'
 date_gmt: '2009-08-09 20:48:32 +0200'
+layout: single
 categories:
 - Zone of the Enders
 tags:

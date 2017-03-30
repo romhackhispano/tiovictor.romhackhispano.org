@@ -1,35 +1,30 @@
 ---
-layout: post
-status: publish
-published: true
 title: "Soldier of Fortune publicado y RetroBarcelona 2016"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-header_img: /img/2016/10/SoF-Noti03.jpg
+header:
+  overlay_image: /img/2016/10/SoF-Noti03.jpg
+layout: single
 categories:
 - 'Soldier of Fortune 1'
 tags:
 - 'Soldier of Fortune 1'
 gallery:
-- path: /img/2016/10/SoF-DC-20161002-01.jpg
-- path: /img/2016/10/SoF-DC-20161002-02.jpg
-- path: /img/2016/10/SoF-DC-20161002-03.jpg
-- path: /img/2016/10/SoF-DC-20161002-04.jpg
-- path: /img/2016/10/SoF-DC-20161002-05.jpg
-- path: /img/2016/10/SoF-DC-20161002-06.jpg
-- path: /img/2016/10/SoF-DC-20161002-07.jpg
-- path: /img/2016/10/SoF-DC-20161002-08.jpg
-- path: /img/2016/10/SoF-DC-20161002-09.jpg
-- path: /img/2016/10/SoF-DC-20161002-10.jpg
-- path: /img/2016/10/SoF-DC-20161002-11.jpg
-- path: /img/2016/10/SoF-DC-20161002-12.jpg
-- path: /img/2016/10/SoF-DC-20161002-13.jpg
-- path: /img/2016/10/SoF-DC-20161002-14.jpg
-- path: /img/2016/10/SoF-DC-20161002-15.jpg
-- path: /img/2016/10/SoF-DC-20161002-16.jpg
-- path: /img/2016/10/SoF-DC-20161002-17.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-01.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-02.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-03.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-04.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-05.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-06.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-07.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-08.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-09.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-10.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-11.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-12.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-13.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-14.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-15.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-16.jpg
+ - image_path: /img/2016/10/SoF-DC-20161002-17.jpg
 ---
 
 Buenas a todos. Hoy cierro uno de los (demasiados) proyectos que tengo abiertos y puedo dar unas pocas noticias 
@@ -45,7 +40,7 @@ downsampling en las músicas y vídeos para que entre todo, pero el mayor tajo h
 del juego: Estaba lleno de paja para engordar el disco y que fuera inviable su pirateo. Esto sirvió en su día 
 para frenar a la piratería, pero ya iba siendo hora de resolver parte del dilema.
 
-{% include gallery.html gallery=page.gallery %}
+{% include gallery %}
 
 <h1 style="text-align: center;"><strong>VERSIÓN PARA DREAMCAST</strong></h1>
 

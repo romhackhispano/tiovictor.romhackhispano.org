@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: v2.2 lanzada, se buscan probadores
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 47
-wordpress_url: http://tiovictor.romhackhispano.org/?p=47
-header_img: /img/2008/05/RE1Noti15.jpg
+header:
+  overlay_image: /img/2008/05/RE1Noti15.jpg
 date: '2008-05-06 16:06:54 +0200'
 date_gmt: '2008-05-06 15:06:54 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

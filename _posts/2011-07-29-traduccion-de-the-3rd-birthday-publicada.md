@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Traducción de The 3rd Birthday publicada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 530
-wordpress_url: http://tiovictor.romhackhispano.org/?p=530
-header_img: /img/2011/07/3rdBirthdayNoti07.jpg
+header:
+  overlay_image: /img/2011/07/3rdBirthdayNoti07.jpg
+layout: single
 categories:
 - Colaboraciones
 - The 3rd Birthday

@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Dead Space Extraction a punto de caramelo
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 305
-wordpress_url: http://tiovictor.romhackhispano.org/?p=305
-header_img: /img/2010/02/DSENoti05.jpg
+header:
+  overlay_image: /img/2010/02/DSENoti05.jpg
 date: '2010-02-05 14:30:03 +0100'
 date_gmt: '2010-02-05 13:30:03 +0100'
+layout: single
 categories:
 - Dead Space Extraction
 tags:

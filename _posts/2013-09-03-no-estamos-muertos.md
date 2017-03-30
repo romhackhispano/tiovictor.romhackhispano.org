@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: No estamos muertos...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1453
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1453
-header_img: /img/2013/09/NautsNoti02.jpg
+header:
+  overlay_image: /img/2013/09/NautsNoti02.jpg
+layout: single
 categories:
 - Shenmue II
 - Policenauts

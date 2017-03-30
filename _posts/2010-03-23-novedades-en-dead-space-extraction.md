@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades en Dead Space Extraction
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 319
-wordpress_url: http://tiovictor.romhackhispano.org/?p=319
-header_img: /img/2010/03/DSENoti02.jpg
+header:
+  overlay_image: /img/2010/03/DSENoti02.jpg
 date: '2010-03-23 20:18:34 +0100'
 date_gmt: '2010-03-23 19:18:34 +0100'
+layout: single
 categories:
 - Dead Space Extraction
 tags:

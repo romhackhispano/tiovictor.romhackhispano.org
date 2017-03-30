@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Próximamente, en Tío Víctor...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 3046
-wordpress_url: http://tiovictor.romhackhispano.org/?p=3046
-header_img: /img/2015/12/NotiAITD401.jpg
+header:
+  overlay_image: /img/2015/12/NotiAITD401.jpg
+layout: single
 categories:
 - General
 - Colaboraciones
@@ -20,7 +13,7 @@ categories:
 - Policenauts
 - Shadow Watch
 - Alone in the Dark IV DC
-- 'Clock Tower, The First Fear'
+- Clock Tower The First Fear
 - Operation Winback
 - Pilotwings 64
 - Resident Evil Survivor
@@ -36,58 +29,58 @@ tags:
 - Shadow Watch
 - Colaboraciones
 - Alone in the Dark IV DC
-- 'Clock Tower, The First Fear'
+- Clock Tower The First Fear
 - Operation Winback
 - Pilotwings 64
 - Resident Evil Survivor
 - Soldier of Fortune I
-gallery1:
-- path: /img/2015/10/AITD4DC-01.jpg
-- path: /img/2015/10/AITD4DC-02.jpg
-- path: /img/2015/10/AITD4DC-03.jpg
-- path: /img/2015/10/AITD4DC-04.jpg
-- path: /img/2015/10/AITD4DC-05.jpg
-- path: /img/2015/10/AITD4DC-06.jpg
-- path: /img/2015/10/AITD4DC-07.jpg
-- path: /img/2015/10/AITD4DC-08.jpg
-- path: /img/2015/10/AITD4DC-09.jpg
-- path: /img/2015/10/AITD4DC-10.jpg
-- path: /img/2015/10/AITD4DC-11.jpg
-- path: /img/2015/10/AITD4DC-12.jpg
+gallery:
+ - image_path: /img/2015/10/AITD4DC-01.jpg
+ - image_path: /img/2015/10/AITD4DC-02.jpg
+ - image_path: /img/2015/10/AITD4DC-03.jpg
+ - image_path: /img/2015/10/AITD4DC-04.jpg
+ - image_path: /img/2015/10/AITD4DC-05.jpg
+ - image_path: /img/2015/10/AITD4DC-06.jpg
+ - image_path: /img/2015/10/AITD4DC-07.jpg
+ - image_path: /img/2015/10/AITD4DC-08.jpg
+ - image_path: /img/2015/10/AITD4DC-09.jpg
+ - image_path: /img/2015/10/AITD4DC-10.jpg
+ - image_path: /img/2015/10/AITD4DC-11.jpg
+ - image_path: /img/2015/10/AITD4DC-12.jpg
 gallery2:
-- path: /img/2015/12/WINBACK-01.jpg
-- path: /img/2015/12/WINBACK-02.jpg
-- path: /img/2015/12/WINBACK-03.jpg
-- path: /img/2015/12/WINBACK-04.jpg
-- path: /img/2015/12/WINBACK-05.jpg
-- path: /img/2015/12/WINBACK-06.jpg
-- path: /img/2015/12/WINBACK-07.jpg
-- path: /img/2015/12/WINBACK-08.jpg
-- path: /img/2015/12/WINBACK-09.jpg
-- path: /img/2015/12/WINBACK-10.jpg
-- path: /img/2015/12/WINBACK-11.jpg
-- path: /img/2015/12/WINBACK-12.jpg
-- path: /img/2015/12/WINBACK-13.jpg
-- path: /img/2015/12/WINBACK-14.jpg
-- path: /img/2015/12/WINBACK-16.jpg
-- path: /img/2015/12/WINBACK-17.jpg
+ - image_path: /img/2015/12/WINBACK-01.jpg
+ - image_path: /img/2015/12/WINBACK-02.jpg
+ - image_path: /img/2015/12/WINBACK-03.jpg
+ - image_path: /img/2015/12/WINBACK-04.jpg
+ - image_path: /img/2015/12/WINBACK-05.jpg
+ - image_path: /img/2015/12/WINBACK-06.jpg
+ - image_path: /img/2015/12/WINBACK-07.jpg
+ - image_path: /img/2015/12/WINBACK-08.jpg
+ - image_path: /img/2015/12/WINBACK-09.jpg
+ - image_path: /img/2015/12/WINBACK-10.jpg
+ - image_path: /img/2015/12/WINBACK-11.jpg
+ - image_path: /img/2015/12/WINBACK-12.jpg
+ - image_path: /img/2015/12/WINBACK-13.jpg
+ - image_path: /img/2015/12/WINBACK-14.jpg
+ - image_path: /img/2015/12/WINBACK-16.jpg
+ - image_path: /img/2015/12/WINBACK-17.jpg
 gallery3:
-- path: /img/2015/12/RESURVIVOR-20160103-02.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-03.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-04.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-05.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-06.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-07.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-08.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-09.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-10.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-11.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-12.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-13.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-14.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-15.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-16.jpg
-- path: /img/2015/12/RESURVIVOR-20160103-17.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-02.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-03.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-04.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-05.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-06.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-07.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-08.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-09.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-10.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-11.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-12.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-13.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-14.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-15.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-16.jpg
+ - image_path: /img/2015/12/RESURVIVOR-20160103-17.jpg
 ---
 Buenas a todos, es el día en el que España entera (Y no sé si América Latina) 
 se pone a hacer chistes y a mí me da por hacer cosas dando una vuelta de tuerca 
@@ -108,7 +101,7 @@ nunca) e investigar el formato de audios de la versión de PlayStation 2.
 En un principio el parcheador pedirá los audios de PC o de PlayStation 2 (La versión que 
 tengáis) para poder incorporar las voces dobladas, si no ponéis las voces, se siente.
 
-{% include gallery.html gallery=page.gallery1 %}
+{% include gallery %}
 
 **Clock Tower: The First Fear para PlayStation:** Hace casi un año salió una 
 traducción/conversión al inglés (No estoy muy seguro) para el primer Clock Tower en su 
@@ -129,7 +122,7 @@ versiones de PC y Playstation 1, manteniendo la compatibilidad y el estilo de 19
 para PC será compatible con las ediciones de 1998 (Con drivers Aali), Steam y 2012, y saldrá 
 muy pronto.
 
-**Operation Winback (PlayStation 2): **Este es un proyecto que me dio por abrir allá por junio, 
+**Operation Winback (PlayStation 2):** Este es un proyecto que me dio por abrir allá por junio, 
 en parte por nostalgia hacia la versión de Nintendo 64, que sí estaba traducida al Castellano 
 (Aunque la nostalgia no me hacía recordar que fuera tan inconexa).
 
@@ -137,7 +130,7 @@ Actualmente se encuentra traducido y testeado al 95%. Queda hackear algunas cosa
 necesito a alguien que sepa depurar PlayStation 2 (Del departamento de gráficos). De momento es 
 un proyecto en solitario, hasta que encuentre dicha ayuda.
 
-{% include gallery.html gallery=page.gallery2 %}
+{% include gallery id="gallery2" %}
 
 **Pilotwings 64:** Realizado con la ayuda de Zoinkity, SkyBladeCloud e Indiket. Otro juego de mi 
 infancia al que le quiero honrar como se merece.
@@ -164,7 +157,7 @@ traducidos a falta de revisión, pero necesita una buena metida de mano en el ha
 Si encontramos a un hacker lo bastante bueno, es más que probable que esta vez no haga falta la 
 versión francesa del juego, y que se pueda parchear la inglesa, que es la que ha llegado a España.
 
-{% include gallery.html gallery=page.gallery3 %}
+{% include gallery id="gallery3" %}
 
 **Resident Evil: Director's Cut:** Aunque sé de buena tinta que casi nadie va a jugar a una nueva 
 revisión del parche, principalmente porque todo Cristo ya lo ha jugado en Español en sus versiones 

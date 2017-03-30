@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Pasaba por aquí...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 344
-wordpress_url: http://tiovictor.romhackhispano.org/?p=344
-header_img: /img/2010/05/DSENoti09.jpg
+header:
+  overlay_image: /img/2010/05/DSENoti09.jpg
 date: '2010-05-08 15:21:10 +0200'
 date_gmt: '2010-05-08 14:21:10 +0200'
+layout: single
 categories:
 - General
 - Project Zero 4

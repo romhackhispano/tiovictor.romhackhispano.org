@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización brasileña de What's Shenmue
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 3146
-wordpress_url: http://tiovictor.romhackhispano.org/?p=3146
-header_img: /img/2016/03/WhatsShenmueNoti04.jpg
+header:
+  overlay_image: /img/2016/03/WhatsShenmueNoti04.jpg
+layout: single
 categories:
 - What's Shenmue Español
 - Resident Evil Survivor

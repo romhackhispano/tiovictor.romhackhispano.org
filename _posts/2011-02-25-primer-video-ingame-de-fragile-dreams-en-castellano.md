@@ -1,19 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: Primer vídeo ingame de Fragile Dreams en Castellano
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 455
-wordpress_url: http://tiovictor.romhackhispano.org/?p=455
-header_img: /img/2011/02/FragileNoti04.jpg
+header:
+  overlay_image: /img/2011/02/FragileNoti04.jpg
+layout: single
 categories:
 - Fragile Dreams
 tags:
-- 'Fragile Dreams: Farewell Ruins of the Moon'
+- Fragile Dreams Farewell Ruins of the Moon
 ---
 
 Bueno, para terminar este frenesí de imágenes de Fragile Dreams traducido al 

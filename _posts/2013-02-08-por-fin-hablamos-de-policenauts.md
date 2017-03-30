@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Por fin hablamos de Policenauts
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1231
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1231
-header_img: /img/2013/02/NautsNoti01.jpg
+header:
+  overlay_image: /img/2013/02/NautsNoti01.jpg
+layout: single
 categories:
 - General
 - Shenmue

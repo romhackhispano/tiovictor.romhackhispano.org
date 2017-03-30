@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Primera beta de Resident Evil casi terminada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 34
-wordpress_url: http://tiovictor.romhackhispano.org/?p=34
-header_img: /img/2007/04/RE1Noti30.jpg
+header:
+  overlay_image: /img/2007/04/RE1Noti30.jpg
 date: '2007-04-10 17:48:47 +0200'
 date_gmt: '2007-04-10 15:48:47 +0200'
+layout: single
 categories:
 - Colaboraciones
 - Resident Evil

@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Versión 2.0 BETA1b lanzada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 43
-wordpress_url: http://tiovictor.romhackhispano.org/?p=43
-header_img: /img/2007/12/RE1Noti18.jpg
+header:
+  overlay_image: /img/2007/12/RE1Noti18.jpg
 date: '2007-12-28 20:04:42 +0100'
 date_gmt: '2007-12-28 19:04:42 +0100'
+layout: single
 categories:
 - Resident Evil
 tags:

@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 106
-wordpress_url: http://tiovictor.romhackhispano.org/?p=106
-header_img: /img/2009/03/RE1Noti09.jpg
+header:
+  overlay_image: /img/2009/03/RE1Noti09.jpg
 date: '2009-03-09 12:39:58 +0100'
 date_gmt: '2009-03-09 11:39:58 +0100'
+layout: single
 categories:
 - Resident Evil
 tags:

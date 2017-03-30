@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Zone Of The Enders: Primera versión publicada'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 210
-wordpress_url: http://tiovictor.romhackhispano.org/?p=210
-header_img: /img/2009/08/ZOE1Noti01.jpg
+header:
+  overlay_image: /img/2009/08/ZOE1Noti01.jpg
 date: '2009-08-16 23:51:19 +0200'
 date_gmt: '2009-08-16 22:51:19 +0200'
+layout: single
 categories:
 - Zone of the Enders
 tags:

@@ -1,16 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: "¡Silent Hill ahora está en español
   latino!"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2945
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2945
-header_img: /img/2015/10/SilentHillNoti09.jpg
+header:
+  overlay_image: /img/2015/10/SilentHillNoti09.jpg
+layout: single
 categories:
 - Silent Hill de PSOne
 tags:

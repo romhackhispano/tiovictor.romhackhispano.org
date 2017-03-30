@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Recta final para Shenmue y nota sobre RE2-DC
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 697
-wordpress_url: http://tiovictor.romhackhispano.org/?p=697
-header_img: /img/2012/03/RE2Noti06.jpg
+header:
+  overlay_image: /img/2012/03/RE2Noti06.jpg
+layout: single
 categories:
 - Resident Evil 2 Dreamcast
 - Shenmue

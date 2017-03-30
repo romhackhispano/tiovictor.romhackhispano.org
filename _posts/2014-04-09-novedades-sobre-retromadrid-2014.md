@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades sobre RetroMadrid 2014
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2122
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2122
-header_img: /img/2014/04/RetroMadrid2014Noti01.jpg
+header:
+  overlay_image: /img/2014/04/RetroMadrid2014Noti01.jpg
+layout: single
 categories:
 - General
 - Personal

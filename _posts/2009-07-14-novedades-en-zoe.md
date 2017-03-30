@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades en ZOE
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 177
-wordpress_url: http://tiovictor.romhackhispano.org/?p=177
-header_img: /img/2009/07/ZOE1Noti07.jpg
+header:
+  overlay_image: /img/2009/07/ZOE1Noti07.jpg
 date: '2009-07-14 13:14:03 +0200'
 date_gmt: '2009-07-14 12:14:03 +0200'
+layout: single
 categories:
 - Zone of the Enders
 tags:

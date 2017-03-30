@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: "¡Feliz navidad! Nuevas imágenes de Shenmue"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 655
-wordpress_url: http://tiovictor.romhackhispano.org/?p=655
-header_img: /img/2011/12/Shen1Noti10.jpg
+header:
+  overlay_image: /img/2011/12/Shen1Noti10.jpg
+layout: single
 categories:
 - Colaboraciones
 - Shenmue

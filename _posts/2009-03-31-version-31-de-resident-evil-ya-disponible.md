@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Versión 3.1 de Resident Evil ya disponible
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 113
-wordpress_url: http://tiovictor.romhackhispano.org/?p=113
-header_img: /img/2009/03/RE1Noti08.jpg
+header:
+  overlay_image: /img/2009/03/RE1Noti08.jpg
 date: '2009-03-31 10:54:23 +0200'
 date_gmt: '2009-03-31 09:54:23 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

@@ -1,22 +1,15 @@
 ---
-layout: post
-status: publish
-published: true
 title: Nuevo foro de discusión y nuevo proyecto
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 427
-wordpress_url: http://tiovictor.romhackhispano.org/?p=427
-header_img: /img/2011/01/FragileNoti05.jpg
+header:
+  overlay_image: /img/2011/01/FragileNoti05.jpg
+layout: single
 categories:
 - General
 - Fragile Dreams
 tags:
 - Shenmue
 - Shenmue I
-- 'Fragile Dreams: Farewell Ruins of the Moon'
+- Fragile Dreams Farewell Ruins of the Moon
 ---
 Bueno, con un mes de retraso, feliz navidad, próspero año nuevo, etcétera.
 

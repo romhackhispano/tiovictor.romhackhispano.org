@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Shenmue II: Disco 2 traducido en un 32%'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 906
-wordpress_url: http://tiovictor.romhackhispano.org/?p=906
-header_img: /img/2012/10/Shen2Noti06.jpg
+header:
+  overlay_image: /img/2012/10/Shen2Noti06.jpg
+layout: single
 categories:
 - Shenmue
 - Shenmue II

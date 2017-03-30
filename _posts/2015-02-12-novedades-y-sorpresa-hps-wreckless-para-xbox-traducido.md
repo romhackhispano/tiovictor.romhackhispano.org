@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades y ¡sorpresa! Wreckless para XBOX traducido
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2500
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2500
-header_img: /img/2015/02/WrecklessNoti01.jpg
+header:
+  overlay_image: /img/2015/02/WrecklessNoti01.jpg
+layout: single
 categories:
 - General
 - 'Wreckless, The Yakuza Missions'
@@ -17,14 +10,14 @@ tags:
 - General
 - 'Wreckless, The Yakuza Missions'
 gallery:
-- path: /img/2015/02/Imagen1.jpg
-- path: /img/2015/02/Imagen2.jpg
-- path: /img/2015/02/Imagen3.jpg
-- path: /img/2015/02/Imagen4.jpg
-- path: /img/2015/02/Imagen6.jpg
-- path: /img/2015/02/Imagen7.jpg
-- path: /img/2015/02/Imagen9.jpg
-- path: /img/2015/02/Imagen10.jpg
+ - image_path: /img/2015/02/Imagen1.jpg
+ - image_path: /img/2015/02/Imagen2.jpg
+ - image_path: /img/2015/02/Imagen3.jpg
+ - image_path: /img/2015/02/Imagen4.jpg
+ - image_path: /img/2015/02/Imagen6.jpg
+ - image_path: /img/2015/02/Imagen7.jpg
+ - image_path: /img/2015/02/Imagen9.jpg
+ - image_path: /img/2015/02/Imagen10.jpg
 ---
 Buenas a todos.
 
@@ -41,7 +34,7 @@ muy peleón.
 
 **EDIT 21/02/2015:** Ya tenemos capturas, por cortesía de Chinot e Isopure.
 
-{% include gallery.html gallery=page.gallery %}
+{% include gallery %}
 
 En cuanto al resto de los proyectos, pasado el salto.
 

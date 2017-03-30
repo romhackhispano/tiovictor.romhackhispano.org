@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización de estado de Rogue Spear
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 1540
-wordpress_url: http://tiovictor.romhackhispano.org/?p=1540
-header_img: /img/2013/12/SagaRogueSpearNoti01.jpg
+header:
+  overlay_image: /img/2013/12/SagaRogueSpearNoti01.jpg
+layout: single
 categories:
 - General
 - Shenmue II

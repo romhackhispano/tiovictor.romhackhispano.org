@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Resident Evil - ISO y Vídeos
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 36
-wordpress_url: http://tiovictor.romhackhispano.org/?p=36
-header_img: /img/2007/04/RE1Noti24.jpg
+header:
+  overlay_image: /img/2007/04/RE1Noti24.jpg
 date: '2007-04-24 13:26:02 +0200'
 date_gmt: '2007-04-24 11:26:02 +0200'
+layout: single
 categories:
 - Colaboraciones
 - Resident Evil

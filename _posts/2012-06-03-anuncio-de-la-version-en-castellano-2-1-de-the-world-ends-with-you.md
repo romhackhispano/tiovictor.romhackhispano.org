@@ -1,16 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
-title: Anuncio de la Versión en Castellano 2.1 de The World Ends With
-  You
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 743
-wordpress_url: http://tiovictor.romhackhispano.org/?p=743
-header_img: /img/2012/06/TWEWYNoti04.jpg
+title: Anuncio de la Versión en Castellano 2.1 de The World Ends With You
+header:
+  overlay_image: /img/2012/06/TWEWYNoti04.jpg
+layout: single
 categories:
 - The World Ends With You
 - Shenmue

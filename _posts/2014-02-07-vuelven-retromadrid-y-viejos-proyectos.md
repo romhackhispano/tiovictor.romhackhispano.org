@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Vuelven RetroMadrid y viejos proyectos
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2085
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2085
-header_img: /img/2014/02/SilentHillTWINENoti01.jpg
+header:
+  overlay_image: /img/2014/02/SilentHillTWINENoti01.jpg
+layout: single
 categories:
 - General
 - Personal

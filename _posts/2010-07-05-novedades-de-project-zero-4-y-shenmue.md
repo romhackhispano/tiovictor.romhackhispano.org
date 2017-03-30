@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades de Project Zero 4 y Shenmue
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 346
-wordpress_url: http://tiovictor.romhackhispano.org/?p=346
-header_img: /img/2010/07/PZ4Noti07.jpg
+header:
+  overlay_image: /img/2010/07/PZ4Noti07.jpg
 date: '2010-07-05 22:31:21 +0200'
 date_gmt: '2010-07-05 21:31:21 +0200'
+layout: single
 categories:
 - Project Zero 4
 - Resident Evil 2 Dreamcast

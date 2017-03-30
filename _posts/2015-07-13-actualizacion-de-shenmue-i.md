@@ -1,15 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización de Shenmue I
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2894
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2894
-header_img: /img/NotiEnBlancoV2.jpg
+layout: single
 categories:
 - General
 tags: []

@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Jaleos varios
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2246
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2246
-header_img: /img/2014/08/SilentHillNoti07.jpg
+header:
+  overlay_image: /img/2014/08/SilentHillNoti07.jpg
+layout: single
 categories:
 - Personal
 - Silent Hill de PSOne

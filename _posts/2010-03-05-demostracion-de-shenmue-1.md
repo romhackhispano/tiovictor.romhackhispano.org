@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Demostración de Shenmue 1
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 315
-wordpress_url: http://tiovictor.romhackhispano.org/?p=315
-header_img: /img/2012/06/Shen1Noti06.jpg
+header:
+  overlay_image: /img/2012/06/Shen1Noti06.jpg
 date: '2010-03-05 21:06:35 +0100'
 date_gmt: '2010-03-05 20:06:35 +0100'
+layout: single
 categories:
 - Shenmue
 tags:

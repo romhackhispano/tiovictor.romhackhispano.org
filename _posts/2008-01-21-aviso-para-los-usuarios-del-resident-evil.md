@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: RE:DC actualizado a Beta 2
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 44
-wordpress_url: http://tiovictor.romhackhispano.org/?p=44
-header_img: /img/2008/01/RE1Noti17.jpg
+header:
+  overlay_image: /img/2008/01/RE1Noti17.jpg
 date: '2008-01-21 11:52:02 +0100'
 date_gmt: '2008-01-21 10:52:02 +0100'
+layout: single
 categories:
 - Resident Evil
 tags:

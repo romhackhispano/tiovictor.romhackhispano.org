@@ -1,75 +1,28 @@
-<!DOCTYPE html>
-<html lang="es">
+---
+---
 
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <!--
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    -->
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+<!doctype html>
+<html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
+  <head>
+    {% include head.html %}
+    {% include head/custom.html %}
+  </head>
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    <meta name="description"
-          content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-    <link rel="stylesheet" href="{{ '/bootstrap/css/bootstrap.min.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
-    <link rel="stylesheet" href="{{ '/js/lightbox/css/lightbox.min.css' | prepend: site.baseurl }}">
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
-          href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}">
-    <script src="{{ '/js/jquery-3.1.0.min.js' | prepend: site.baseurl }}" type="text/javascript"></script>
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
 
-</head>
+    {{ content }}
 
-<body style="background:#1e73be;">
-
-<div class="container" style="padding:0;">
-
-    <header class="site-header">
-
-        <div class="wrapper">
-
-            <a class="site-title" href="{{ site.baseurl }}/"><img src="/img/2014/04/banner-final-3.jpg"
-                                                                  style="width:100%;height:auto;"/></a>
-        </div>
-
-    </header>
-
-    <nav class="navbar navbar-inverse" style="border-radius: 0;background:black;margin:0;">
-        <div class="container-fluid">
-            <div class="navbar-header">
-                <a class="navbar-brand" href="/">Traducciones del Tío Víctor</a>
-            </div>
-
-            <form class="navbar-form navbar-right" style="margin:0;" action="/search" method="get">
-                <div class="form-group">
-  									<input type="text" name="q" id="q" class="form-control" placeholder="Búsqueda" style="border-radius:0;" />
-                </div>
-                <button type="button" class="btn btn-success navbar-btn" style="border-radius:0;"><i class="glyphicon glyphicon-search"></i></button>
-            </form>
-        </div>
-    </nav>
-
-    <div class="page-content">
-        <div class="wrapper">
-            {{ content }}
-        </div>
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
     </div>
 
-</div>
+    {% include scripts.html %}
 
-<script src="{{ '/js/lightbox/js/lightbox.min.js' | prepend: site.baseurl }}" type="text/javascript"></script>
-
-<script>
-    lightbox.option({
-        fadeDuration: 100,
-        resizeDuration: 100,
-        wrapAround: true
-    })
-</script>
-
-</body>
-
+  </body>
 </html>

@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Traducción de What's Shenmue actualizada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2311
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2311
-header_img: /img/2014/09/WhatsShenmueNoti02.jpg
+header:
+  overlay_image: /img/2014/09/WhatsShenmueNoti02.jpg
+layout: single
 categories:
 - What's Shenmue Español
 tags:

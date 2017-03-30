@@ -1,15 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización menor en El Mundo Nunca Es Suficiente
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-header_img: /img/NotiEnBlancoV2.jpg
-wordpress_id: 2481
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2481
+layout: single
 categories:
 - El Mundo Nunca es Suficiente (Nintendo 64)
 tags:

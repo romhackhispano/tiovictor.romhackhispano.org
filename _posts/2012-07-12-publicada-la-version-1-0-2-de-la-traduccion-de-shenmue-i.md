@@ -1,16 +1,9 @@
 ---
-layout: post
-status: publish
-published: true
 title: Publicada la versión 1.0.2 de la traducción de Shenmue
   I
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 816
-wordpress_url: http://tiovictor.romhackhispano.org/?p=816
-header_img: /img/2012/07/Shen1Noti09.jpg
+header:
+  overlay_image: /img/2012/07/Shen1Noti09.jpg
+layout: single
 categories:
 - Shenmue
 tags:

@@ -1,18 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
-title: "¿Queréis que acabe la traducción de
-  Resident Evil? Echadme una mano"
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 123
-wordpress_url: http://tiovictor.romhackhispano.org/?p=123
-header_img: /img/2009/05/RE1Noti06.jpg
+title: "¿Queréis que acabe la traducción de Resident Evil? Echadme una mano"
+header:
+  overlay_image: /img/2009/05/RE1Noti06.jpg
 date: '2009-05-30 15:38:39 +0200'
 date_gmt: '2009-05-30 14:38:39 +0200'
+layout: single
 categories:
 - Resident Evil
 tags:

@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Salimos en Hobby Consolas
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2103
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2103
-header_img: /img/2014/02/HobbyConsolasMarzo2014Header.jpg
+header:
+  overlay_image: /img/2014/02/HobbyConsolasMarzo2014Header.jpg
+layout: single
 categories:
 - General
 - Personal

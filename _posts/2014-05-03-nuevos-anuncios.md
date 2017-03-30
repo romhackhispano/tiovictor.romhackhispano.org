@@ -1,21 +1,14 @@
 ---
-layout: post
-status: publish
-published: true
 title: Nuevos anuncios
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2131
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2131
-header_img: /img/2014/05/WhatsShenmueNoti01.jpg
+header:
+  overlay_image: /img/2014/05/WhatsShenmueNoti01.jpg
+layout: single
 categories:
 - Colaboraciones
 - Shenmue II
 - Saga Rainbow Six PC
 - Shadow Watch
-- Sin and Punishment N64
+- Sin and Punishment
 - What's Shenmue Español
 tags:
 - Shenmue II

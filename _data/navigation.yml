@@ -1,0 +1,100 @@
+﻿# Enlaces de la barra superior
+main:
+  - title: "Traducciones"
+    url: /traducciones/
+    children:
+        - title: "ALIEN SWARM (PC, V1.6)"
+          url: /alien-swarm/
+        - title: "ALONE IN THE DARK: THE NEW NIGHTMARE (DC, V1.0)"
+          url: /alone-in-the-dark-dc/
+        - title: "CLOCK TOWER: THE FIRST FEAR (PSX, V2.0)"
+          url: /clock-tower-psx-20/
+        - title: "CONTRACT J.A.C.K. (PC, V1.5 2012)"
+          url: /contract-jack/
+        - title: "DEAD SPACE EXTRACTION (WII, V1.1)"
+          url: /dead-space-extraction/
+        - title: "EL MUNDO NUNCA ES SUFICIENTE (N64, V1.0)"
+          url: /el-mundo-nunca-es-suficiente-n64/
+        - title: "FRAGILE DREAMS (WII, V1.1)"
+          url: /fragile-dreams-farewell-ruins-of-the-moon/
+        - title: "OPERATION WINBACK (PS2, EN PROGRESO, 85%)"
+          url: /operation-winback/
+        - title: "POLICENAUTS (PSX, SAT, EN PROGRESO, 50%)"
+          url: /policenauts/
+        - title: "READY 2 RUMBLE (PSX, N64, V1.0)"
+          url: /ready-2-rumble-1/
+        - title: "RESIDENT EVIL: DIRECTOR’S CUT (PSX, V3.6 Y V4.0)"
+          url: /resident-evil-directors-cut/
+        - title: "RESIDENT EVIL SURVIVOR (PSX, EN PROGRESO, 80%)"
+          url: /resident-evil-survivor-psx/
+        - title: "RESIDENT EVIL 2 (DC, ADAPTACIÓN, V1.5C FINAL)"
+          url: /resident-evil-2-dreamcast/
+        - title: "SAGA RAINBOW SIX (PC, V1.0)"
+          url: /saga-rainbow-six-para-pc/
+        - title: "SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1)"
+          url: /silent-hill-1/
+        - title: "SIN AND PUNISHMENT (N64, V1.0B)"
+          url: /sin-and-punishment-n64/
+        - title: "SHADOW WATCH (PC, EN PROGRESO, 55%)"
+          url: /shadow-watch/
+        - title: "SHENMUE I (DC, 1.0.5B)"
+          url: /shenmue/
+        - title: "SHENMUE II (DC, XBOX, 1.0.2)"
+          url: /shenmue-ii/
+        - title: "SOLTYS (PC, V1.0)"
+          url: /soltys/
+        - title: "SOLDIER OF FORTUNE 1 (PC, DC, V1.0)"
+          url: /soldier-of-fortune-1/
+        - title: "STAR WARS EPISODIO I RACER (N64, 1.0.2 FINAL)"
+          url: /star-wars-episodio-i-racer-para-nintendo-64/
+        - title: "SWAT4: THE STETCHKOV SYNDICATE (PC, V2.2 2012)"
+          url: /swat4-the-stetchkov-syndicate/
+        - title: "TIME CRISIS 1 (PSX, V1.0)"
+          url: /time-crisis-1/
+        - title: "THE 3RD BIRTHDAY (PSP, COLABORACIÓN, V1.0)"
+          url: /the-3rd-birthday/
+        - title: "THE WORLD ENDS WITH YOU (NDS, 2.0)"
+          url: /the-world-ends-with-you-version-en-castellano-2-0/
+        - title: "WHAT’S SHENMUE (DC, 1.0.4, ENGLISH SITE)"
+          url: /whats-shenmue-eng/
+        - title: "WHAT’S SHENMUE (DC, 1.0.4, PÁGINA EN ESPAÑOL)"
+          url: /whats-shenmue-esp/
+        - title: "WRECKLESS: THE YAKUZA MISSIONS (V1.0)"
+          url: /wreckless-the-yakuza-missions-para-xbox/
+        - title: "ZONE OF THE ENDERS 1 (PS2, 1.0 BIS)"
+          url: /zone-of-the-enders/
+  - title: "Colaboraciones"
+    url: /colaboraciones/
+    children:
+        - title: Amnesia The Dark Descent - Colaboración
+          url: /amnesia-the-dark-descent-colaboracion
+        - title: "Final Fantasy VII"
+          url: /final-fantasy-vii-colaboracion
+        - title: "Golden Eye 007"
+          url: /goldeneye-007-colaboracion/
+        - title: "Project Zero/Fatal Frame 4"
+          url: /project-zero-fatal-frame-4/
+  - title: "Amigos"
+    url: /amigos/
+    children:
+        - title: "Aegis Translations (Hogar de Aegisflame)"
+          link: http://aegis.romhackhispano.org/
+        - title: "Blog de Xulikotony"
+          link: http://traduccionesxt.blogspot.com.es/
+        - title: "Dreamcast.es"
+          link: http://www.dreamcast.es/
+        - title: "Fortaleza Romhack"
+          link: http://fortaleza.romhackhispano.org/
+        - title: "Game Over me pone"
+          link: http://www.portalgameover.com/
+        - title: "Romhacking.net"
+          link: http://www.romhacking.net/
+        - title: "SegaSaturno"
+          link: http://www.segasaturno.com/
+        - title: "Tales Translations"
+          link: http://blog.tales-tra.com/
+
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/

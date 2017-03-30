@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Shenmue II: Disco 1 traducido, esperando revisión'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 897
-wordpress_url: http://tiovictor.romhackhispano.org/?p=897
-header_img: /img/2012/09/Shen2Noti07.jpg
+header:
+  overlay_image: /img/2012/09/Shen2Noti07.jpg
+layout: single
 categories:
 - Shenmue
 - Shenmue II

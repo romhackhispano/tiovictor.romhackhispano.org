@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Shenmue I sigue avanzando
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 685
-wordpress_url: http://tiovictor.romhackhispano.org/?p=685
-header_img: /img/2012/01/Shen1Noti08.jpg
+header:
+  overlay_image: /img/2012/01/Shen1Noti08.jpg
+layout: single
 categories:
 - Shenmue
 tags:

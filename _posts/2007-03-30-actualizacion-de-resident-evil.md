@@ -1,18 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización de Resident Evil
-permalink: /2007/03/30/actualizacion-de-resident-evil
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 4
-wordpress_url: http://tiovictor.romhackhispano.org/?p=4
-header_img: /img/2007/03/RE1Noti32.jpg
+header:
+  overlay_image: /img/2007/03/RE1Noti32.jpg
 date: '2007-03-30 17:10:49 +0200'
 date_gmt: '2007-03-30 15:10:49 +0200'
+layout: single
 categories:
 - Colaboraciones
 - Resident Evil

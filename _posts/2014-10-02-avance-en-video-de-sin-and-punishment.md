@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Avance en vídeo de Sin and Punishment
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 2317
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2317
-header_img: /img/2014/10/EntradaSAP01.jpg
+header:
+  overlay_image: /img/2014/10/EntradaSAP01.jpg
+layout: single
 categories:
-- Sin and Punishment N64
+- Sin and Punishment
 tags:
 - Sin and Punishment
 ---

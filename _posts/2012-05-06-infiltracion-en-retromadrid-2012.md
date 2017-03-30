@@ -1,16 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Infiltración en RetroMadrid 2012
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-
-wordpress_id: 722
-wordpress_url: http://tiovictor.romhackhispano.org/?p=722
-header_img: /img/2012/05/RetroMadrid2012Noti.jpg
+header:
+  overlay_image: /img/2012/05/RetroMadrid2012Noti.jpg
+layout: single
 categories:
 - General
 - Resident Evil 2 Dreamcast

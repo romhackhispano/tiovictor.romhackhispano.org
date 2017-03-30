@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Estado de Zone of The Enders
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 174
-wordpress_url: http://tiovictor.romhackhispano.org/?p=174
-header_img: /img/2009/06/ZOE1Noti08.jpg
+header:
+  overlay_image: /img/2009/06/ZOE1Noti08.jpg
 date: '2009-06-22 11:55:28 +0200'
 date_gmt: '2009-06-22 10:55:28 +0200'
+layout: single
 categories:
 - Zone of the Enders
 tags:

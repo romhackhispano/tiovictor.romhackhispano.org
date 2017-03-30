@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Y el ganador/perdedor de la inocentada es...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 425
-wordpress_url: http://tiovictor.romhackhispano.org/?p=425
-header_img: /img/2010/12/TC1Noti04.jpg
+header:
+  overlay_image: /img/2010/12/TC1Noti04.jpg
 date: '2010-12-29 00:04:05 +0100'
 date_gmt: '2010-12-28 23:04:05 +0100'
+layout: single
 categories:
 - Time Crisis
 - The World Ends With You

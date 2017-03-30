@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Resident Evil Director's Cut reescrito
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 3173
-wordpress_url: http://tiovictor.romhackhispano.org/?p=3173
-header_img: /img/2016/06/RE1Noti33.jpg
+header:
+  overlay_image: /img/2016/06/RE1Noti33.jpg
+layout: single
 categories:
 - Resident Evil
 tags:
@@ -60,6 +53,6 @@ Si queréis leer una nueva vuelta de tuerca al primer Resident Evil, os aconsejo
 
 Y ahora unas fotitos:
 
-{% include gallery.html %}
+{% include gallery %}
 
 A quienes queráis probar esta reversión: Disfrutadla.

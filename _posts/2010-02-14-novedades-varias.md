@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades varias
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 309
-wordpress_url: http://tiovictor.romhackhispano.org/?p=309
-header_img: /img/2010/02/PZ4Noti04.jpg
+header:
+  overlay_image: /img/2010/02/PZ4Noti04.jpg
 date: '2010-02-14 19:27:00 +0100'
 date_gmt: '2010-02-14 18:27:00 +0100'
+layout: single
 categories:
 - Project Zero 4
 - Resident Evil 2 Dreamcast

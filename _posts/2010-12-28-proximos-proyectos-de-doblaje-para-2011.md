@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Próximos proyectos de doblaje para 2011
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 421
-wordpress_url: http://tiovictor.romhackhispano.org/?p=421
-header_img: /img/2010/12/ShenmueVSTimeCrisis.jpg
+header:
+  overlay_image: /img/2010/12/ShenmueVSTimeCrisis.jpg
 date: '2010-12-28 00:35:38 +0100'
 date_gmt: '2010-12-27 23:35:38 +0100'
+layout: single
 categories:
 - Time Crisis
 - The World Ends With You

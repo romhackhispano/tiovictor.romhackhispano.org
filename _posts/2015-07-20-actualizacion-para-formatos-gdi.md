@@ -1,15 +1,6 @@
 ---
-layout: post
-status: publish
-published: true
 title: Actualización para formatos GDI
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-header_img: /img/NotiEnBlancoV2.jpg
-wordpress_id: 2906
-wordpress_url: http://tiovictor.romhackhispano.org/?p=2906
+layout: single
 categories:
 - Resident Evil 2 Dreamcast
 - Shenmue

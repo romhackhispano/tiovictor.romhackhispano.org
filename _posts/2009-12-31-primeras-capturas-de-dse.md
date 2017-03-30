@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Primeras capturas de DSE
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 287
-wordpress_url: http://tiovictor.romhackhispano.org/?p=287
-header_img: /img/2009/12/DSENoti11.jpg
+header:
+  overlay_image: /img/2009/12/DSENoti11.jpg
 date: '2009-12-31 16:07:27 +0100'
 date_gmt: '2009-12-31 15:07:27 +0100'
+layout: single
 categories:
 - Dead Space Extraction
 tags:

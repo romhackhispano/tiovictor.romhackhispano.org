@@ -1,17 +1,10 @@
 ---
-layout: post
-status: publish
-published: true
 title: Resident Evil 1 - 3.5 publicada
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 296
-wordpress_url: http://tiovictor.romhackhispano.org/?p=296
-header_img: /img/2010/01/RE1Noti02.jpg
+header:
+  overlay_image: /img/2010/01/RE1Noti02.jpg
 date: '2010-01-20 22:18:15 +0100'
 date_gmt: '2010-01-20 21:18:15 +0100'
+layout: single
 categories:
 - Resident Evil
 tags:

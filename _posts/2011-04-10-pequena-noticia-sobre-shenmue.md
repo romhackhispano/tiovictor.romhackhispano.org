@@ -1,15 +1,8 @@
 ---
-layout: post
-status: publish
-published: true
 title: Pequeña noticia sobre Shenmue...
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 476
-wordpress_url: http://tiovictor.romhackhispano.org/?p=476
-header_img: /img/2011/04/Shen1Noti13.jpg
+header:
+  overlay_image: /img/2011/04/Shen1Noti13.jpg
+layout: single
 categories:
 - Shenmue
 tags:

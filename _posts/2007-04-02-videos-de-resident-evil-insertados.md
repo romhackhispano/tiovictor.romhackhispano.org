@@ -1,22 +1,15 @@
 ---
-layout: post
-status: publish
-published: true
 title: Vídeos de Resident Evil insertados
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 6
-wordpress_url: http://tiovictor.romhackhispano.org/?p=6
-header_img: /img/2007/04/RE1Noti29.jpg
+header:
+  overlay_image: /img/2007/04/RE1Noti29.jpg
 date: '2007-04-02 19:12:37 +0200'
 date_gmt: '2007-04-02 17:12:37 +0200'
+layout: single
 categories:
 - Personal
 - Colaboraciones
 - Resident Evil
-- 'SWAT 4, The Stetchkov Syndicate'
+- SWAT 4 The Stetchkov Syndicate
 tags:
 - Resident Evil
 ---

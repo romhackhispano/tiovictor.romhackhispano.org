@@ -1,19 +1,12 @@
 ---
-layout: post
-status: publish
-published: true
 title: 'Alerta: Fragile Dreams os necesita'
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 467
-wordpress_url: http://tiovictor.romhackhispano.org/?p=467
-header_img: /img/2011/03/FragileNoti01.jpg
+header:
+  overlay_image: /img/2011/03/FragileNoti01.jpg
+layout: single
 categories:
 - Fragile Dreams
 tags:
-- 'Fragile Dreams: Farewell Ruins of the Moon'
+- Fragile Dreams Farewell Ruins of the Moon
 ---
 Lamento tener que dar estas malas noticias, pero la situación es bastante 
 preocupante. Tenemos pruebas más que suficientes para creer que hay alguien 

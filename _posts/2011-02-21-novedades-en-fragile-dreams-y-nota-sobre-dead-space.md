@@ -1,22 +1,15 @@
 ---
-layout: post
-status: publish
-published: true
 title: Novedades en Fragile Dreams y nota sobre Dead Space
-author:
-  display_name: Tío Víctor
-  url: http://tiovictor.romhackhispano.org
-author_url: http://tiovictor.romhackhispano.org
-wordpress_id: 432
-wordpress_url: http://tiovictor.romhackhispano.org/?p=432
-header_img: /img/2011/02/FragileNoti09.jpg
+header:
+  overlay_image: /img/2011/02/FragileNoti09.jpg
+layout: single
 categories:
 - General
 - Fragile Dreams
 - Dead Space Extraction
 tags:
 - Dead Space Extraction
-- 'Fragile Dreams: Farewell Ruins of the Moon'
+- Fragile Dreams Farewell Ruins of the Moon
 ---
 Bueno, ayer un viejo conocido de Project Zero 4 me mostró su intención de redactar 
 un artículo sobre el último proyecto que se está llevando aquí, Fragile Dreams, 
