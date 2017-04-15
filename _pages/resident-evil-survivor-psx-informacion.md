@@ -14,7 +14,7 @@ de tu juego original _**que tenga el parche anticopia de PSX Killer**_. ¡El par
 no aceptará una imagen recién copiada del disco!
 
 Necesitarás extraer una imagen en formato .BIN/.CUE de la versión PAL inglesa 
-de Resident Evil: Survivor, con el código de juego SLES-02744.
+de Resident Evil: Survivor, con el código de juego SLES-02732.
 
 Una vez la hayas extraído, tendrás que _utilizar el programa PPF-O-Matic 3 para 
 aplicar el parche antipiratería de PSX Killer_. Como es un parche que anula una 
