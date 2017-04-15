@@ -1,6 +1,7 @@
 ---
 title: "¡Resident Evil Survivor publicado!"
 header:
+  overlay_image: /img/2017/RESurv-Noti02.jpg
 layout: single
 categories:
 - 'Resident Evil Survivor'
