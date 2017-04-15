@@ -52,8 +52,8 @@ José Manuel Oliva, David García, Izan Maillo, Nacho López, Álvaro Canicio, M
 
 RoyRamker, Gadesx, locomosxca, la gente de RetroMadrid/RetroBarcelona, AUIC, Alejandro Blanco, Amicon, Funspot, Isako, Saeba, Koopa, Pengo, Jony, los miembros 
 de la comunidad de oyentes de Game Over, los chicos de InGameVG, José Andrés Cardona, la gente de RetroManiac, la gente de La Fortaleza de LeChuck, la gente 
-de GuiltyBit, Alberto Lloret, DcEric, la gente de la comunidad de ShenmueDojo, Adam Sipione, Jesús Fabre, 2D Retroperspectives, Slobulus, josegutab, 
-Rubén Vera, la buena gente de ScummVM, Green_goblin, DLPB...
+de GuiltyBit, Alberto Lloret, DcEric, la gente de la comunidad de ShenmueDojo, Adam Sipione, Jesús Fabre, 2D Retroperspectives, Netherware Entertainment, 
+Slobulus, josegutab, Rubén Vera, la buena gente de ScummVM, Green_goblin, DLPB...
 
 Klint, PacoChan, xulikotony, TheFireRed, TrueFaiterMan, ConanCimmerio, Brett “Switch” Chandler, TheMarkusBoy, GameZelda, SkyBladeCloud, SaturnAR, FacundoARG, CUE...
 

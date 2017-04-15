@@ -65,22 +65,23 @@ gallery2:
  - image_path: /img/2015/12/WINBACK-16.jpg
  - image_path: /img/2015/12/WINBACK-17.jpg
 gallery3:
- - image_path: /img/2015/12/RESURVIVOR-20160103-02.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-03.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-04.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-05.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-06.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-07.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-08.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-09.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-10.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-11.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-12.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-13.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-14.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-15.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-16.jpg
- - image_path: /img/2015/12/RESURVIVOR-20160103-17.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-01.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-03.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-04.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-05.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-06.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-07.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-08.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-09.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-10.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-11.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-12.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-13.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-14.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-15.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-16.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-17.jpg
+ - image_path: /img/2017/04/RESURVIVOR-20170407-18.jpg
 ---
 Buenas a todos, es el día en el que España entera (Y no sé si América Latina) 
 se pone a hacer chistes y a mí me da por hacer cosas dando una vuelta de tuerca 
