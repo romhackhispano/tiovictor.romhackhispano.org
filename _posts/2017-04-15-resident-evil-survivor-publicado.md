@@ -30,7 +30,10 @@ parche...
 Sin más preámbulo, aquí van los enlaces de descarga, y después del salto hablaré del estado actual del resto de proyectos.
 
 <h2 style="text-align: center;"><em><strong>Descargar versión 1.0 del parche:</strong></em></h2>
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/file/dpkxt3307oq3435/RESURV-ESP-PALENG-V10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!JMVijAAI!LRdwpfpKDFiMX3Gkmz0DPysvp1O-51dgX1_ecYUIxhQ">MEGA</a></h1>
+<h1 style="text-align: center;"><a href="http://www.mediafire.com/file/dpkxt3307oq3435/RESURV-ESP-PALENG-V10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!lNMjEQrY!PTado8QHUBpXIPCNf2RlRlgyDs-PKVdWAVhe9puOGBg">MEGA</a></h1>
+
+**EDICIÓN 16:53:** He actualizado el parche por un problema que he tenido con mi imagen original. Ahora debería funcionar correctamente. 
+Disculpad las molestias. Si os habéis descargado el parche antes de esta hora, por favor, volved a descargarlo.
 
 <!--more-->
 
