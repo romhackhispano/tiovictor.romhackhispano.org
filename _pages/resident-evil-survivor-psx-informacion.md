@@ -7,6 +7,13 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-survivor-psx/capturas/">CAPTURAS</a> - <a href="/resident-evil-survivor-psx/descargar/">DESCARGAS</a></strong></h2>
 
+_**REGISTRO DE REVISIONES:**_
+ - 1.0 - Primera versión:
+   - Todo el juego está traducido al castellano.
+   - Los subtítulos de las escenas ingame han sido expandidos y resincronizados con las voces en la medida de lo posible.
+ - 1.0.1 - Corrección menor:
+   - Corregido el fallo de los créditos del juego en consola real.
+
 _**COMO APLICAR EL PARCHE DE TRADUCCIÓN:**_
 
 AVISO: El parche está pensado para ser aplicado a una copia de seguridad 

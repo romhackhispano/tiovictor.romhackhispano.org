@@ -5,8 +5,16 @@ header:
 layout: single
 categories:
 - 'Resident Evil Survivor'
+- 'Shadow Watch'
+- 'Persona 3'
+- 'Pilotwings 64'
+- 'Operation Winback'
 tags:
 - 'Resident Evil Survivor'
+- 'Shadow Watch'
+- 'Persona 3'
+- 'Pilotwings 64'
+- 'Operation Winback'
 ---
 
 Por fin publicamos nuestra primera traducción del año, un juego que se ha rebelado como un gorrino de camino al matadero: 
@@ -29,8 +37,7 @@ parche...
 
 Sin más preámbulo, aquí van los enlaces de descarga, y después del salto hablaré del estado actual del resto de proyectos.
 
-<h2 style="text-align: center;"><em><strong>Descargar versión 1.0 del parche:</strong></em></h2>
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/file/dpkxt3307oq3435/RESURV-ESP-PALENG-V10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!lNMjEQrY!PTado8QHUBpXIPCNf2RlRlgyDs-PKVdWAVhe9puOGBg">MEGA</a></h1>
+<h1 style="text-align: center;"><a href="/resident-evil-survivor-psx/">Ir a la página del proyecto</a></h1>
 
 **EDICIÓN 16:53:** He actualizado el parche por un problema que he tenido con mi imagen original. Ahora debería funcionar correctamente. 
 Disculpad las molestias. Si os habéis descargado el parche antes de esta hora, por favor, volved a descargarlo.

@@ -23,7 +23,7 @@ comments: false
 [POLICENAUTS (PSX, EN PROGRESO, 50%)](/policenauts/)  
 [READY 2 RUMBLE (PSX, V1.0)](/ready-2-rumble-1/)  
 [RESIDENT EVIL: DIRECTOR’S CUT (PSX, V3.6 Y V4.0)](/resident-evil-directors-cut/)  
-[RESIDENT EVIL SURVIVOR (PSX, V1.0)](/resident-evil-survivor-psx/)  
+[RESIDENT EVIL SURVIVOR (PSX, V1.0.1)](/resident-evil-survivor-psx/)  
 [SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1)](/silent-hill-1/)  
 [TIME CRISIS 1 (PSX, V1.0)](/time-crisis-1/)  
 [THE 3RD BIRTHDAY (PSP, COLABORACIÓN, V1.0)](/the-3rd-birthday/)  

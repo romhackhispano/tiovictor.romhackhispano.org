@@ -20,6 +20,6 @@ Utiliza herramientas de Mat.
 
 _Recuerda: Debes aplicar el parche antipiratería de PSX Killer antes de aplicar la traducción._
 
-<h2 style="text-align: center;"><em><strong>Descargar versión 1.0 del parche:</strong></em></h2>
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/file/dpkxt3307oq3435/RESURV-ESP-PALENG-V10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!lNMjEQrY!PTado8QHUBpXIPCNf2RlRlgyDs-PKVdWAVhe9puOGBg">MEGA</a></h1>
+<h2 style="text-align: center;"><em><strong>Descargar versión 1.0.1 del parche:</strong></em></h2>
+<h1 style="text-align: center;"><a href="http://www.mediafire.com/file/wdryz0olgztxx0o/RESURV-ESP-PALENG-V101.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!4ANiBDBR!rBPsuueoyf94IlxZDOF2R-fvTLf5Ge2bZev5x15cuNE">MEGA</a></h1>
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/">VOLVER</a></strong></h2>

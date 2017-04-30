@@ -10,7 +10,8 @@ date_gmt: '2016-01-03 18:16:07 +0100'
 <center><img src="/img/2017/04/RESURVIVOR-20170407-02.jpg" alt="Resident Evil Survivor para PSX" /></center>
 
 Traducción de textos y gráficos de Resident Evil: Survivor para PlayStation One empezado 
-a finales de 2015 y publicado el 15 de abril de 2017.
+a finales de 2015 y publicado el 15 de abril de 2017. La última versión, la 1.0.1, se publicó 
+el 30 de abril de 2017.
 
 A diferencia de otros proyectos de la franquicia, este es el primer proyecto que utiliza la 
 versión inglesa como base, debido a que sí contiene subtítulos (Aunque desactivados mediante 
