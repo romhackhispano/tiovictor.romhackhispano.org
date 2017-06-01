@@ -8,6 +8,7 @@ comments: false
 
 [Aegis Translations (Hogar de Aegisflame)](http://aegis.romhackhispano.org/)  
 [Blog de Xulikotony](http://traduccionesxt.blogspot.com.es/)  
+[Artema Translations](http://hotayeldi-traducciones.blogspot.com.es/)  
 [Dreamcast.es](http://www.dreamcast.es/)  
 [Fortaleza Romhack](http://fortaleza.romhackhispano.org/)  
 [Game Over me pone](http://www.portalgameover.com/)  
