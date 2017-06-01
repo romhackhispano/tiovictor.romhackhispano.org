@@ -78,25 +78,20 @@ main:
     url: /amigos/
     children:
         - title: "Aegis Translations (Hogar de Aegisflame)"
-          link: http://aegis.romhackhispano.org/
+          url: http://aegis.romhackhispano.org/
         - title: "Blog de Xulikotony"
-          link: http://traduccionesxt.blogspot.com.es/
+          url: http://traduccionesxt.blogspot.com.es/
         - title: "Artema Translations"
-          link: "http://hotayeldi-traducciones.blogspot.com.es/"
+          url: "http://hotayeldi-traducciones.blogspot.com.es/"
         - title: "Dreamcast.es"
-          link: http://www.dreamcast.es/
+          url: http://www.dreamcast.es/
         - title: "Fortaleza Romhack"
-          link: http://fortaleza.romhackhispano.org/
+          url: http://fortaleza.romhackhispano.org/
         - title: "Game Over me pone"
-          link: http://www.portalgameover.com/
+          url: http://www.portalgameover.com/
         - title: "Romhacking.net"
-          link: http://www.romhacking.net/
+          url: http://www.romhacking.net/
         - title: "SegaSaturno"
-          link: http://www.segasaturno.com/
+          url: http://www.segasaturno.com/
         - title: "Tales Translations"
-          link: http://blog.tales-tra.com/
-
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+          url: http://blog.tales-tra.com/
