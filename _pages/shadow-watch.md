@@ -3,23 +3,20 @@ title: Shadow Watch (En progreso, 55%)
 permalink: /shadow-watch/
 header:
   overlay_image: /img/headers/ShadowWatchHeader.jpg
-date: '2013-10-16 23:18:43 +0200'
-date_gmt: '2013-10-16 21:18:43 +0200'
-gallery:
- - image_path: /img/2013/10/SW20131017-07.jpg
- - image_path: /img/2013/10/SW20131017-01.jpg
- - image_path: /img/2013/10/SW20131017-02.jpg
- - image_path: /img/2013/10/SW20131017-03.jpg
- - image_path: /img/2013/10/SW20131017-04.jpg
- - image_path: /img/2013/10/SW20131017-05.jpg
- - image_path: /img/2013/10/SW20131017-06.jpg
 ---
-Proyecto de traducción del juego para PC **Shadow Watch**, desarrollado por Red Storm 
-Entertainment.
+<h2 style="text-align: center;"><strong><a href="/shadow-watch/informacion/">INFORMACIÓN</a> - <a href="/shadow-watch/capturas/">CAPTURAS</a> - <a href="/shadow-watch/descargar/">DESCARGAS</a></strong></h2>
 
-Yo corro a cargo de la traducción, la programación y romhack están a cargo de **noisecross** 
-y **Deep Dive Translations**, y el revisor es **xulikotony**.
+<center><img src="/img/2017/06/MenuPrincipal.jpg" alt="Shadow Watch para PC" /></center>
+<br>
+Proyecto de fantraducción de **Shadow Watch**, desarrollado por Red Storm Entertainment para PC. 
+El proyecto empezó en primavera de 2013 y publicado en su versión 1.0 el 18 de junio de 2017.
 
-**Shadow Watch está traducido en un 50%.**
+Tras empezarlo en 2013, el proyecto se quedó en el fondo del cajón ya que había otros proyectos 
+que tenían una mayor prioridad y también por varios cambios en mi vida personal. No fue hasta marzo de 2016 
+cuando empecé a darle la atención que se merece. Tras varios meses avanzando poco a poco la brutal cantidad 
+de textos que contiene (Cerca de 200.000 palabras), el proyecto salió a la luz.
 
-{% include gallery %}
+Es un juego muy infravalorado, al que no se le dieron muchas oportunidades por competir casi directamente 
+con otra franquicia de mayor calado (Commandos). De hecho, no llegó ni a salir en territorio español, salvo 
+el motivo que me llevó a conocerlo: Una demo que tenía el CD de demos de la MicroManía n.º63. Quién diría 
+que alguien se acordaría de él a día de hoy...

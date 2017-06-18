@@ -13,7 +13,7 @@ realizada por <strong>PacoChan, Zoinkity, SkyBladeCloud e IlDucci</strong>.
 
 Todos los textos están completamente traducidos al castellano.
 
-<h2 style="text-align: center;"><iframe src="https://www.youtube.com/embed/3RAJBB2a1f8" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h2>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/3RAJBB2a1f8" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 El 9 de junio de 2009 publiqué una primera versión de la traducción, bastante pobre a mi entender 
 y bastante incompleta. El proyecto fue detenido hasta enero de 2014, cuando vi que Zoinkity, uno 

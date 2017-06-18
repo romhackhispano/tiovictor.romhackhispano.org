@@ -9,7 +9,7 @@ date_gmt: '2016-07-02 17:22:05 +0200'
 <h2 style="text-align: center;"><strong><a href="/clock-tower-psx-20/informacion/">INFORMACIÓN</a> - <a href="/clock-tower-psx-20/capturas/">CAPTURAS</a> - <a href="/clock-tower-psx-20/descargar/">DESCARGAS</a></strong></h2>
 
 <p style="text-align: center;"><img src="/img/2016/07/SLPS_009.17_08052016_220436_0693.jpg" width="256" height="240" /></p>
-
+<br>
 Reescritura, revisión y mejora de la fantraducción al castellano de Clock Tower: The First Fear 
 para PlayStation.
 

@@ -9,12 +9,6 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-esp/informacion/">INFORMACIÓN</a> - <a href="/whats-shenmue-esp/descargar/">DESCARGAS</a> - <a href="/whats-shenmue-esp/capturas/">CAPTURAS</a></strong></h2>
 
-<h1 style="text-align: center;"><strong>Parche V1.0.4:</strong>  
-<strong><a href="http://www.mediafire.com/download/lfr5nbrhe2q42xb/WhatsShenmue104.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!ZEcwySSA!-77BUlzGzhzmcCkJZ2kE6KsvBsFiPhmNcbMTuxayxxA" target="_blank">MEGA</a></strong></h1>
-
-<h1 style="text-align: center;"><strong>Contenidos adicionales (Carátula, manual):</strong>  
-<strong><a href="http://www.mediafire.com/download/ls82yh9qcndrnw4/WhatsShenmueExtras-11.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!AV0H1ASK!Xqecv4NuZ__TAAo3B5Evss-b0jEO8ApOKsENzUYhntY" target="_blank">MEGA</a></strong></h1>
-
 **CRÉDITOS GLOBALES**  
 Programación/Romhacking: YZB, PacoChan, Indiket, IlDucci  
 Edición de gráficos: BlueMue, IlDucci, Gin  
@@ -43,5 +37,11 @@ Por LucasPreacherOfHell
 A FamilyGuy y a HyKan por la información del formato de las pistas CDDA.  
 A kRYPT, fackue, James Reiner, Master Kyodai, xhizors92 y Gin por sus conocmientos; 
 y a Fénix, Ryo Suzuki y Rock_Lee-Vk por su apoyo.
+
+<h1 style="text-align: center;"><strong>Parche V1.0.4:</strong>  
+<strong><a href="http://www.mediafire.com/download/lfr5nbrhe2q42xb/WhatsShenmue104.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!ZEcwySSA!-77BUlzGzhzmcCkJZ2kE6KsvBsFiPhmNcbMTuxayxxA" target="_blank">MEGA</a></strong></h1>
+
+<h1 style="text-align: center;"><strong>Contenidos adicionales (Carátula, manual):</strong>  
+<strong><a href="http://www.mediafire.com/download/ls82yh9qcndrnw4/WhatsShenmueExtras-11.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!AV0H1ASK!Xqecv4NuZ__TAAo3B5Evss-b0jEO8ApOKsENzUYhntY" target="_blank">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-esp/">VOLVER</a></strong></h2>

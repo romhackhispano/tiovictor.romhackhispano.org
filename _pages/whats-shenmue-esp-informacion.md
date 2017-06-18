@@ -12,7 +12,8 @@ comments: false
 El parcheador solo ha sido probado con los discos que contienen los siguientes códigos 
 en el anverso del mismo:  
 - 610-7179-0133A 11MB1  
-- 610-7179-0133A H1723E.  
+- 610-7179-0133A H1723E
+
 Si vas a utilizar un disco con otro código, por favor, primero prueba sus resultados 
 y luego indícanos los mismos y el código que tiene.
 
@@ -21,25 +22,20 @@ MDS/MDF, ya preparadas para su uso en consola.
 
 **REGISTRO DE VERSIONES:**
 
-1.0   - Primera versión:  
-- Todos los textos están completamente traducidos al Castellano.
-
-1.0.1 - Actualización menor:  
-- Corregidos un par de defectos menores en los NPC genéricos.
-
-1.0.2 - Actualización menor:  
-- El parcheador ahora puede exportar la traducción al formato .GDI.  
-- Cambios menores en la traducción al alemán.
-
-1.0.3 - Corrección de erratas:  
-- Cambios en los paseantes en los tres idiomas. Gracias a StuntmanSnake por el aviso.  
-- Añadidas las comillas latinas en la versión en castellano.
-
-1.0.3b - Corrección menor:  
-- Corregidos los saltos de línea en la traducción inglesa.
-
-1.0.4 - Añadida la traducción al portugués brasileño.  
-- Correcciones menores en las texturas del juego.
+- 1.0: Primera versión.
+  - Todos los textos están completamente traducidos al Castellano.
+- 1.0.1: Actualización menor.
+  - Corregidos un par de defectos menores en los NPC genéricos.
+- 1.0.2: Actualización menor.
+  - El parcheador ahora puede exportar la traducción al formato .GDI.
+  - Cambios menores en la traducción al alemán.
+- 1.0.3: Corrección de erratas.
+  - Cambios en los paseantes en los tres idiomas. Gracias a StuntmanSnake por el aviso.
+  - Añadidas las comillas latinas en la versión en castellano.
+- 1.0.3b: Corrección menor.
+  - Corregidos los saltos de línea en la traducción inglesa.
+- 1.0.4: Añadida la traducción al portugués brasileño.
+  - Correcciones menores en las texturas del juego.
 
 **ERRORES CONOCIDOS**  
 - En Demul se ven los bordes de los carteles iniciales. Es un defecto del emulador en sí.  

@@ -13,6 +13,6 @@ date_gmt: '2013-10-16 21:14:06 +0200'
 Proyecto de traducción de los juegos Tom Clancy's Rainbow Six (Y su expansión Eagle Watch) y Tom Clancy's Rainbow Six: Rogue Spear (Y su expansiones Urban Operations, Covert Ops Essentials y Black Thorn).
 
 <center><img src="/img/2013/10/R620131017-01.jpg" width="300" height="225" /></center>
-
+<br>
 El parche sale como sustitución de todas las ediciones en inglés del juego, debido a la 
 desaparición de la localización oficial por parte de Proein (Encontrar esa edición está resultando ser una odisea).

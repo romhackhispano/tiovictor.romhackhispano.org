@@ -15,4 +15,4 @@ Sega Dreamcast, de japonés a inglés, castellano, portugués de Brasil y alemá
 
 <center><img src="/img/2014/08/WhatsShenmueES-03.jpg" width="300" height="223" />
 
-<h2 style="text-align: center;"><strong><a href="/whats-shenmue-esp/">VOLVER</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/whats-shenmue/">VOLVER/RETURN</a></strong></h2>

@@ -11,7 +11,7 @@ comments: false
 [ALIEN SWARM (V1.6)](/alien-swarm/)  
 [CONTRACT J.A.C.K. (VERSIÓN 1.5 2012)](/contract-jack/)  
 [SAGA RAINBOW SIX (V1.0)](/saga-rainbow-six-para-pc/)  
-[SHADOW WATCH (EN PROGRESO, 90%)](/shadow-watch/)  
+[SHADOW WATCH (V1.0)](/shadow-watch/)  
 [SOŁTYS (TRADUCCIÓN OFICIAL, PUBLICADA)](/soltys/)  
 [SOLDIER OF FORTUNE 1 (V1.0)](/soldier-of-fortune-1/)  
 [SWAT4: THE STETCHKOV SYNDICATE (V2.2 2012)](/swat4-the-stetchkov-syndicate/)  
@@ -20,6 +20,7 @@ comments: false
 
 [CLOCK TOWER: THE FIRST FEAR (PSX, V2.0)](/clock-tower-psx-20/)  
 [OPERATION WINBACK (PS2, EN PROGRESO, 85%)](/operation-winback/)  
+[PERSONA 3 FES (PS2, EN PROGRESO)](/policenauts/)  
 [POLICENAUTS (PSX, EN PROGRESO, 50%)](/policenauts/)  
 [READY 2 RUMBLE (PSX, V1.0)](/ready-2-rumble-1/)  
 [RESIDENT EVIL: DIRECTOR’S CUT (PSX, V3.6 Y V4.0)](/resident-evil-directors-cut/)  
@@ -47,8 +48,7 @@ comments: false
 [SHENMUE I (DC, V1.0.5B)](/shenmue/)  
 [SHENMUE II (DC, V1.0.2)](/shenmue-ii/)  
 [SOLDIER OF FORTUNE 1 (DC, V1.0)](/soldier-of-fortune-1/)  
-[WHAT’S SHENMUE (DC, V1.0.4, ENGLISH SITE)](/whats-shenmue-eng/)  
-[WHAT’S SHENMUE (DC, V1.0.4, PÁGINA EN ESPAÑOL)](/whats-shenmue-esp/)  
+[WHAT’S SHENMUE (DC, V1.0.4)](/whats-shenmue/)  
 
 # Xbox
 
