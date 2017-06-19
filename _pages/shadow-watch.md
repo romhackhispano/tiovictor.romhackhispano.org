@@ -1,5 +1,5 @@
 ---
-title: Shadow Watch (En progreso, 55%)
+title: Shadow Watch (V1.0)
 permalink: /shadow-watch/
 header:
   overlay_image: /img/headers/ShadowWatchHeader.jpg
