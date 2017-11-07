@@ -1,6 +1,10 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
+  <!-- MODIFICACION: Hacer que la barra lateral sea estática -->
+  <!--
   <div class="sidebar sticky">
-  <!-- MODIFICACION: Eliminar la siguiente lißnea para que no se muestre el perfil del autor. -->
+  -->
+  <div class="sidebar">
+  <!-- MODIFICACION: Eliminar la siguiente linea para que no se muestre el perfil del autor. -->
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}

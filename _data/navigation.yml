@@ -66,10 +66,10 @@ main:
   - title: "Colaboraciones"
     url: /colaboraciones/
     children:
-        - title: Amnesia The Dark Descent - Colaboración
-          url: /amnesia-the-dark-descent-colaboracion
+        - title: "Amnesia: The Dark Descent"
+          url: /amnesia-the-dark-descent-colaboracion/
         - title: "Final Fantasy VII"
-          url: /final-fantasy-vii-colaboracion
+          url: /final-fantasy-vii-colaboracion/
         - title: "Golden Eye 007"
           url: /goldeneye-007-colaboracion/
         - title: "Project Zero/Fatal Frame 4"
@@ -77,7 +77,7 @@ main:
   - title: "Amigos"
     url: /amigos/
     children:
-        - title: "Aegis Translations (Hogar de Aegisflame)"
+        - title: "Aegis Translations"
           url: http://aegis.romhackhispano.org/
         - title: "Blog de Xulikotony"
           url: http://traduccionesxt.blogspot.com.es/
@@ -87,7 +87,7 @@ main:
           url: http://www.dreamcast.es/
         - title: "Fortaleza Romhack"
           url: http://fortaleza.romhackhispano.org/
-        - title: "Game Over me pone"
+        - title: "Game Over"
           url: http://www.portalgameover.com/
         - title: "Romhacking.net"
           url: http://www.romhacking.net/
