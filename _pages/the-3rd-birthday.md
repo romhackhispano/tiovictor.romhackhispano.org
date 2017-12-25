@@ -22,7 +22,6 @@ de los gráficos. Todo ha sido gracias a la implicación de sus miembros.
 
 Seis años después, con la publicación de la fantraducción italiana el 30 de julio de 
 2017, se han aprovechado los nuevos descubrimientos sobre el juego realizados por Phoenix 
-para publicar una actualización, la versión 1.5, con una revisión de textos y con las 
-modificaciones que hacían falta para terminar de adaptar el juego a nuestro idioma.
-
-La versión 1.5 será publicada cuando el testeo haya concluido.
+para publicar una actualización (versión 1.) el 25 de diciembre de 2017, con una revisión 
+de textos y con las modificaciones que hacían falta para terminar de adaptar el juego a 
+nuestro idioma.
