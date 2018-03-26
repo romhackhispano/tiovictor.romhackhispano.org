@@ -83,6 +83,4 @@ _**SOLUCIÓN DE PROBLEMAS:**_
      origen) incorrecto.
 
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+

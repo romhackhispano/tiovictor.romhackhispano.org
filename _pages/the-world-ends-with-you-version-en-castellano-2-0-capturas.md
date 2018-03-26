@@ -18,7 +18,5 @@ gallery:
 {% include gallery %}
 
 <h2 style="text-align: center;"><a href="/the-world-ends-with-you-version-en-castellano-2-0/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 

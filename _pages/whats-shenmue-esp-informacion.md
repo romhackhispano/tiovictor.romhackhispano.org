@@ -45,7 +45,5 @@ en aparecer. Este defecto ya existía en el juego original.
 Para más información, ver el archivo léeme.
 
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-esp/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+
 

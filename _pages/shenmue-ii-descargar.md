@@ -92,7 +92,5 @@ Joy: **María Cebrián**
 <h1 style="text-align: center;"><a href="http://www.mediafire.com/download/z8xv45yn6kygcbc/ShenmueIIEnEspanolXBOX102.7z"><strong>PARCHE PARA XBOX PAL V1.0.2</strong></a></h1>
 
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+
 

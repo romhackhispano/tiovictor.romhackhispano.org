@@ -126,7 +126,5 @@ real mediante discos CD-R, utiliza la opción NRG (Para consola real).
   configuración del mismo.
 
 <h1 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/">VOLVER</a></strong></h1>
-<br>
-<br>
-<br>
+
 

@@ -17,7 +17,5 @@ vuestros discos originales. **El equipo de traducción no se hará cargo de cual
 referente a ISOs, ISOs descargadas o Custom Firmwares.**
 
 <h2 style="text-align: center;"><a href="/the-3rd-birthday/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 

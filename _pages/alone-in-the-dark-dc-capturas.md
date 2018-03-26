@@ -23,7 +23,5 @@ gallery:
 <h2 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2>
 {% include gallery %}
 <h1 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/">VOLVER</a></strong></h1>
-<br>
-<br>
-<br>
+
 

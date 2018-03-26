@@ -18,7 +18,5 @@ To learn more about cookies and how to manage them, visit [AboutCookies.org](htt
 - Cookie Message &mdash; Once you have been informed about cookies, a cookie is stored to track that you have seen the message, and it won't be shown again. This cookie is named icc_cookie_message.
 
 **This page should be completed by the website admin...**
-<br>
-<br>
-<br>
+
 

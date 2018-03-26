@@ -37,6 +37,4 @@ Antonio Cobos.
 
 El parcheador necesita de la versión más reciente de las librerías Visual C++ Redistributable. 
 Puedes descargarla pulsando en [este enlace](https://www.microsoft.com/es-ES/download/details.aspx?id=48145).
-<br>
-<br>
-<br>
+

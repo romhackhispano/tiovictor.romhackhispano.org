@@ -28,8 +28,6 @@ Narrador del epílogo (Castellano): **Víctor González**
 Narrador del epílogo (Español latino): **Juanjo Martí**
 
 <h2 style="text-align: center;"><strong><a href="/shenmue/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+
 
 

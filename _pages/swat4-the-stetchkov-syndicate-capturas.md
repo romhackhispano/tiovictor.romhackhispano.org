@@ -23,7 +23,5 @@ gallery:
 <p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/CrarQ3syDo8?rel=0" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <h2 style="text-align: center;"><strong><a href="/swat4-the-stetchkov-syndicate/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+
 

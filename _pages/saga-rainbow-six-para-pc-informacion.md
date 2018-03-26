@@ -59,7 +59,5 @@ alguno de estos componentes después de instalar la traducción, tendréis que
 volver a ejecutar el instalador de la traducción.
 
 <h2 style="text-align: center;"><a href="/saga-rainbow-six-para-pc/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 

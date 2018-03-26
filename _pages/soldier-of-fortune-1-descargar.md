@@ -34,8 +34,6 @@ https://mega.nz/#!dQsy1IbA!GAhiN4XWzxATwqT02jpSegRNqodBa3Az-RZv2sIDBcI">MEGA</a>
 https://mega.nz/#!gRNFFBCZ!ikvJdDWDhf-MI2lk8lsIMDfahXx6ul9qzyi8_CXoNxo">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/soldier-of-fortune-1/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 
 

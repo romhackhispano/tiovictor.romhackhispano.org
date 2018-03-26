@@ -84,6 +84,4 @@ Para hacer que Jennifer se tranquilice (mientras no haya enemigos), basta con de
 X y esperar a que Jennifer se arrodille para descansar.
 
 <h2 style="text-align: center;"><strong><a href="/clock-tower-psx-20/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+

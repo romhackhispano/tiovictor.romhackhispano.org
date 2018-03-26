@@ -37,7 +37,5 @@ Capturas de la versión 1.0:
 {% include gallery id="gallery2" %}
 
 <h2 style="text-align: center;"><a href="/the-3rd-birthday/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 

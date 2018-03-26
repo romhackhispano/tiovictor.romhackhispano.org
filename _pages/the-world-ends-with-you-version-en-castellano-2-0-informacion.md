@@ -33,7 +33,5 @@ llegar a esa escena, y abrirla pasados unos minutos.
 <p class="aligncenter size-full wp-image-597">(Gracias a Ruf por la información)</p>
 
 <h2 style="text-align: center;"><a href="/the-world-ends-with-you-version-en-castellano-2-0/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 

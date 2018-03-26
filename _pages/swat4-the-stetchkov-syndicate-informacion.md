@@ -35,7 +35,5 @@ determinantes con tilde innecesaria. Corregida la fuente del juego para que mues
 los caracteres en mayúsculas (En todas las fuentes salvo las de títulos)
 
 <h2 style="text-align: center;"><strong><a href="/swat4-the-stetchkov-syndicate/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+
 

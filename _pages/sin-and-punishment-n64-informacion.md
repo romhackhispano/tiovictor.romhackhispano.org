@@ -36,7 +36,5 @@ El juego está completamente traducido y doblado al castellano. Se ha traducido 
 el manual y la guía rápida debido a que contienen elementos relevantes de la trama del juego.
 
 <h2 style="text-align: center;"><a href="/sin-and-punishment-n64/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 

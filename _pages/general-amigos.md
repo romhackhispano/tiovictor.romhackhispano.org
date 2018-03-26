@@ -15,7 +15,5 @@ comments: false
 [Romhacking.net](http://www.romhacking.net/)  
 [SegaSaturno](http://www.segasaturno.com/)  
 [Tales Translations](http://blog.tales-tra.com/)  
-<br>
-<br>
-<br>
+
 

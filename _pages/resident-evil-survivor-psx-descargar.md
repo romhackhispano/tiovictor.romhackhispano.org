@@ -23,6 +23,4 @@ _Recuerda: Debes aplicar el parche antipiratería de PSX Killer antes de aplicar
 <h2 style="text-align: center;"><em><strong>Descargar versión 1.0.1 del parche:</strong></em></h2>
 <h1 style="text-align: center;"><a href="http://www.mediafire.com/file/wdryz0olgztxx0o/RESURV-ESP-PALENG-V101.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!4ANiBDBR!rBPsuueoyf94IlxZDOF2R-fvTLf5Ge2bZev5x15cuNE">MEGA</a></h1>
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+

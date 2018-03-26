@@ -28,7 +28,5 @@ gallery:
 {% include gallery %}
 
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-esp/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+
 

@@ -54,7 +54,5 @@ _Página Web:_ Serede, Darkneyra
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/uaf86eom3986zk5/Parcheador_TWEWY_Final.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!BBtXRYrT!zXK4mZRZ76-CfcKuhhuIkhDtHaTgsDjFybipi8FDnvQ">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/the-world-ends-with-you-version-en-castellano-2-0/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 

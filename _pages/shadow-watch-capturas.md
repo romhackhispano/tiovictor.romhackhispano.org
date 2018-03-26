@@ -18,6 +18,4 @@ gallery:
 
 {% include gallery %}
 <h2 style="text-align: center;"><strong><a href="/shadow-watch/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+

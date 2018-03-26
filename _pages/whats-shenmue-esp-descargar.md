@@ -45,7 +45,5 @@ y a Fénix, Ryo Suzuki y Rock_Lee-Vk por su apoyo.
 <strong><a href="http://www.mediafire.com/download/ls82yh9qcndrnw4/WhatsShenmueExtras-11.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!AV0H1ASK!Xqecv4NuZ__TAAo3B5Evss-b0jEO8ApOKsENzUYhntY" target="_blank">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-esp/">VOLVER</a></strong></h2>
-<br>
-<br>
-<br>
+
 

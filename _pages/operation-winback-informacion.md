@@ -79,7 +79,5 @@ personas que saben explicar la situación mejor que yo.
 
 
 <h2 style="text-align: center;"><a href="/operation-winback/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 

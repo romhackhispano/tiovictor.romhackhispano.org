@@ -30,8 +30,6 @@ gallery:
 {% include gallery %}
 
 <h2 style="text-align: center;"><a href="/soldier-of-fortune-1/"><strong>VOLVER</strong></a></h2>
-<br>
-<br>
-<br>
+
 
 

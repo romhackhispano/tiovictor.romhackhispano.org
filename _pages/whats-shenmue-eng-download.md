@@ -41,7 +41,5 @@ and to Fénix, Ryo Suzuki &amp; Rock_Lee-Vk for their support.
 <h1 style="text-align: center;"><strong>Extra contents (Cover and manuals):<br><a href="http://www.mediafire.com/download/ls82yh9qcndrnw4/WhatsShenmueExtras-11.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!AV0H1ASK!Xqecv4NuZ__TAAo3B5Evss-b0jEO8ApOKsENzUYhntY" target="_blank">MEGA</a>
 
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-eng/">BACK</a></strong></h2>
-<br>
-<br>
-<br>
+
 
