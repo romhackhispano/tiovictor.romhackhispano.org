@@ -17,3 +17,7 @@ Tráiler final:
 <p style="text-align: center;"><iframe src="http://www.youtube.com/embed/GVlQRcCcG-8?rel=0" width="510" height="383" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
 
 <h2 style="text-align: center;"><strong><a href="/shenmue/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

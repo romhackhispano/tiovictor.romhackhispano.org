@@ -67,3 +67,7 @@ _Google (Analytics)_: http://www.google.com/intl/es_ALL/privacypolicy.html
 _(Esto texto legal está basado en el [escrito por Rubén 
 Colomer](http://www.online.com.es/2956/internet/politica-de-privacidad-adaptada-a-adsense/) compartido 
 bajo licencia [CC](http://creativecommons.org/licenses/by-sa/2.0/deed.es))_
+<br>
+<br>
+<br>
+

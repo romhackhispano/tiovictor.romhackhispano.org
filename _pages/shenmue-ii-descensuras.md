@@ -51,3 +51,7 @@ recuperado las latas de Coca-Cola, Fanta, Sprite y Georgia, sustituyendo a las m
 latas de la empresa Sapporo seguirán intactas, ya que también es una marca real.
 
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

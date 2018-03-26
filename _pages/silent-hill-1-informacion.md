@@ -27,3 +27,7 @@ de la misma al español latino por cortesía de Giromancy, de los foros de www.s
 Esta adaptación, por motivos regionales, solo se ha implantado en la versión NTSC-U.
 
 <h2 style="text-align: center;"><strong><a href="/silent-hill-1/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

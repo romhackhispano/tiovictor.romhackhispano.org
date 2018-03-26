@@ -68,5 +68,8 @@ ingame del juego. Ya no desaparecerán antes de tiempo.
 podía provocar lecturas de disco más lentas en consola.  
 1.5C- Añadido soporte para exportar imágenes en formato GDI. La traducción no ha tenido 
 cambios, así que mantiene su número de versión anterior.
+1.5D- Añadida una verificación adicional a la hora de generar imágenes en formato 
+MDS/MDF para asegurar que su tamaño sea apto para discos de 80 minutos. Gracias a PepperStyles 
+por descubrir el fallo. La traducción sigue manteniendo el número de versión 1.5B.
 
 {% include gallery %}

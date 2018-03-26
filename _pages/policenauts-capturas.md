@@ -48,3 +48,7 @@ gallery3:
 {% include gallery id="gallery3" %}
 
 <h2 style="text-align: center;"><a href="/policenauts/"><strong>VOLVER</strong></a></h2>
+<br>
+<br>
+<br>
+

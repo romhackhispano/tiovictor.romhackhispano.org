@@ -108,3 +108,7 @@ disco duro. NO ejecutes el parcheador desde dentro de su archivos comprimido ni 
 a una unidad extraíble (Pendrives USB, por ejemplo).
 
 <h2 style="text-align: center;"><strong><a href="/shenmue/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

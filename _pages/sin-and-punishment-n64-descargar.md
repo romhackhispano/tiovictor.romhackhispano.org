@@ -67,3 +67,7 @@ que va a la derecha)
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5z5e3813mdqp8tm/Tool64_v1.11Beta1.zip">MEDIAFIRE</a> - <a href="https://mega.nz/#!sZM3EaaL!6VxPMLqdJ4L1eCnqqiMkNaYB0Xr0e9L3tOKe9y8eXHI">MEGA</a></strong></h1>
 
+<h2 style="text-align: center;"><a href="/sin-and-punishment-n64/"><strong>VOLVER</strong></a></h2>
+<br>
+<br>
+<br>

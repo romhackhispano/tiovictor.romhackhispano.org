@@ -76,3 +76,7 @@ _**Capturas de la versión 1.0.4:**_
 {% include gallery id="gallery2" %}
 
 <h2 style="text-align: center;"><strong><a href="/shenmue/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

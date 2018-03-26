@@ -1,26 +1,19 @@
 ---
-title: Operation Winback (PS2, en progreso, 85%)
+title: Operation Winback (PS2, V1.0)
 permalink: /operation-winback/
-date: '2016-01-03 19:46:32 +0100'
-date_gmt: '2016-01-03 17:46:32 +0100'
-gallery:
- - image_path: /img/2015/12/WINBACK-01.jpg
- - image_path: /img/2015/12/WINBACK-02.jpg
- - image_path: /img/2015/12/WINBACK-03.jpg
- - image_path: /img/2015/12/WINBACK-04.jpg
- - image_path: /img/2015/12/WINBACK-05.jpg
- - image_path: /img/2015/12/WINBACK-06.jpg
- - image_path: /img/2015/12/WINBACK-07.jpg
- - image_path: /img/2015/12/WINBACK-08.jpg
- - image_path: /img/2015/12/WINBACK-09.jpg
- - image_path: /img/2015/12/WINBACK-10.jpg
- - image_path: /img/2015/12/WINBACK-11.jpg
- - image_path: /img/2015/12/WINBACK-12.jpg
- - image_path: /img/2015/12/WINBACK-13.jpg
- - image_path: /img/2015/12/WINBACK-14.jpg
- - image_path: /img/2015/12/WINBACK-16.jpg
- - image_path: /img/2015/12/WINBACK-17.jpg
+header:
+  overlay_image: /img/headers/OpWinbackHeader.jpg
 ---
-Página en construcción.
+<h2 style="text-align: center;"><strong><a href="/operation-winback/informacion/">INFORMACIÓN</a> - <a href="/operation-winback/descargar/">DESCARGAS</a> - <a href="/operation-winback/capturas/">CAPTURAS</a></strong></h2>
 
-{% include gallery %}
+<p style="text-align: center;"><img src="/img/2018/03/WinbackStart.jpg" width="320" height="240" /></p><br>
+
+En 2015 me dio por cotillear el (remaster de la época) juego Operation 
+Winback de PS2 y pensé en convertir la traducción que ya existe para la 
+versión de Nintendo 64. No tardé en darme cuenta de que era mejorable, así 
+que la empecé de cero directamente.
+
+Aunque fue terminada en apenas un par de meses, se ha quedado dos años 
+largos languideciendo por un fallo que no podía corregir en el que ciertos 
+menús ralentizaban la consola. A finales de 2017 descubrí lo que fallaba y 
+dejé el proyecto acabado.

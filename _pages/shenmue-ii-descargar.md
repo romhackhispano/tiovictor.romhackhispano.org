@@ -26,7 +26,7 @@ edición de gráficos, investigador de formatos, director de doblaje, técnico d
 **Natsu, Josemalaga1986, Fenix:** Testeo en Dreamcast  
 **Ikaken 2011+2012:** Testeo en XBOX  
 **xulikotony, Ryo Suzuki, Alejandro Bono:** Traductores del material compartido entre juegos  
-**TrueFaiterMan, ConanCimmerio:** Revisión de las técnicas de artes marciales</p>  
+**TrueFaiterMan, ConanCimmerio:** Revisión de las técnicas de artes marciales  
 Sistema del parcheador de Dreamcast basado en GDI2DATA por FamilyGuy, modificado por IlDucci. 
 Utiliza programas y código fuente de DC-SWAT, Jöerg Schilling y SiZious. Adaptación a formato 
 GDI basada en el código de Sappharad.
@@ -92,3 +92,7 @@ Joy: **María Cebrián**
 <h1 style="text-align: center;"><a href="http://www.mediafire.com/download/z8xv45yn6kygcbc/ShenmueIIEnEspanolXBOX102.7z"><strong>PARCHE PARA XBOX PAL V1.0.2</strong></a></h1>
 
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

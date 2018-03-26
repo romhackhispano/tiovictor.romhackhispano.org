@@ -45,3 +45,7 @@ _**Utilidades necesarias para parchear la ROM**_
 [xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/)
 
 <h2 style="text-align: center;"><strong><a href="/silent-hill-1/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

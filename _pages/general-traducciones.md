@@ -19,7 +19,7 @@ comments: false
 # Playstation 1, 2, PSP
 
 [CLOCK TOWER: THE FIRST FEAR (PSX, V2.0)](/clock-tower-psx-20/)  
-[OPERATION WINBACK (PS2, EN PROGRESO, 85%)](/operation-winback/)  
+[OPERATION WINBACK (PS2, V1.0)](/operation-winback/)  
 [PERSONA 3 FES (PS2, EN PROGRESO)](/policenauts/)  
 [POLICENAUTS (PSX, EN PROGRESO, 50%)](/policenauts/)  
 [READY 2 RUMBLE (PSX, V1.0)](/ready-2-rumble-1/)  
@@ -27,7 +27,7 @@ comments: false
 [RESIDENT EVIL SURVIVOR (PSX, V1.0.1)](/resident-evil-survivor-psx/)  
 [SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1)](/silent-hill-1/)  
 [TIME CRISIS 1 (PSX, V1.0)](/time-crisis-1/)  
-[THE 3RD BIRTHDAY (PSP, COLABORACIÓN, V1.0)](/the-3rd-birthday/)  
+[THE 3RD BIRTHDAY (PSP, V1.5)](/the-3rd-birthday/)  
 [ZONE OF THE ENDERS 1 (1.0 BIS)](/zone-of-the-enders/)  
 
 # Nintendo 64, Wii, DS
@@ -54,3 +54,7 @@ comments: false
 
 [SHENMUE II (V1.0.2)](/shenmue-ii/)  
 [WRECKLESS: THE YAKUZA MISSIONS (V1.0)](/wreckless-the-yakuza-missions-para-xbox/)  
+<br>
+<br>
+<br>
+

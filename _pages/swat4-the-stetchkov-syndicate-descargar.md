@@ -26,3 +26,7 @@ Parche de traducción de Stetchkov Syndicate:
 Traducido íntegramente por **IlDucci**.
 
 <h2 style="text-align: center;"><strong><a href="/swat4-the-stetchkov-syndicate/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

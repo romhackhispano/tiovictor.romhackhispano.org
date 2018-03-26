@@ -30,3 +30,7 @@ gallery:
 {% include gallery %}
 
 <h2 style="text-align: center;"><a href="/el-mundo-nunca-es-suficiente-n64/"><strong>VOLVER</strong></a></h2>
+<br>
+<br>
+<br>
+

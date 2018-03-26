@@ -51,3 +51,7 @@ Si no se instalan las expansiones y parches en este orden, surgirán problemas i
 (Idiomas descontrolados, defectos gráficos...)
 
 <h2 style="text-align: center;"><a href="/saga-rainbow-six-para-pc/"><strong>VOLVER</strong></a></h2>
+<br>
+<br>
+<br>
+

@@ -56,3 +56,7 @@ gallery3:
 {% include gallery id="gallery3" %}
 
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+

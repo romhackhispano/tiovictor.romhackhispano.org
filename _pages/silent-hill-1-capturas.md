@@ -38,4 +38,8 @@ gallery:
 {% include gallery %}
 
 <h2 style="text-align: center;"><strong><a href="/silent-hill-1/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+
 

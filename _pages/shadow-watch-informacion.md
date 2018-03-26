@@ -18,3 +18,6 @@ _**PROBLEMAS CONOCIDOS:**_
    - Desinstala Java y vuelve a instalarlo. En ciertos casos en los que Java se ha actualizado mal o en los ordenadores que tengan más de una versión de Java, el sistema anticopia se queda bloqueado. Si de verdad necesitas tener Java como lo tengas en tu ordenador, cierra el proceso ShadowWatch.exe en el administrador de tareas y vuelve a ejecutar el juego. Debería funcionar al segundo intento.
 
 <h2 style="text-align: center;"><strong><a href="/shadow-watch/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>

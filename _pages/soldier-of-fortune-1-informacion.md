@@ -113,4 +113,8 @@ _**SOLUCIÓN DE PROBLEMAS:**_
    última partida guardada o reiniciar la consola para cargarla.
 
 <h2 style="text-align: center;"><a href="/soldier-of-fortune-1/"><strong>VOLVER</strong></a></h2>
+<br>
+<br>
+<br>
+
 

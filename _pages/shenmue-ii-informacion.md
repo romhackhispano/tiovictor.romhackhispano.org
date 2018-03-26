@@ -80,3 +80,7 @@ Código 2 con el MKISOFS: Asegúrate de tener tu Windows en el idioma inglés o 
 - Se ha corregido la degradación de sonido en el modo 99min: Ya se puede copiar el disco 2 sin más problemas.
 
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/">VOLVER</a></strong></h2>
+<br>
+<br>
+<br>
+
