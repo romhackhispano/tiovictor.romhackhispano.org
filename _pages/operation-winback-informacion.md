@@ -30,7 +30,7 @@ http://www.romhacking.net/utilities/598/ )
  - Pulsa en el botón "Open" que hay debajo del texto "Patch" y selecciona el 
    archivo .XDELTA.
  - Pulsa en el botón "Open" que hay debajo del texto "Source File" y 
-   selecciona la imagen en formato .BIN o .IMG de tu copia del juego con el 
+   selecciona la imagen en formato .BIN de tu copia del juego con el 
    parche anticopia ya instalado.
  - Introduce en el cuadro que hay debajo de "Output File" o pulsa en el 
    botón que contiene los puntos suspensivos (...) el nombre que tendrá la 
