@@ -1,5 +1,5 @@
 ---
-title: Silent Hill 1 (Retraducción, v2.1)
+title: Silent Hill 1 (Retraducción, v2.1B)
 permalink: /silent-hill-1/
 header:
   overlay_image: /img/headers/SilentHillHeader.jpg

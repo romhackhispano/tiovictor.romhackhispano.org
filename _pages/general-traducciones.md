@@ -25,7 +25,7 @@ comments: false
 [READY 2 RUMBLE (PSX, V1.0)](/ready-2-rumble-1/)  
 [RESIDENT EVIL: DIRECTOR’S CUT (PSX, V3.6 Y V4.0)](/resident-evil-directors-cut/)  
 [RESIDENT EVIL SURVIVOR (PSX, V1.0.1)](/resident-evil-survivor-psx/)  
-[SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1)](/silent-hill-1/)  
+[SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1B)](/silent-hill-1/)  
 [TIME CRISIS 1 (PSX, V1.0)](/time-crisis-1/)  
 [THE 3RD BIRTHDAY (PSP, V1.5)](/the-3rd-birthday/)  
 [ZONE OF THE ENDERS 1 (1.0 BIS)](/zone-of-the-enders/)  

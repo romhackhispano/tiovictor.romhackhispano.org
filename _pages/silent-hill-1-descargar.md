@@ -9,18 +9,20 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/silent-hill-1/informacion/">INFORMACIÓN</a> - <a href="/silent-hill-1/descargar/">DESCARGAS</a> - <a href="/silent-hill-1/capturas/">CAPTURAS</a></strong></h2>
 
-Créditos del proyecto v2.1:  
-- Programación: **PacoChan**  
-- Revisión/Reescritura de textos: **TheMarkusBoy, IlDucci**  
-- Edición de vídeo/gráficos: **IlDucci**  
-- Traductor al español latino: **Giromancy**  
-- Gráficos adicionales: **Neryko**  
-- Herramientas adicionales: **RedComet, Klarth, HoRRoR, Black Pyramid, DenSilent, ViT, 
+Créditos del proyecto v2.1B:  
+Programación: **PacoChan**  
+Revisión/Reescritura de textos: **TheMarkusBoy, IlDucci**  
+Edición de vídeo/gráficos: **IlDucci**  
+Traductor al español latino: **Giromancy**  
+Gráficos adicionales: **Neryko**  
+Herramientas adicionales: **RedComet, Klarth, HoRRoR, Black Pyramid, DenSilent, ViT, 
 nikita600, CUE, Stealth, Ortew, Viento, Michael Sabin**
 
-<h2 style="text-align: center;"><strong>DESCARGAR VERSIÓN 2.1:</strong></h2>
+Agradecimientos especiales a Leeg.
 
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/#!FQFQmQiR!jJ-ZC3y0BJvjifFu-D71lILJTow7Ic03YgHbqs9JeVU" target="_blank">MEGA</a> - <a href="http://www.mediafire.com/download/vo5s3g1o8gnl4te/" target="_blank">MEDIAFIRE</a></strong></h1>
+<h2 style="text-align: center;"><strong>DESCARGAR VERSIÓN 2.1B:</strong></h2>
+
+<h1 style="text-align: center;"><strong><a href="https://mega.nz/#!QAVnlYiA!Q4OEtB6NTvqAilCUdhHLlm7pty3L1bhcyTxxjT8UvAg" target="_blank">MEGA</a> - <a href="http://www.mediafire.com/file/cbkuxjag8ml33m7/SH-PSX-Retraduccion21B.7z" target="_blank">MEDIAFIRE</a></strong></h1>
 
 Para poder aplicar el parche, necesitaréis **la versión PAL o la versión NTSC-U del juego.** 
 Deberéis extraer sus contenidos con el programa CDMage, aplicarles los correspondientes parches 

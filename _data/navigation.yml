@@ -39,7 +39,7 @@ main:
           url: /shenmue/
         - title: "SHENMUE II (DC, XBOX, 1.0.2)"
           url: /shenmue-ii/
-        - title: "SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1)"
+        - title: "SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1B)"
           url: /silent-hill-1/
         - title: "SIN AND PUNISHMENT (N64, V1.0B)"
           url: /sin-and-punishment-n64/
@@ -68,6 +68,8 @@ main:
     children:
         - title: "Amnesia: The Dark Descent"
           url: /amnesia-the-dark-descent-colaboracion/
+        - title: "Digimon Rumble Arena"
+          url: /digimon-rumble-arena-colaboracion/
         - title: "Final Fantasy VII"
           url: /final-fantasy-vii-colaboracion/
         - title: "Golden Eye 007"
