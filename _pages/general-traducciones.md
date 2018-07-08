@@ -19,6 +19,7 @@ comments: false
 # Playstation 1, 2, PSP
 
 [CLOCK TOWER: THE FIRST FEAR (PSX, V2.0)](/clock-tower-psx-20/)  
+[FEAR EFFECT 2: RETRO HELIX (PSX, V1.0)](/fear-effect-2-retro-helix/)  
 [OPERATION WINBACK (PS2, V1.0)](/operation-winback/)  
 [PERSONA 3 FES (PS2, EN PROGRESO)](/policenauts/)  
 [POLICENAUTS (PSX, EN PROGRESO, 50%)](/policenauts/)  
