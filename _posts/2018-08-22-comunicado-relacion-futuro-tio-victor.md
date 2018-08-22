@@ -81,7 +81,7 @@ He intentado contactar durante estos años con el primer «embajador de la comun
 con Ys Net. Solo conseguí silencio de radio o el equivalente en el idioma de RR.PP. de «Vuelva usted mañana».
 
 Avancemos hasta 2018. Tuve la suerte de que Shenmue Master (La comunidad francesa de Shenmue y responsables de la programación 
-principal en las fantraducciones de Shenmue I y II) me invitara a mí y a SegaSaturno al MAGIC, un evento de Shibuya Productions 
+principal en las fantraducciones de Shenmue I y II) me invitara a mí y a SEGASaturno al MAGIC, un evento de Shibuya Productions 
 en el que podría conocer al creador de Shenmue en persona, Yu Suzuki. Le hicimos una entrevista 
 ([que podéis ver aquí](http://www.segasaturno.com/portal/nuestra-entrevista-a-yu-suzuki-en-el-magic-monaco-2018-vf32-vt9374.html?sid=9742496e1ff687fb5bd19f3bc730da68) 
 y tuve una charla con miembros de las distribuidoras de Shenmue III, Deep Silver y Koch Media. Tras una charla que parecía 
