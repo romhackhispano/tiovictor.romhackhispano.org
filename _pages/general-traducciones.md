@@ -21,7 +21,7 @@ comments: false
 [CLOCK TOWER: THE FIRST FEAR (PSX, V2.0)](/clock-tower-psx-20/)  
 [FEAR EFFECT 2: RETRO HELIX (PSX, V1.0)](/fear-effect-2-retro-helix/)  
 [OPERATION WINBACK (PS2, V1.0)](/operation-winback/)  
-[PERSONA 3 FES (PS2, EN PROGRESO)](/policenauts/)  
+[PERSONA 3 FES (PS2, EN PROGRESO)](/persona-3-fes/)  
 [POLICENAUTS (PSX, EN PROGRESO, 50%)](/policenauts/)  
 [READY 2 RUMBLE (PSX, V1.0)](/ready-2-rumble-1/)  
 [RESIDENT EVIL: DIRECTOR’S CUT (PSX, V3.6 Y V4.0)](/resident-evil-directors-cut/)  
