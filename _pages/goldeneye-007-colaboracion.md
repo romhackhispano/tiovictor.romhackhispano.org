@@ -22,15 +22,15 @@ gallery:
  - image_path: /img/2014/12/Project64-2014-12-30-22-59-46-516.jpg
  - image_path: /img/2014/12/Project64-2014-12-30-23-00-28-387.jpg
 ---
-Proyecto de traducción al castellano realizado por [Sogun](http://sogunstudio.blogspot.com.es/), 
+Proyecto de traducción al castellano realizado por **[Sogun](http://sogunstudio.blogspot.com.es/)**, 
 cuya última versión fue publicada el 5 de mayo de 2013.
 
 En noviembre de 2014 entré a colaborar haciendo una revisión profunda de sus textos y convirtiendo 
 la traducción a la ROM europea para aquellos que no tengan un televisor con soporte NTSC-U. La 
 revisión y conversión fueron terminadas y publicadas el 30 de diciembre de 2014.
 
-En la versión 2.0 han participado [Sogun](http://sogunstudio.blogspot.com.es/), Zoinkity, 
-[SubDrag](http://www.goldeneyevault.com/) y un servidor de ustedes.
+En la versión 2.0 han participado Sogun, Zoinkity, **[SubDrag](http://www.goldeneyevault.com/)** 
+y un servidor de ustedes.
 
 Adjunto una copia del archivo con el permiso de Sogun.
 
