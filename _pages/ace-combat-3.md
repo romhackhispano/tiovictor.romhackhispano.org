@@ -17,7 +17,6 @@ gallery:
  - image_path: /img/2019/01/AC3-ESP-20190106-38.jpg
  - image_path: /img/2019/01/AC3-ESP-20190106-40.jpg
  - image_path: /img/2019/01/AC3-ESP-20190106-42.jpg
- - image_path: /img/2019/01/AC3-ESP-20190106-45.jpg
  - image_path: /img/2019/01/AC3-ESP-20190106-47.jpg
  - image_path: /img/2019/01/AC3-ESP-20190106-51.jpg
 ---
