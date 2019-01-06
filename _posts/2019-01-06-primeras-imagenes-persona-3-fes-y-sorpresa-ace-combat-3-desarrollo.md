@@ -30,7 +30,7 @@ que nos ha dedicado a resolver la parte técnica del juego. Gracias a él hemos 
 adaptarla al castellano.
 
 **Actualmente llevamos un 30% de cadenas de texto traducidas.** Gracias a esto os puedo presentar **una nueva tanda de capturas
-de Persona 3 FES **(Que podéis ver **[pulsando en este enlace](/persona-3-fes/capturas/)**) **y un vídeo con los primeros compases 
+de Persona 3 FES** (Que podéis ver **[pulsando en este enlace](/persona-3-fes/capturas/)**) **y un vídeo con los primeros compases 
 del juego traducidos.**
 
 Antes de nada, una advertencia: La traducción que vais a ver todavía sigue en proceso de desarrollo y seguirá recibiendo 
