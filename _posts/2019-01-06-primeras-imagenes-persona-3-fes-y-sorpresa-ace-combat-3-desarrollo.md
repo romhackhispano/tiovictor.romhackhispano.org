@@ -1,7 +1,7 @@
 ---
 title: "Primeras imágenes de Persona 3 FES... ¡Y sorpresa! Ace Combat 3 en desarrollo"
 header:
-  overlay_image: /img/NotiEnBlancoV2.jpg
+  overlay_image: /img/2019/01/20190106-P3FESyAC3.jpg
 layout: single
 categories:
 - 'Persona 3 FES'
