@@ -30,7 +30,8 @@ que nos ha dedicado a resolver la parte técnica del juego. Gracias a él hemos 
 adaptarla al castellano.
 
 **Actualmente llevamos un 30% de cadenas de texto traducidas.** Gracias a esto os puedo presentar **una nueva tanda de capturas
-de Persona 3 FES (Que podéis ver [aquí](/persona-3-fes/capturas/)) y un vídeo con los primeros compases del juego traducidos.**
+de Persona 3 FES **(Que podéis ver **[pulsando en este enlace](/persona-3-fes/capturas/)**) **y un vídeo con los primeros compases 
+del juego traducidos.**
 
 Antes de nada, una advertencia: La traducción que vais a ver todavía sigue en proceso de desarrollo y seguirá recibiendo 
 cambios hasta que estemos satisfechos.
@@ -60,7 +61,7 @@ realizada por yarghenforgen, pensada para hacer de puente a otros idiomas (Y bie
 matices), y **actualmente tanto la traducción inglesa como la española están a la par: 95% de diálogos traducidos (sin editar o revisar), 
 0% de contenidos adicionales (Sección del buscador, manual).**
 
-Podéis ver unas capturas preliminares **[aquí](/ace-combat-3/).**
+Podéis ver unas capturas preliminares **[pulsando en este enlace](/ace-combat-3/).**
 
 Y eso es todo en cuanto a las novedades. Los proyectos de Persona 3 FES y de Broken Sword 2.5 han sido mis dos proyectos que más problemas 
 de retrasos han dado, pero espero poder superar estos escollos a lo largo de este año.
