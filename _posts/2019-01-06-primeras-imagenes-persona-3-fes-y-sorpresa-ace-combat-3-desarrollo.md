@@ -51,7 +51,7 @@ probar suerte por si acabo la lista, estos son los requisitos necesarios para pa
 Con esto terminan las novedades sobre Persona 3 FES. Como ya habréis visto en el título, sí, **estoy organizando la traducción al castellano 
 de la versión japonesa (Completa) de Ace Combat 3: Electrosphere.** En este caso estoy colaborando con el 
 **[equipo de traducción italiano](https://ac3es.infrid.com/doku.php?id=ace_combat_3_-_translation_help_wiki_ita)**, compuesto por Infrid, 
-OrientalComputer_01, Zebrone89 y yarghenforgen, el cual basa sus investigaciones en las del **[Project NEMO](https://projectnemo.net/)**.
+OrientalComputer_01, SolidSnake11 y yarghenforgen, el cual basa sus investigaciones en las del **[Project NEMO](https://projectnemo.net/)**.
 
 Por resumir el estado del proyecto, el 95% de los textos están fundidos en gráficos. Por este motivo el equipo italiano lleva 
 meses programando un kit de herramientas con las que coger subtítulos en formato de texto y exportarlos directamente al juego.
