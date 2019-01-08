@@ -25,7 +25,7 @@ con **[GlowTranslations](https://glowtranslations.tk/)** y su fantraducción de 
 *TRADUCTORES:*  
 Aegis  
 Saispai  
-Draglue  
+Dragoonglue  
 Rokuso3  
 IlDucci
 
