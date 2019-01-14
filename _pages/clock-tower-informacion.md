@@ -83,5 +83,5 @@ Botón B: Botón de pánico (Pulsar repetidas veces cuando la imagen de Jennifer
 Para hacer que Jennifer se tranquilice (mientras no haya enemigos), basta con detenerse con el botón 
 X y esperar a que Jennifer se arrodille para descansar.
 
-<h2 style="text-align: center;"><strong><a href="/clock-tower-psx-20/">VOLVER</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/clock-tower/">VOLVER</a></strong></h2>
 

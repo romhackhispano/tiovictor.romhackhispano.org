@@ -32,7 +32,7 @@ Si queréis ir catando la traducción, os dejo el enlace para que le echéis un 
 que sí, he terminado con varios proyectos que estaban al 99% de desarrollo. Aún me quedan dos o tres para seguir
 hacia mi objetivo de quedarme sólo con Policenauts y con algún otro proyecto que me llame la atención.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/clock-tower-psx-20/descargar/">Ir a la página de descargas</a></strong></h2><br/>
+<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/clock-tower/descargar/">Ir a la página de descargas</a></strong></h2><br/>
 
 <!--more-->
 

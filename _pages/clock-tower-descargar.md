@@ -49,6 +49,6 @@ Utiliza herramientas de RedComet y Klarth.
 <h2 style="text-align: center;"><em><strong>Descargar versión 1.0 del parche para Super Nintendo:</strong></em></h2>
 <h1 style="text-align: center;"><a href="http://www.mediafire.com/file/fxmptpg8fxggzmm/CTSNES-ESP-10BETA.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!BIU2SDKR!K2qFXRzQn-aNHN8RRSMDdiSJbfEhLDqdy1zQ4yLifqg">MEGA</a></h1>
 
-<h2 style="text-align: center;"><strong><a href="/clock-tower-psx-20/">VOLVER</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/clock-tower/">VOLVER</a></strong></h2>
 
 
