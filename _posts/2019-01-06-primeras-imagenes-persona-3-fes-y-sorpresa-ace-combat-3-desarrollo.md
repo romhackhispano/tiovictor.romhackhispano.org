@@ -48,6 +48,8 @@ probar suerte por si acabo la lista, estos son los requisitos necesarios para pa
  - Como requisito opcional, tenemos acceso al script japonés y unas cuántas dudas sobre cómo eran los términos originales, así que 
  si sabes japonés también serás bienvenido (Si puedes demostrar tu nivel).
 
+**EDICIÓN 1 DE FEBRERO DE 2019**: Hemos completado el grupo de traductores. Si se abren más plazas, os lo haremos saber.
+
 Con esto terminan las novedades sobre Persona 3 FES. Como ya habréis visto en el título, sí, **estoy organizando la traducción al castellano 
 de la versión japonesa (Completa) de Ace Combat 3: Electrosphere.** En este caso estoy colaborando con el 
 **[equipo de traducción italiano](https://ac3es.infrid.com/doku.php?id=ace_combat_3_-_translation_help_wiki_ita)**, compuesto por Infrid, 
