@@ -16,6 +16,8 @@ Su primera entrega era más conocida en Europa, ya que la secuela bajó el list�
 este juego ya tenía una fantraducción por cortesía de *Scorpio*, pero entonces pensé que podía hacerlo mejor. Aunque llegué a modificar 
 textos y gráficos (De aquella manera), terminé por guardar lo que tenía en un cajón y acabé olvidándome de ella.
 
+<!--more-->
+
 Saltemos a febrero de 2018. Revisando entre una carpeta que no había tocado en años me encontré esta copia del proyecto. Le eché un 
 vistazo y vi que podía distraerme un poco con ella, con todas las cositas nuevas que he aprendido desde que cerré esa carpeta. 
 

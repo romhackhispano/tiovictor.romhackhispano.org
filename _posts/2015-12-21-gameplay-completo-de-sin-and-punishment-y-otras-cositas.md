@@ -32,4 +32,4 @@ no han podido catar el doblaje en sus consolas o emuladores.
 
 Felices fiestas.
 
-{% include youtube.html id="3Wx0WpIzOMg" %}
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3Wx0WpIzOMg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

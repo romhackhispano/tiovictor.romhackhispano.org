@@ -1,10 +1,6 @@
 {% if page.author_profile or layout.author_profile or page.sidebar %}
-  <!-- MODIFICACION: Hacer que la barra lateral sea estática -->
-  <!--
+  <!-- MODIFICACION: Eliminar la cabecera del autor -->
   <div class="sidebar sticky">
-  -->
-  <div class="sidebar">
-  <!-- MODIFICACION: Eliminar la siguiente linea para que no se muestre el perfil del autor. -->
   {% if page.sidebar %}
     {% for s in page.sidebar %}
       {% if s.image %}
@@ -12,12 +8,13 @@
         {% if s.image contains "://" %}
           "{{ s.image }}"
         {% else %}
-          "{{ s.image | absolute_url }}"
+          "{{ s.image | relative_url }}"
         {% endif %}
         alt="{% if s.image_alt %}{{ s.image_alt }}{% endif %}">
       {% endif %}
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
+      {% if s.nav %}{% include nav_list nav=s.nav %}{% endif %}
     {% endfor %}
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}

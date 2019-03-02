@@ -12,4 +12,4 @@ tags:
 Lamento que el sonido suena distorsionado, pero poco más se puede hacer con el equipo 
 de los grandes de [FaseBonus](http://www.fasebonus.net).
 
-{% include youtube.html id="OrIlem2Y8fU" ratio="4by3" %}
+**VÍDEO ELIMINADO POR YOUTUBE**

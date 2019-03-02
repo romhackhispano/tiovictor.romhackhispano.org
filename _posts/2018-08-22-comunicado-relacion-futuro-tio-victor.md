@@ -17,6 +17,8 @@ desde hace unos años.
 
 Así que respirad hondo, que viene un ladrillo.
 
+<!--more-->
+
 Llevo unos años queriendo retirarme tranquilamente del mundillo, lo he comentado abiertamente en varias ocasiones, 
 pero también he querido llevar hasta el final de los proyectos que he empezado en la medida de lo posible.
 

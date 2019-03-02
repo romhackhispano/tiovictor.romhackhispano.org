@@ -24,7 +24,7 @@ currado [una entrevista hacia mí, que podéis conocer aquí](http://www.segasat
 Os dejo con el tráiler final de este proyecto, y los que queráis leer los 
 detalles exactos, los tenéis tras el salto.
 
-<center>{% include youtube.html id="GVlQRcCcG-8" %}</center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GVlQRcCcG-8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <!--more-->
 

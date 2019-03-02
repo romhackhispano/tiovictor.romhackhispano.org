@@ -14,6 +14,8 @@ tags:
 Buenas a todos, espero que hayáis pasado unas felices fiestas, que los Reyes o Papá Noel hayan sido buenos con vosotros 
 y os deseo un feliz año nuevo. Hoy voy a hacer un par de anuncios.
 
+<!--more-->
+
 Empecemos por Persona 3 FES. Tras años de retrasos, por fin hemos acabado con el glosario y hemos comenzado la fase de 
 traducción de textos. Por resumir lo sucedido, el proyecto se ha retrasado debido a la decisión de que todos los elementos 
 del glosario debían ser elegidos por unanimidad. Lo que parecía una idea buena y honesta se convirtió en una pesadilla en 
