@@ -1,6 +1,6 @@
 ---
 title: Capturas de Shenmue I
-permalink: /shenmue/capturas
+permalink: /shenmue/capturas/
 header:
   overlay_image: /img/headers/Shenmue1Header.jpg
 date: '2015-06-01 23:52:43 +0200'
