@@ -2,7 +2,7 @@
 title: "Alien Swarm PC (v1.6)"
 permalink: /alien-swarm/
 header:
-  overlay_image: /img/headers/AlienSwarmHeader.jpg
+  overlay_image: /img/headers/pages/AlienSwarmHeader.jpg
 date: '2010-07-28 16:25:25 +0200'
 date_gmt: '2010-07-28 14:25:25 +0200'
 gallery:

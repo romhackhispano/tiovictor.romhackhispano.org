@@ -2,7 +2,7 @@
 title: Shenmue II (1.0.2)
 permalink: /shenmue-ii/
 header:
-  overlay_image: /img/headers/Shemnue2Header.jpg
+  overlay_image: /img/headers/pages/Shemnue2Header.jpg
 date: '2012-03-30 18:33:06 +0200'
 date_gmt: '2012-03-30 16:33:06 +0200'
 ---

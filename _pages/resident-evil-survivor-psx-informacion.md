@@ -2,7 +2,7 @@
 title: 'Información sobre Resident Evil Survivor para PSX'
 permalink: /resident-evil-survivor-psx/informacion/
 header:
-  overlay_image: /img/headers/ResidentEvilSurvivorHeader.jpg
+  overlay_image: /img/headers/pages/ResidentEvilSurvivorHeader.jpg
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-survivor-psx/capturas/">CAPTURAS</a> - <a href="/resident-evil-survivor-psx/descargar/">DESCARGAS</a></strong></h2>

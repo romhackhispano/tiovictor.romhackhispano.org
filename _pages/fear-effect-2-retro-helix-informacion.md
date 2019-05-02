@@ -2,7 +2,7 @@
 title: "Información de Fear Effect 2: Retro Helix"
 permalink: /fear-effect-2-retro-helix/informacion/
 header:
-  overlay_image: /img/headers/FearEffect2Header.jpg
+  overlay_image: /img/headers/pages/FearEffect2Header.jpg
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/fear-effect-2-retro-helix/informacion/">INFORMACIÓN</a> - <a href="/fear-effect-2-retro-helix/descargar/">DESCARGAS</a> - <a href="/fear-effect-2-retro-helix/capturas/">CAPTURAS</a></strong></h2>

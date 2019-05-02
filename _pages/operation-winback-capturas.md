@@ -2,7 +2,7 @@
 title: Capturas de Operation Winback
 permalink: /operation-winback/capturas/
 header:
-  overlay_image: /img/headers/OpWinbackHeader.jpg
+  overlay_image: /img/headers/pages/OpWinbackHeader.jpg
 comments: false
 gallery:
  - image_path: /img/2015/12/WINBACK-01.jpg

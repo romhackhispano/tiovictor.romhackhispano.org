@@ -2,7 +2,7 @@
 title: Amnesia The Dark Descent - Colaboración
 permalink: /amnesia-the-dark-descent-colaboracion/
 header:
-  overlay_image: /img/headers/AmnesiaHeader.jpg
+  overlay_image: /img/headers/pages/AmnesiaHeader.jpg
 comments: false
 ---
 Proyecto de retraducción y doblaje al castellano realizado por **[Rodol Pérez](https://caminandoentregazapos.wordpress.com/)**, 

@@ -2,7 +2,7 @@
 title: 'Wreckless: The Yakuza Missions para XBOX (V1.0)'
 permalink: /wreckless-the-yakuza-missions-para-xbox/
 header:
-  overlay_image: /img/headers/WrecklessHeader.jpg
+  overlay_image: /img/headers/pages/WrecklessHeader.jpg
 date: '2015-02-12 17:35:55 +0100'
 date_gmt: '2015-02-12 15:35:55 +0100'
 gallery:

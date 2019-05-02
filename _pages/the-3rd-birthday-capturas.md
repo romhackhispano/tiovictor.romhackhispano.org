@@ -2,7 +2,7 @@
 title: Capturas de The 3rd Birthday
 permalink: /the-3rd-birthday/capturas/
 header:
-  overlay_image: /img/headers/The3rdBirthdayHeader.jpg
+  overlay_image: /img/headers/pages/The3rdBirthdayHeader.jpg
 comments: false
 gallery:
  - image_path: /img/2017/12/T3B-V15-01.jpg

@@ -2,7 +2,7 @@
 title: Información de Silent Hill
 permalink: /silent-hill-1/informacion/
 header:
-  overlay_image: /img/headers/SilentHillHeader.jpg
+  overlay_image: /img/headers/pages/SilentHillHeader.jpg
 date: '2015-06-02 01:40:49 +0200'
 date_gmt: '2015-06-01 23:40:49 +0200'
 comments: false

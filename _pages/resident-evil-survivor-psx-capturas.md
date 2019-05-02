@@ -2,7 +2,7 @@
 title: 'Capturas de Resident Evil Survivor para PSX'
 permalink: /resident-evil-survivor-psx/capturas/
 header:
-  overlay_image: /img/headers/ResidentEvilSurvivorHeader.jpg
+  overlay_image: /img/headers/pages/ResidentEvilSurvivorHeader.jpg
 comments: false
 gallery:
  - image_path: /img/2017/04/RESURVIVOR-20170407-01.jpg

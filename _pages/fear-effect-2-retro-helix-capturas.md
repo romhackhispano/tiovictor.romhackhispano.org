@@ -2,7 +2,7 @@
 title: "Capturas de Fear Effect 2: Retro Helix"
 permalink: /fear-effect-2-retro-helix/capturas/
 header:
-  overlay_image: /img/headers/FearEffect2Header.jpg
+  overlay_image: /img/headers/pages/FearEffect2Header.jpg
 comments: false
 gallery:
  - image_path: /img/2018/07/FE2ESP-02.jpg

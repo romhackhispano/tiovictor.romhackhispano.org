@@ -2,7 +2,7 @@
 title: Capturas de Shenmue II
 permalink: /shenmue-ii/capturas/
 header:
-  overlay_image: /img/headers/Shemnue2Header.jpg
+  overlay_image: /img/headers/pages/Shemnue2Header.jpg
 date: '2015-06-02 00:35:12 +0200'
 date_gmt: '2015-06-01 22:35:12 +0200'
 comments: false

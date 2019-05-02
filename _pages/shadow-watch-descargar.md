@@ -2,7 +2,7 @@
 title: 'Descargas de Shadow Watch'
 permalink: /shadow-watch/descargar/
 header:
-  overlay_image: /img/headers/ShadowWatchHeader.jpg
+  overlay_image: /img/headers/pages/ShadowWatchHeader.jpg
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/shadow-watch/informacion/">INFORMACIÓN</a> - <a href="/shadow-watch/capturas/">CAPTURAS</a> - <a href="/shadow-watch/descargar/">DESCARGAS</a></strong></h2>

@@ -2,7 +2,7 @@
 title: El Mundo Nunca Es Suficiente N64 (V1.0)
 permalink: /el-mundo-nunca-es-suficiente-n64/
 header:
-  overlay_image: /img/headers/TWINEHeader.jpg
+  overlay_image: /img/headers/pages/TWINEHeader.jpg
 date: '2007-04-04 20:34:03 +0200'
 date_gmt: '2007-04-04 18:34:03 +0200'
 ---

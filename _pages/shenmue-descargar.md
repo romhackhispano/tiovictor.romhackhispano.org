@@ -2,7 +2,7 @@
 title: Descargas de Shenmue I
 permalink: /shenmue/descargar/
 header:
-  overlay_image: /img/headers/Shenmue1Header.jpg
+  overlay_image: /img/headers/pages/Shenmue1Header.jpg
 date: '2015-06-01 23:55:00 +0200'
 date_gmt: '2015-06-01 21:55:00 +0200'
 comments: false

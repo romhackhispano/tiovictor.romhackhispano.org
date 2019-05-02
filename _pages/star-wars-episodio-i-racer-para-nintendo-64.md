@@ -2,7 +2,7 @@
 title: Star Wars Episodio I Racer para Nintendo 64 (1.0.2 FINAL)
 permalink: /star-wars-episodio-i-racer-para-nintendo-64/
 header:
-  overlay_image: /img/headers/SWRacerHeader.jpg
+  overlay_image: /img/headers/pages/SWRacerHeader.jpg
 date: '2014-01-15 18:23:55 +0100'
 date_gmt: '2014-01-15 16:23:55 +0100'
 gallery:

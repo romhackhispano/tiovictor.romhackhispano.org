@@ -2,7 +2,7 @@
 title: GoldenEye 007 - Colaboración
 permalink: /goldeneye-007-colaboracion/
 header:
-  overlay_image: /img/headers/GoldenEyeHeader.jpg
+  overlay_image: /img/headers/pages/GoldenEyeHeader.jpg
 date: '2014-12-04 15:46:01 +0100'
 date_gmt: '2014-12-04 13:46:01 +0100'
 gallery:

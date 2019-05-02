@@ -2,7 +2,7 @@
 title: Capturas de What's Shenmue
 permalink: /whats-shenmue-esp/capturas/
 header:
-  overlay_image: /img/headers/WhatsShenmueHeader.jpg
+  overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg
 date: '2015-06-02 00:57:44 +0200'
 date_gmt: '2015-06-01 22:57:44 +0200'
 comments: false

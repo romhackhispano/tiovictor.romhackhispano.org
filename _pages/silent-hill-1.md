@@ -2,7 +2,7 @@
 title: Silent Hill 1 (Retraducción, v2.1B)
 permalink: /silent-hill-1/
 header:
-  overlay_image: /img/headers/SilentHillHeader.jpg
+  overlay_image: /img/headers/pages/SilentHillHeader.jpg
 date: '2009-06-13 13:26:43 +0200'
 date_gmt: '2009-06-13 11:26:43 +0200'
 ---

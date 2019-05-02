@@ -2,7 +2,7 @@
 title: Operation Winback (PS2, V1.0)
 permalink: /operation-winback/
 header:
-  overlay_image: /img/headers/OpWinbackHeader.jpg
+  overlay_image: /img/headers/pages/OpWinbackHeader.jpg
 ---
 <h2 style="text-align: center;"><strong><a href="/operation-winback/informacion/">INFORMACIÓN</a> - <a href="/operation-winback/descargar/">DESCARGAS</a> - <a href="/operation-winback/capturas/">CAPTURAS</a></strong></h2>
 

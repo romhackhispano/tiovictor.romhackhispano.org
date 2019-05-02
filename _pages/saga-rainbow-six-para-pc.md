@@ -2,7 +2,7 @@
 title: Saga Rainbow Six para PC (V1.0)
 permalink: /saga-rainbow-six-para-pc/
 header:
-  overlay_image: /img/headers/RainbowSixHeader.jpg
+  overlay_image: /img/headers/pages/RainbowSixHeader.jpg
 date: '2013-10-16 23:14:06 +0200'
 date_gmt: '2013-10-16 21:14:06 +0200'
 ---

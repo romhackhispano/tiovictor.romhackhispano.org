@@ -2,7 +2,7 @@
 title: Capturas de Persona 3 FES
 permalink: /persona-3-fes/capturas/
 header:
-  overlay_image: /img/headers/Persona3FESHeader.jpg
+  overlay_image: /img/headers/pages/Persona3FESHeader.jpg
 comments: false
 gallery:
  - image_path: /img/2016/08/P3FES-20160829-01.jpg

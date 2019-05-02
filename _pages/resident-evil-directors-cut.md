@@ -2,7 +2,7 @@
 title: 'Resident Evil: Director''s Cut PSOne (v3.6 y v4.0)'
 permalink: /resident-evil-directors-cut/
 header:
-  overlay_image: /img/headers/ResidentEvil1Header.jpg
+  overlay_image: /img/headers/pages/ResidentEvil1Header.jpg
 date: '2007-04-04 20:35:03 +0200'
 date_gmt: '2007-04-04 18:35:03 +0200'
 gallery:

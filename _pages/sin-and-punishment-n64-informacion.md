@@ -2,7 +2,7 @@
 title: Información de Sin and Punishment
 permalink: /sin-and-punishment-n64/informacion/
 header:
-  overlay_image: /img/headers/SinAndPunishmentN64Header.jpg
+  overlay_image: /img/headers/pages/SinAndPunishmentN64Header.jpg
 date: '2015-10-25 22:46:08 +0100'
 date_gmt: '2015-10-25 20:46:08 +0100'
 comments: false

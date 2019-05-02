@@ -2,7 +2,7 @@
 title: What's Shenmue information
 permalink: /whats-shenmue-eng/information/
 header:
-  overlay_image: /img/headers/WhatsShenmueHeader.jpg
+  overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-eng/information/">INFORMATION</a> - <a href="/whats-shenmue-eng/download/">DOWNLOADS</a> - <a href="/whats-shenmue-eng/screenshots/">SCREENSHOTS</a></strong></h2>

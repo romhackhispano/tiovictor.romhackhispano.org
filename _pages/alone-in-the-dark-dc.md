@@ -2,7 +2,7 @@
 title: 'Alone in the Dark: The New Nightmare DC (V1.0)'
 permalink: /alone-in-the-dark-dc/
 header:
-  overlay_image: /img/headers/AITD4DCHeader.jpg
+  overlay_image: /img/headers/pages/AITD4DCHeader.jpg
 date: '2015-10-14 14:53:36 +0200'
 date_gmt: '2015-10-14 12:53:36 +0200'
 ---

@@ -2,7 +2,7 @@
 title: 'Capturas de Shadow Watch'
 permalink: /shadow-watch/capturas/
 header:
-  overlay_image: /img/headers/ShadowWatchHeader.jpg
+  overlay_image: /img/headers/pages/ShadowWatchHeader.jpg
 comments: false
 gallery:
  - image_path: /img/2017/06/01.jpg

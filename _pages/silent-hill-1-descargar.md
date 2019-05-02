@@ -2,7 +2,7 @@
 title: Descargas de Silent Hill
 permalink: /silent-hill-1/descargar/
 header:
-  overlay_image: /img/headers/SilentHillHeader.jpg
+  overlay_image: /img/headers/pages/SilentHillHeader.jpg
 date: '2015-06-02 01:41:10 +0200'
 date_gmt: '2015-06-01 23:41:10 +0200'
 comments: false

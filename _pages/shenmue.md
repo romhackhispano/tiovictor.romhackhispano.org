@@ -2,7 +2,7 @@
 title: Shenmue I (1.0.5b)
 permalink: /shenmue/
 header:
-  overlay_image: /img/headers/Shenmue1Header.jpg
+  overlay_image: /img/headers/pages/Shenmue1Header.jpg
 date: '2011-11-18 23:15:53 +0100'
 date_gmt: '2011-11-18 21:15:53 +0100'
 ---

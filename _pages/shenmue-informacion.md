@@ -2,7 +2,7 @@
 title: Información de Shenmue I
 permalink: /shenmue/informacion/
 header:
-  overlay_image: /img/headers/Shenmue1Header.jpg
+  overlay_image: /img/headers/pages/Shenmue1Header.jpg
 date: '2015-06-02 00:01:04 +0200'
 date_gmt: '2015-06-01 22:01:04 +0200'
 comments: false

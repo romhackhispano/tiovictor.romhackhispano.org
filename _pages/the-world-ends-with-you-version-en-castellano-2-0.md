@@ -2,7 +2,7 @@
 title: The World Ends With You (Retraducido y doblado, 2.0)
 permalink: /the-world-ends-with-you-version-en-castellano-2-0/
 header:
-  overlay_image: /img/headers/TWEWYHeader.jpg
+  overlay_image: /img/headers/pages/TWEWYHeader.jpg
 date: '2011-11-18 23:14:42 +0100'
 date_gmt: '2011-11-18 21:14:42 +0100'
 ---

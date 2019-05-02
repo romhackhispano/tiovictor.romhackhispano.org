@@ -2,7 +2,7 @@
 title: Capturas de Policenauts
 permalink: /policenauts/capturas/
 header:
-  overlay_image: /img/headers/PolicenautsHeader.jpg
+  overlay_image: /img/headers/pages/PolicenautsHeader.jpg
 date: '2015-06-02 02:05:42 +0200'
 date_gmt: '2015-06-02 00:05:42 +0200'
 comments: false

@@ -2,7 +2,7 @@
 title: Información de Alone In The Dark 4 para Dreamcast
 permalink: /alone-in-the-dark-dc/informacion/
 header:
-  overlay_image: /img/headers/AITD4DCHeader.jpg
+  overlay_image: /img/headers/pages/AITD4DCHeader.jpg
 date: '2016-06-18 13:47:38 +0200'
 date_gmt: '2016-06-18 11:47:38 +0200'
 comments: false

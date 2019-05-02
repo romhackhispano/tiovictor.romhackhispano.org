@@ -2,7 +2,7 @@
 title: Descargas de Alone In The Dark 4 para Dreamcast
 permalink: /alone-in-the-dark-dc/descargar/
 header:
-  overlay_image: /img/headers/AITD4DCHeader.jpg
+  overlay_image: /img/headers/pages/AITD4DCHeader.jpg
 date: '2016-06-18 14:36:06 +0200'
 date_gmt: '2016-06-18 12:36:06 +0200'
 comments: false

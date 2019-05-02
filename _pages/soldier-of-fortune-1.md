@@ -2,7 +2,7 @@
 title: Soldier of Fortune 1 (V1.0)
 permalink: /soldier-of-fortune-1/
 header:
-  overlay_image: /img/headers/SoldierOfFortuneHeader.jpg
+  overlay_image: /img/headers/pages/SoldierOfFortuneHeader.jpg
 date: '2016-10-02 17:43:00 +0200'
 date_gmt: '2016-10-02 15:43:00 +0200'
 ---

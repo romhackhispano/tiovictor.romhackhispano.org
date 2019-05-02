@@ -2,7 +2,7 @@
 title: What's Shenmue screenshots
 permalink: /whats-shenmue-eng/screenshots/
 header:
-  overlay_image: /img/headers/WhatsShenmueHeader.jpg
+  overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg
 comments: false
 gallery:
   - image_path: /img/2014/09/WhatsShenmueEN-20140622-01.jpg

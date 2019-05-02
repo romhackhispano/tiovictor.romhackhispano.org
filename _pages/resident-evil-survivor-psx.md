@@ -2,7 +2,7 @@
 title: Resident Evil Survivor (PSX, V1.0)
 permalink: /resident-evil-survivor-psx/
 header:
-  overlay_image: /img/headers/ResidentEvilSurvivorHeader.jpg
+  overlay_image: /img/headers/pages/ResidentEvilSurvivorHeader.jpg
 date: '2016-01-03 20:16:07 +0100'
 date_gmt: '2016-01-03 18:16:07 +0100'
 ---

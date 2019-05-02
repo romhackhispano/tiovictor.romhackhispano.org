@@ -2,7 +2,7 @@
 title: Project Zero/Fatal Frame 4 - Colaboración
 permalink: /project-zero-fatal-frame-4/
 header:
-  overlay_image: /img/headers/ProjectZero4Header.jpg
+  overlay_image: /img/headers/pages/ProjectZero4Header.jpg
 date: '2010-04-03 20:28:17 +0200'
 date_gmt: '2010-04-03 19:28:17 +0200'
 ---

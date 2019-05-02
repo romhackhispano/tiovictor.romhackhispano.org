@@ -2,7 +2,7 @@
 title: Descargas de The 3rd Birthday
 permalink: /the-3rd-birthday/descargar/
 header:
-  overlay_image: /img/headers/The3rdBirthdayHeader.jpg
+  overlay_image: /img/headers/pages/The3rdBirthdayHeader.jpg
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/the-3rd-birthday/informacion/">INFORMACIÓN</a> - <a href="/the-3rd-birthday/descargar/">DESCARGAS</a> - <a href="/the-3rd-birthday/capturas/">CAPTURAS</a></strong></h2>

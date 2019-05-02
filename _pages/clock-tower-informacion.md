@@ -2,7 +2,7 @@
 title: 'Información sobre Clock Tower'
 permalink: /clock-tower/informacion/
 header:
-  overlay_image: /img/headers/OpWinbackHeader.jpg
+  overlay_image: /img/headers/pages/OpWinbackHeader.jpg
 date: '2016-07-02 19:51:02 +0200'
 date_gmt: '2016-07-02 17:51:02 +0200'
 comments: false

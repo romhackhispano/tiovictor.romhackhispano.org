@@ -2,7 +2,7 @@
 title: Capturas de Rainbow Six
 permalink: /saga-rainbow-six-para-pc/capturasr6/
 header:
-  overlay_image: /img/headers/RainbowSixHeader.jpg
+  overlay_image: /img/headers/pages/RainbowSixHeader.jpg
 date: '2015-06-02 01:50:21 +0200'
 date_gmt: '2015-06-01 23:50:21 +0200'
 comments: false

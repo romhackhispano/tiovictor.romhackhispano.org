@@ -2,7 +2,7 @@
 title: Final Fantasy VII - Colaboración
 permalink: /final-fantasy-vii-colaboracion/
 header:
-  overlay_image: /img/headers/FF7Header.jpg
+  overlay_image: /img/headers/pages/FF7Header.jpg
 ---
 Proyecto (Mastodóntico) de retraducción del juego Final Fantasy VII para PlayStation One, 
 capitaneado por **[Xulikotony](http://traduccionesxt.blogspot.com.es/)** y compuesto por 

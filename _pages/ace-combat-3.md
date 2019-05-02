@@ -2,7 +2,7 @@
 title: "Ace Combat 3: Electrosphere (PSX, EN PROGRESO)"
 permalink: /ace-combat-3/
 header:
-  overlay_image: /img/headers/AceCombat3Header.jpg
+  overlay_image: /img/headers/pages/AceCombat3Header.jpg
 gallery:
  - image_path: /img/2019/01/AC3-ESP-20190106-01.jpg
  - image_path: /img/2019/01/AC3-ESP-20190106-02.jpg

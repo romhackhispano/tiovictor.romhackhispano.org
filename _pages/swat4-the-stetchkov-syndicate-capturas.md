@@ -2,7 +2,7 @@
 title: 'Capturas de SWAT 4: The Stetchkov Syndicate'
 permalink: /swat4-the-stetchkov-syndicate/capturas/
 header:
-  overlay_image: /img/headers/SWAT4XHeader.jpg
+  overlay_image: /img/headers/pages/SWAT4XHeader.jpg
 date: '2015-06-02 01:28:24 +0200'
 date_gmt: '2015-06-01 23:28:24 +0200'
 comments: false

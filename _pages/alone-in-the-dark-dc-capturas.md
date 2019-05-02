@@ -2,7 +2,7 @@
 title: Capturas de Alone In The Dark 4 para Dreamcast
 permalink: /alone-in-the-dark-dc/capturas/
 header:
-  overlay_image: /img/headers/AITD4DCHeader.jpg
+  overlay_image: /img/headers/pages/AITD4DCHeader.jpg
 date: '2016-06-18 14:00:54 +0200'
 date_gmt: '2016-06-18 12:00:54 +0200'
 comments: false

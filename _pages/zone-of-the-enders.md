@@ -2,7 +2,7 @@
 title: Zone of The Enders 1 (1.0 BIS)
 permalink: /zone-of-the-enders/
 header:
-  overlay_image: /img/headers/ZOE1Header.jpg
+  overlay_image: /img/headers/pages/ZOE1Header.jpg
 date: '2009-06-21 10:04:53 +0200'
 date_gmt: '2009-06-21 08:04:53 +0200'
 gallery:

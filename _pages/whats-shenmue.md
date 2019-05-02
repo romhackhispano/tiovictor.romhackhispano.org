@@ -2,7 +2,7 @@
 title: What's Shenmue (1.0.4)
 permalink: /whats-shenmue/
 header:
-  overlay_image: /img/headers/WhatsShenmueHeader.jpg
+  overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg
 comments: false
 ---
 <br>

@@ -1,7 +1,7 @@
 ---
 title: "Persona 3 FES lleva un 50% de textos traducidos"
 header:
-  overlay_image: /img/NotiEnBlancoV2.jpg
+  overlay_image: /img/headers/posts/HeaderP3FES03.jpg
 layout: single
 categories:
 - 'Persona 3 FES'

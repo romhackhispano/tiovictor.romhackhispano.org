@@ -2,7 +2,7 @@
 title: "Persona 3 FES (En progreso, 20%)"
 permalink: /persona-3-fes/
 header:
-  overlay_image: /img/headers/Persona3FESHeader.jpg
+  overlay_image: /img/headers/pages/Persona3FESHeader.jpg
 ---
 <h2 style="text-align: center;"><strong><a href="/persona-3-fes/capturas/">CAPTURAS</a></strong></h2>
 

@@ -2,7 +2,7 @@
 title: 'Capturas de Clock Tower'
 permalink: /clock-tower/capturas/
 header:
-  overlay_image: /img/headers/ClockTowerFirstFearHeader.jpg
+  overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg
 date: '2016-07-02 19:48:45 +0200'
 date_gmt: '2016-07-02 17:48:45 +0200'
 comments: false

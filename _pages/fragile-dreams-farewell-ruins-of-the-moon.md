@@ -2,7 +2,7 @@
 title: 'Fragile Dreams: Farewell Ruins of the Moon (v1.1)'
 permalink: /fragile-dreams-farewell-ruins-of-the-moon/
 header:
-  overlay_image: /img/headers/FragileDreamsHeader.jpg
+  overlay_image: /img/headers/pages/FragileDreamsHeader.jpg
 date: '2011-02-24 23:04:57 +0100'
 date_gmt: '2011-02-24 21:04:57 +0100'
 gallery:

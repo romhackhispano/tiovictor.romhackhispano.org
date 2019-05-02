@@ -2,7 +2,7 @@
 title: 'Información de SWAT 4: The Stetchkov Syndicate'
 permalink: /swat4-the-stetchkov-syndicate/informacion/
 header:
-  overlay_image: /img/headers/SWAT4XHeader.jpg
+  overlay_image: /img/headers/pages/SWAT4XHeader.jpg
 date: '2015-06-02 01:27:41 +0200'
 date_gmt: '2015-06-01 23:27:41 +0200'
 comments: false

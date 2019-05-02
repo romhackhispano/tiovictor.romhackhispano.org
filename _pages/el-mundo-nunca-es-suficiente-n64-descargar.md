@@ -2,7 +2,7 @@
 title: Descargas de El Mundo Nunca es Suficiente
 permalink: /el-mundo-nunca-es-suficiente-n64/descargar/
 header:
-  overlay_image: /img/headers/TWINEHeader.jpg
+  overlay_image: /img/headers/pages/TWINEHeader.jpg
 date: '2015-06-02 02:09:45 +0200'
 date_gmt: '2015-06-02 00:09:45 +0200'
 comments: false
