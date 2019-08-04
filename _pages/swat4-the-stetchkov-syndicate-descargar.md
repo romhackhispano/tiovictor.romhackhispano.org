@@ -21,7 +21,7 @@ Actualización v1.1 de SWAT 4 (Idioma español):
 
 Parche de traducción de Stetchkov Syndicate:
 
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/#!wFcRjASI!1nmc00I2yQmC7jDJT--Pa6OsaNC4RipwfjNcPe9L9vU">MEDIAFIRE</a> - <a href="https://mega.nz/#!5E8WQS6C!-vqRF-pjkCMUPsbV4YnM0tW4lHWlqzvy9sw1CaDS15M">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/co7m9jbok2k53g4/SWAT4XTraduEspanolV22.7z/file">MEDIAFIRE</a> - <a href="https://mega.nz/#!wFcRjASI!1nmc00I2yQmC7jDJT--Pa6OsaNC4RipwfjNcPe9L9vU">MEGA</a></strong></h1>
 
 Traducido íntegramente por **IlDucci**.
 
