@@ -21,4 +21,4 @@ Reescritura de bastantes textos.
 censura.  
 Detalles de la revisión v2.1:  
 - Correciones menores en la traducción castellana.  
-- **Añadido de una versión en español latino** por cortesía de Giromancy, de SilentHill-SH.
+- **Añadido de una versión en español latino** por cortesía de Giromancy.

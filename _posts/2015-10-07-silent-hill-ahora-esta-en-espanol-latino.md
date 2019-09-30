@@ -11,10 +11,8 @@ tags:
 ---
 ¡Muy chidas noches! En el menú del día os traemos una actualización del parche de 
 Silent Hill... Con una nueva versión. Aparte de los clásicos retoques al parche en 
-castellano, el señor **Giromancy**, de los foros de 
-[SilentHill-SH](http://www.silenthill-sh.com/foro/) 
-(Cuidado con el coco) se ha ofrecido a colaborar para **hacer una versión en español 
-latino del parche.**
+castellano, el señor **Giromancy**, (Cuidado con el coco) se ha ofrecido a colaborar 
+para **hacer una versión en español latino del parche.**
 
 Así que sin más demora, aquí van los enlaces de descarga:
 

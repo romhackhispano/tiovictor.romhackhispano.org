@@ -23,7 +23,7 @@ parte del proyecto de traducción al ruso. El juego está 100% traducido al cast
 nuevos gráficos y el vídeo de introducción. También se ha podido convertir la traducción a la 
 versión NTSC-U del juego. Primera versión FINAL.  
 2.1 - Más correcciones en toda la traducción al castellano. También se ha añadido una adaptación 
-de la misma al español latino por cortesía de Giromancy, de los foros de www.silenthill-sh.com. 
+de la misma al español latino por cortesía de Giromancy. 
 Esta adaptación, por motivos regionales, solo se ha implantado en la versión NTSC-U.  
 2.1B - Corregido el fallo en el que la versión NTSC-U castellana se refería a las cartas en la 
 habitación de la niña como "tarjetas".
