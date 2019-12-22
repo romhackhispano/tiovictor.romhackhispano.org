@@ -1,5 +1,5 @@
 ---
-title: "Entradas según su etiqueda"
+title: "Entradas según su etiqueta"
 permalink: /tags/
 layout: tags
 header:

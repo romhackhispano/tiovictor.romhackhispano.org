@@ -112,6 +112,9 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/vgfilducci"
+    - label: "Política de cookies"
+      icon: "fas fa-exclamation-triangle"
+      url: "/cookies/"
 
 
 # Reading Files

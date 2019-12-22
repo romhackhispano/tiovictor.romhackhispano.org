@@ -103,3 +103,10 @@ main:
           url: http://www.segasaturno.com/
         - title: "Tales Translations"
           url: http://blog.tales-tra.com/
+  - title: "Políticas GDPR"
+    url: 
+    children:
+        - title: "Política de privacidad"
+          url: /politica-de-privacidad/
+        - title: "Política de cookies"
+          url: /cookies/

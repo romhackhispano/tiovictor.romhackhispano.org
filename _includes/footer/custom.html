@@ -1,3 +1,24 @@
 <!-- start custom footer snippets -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css" />
 
+<script src="https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.js" data-cfasync="false"></script>
+<script>
+window.cookieconsent.initialise({
+  "palette": {
+    "popup": {
+      "background": "#000"
+    },
+    "button": {
+      "background": "#3adbdf"
+    }
+  },
+  "theme": "classic",
+  "content": {
+    "message": "Me dicen desde Europa y California que si no aviso de que esta página web utiliza cookies con fines analíticos, podría morir un gatito.",
+    "dismiss": "¡Entendido!",
+    "link": "Más información",
+    "href": "https://tiovictor.romhackhispano.org/cookies/"
+  }
+});
+</script>
 <!-- end custom footer snippets -->
