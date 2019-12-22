@@ -104,6 +104,27 @@ body:hover .visually-hidden button {
 }
 
 /*
+   Task lists
+   ========================================================================== */
+
+.task-list {
+  padding:0;
+
+  li {
+    list-style-type: none;
+  }
+
+  .task-list-item-checkbox {
+    margin-right: 0.5em;
+    opacity: 1;
+  }
+}
+
+.task-list .task-list {
+  margin-left: 1em;
+}
+
+/*
    Alignment
    ========================================================================== */
 
@@ -226,12 +247,6 @@ body:hover .visually-hidden button {
 
   .fa-gitlab {
     color: $gitlab-color;
-  }
-
-  .fa-google-plus,
-  .fa-google-plus-square,
-  .fa-google-plus-g {
-    color: $google-plus-color;
   }
 
   .fa-instagram {

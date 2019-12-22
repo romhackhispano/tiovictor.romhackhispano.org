@@ -177,6 +177,7 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
+  /* MODIFICACION DEL COLOR DEL FONDO */
   background: $lighter-gray;
 
   a {
@@ -514,7 +515,7 @@
   }
 
   // Scrollspy marks toc items as .active when they are in focus
-  .active {
+  .active a {
     @include yiq-contrasted($active-color);
   }
 }

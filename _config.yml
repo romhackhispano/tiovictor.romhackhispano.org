@@ -12,14 +12,16 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
+# MODIFICACION: Anadida una skin personalizada.
 minimal_mistakes_skin    : "tiovictor" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "es"
 title                    : "Traducciones del Tío Victor"
 title_separator          : "-"
-name                     : &name "Tío Víctor"
-description              : &description "Fantraducciones al castellano realizadas por IlDucci"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Tío Víctor"
+description              : "Fantraducciones al castellano realizadas por IlDucci"
 url                      : http://tiovictor.romhackhispano.org
 baseurl                  : 
 repository               : "romhackhispano/tiovictor.romhackhispano.org"
@@ -27,7 +29,7 @@ teaser                   : "img/NotiEnBlancoV2.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 230
+words_per_minute         : 200
 comments:
   provider               : "disqus"
   disqus:
@@ -155,6 +157,7 @@ highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
+# MODIFICACION: Muestra la totalidad de los posts en caso de no tener el comando more.
 show_excerpts: false
 
 
@@ -173,7 +176,7 @@ kramdown:
 # Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
@@ -190,7 +193,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
@@ -199,7 +201,6 @@ whitelist:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
-  - jemoji
   - jekyll-include-cache
 
 
@@ -211,15 +212,14 @@ whitelist:
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
+#  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
+#  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -233,9 +233,8 @@ tag_archive:
 #     tag: /tags/:name/
 
 
-
 # HTML Compression
-# - http://jch.penibelst.de/
+# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
