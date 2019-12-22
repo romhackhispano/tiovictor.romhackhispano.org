@@ -13,7 +13,7 @@ tags:
 Hola a todos, hoy Papá Noel se ha pasado directamente por la web para dejaros 
 un aperitivo:
 
-<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/yY9t1cu3EVk?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/yY9t1cu3EVk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Opino que tras todo el tiempo de sequía y de solo ver imágenes del disco 1, era 
 hora de mostrar el disco 3. Ahora mismo Shenmue I tiene el 90% de los textos 

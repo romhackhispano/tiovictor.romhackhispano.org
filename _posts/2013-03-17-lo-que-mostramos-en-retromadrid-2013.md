@@ -29,7 +29,7 @@ apoyar a la escena homebrew, ha dirigido su traducción y doblaje).
 
 Dentro vídeo.
 
-<center><iframe src="http://www.youtube.com/embed/3WWHDnk_aG0" height="284" width="505" allowfullscreen="" frameborder="0"></iframe></center>  
-<center><iframe src="http://www.youtube.com/embed/rC99zr5M9aQ" height="284" width="505" allowfullscreen="" frameborder="0"></iframe></center>  
-<center><iframe src="http://www.youtube.com/embed/DDty4ahXRBc" height="284" width="505" allowfullscreen="" frameborder="0"></iframe></center>  
-<center><iframe src="http://www.youtube.com/embed/UGtiV9eFAzk" height="284" width="505" allowfullscreen="" frameborder="0"></iframe></center>
+<center><iframe width="505" height="284" src="https://www.youtube-nocookie.com/embed/3WWHDnk_aG0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="505" height="284" src="https://www.youtube-nocookie.com/embed/rC99zr5M9aQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="505" height="284" src="https://www.youtube-nocookie.com/embed/DDty4ahXRBc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="505" height="284" src="https://www.youtube-nocookie.com/embed/UGtiV9eFAzk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

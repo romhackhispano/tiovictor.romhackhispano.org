@@ -16,7 +16,7 @@ Han sido dos años de duro trabajo (Y prisas para la RetroBarcelona del año pas
 por fin podemos mostraros cómo ha quedado. Este proyecto incluye dos parches en el mismo 
 paquete: versión subtitulada y versión doblada.
 
-<p style="text-align: center;"><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/32nxXdVDGwY?rel=0" frameborder="0" allowfullscreen></iframe></p>
+<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/32nxXdVDGwY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 También incluimos el manual y la guía rápida del juego completamente rehechos desde cero 
 y traducidos en Inglés y Español. Un pequeño detalle para que no os perdáis la historia de 

@@ -42,10 +42,9 @@ Eduwanke - Traducción inicial sobre papel
 Yo, IlDucci - Traducción sobre papel  
 TBG - Traducción sobre papel, investigaciones posteriores, inserción
 
-<p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/EO32e1vZsk4?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/EO32e1vZsk4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 {% include gallery %}
-
 
 [Hilo de discusión OFICIAL (Para sugerencias y soporte técnico) en 
 ElOtroLado](http://www.elotrolado.net/hilo_preproyecto-traduccion-de-dead-space-extraction_1306888)

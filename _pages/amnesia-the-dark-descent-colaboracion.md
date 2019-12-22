@@ -15,4 +15,5 @@ un repaso general (Sobre todo a la mezcla de sonido), que terminó con el lanzam
 Podéis ver toda la información pertinente en su blog: **[Enlace](https://caminandoentregazapos.wordpress.com/2017/02/12/ya-esta-disponible-el-mod-de-traduccion-y-doblaje-de-amnesia/)**.
 
 Y aquí tenéis una muestra de la traducción y doblaje:
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D1n7BOtHHwY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D1n7BOtHHwY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

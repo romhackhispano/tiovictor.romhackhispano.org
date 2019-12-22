@@ -29,4 +29,4 @@ ElOtroLado.net](http://www.elotrolado.net/hilo_traducci-n-parasite-eve-the-3rd-b
 Disfrutadla.
 
 <h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/the-3rd-birthday/">Ir a la página de descargas</a></strong></h2><br />
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oH_8NQhil8s?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/oH_8NQhil8s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

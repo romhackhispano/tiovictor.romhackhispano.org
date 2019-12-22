@@ -38,7 +38,7 @@ del juego traducidos.**
 Antes de nada, una advertencia: La traducción que vais a ver todavía sigue en proceso de desarrollo y seguirá recibiendo 
 cambios hasta que estemos satisfechos.
 
-<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dp70jlAyrWo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/dp70jlAyrWo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 ¿Qué toca ahora? Una reestructuración del equipo. Para no perder más ritmo voy a empezar a pasar lista a todos aquellos 
 que os ofrecisteis para traducir el juego en estos últimos años. Para aquellos que sigáis interesados o aquellos que queráis 

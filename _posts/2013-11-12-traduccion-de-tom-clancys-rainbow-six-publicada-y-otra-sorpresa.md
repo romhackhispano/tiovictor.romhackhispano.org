@@ -47,4 +47,4 @@ mandar <strong><a href="http://prdownloads.sourceforge.net/scummvm/soltys-es-v1.
 
 Os dejo un pequeño vídeo de demostración del Rainbow Six.
 
-<center><iframe src="//www.youtube.com/embed/tByfu3q1QMc" height="379" width="505" allowfullscreen="" frameborder="0"></iframe></center>
+<center><iframe width="505" height="379" src="https://www.youtube-nocookie.com/embed/tByfu3q1QMc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

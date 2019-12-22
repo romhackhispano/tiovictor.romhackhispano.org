@@ -15,4 +15,4 @@ y que ahora puedo sacar a la luz, Time Crisis para PSOne. Este proyecto
 comenzó como una forma de desengrase de tantos proyectos de larga 
 duración... poco tardaría en comerme mis palabras.
 
-<center><iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/HV5kQKweX2w?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="420" height="315" src="https://www.youtube-nocookie.com/embed/HV5kQKweX2w?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

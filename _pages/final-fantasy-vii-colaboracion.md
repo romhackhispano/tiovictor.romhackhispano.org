@@ -22,4 +22,4 @@ utilizando After Effects) y colaborando en ciertos textos del juego.
 
 Aquí tenéis una muestra de los primeros minutos del juego ya retraducido.
 
-<p style="text-align: center;"><iframe src="//www.youtube.com/embed/NroR_iNp0y8" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NroR_iNp0y8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

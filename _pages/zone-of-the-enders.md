@@ -14,8 +14,7 @@ gallery:
 Traducción realizada por Tío Víctor (IlDucci o VGF), con la ayuda de las herramientas 
 creadas por Barracuda.
 
-<p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/j9e-fzb2_0E?rel=0" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
-
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/j9e-fzb2_0E?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 - Se ha traducido tanto la versión PAL Europea como la NTSC-USA. Los subtítulos del juego 
 son idénticos en ambas versiones (Sólo hay diferencias en los cortes de los subtítulos, 

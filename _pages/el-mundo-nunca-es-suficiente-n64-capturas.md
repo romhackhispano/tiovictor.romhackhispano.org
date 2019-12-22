@@ -25,7 +25,7 @@ gallery:
 ---
 <h2 style="text-align: center;"><strong><a href="/el-mundo-nunca-es-suficiente-n64/informacion/">INFORMACIÓN</a> - <a href="/el-mundo-nunca-es-suficiente-n64/descargar/">DESCARGAS</a> - <a href="/el-mundo-nunca-es-suficiente-n64/capturas/">CAPTURAS</a></strong></h2>
 
-<h2 style="text-align: center;"><iframe src="https://www.youtube.com/embed/3RAJBB2a1f8" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></h2>
+<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/3RAJBB2a1f8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 {% include gallery %}
 

@@ -11,11 +11,12 @@ tags:
 - Shenmue II
 - Shenmue
 ---
-<center><iframe src="//www.youtube-nocookie.com/embed/vVXRSn8QciA?rel=0" height="383" width="510" allowfullscreen="" frameborder="0"></iframe></center>
+
+<center><iframe width="510" height="383" src="https://www.youtube-nocookie.com/embed/vVXRSn8QciA?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 (Sí, sé que hay un fallo en el que desaparece la primera letra de las frases 
 que ocupan más de una pantalla)
 
 EDIT: Y segundo vídeo.
 
-<center><iframe src="//www.youtube-nocookie.com/embed/RnPXVAz5iJU?rel=0" height="383" width="510" allowfullscreen="" frameborder="0"></iframe></center>
+<center><iframe width="510" height="383" src="https://www.youtube-nocookie.com/embed/RnPXVAz5iJU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

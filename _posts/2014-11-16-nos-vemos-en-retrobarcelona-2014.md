@@ -40,4 +40,4 @@ en Shenmue II. Podéis verlo tras el salto.
 
 <!--more-->
 
-<p style="text-align: center;"><iframe src="//www.youtube.com/embed/aqfjxUU6mcU" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/aqfjxUU6mcU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

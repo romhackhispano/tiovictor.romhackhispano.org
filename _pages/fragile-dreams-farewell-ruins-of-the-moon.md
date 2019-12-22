@@ -38,4 +38,4 @@ Capturas del desarrollo (Las siguientes imágenes no reflejan el resultado final
 
 {% include gallery %}
 
-<p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/Zp8ARS8fqxw?rel=0" width="640" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Zp8ARS8fqxw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

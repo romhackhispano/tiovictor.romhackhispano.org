@@ -30,4 +30,5 @@ perderéis tanto. Seguiremos informando.
 EDICIÓN: Si aún no la habéis visto, he hecho que me cuelguen en YouTube la intro del juego,
 subtitulada tal y como aparece en el juego:
 
-<center><a href="http://www.youtube.com/watch?v=vUU2Ll6ma0I">Enlace a la Intro subtitulada en YouTube</a></center>
+<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/vUU2Ll6ma0I?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+

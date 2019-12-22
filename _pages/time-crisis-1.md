@@ -15,7 +15,7 @@ gallery:
 Proyecto realizado en una unión entre Traducciones del Tío Víctor y 
 [la comunidad de Doblaje Amateur](http://www.doblajeamateur.tk).
 
-<p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/HV5kQKweX2w?rel=0" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/HV5kQKweX2w?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Investigación y programación del proyecto: **CUE y Pacochan**  
 Traducción de textos y gráficos, dirección del doblaje: **IlDucci**

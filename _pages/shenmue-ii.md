@@ -9,7 +9,7 @@ date_gmt: '2012-03-30 16:33:06 +0200'
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/informacion/">INFORMACIÓN</a> - <a href="/shenmue-ii/capturas/">CAPTURAS</a> - <a href="/shenmue-ii/videos/">VÍDEOS</a><br>  
 <a href="/shenmue-ii/descensuras/">DESCENSURAS</a> - <a href="/shenmue-ii/descargar/">DESCARGAS</a></strong></h2>
 
-<p style="text-align: center;"><iframe src="http://www.youtube.com/embed/LLmIeX1KUYc" width="510" height="383" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<center><iframe width="510" height="383" src="https://www.youtube-nocookie.com/embed/LLmIeX1KUYc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 _**REGISTRO DE VERSIONES:**_
 

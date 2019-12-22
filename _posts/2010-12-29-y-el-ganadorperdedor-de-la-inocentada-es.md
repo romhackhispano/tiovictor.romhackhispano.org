@@ -17,7 +17,7 @@ tags:
 Bueno, es hora de desvelar el proyecto de doblaje real y el falso, 
 pues ambos juegos serán traducidos:
 
-<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/tPYmpv9e2lk?rel=0" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/tPYmpv9e2lk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Más información sobre ambos proyectos tras el salto.
 

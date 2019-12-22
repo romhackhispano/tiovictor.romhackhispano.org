@@ -19,7 +19,8 @@ El parche para Dreamcast restaurará la voz de Yuan a su original masculino en j
 El parche para XBOX tendrá, en una versión futura, una nueva voz inglesa que respete las 
 cualidades de la versión original._
 
-<p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/Mm2QUICTTyM?rel=0" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>  
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/Mm2QUICTTyM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 _- El Convento Hijo de la Luna (Moon Child Convent) originalmente tenía una estatua de la 
 Virgen María sosteniendo al Niño Jesús. Por algún motivo el Niño desapareció en las versiones 
 occidentales. Este cambio ha sido rectificado en la versión para Dreamcast. Actualmente no nos 
@@ -45,7 +46,8 @@ con el diálogo.
 La versión de XBOX no tiene subtítulos, así que nos hemos visto obligados a doblar al castellano la cinta 
 en su totalidad. Esta escena ha sido mantenida intacta, pero doblada al castellano._
 
-<p style="text-align: center;"><iframe src="https://www.youtube-nocookie.com/embed/aqfjxUU6mcU?rel=0" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>  
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/aqfjxUU6mcU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 Ya fuera del campo de las descensuras y entrando en la simple restauración de elementos originales, hemos 
 recuperado las latas de Coca-Cola, Fanta, Sprite y Georgia, sustituyendo a las marcas inventadas. Las 
 latas de la empresa Sapporo seguirán intactas, ya que también es una marca real.
