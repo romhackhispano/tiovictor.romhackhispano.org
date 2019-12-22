@@ -50,5 +50,5 @@ tras el salto.
 
 <!--more-->
 
-<center><iframe width="500" height="375" src="https://www.youtube-nocookie.com/embed/j9e-fzb2_0E?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center><iframe width="500" height="375" src="https://www.youtube-nocookie.com/embed/qE5jhnkibDM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/j9e-fzb2_0E?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/qE5jhnkibDM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>

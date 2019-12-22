@@ -22,7 +22,7 @@ un pequeño extracto de esta primera partida, con los mejores momentos.
 Como siempre, el resultado que veréis en este vídeo no es representativo del 
 producto final.
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y1-3FY4z9GU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/y1-3FY4z9GU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Y con esto los porcentajes de Shenmue II quedan así:
 
