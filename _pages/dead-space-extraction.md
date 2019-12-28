@@ -6,24 +6,42 @@ header:
 date: '2009-12-02 22:09:00 +0100'
 date_gmt: '2009-12-02 20:09:00 +0100'
 gallery:
- - image_path: /img/2009/12/rzjp69-35.jpg
- - image_path: /img/2009/12/rzjp69-47.jpg
- - image_path: /img/2009/12/rzjp69-51.jpg
- - image_path: /img/2009/12/rzjp69-19.jpg
- - image_path: /img/2009/12/rzjp69-12.jpg
- - image_path: /img/2009/12/rzjp69-30.jpg
- - image_path: /img/2009/12/rzjp69-17.jpg
- - image_path: /img/2009/12/rzjp69-53.jpg
- - image_path: /img/2009/12/rzjp69-38.jpg
- - image_path: /img/2009/12/rzjp69-18.jpg
- - image_path: /img/2009/12/rzjp69-15.jpg
- - image_path: /img/2009/12/rzjp69-21.jpg
- - image_path: /img/2009/12/rzjp69-4.jpg
- - image_path: /img/2009/12/rzjp69-33.jpg
- - image_path: /img/2009/12/rzjp69-14.jpg
- - image_path: /img/2009/12/rzjp69-3.jpg
- - image_path: /img/2009/12/rzjp69-26.jpg
- - image_path: /img/2009/12/rzjp69-28.jpg
+ - url: /img/2009/12/rzjp69-35.jpg
+   image_path: /img/2009/12/rzjp69-35.jpg
+ - url: /img/2009/12/rzjp69-47.jpg
+   image_path: /img/2009/12/rzjp69-47.jpg
+ - url: /img/2009/12/rzjp69-51.jpg
+   image_path: /img/2009/12/rzjp69-51.jpg
+ - url: /img/2009/12/rzjp69-19.jpg
+   image_path: /img/2009/12/rzjp69-19.jpg
+ - url: /img/2009/12/rzjp69-12.jpg
+   image_path: /img/2009/12/rzjp69-12.jpg
+ - url: /img/2009/12/rzjp69-30.jpg
+   image_path: /img/2009/12/rzjp69-30.jpg
+ - url: /img/2009/12/rzjp69-17.jpg
+   image_path: /img/2009/12/rzjp69-17.jpg
+ - url: /img/2009/12/rzjp69-53.jpg
+   image_path: /img/2009/12/rzjp69-53.jpg
+ - url: /img/2009/12/rzjp69-38.jpg
+   image_path: /img/2009/12/rzjp69-38.jpg
+ - url: /img/2009/12/rzjp69-18.jpg
+   image_path: /img/2009/12/rzjp69-18.jpg
+ - url: /img/2009/12/rzjp69-15.jpg
+   image_path: /img/2009/12/rzjp69-15.jpg
+ - url: /img/2009/12/rzjp69-21.jpg
+   image_path: /img/2009/12/rzjp69-21.jpg
+ - url: /img/2009/12/rzjp69-4.jpg
+   image_path: /img/2009/12/rzjp69-4.jpg
+ - url: /img/2009/12/rzjp69-33.jpg
+   image_path: /img/2009/12/rzjp69-33.jpg
+ - url: /img/2009/12/rzjp69-14.jpg
+   image_path: /img/2009/12/rzjp69-14.jpg
+ - url: /img/2009/12/rzjp69-3.jpg
+   image_path: /img/2009/12/rzjp69-3.jpg
+ - url: /img/2009/12/rzjp69-26.jpg
+   image_path: /img/2009/12/rzjp69-26.jpg
+ - url: /img/2009/12/rzjp69-28.jpg
+   image_path: /img/2009/12/rzjp69-28.jpg
 ---
 Traducción realizada en colaboración con TBG, eduwanke y GameZelda de los foros de ElOtroLado.net. 
 Traducción terminada y publicada el 4 de abril de 2010.

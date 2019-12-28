@@ -13,26 +13,46 @@ tags:
 - Shenmue
 - Resident Evil 2
 gallery:
- - image_path: /img/2012/03/S2-20121229-01.jpg
- - image_path: /img/2012/03/S2-20121229-02.jpg
- - image_path: /img/2012/03/S2-20121229-03.jpg
- - image_path: /img/2012/03/S2-20121229-04.jpg
- - image_path: /img/2012/03/S2-20121229-05.jpg
- - image_path: /img/2012/03/S2-20121229-06.jpg
- - image_path: /img/2012/03/S2-20121229-07.jpg
- - image_path: /img/2012/03/S2-20121229-08.jpg
- - image_path: /img/2012/03/S2-20121229-09.jpg
- - image_path: /img/2012/03/S2-20121229-10.jpg
- - image_path: /img/2012/03/S2-20121229-11.jpg
- - image_path: /img/2012/03/S2-20121229-12.jpg
- - image_path: /img/2012/03/S2-20121229-13.jpg
- - image_path: /img/2012/03/S2-20121229-14.jpg
- - image_path: /img/2012/03/S2-20121229-15.jpg
- - image_path: /img/2012/03/S2-20121229-16.jpg
- - image_path: /img/2012/03/S2-20121229-17.jpg
- - image_path: /img/2012/03/S2-20121229-18.jpg
- - image_path: /img/2012/03/S2-20121229-19.jpg
- - image_path: /img/2012/03/S2-20121229-20.jpg
+ - url: /img/2012/03/S2-20121229-01.jpg
+   image_path: /img/2012/03/S2-20121229-01.jpg
+ - url: /img/2012/03/S2-20121229-02.jpg
+   image_path: /img/2012/03/S2-20121229-02.jpg
+ - url: /img/2012/03/S2-20121229-03.jpg
+   image_path: /img/2012/03/S2-20121229-03.jpg
+ - url: /img/2012/03/S2-20121229-04.jpg
+   image_path: /img/2012/03/S2-20121229-04.jpg
+ - url: /img/2012/03/S2-20121229-05.jpg
+   image_path: /img/2012/03/S2-20121229-05.jpg
+ - url: /img/2012/03/S2-20121229-06.jpg
+   image_path: /img/2012/03/S2-20121229-06.jpg
+ - url: /img/2012/03/S2-20121229-07.jpg
+   image_path: /img/2012/03/S2-20121229-07.jpg
+ - url: /img/2012/03/S2-20121229-08.jpg
+   image_path: /img/2012/03/S2-20121229-08.jpg
+ - url: /img/2012/03/S2-20121229-09.jpg
+   image_path: /img/2012/03/S2-20121229-09.jpg
+ - url: /img/2012/03/S2-20121229-10.jpg
+   image_path: /img/2012/03/S2-20121229-10.jpg
+ - url: /img/2012/03/S2-20121229-11.jpg
+   image_path: /img/2012/03/S2-20121229-11.jpg
+ - url: /img/2012/03/S2-20121229-12.jpg
+   image_path: /img/2012/03/S2-20121229-12.jpg
+ - url: /img/2012/03/S2-20121229-13.jpg
+   image_path: /img/2012/03/S2-20121229-13.jpg
+ - url: /img/2012/03/S2-20121229-14.jpg
+   image_path: /img/2012/03/S2-20121229-14.jpg
+ - url: /img/2012/03/S2-20121229-15.jpg
+   image_path: /img/2012/03/S2-20121229-15.jpg
+ - url: /img/2012/03/S2-20121229-16.jpg
+   image_path: /img/2012/03/S2-20121229-16.jpg
+ - url: /img/2012/03/S2-20121229-17.jpg
+   image_path: /img/2012/03/S2-20121229-17.jpg
+ - url: /img/2012/03/S2-20121229-18.jpg
+   image_path: /img/2012/03/S2-20121229-18.jpg
+ - url: /img/2012/03/S2-20121229-19.jpg
+   image_path: /img/2012/03/S2-20121229-19.jpg
+ - url: /img/2012/03/S2-20121229-20.jpg
+   image_path: /img/2012/03/S2-20121229-20.jpg
 ---
 Bueno, el 28 de diciembre de 2012 es historia y ya podemos decirlo: Sí, la Chiquitada 
 era una inocentada. (Por si no os habíais dado cuenta aún). Gracias a TheFireRed y a 

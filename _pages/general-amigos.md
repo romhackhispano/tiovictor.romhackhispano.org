@@ -6,6 +6,7 @@ header:
 comments: false
 ---
 
+[TraduSquare](https://tradusquare.es/)  
 [Aegis Translations (Hogar de Aegisflame)](http://aegis.romhackhispano.org/)  
 [Blog de Xulikotony](http://traduccionesxt.blogspot.com.es/)  
 [Artema Translations](http://hotayeldi-traducciones.blogspot.com.es/)  

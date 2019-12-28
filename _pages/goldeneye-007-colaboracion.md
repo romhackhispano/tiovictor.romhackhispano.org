@@ -6,21 +6,36 @@ header:
 date: '2014-12-04 15:46:01 +0100'
 date_gmt: '2014-12-04 13:46:01 +0100'
 gallery:
- - image_path: /img/2014/12/Project64-2014-12-30-22-43-38-548.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-43-42-526.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-43-51-709.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-43-58-297.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-44-41-304.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-44-50-657.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-44-54-511.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-45-01-377.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-45-02-942.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-53-48-621.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-54-40-301.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-56-07-680.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-56-52-169.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-22-59-46-516.jpg
- - image_path: /img/2014/12/Project64-2014-12-30-23-00-28-387.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-43-38-548.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-43-38-548.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-43-42-526.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-43-42-526.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-43-51-709.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-43-51-709.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-43-58-297.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-43-58-297.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-44-41-304.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-44-41-304.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-44-50-657.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-44-50-657.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-44-54-511.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-44-54-511.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-45-01-377.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-45-01-377.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-45-02-942.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-45-02-942.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-53-48-621.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-53-48-621.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-54-40-301.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-54-40-301.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-56-07-680.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-56-07-680.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-56-52-169.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-56-52-169.jpg
+ - url: /img/2014/12/Project64-2014-12-30-22-59-46-516.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-22-59-46-516.jpg
+ - url: /img/2014/12/Project64-2014-12-30-23-00-28-387.jpg
+   image_path: /img/2014/12/Project64-2014-12-30-23-00-28-387.jpg
 ---
 Proyecto de traducción al castellano realizado por **[Sogun](http://sogunstudio.blogspot.com.es/)**, 
 cuya última versión fue publicada el 5 de mayo de 2013.

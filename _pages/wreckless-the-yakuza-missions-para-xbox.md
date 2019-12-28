@@ -6,14 +6,22 @@ header:
 date: '2015-02-12 17:35:55 +0100'
 date_gmt: '2015-02-12 15:35:55 +0100'
 gallery:
- - image_path: /img/2015/02/Imagen1.jpg
- - image_path: /img/2015/02/Imagen2.jpg
- - image_path: /img/2015/02/Imagen3.jpg
- - image_path: /img/2015/02/Imagen4.jpg
- - image_path: /img/2015/02/Imagen6.jpg
- - image_path: /img/2015/02/Imagen7.jpg
- - image_path: /img/2015/02/Imagen9.jpg
- - image_path: /img/2015/02/Imagen10.jpg
+ - url: /img/2015/02/Imagen1.jpg
+   image_path: /img/2015/02/Imagen1.jpg
+ - url: /img/2015/02/Imagen2.jpg
+   image_path: /img/2015/02/Imagen2.jpg
+ - url: /img/2015/02/Imagen3.jpg
+   image_path: /img/2015/02/Imagen3.jpg
+ - url: /img/2015/02/Imagen4.jpg
+   image_path: /img/2015/02/Imagen4.jpg
+ - url: /img/2015/02/Imagen6.jpg
+   image_path: /img/2015/02/Imagen6.jpg
+ - url: /img/2015/02/Imagen7.jpg
+   image_path: /img/2015/02/Imagen7.jpg
+ - url: /img/2015/02/Imagen9.jpg
+   image_path: /img/2015/02/Imagen9.jpg
+ - url: /img/2015/02/Imagen10.jpg
+   image_path: /img/2015/02/Imagen10.jpg
 ---
 Proyecto de traducción y subtitulación de Wreckless: The Yakuza Missions en su versión 
 PAL para XBOX. Realizado íntegramente por un servidor.

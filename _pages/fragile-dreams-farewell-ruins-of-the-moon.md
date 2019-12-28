@@ -6,14 +6,22 @@ header:
 date: '2011-02-24 23:04:57 +0100'
 date_gmt: '2011-02-24 21:04:57 +0100'
 gallery:
- - image_path: /img/2011/02/000000001l.jpg
- - image_path: /img/2011/02/000000006.jpg
- - image_path: /img/2011/02/0000000012.jpg
- - image_path: /img/2011/02/0000000027.jpg
- - image_path: /img/2011/02/0000000014.jpg
- - image_path: /img/2011/02/000000009.jpg
- - image_path: /img/2011/02/0000000017.jpg
- - image_path: /img/2011/02/000000003.jpg
+ - url: /img/2011/02/000000001l.jpg
+   image_path: /img/2011/02/000000001l.jpg
+ - url: /img/2011/02/000000006.jpg
+   image_path: /img/2011/02/000000006.jpg
+ - url: /img/2011/02/0000000012.jpg
+   image_path: /img/2011/02/0000000012.jpg
+ - url: /img/2011/02/0000000027.jpg
+   image_path: /img/2011/02/0000000027.jpg
+ - url: /img/2011/02/0000000014.jpg
+   image_path: /img/2011/02/0000000014.jpg
+ - url: /img/2011/02/000000009.jpg
+   image_path: /img/2011/02/000000009.jpg
+ - url: /img/2011/02/0000000017.jpg
+   image_path: /img/2011/02/0000000017.jpg
+ - url: /img/2011/02/000000003.jpg
+   image_path: /img/2011/02/000000003.jpg
 ---
 Proyecto llevado a cabo en Traducciones de Tío Víctor, por el siguiente equipo de personas: 
 **CUE, Klint y Pacochan de Tales Translations, xulikotony, TheKiller**, y yo, **IlDucci**; 

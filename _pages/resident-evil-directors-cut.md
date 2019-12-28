@@ -6,23 +6,39 @@ header:
 date: '2007-04-04 20:35:03 +0200'
 date_gmt: '2007-04-04 18:35:03 +0200'
 gallery:
- - image_path: /img/2007/04/REDC40-01.jpg
- - image_path: /img/2007/04/REDC40-02.jpg
- - image_path: /img/2007/04/REDC40-03.jpg
- - image_path: /img/2007/04/REDC40-04.jpg
- - image_path: /img/2007/04/REDC40-05.jpg
- - image_path: /img/2007/04/REDC40-06.jpg
- - image_path: /img/2007/04/REDC40-07.jpg
- - image_path: /img/2007/04/REDC40-08.jpg
- - image_path: /img/2007/04/REDC40-09.jpg
- - image_path: /img/2007/04/REDC40-10.jpg
- - image_path: /img/2007/04/REDC40-11.jpg
- - image_path: /img/2007/04/REDC40-12.jpg
+ - url: /img/2007/04/REDC40-01.jpg
+   image_path: /img/2007/04/REDC40-01.jpg
+ - url: /img/2007/04/REDC40-02.jpg
+   image_path: /img/2007/04/REDC40-02.jpg
+ - url: /img/2007/04/REDC40-03.jpg
+   image_path: /img/2007/04/REDC40-03.jpg
+ - url: /img/2007/04/REDC40-04.jpg
+   image_path: /img/2007/04/REDC40-04.jpg
+ - url: /img/2007/04/REDC40-05.jpg
+   image_path: /img/2007/04/REDC40-05.jpg
+ - url: /img/2007/04/REDC40-06.jpg
+   image_path: /img/2007/04/REDC40-06.jpg
+ - url: /img/2007/04/REDC40-07.jpg
+   image_path: /img/2007/04/REDC40-07.jpg
+ - url: /img/2007/04/REDC40-08.jpg
+   image_path: /img/2007/04/REDC40-08.jpg
+ - url: /img/2007/04/REDC40-09.jpg
+   image_path: /img/2007/04/REDC40-09.jpg
+ - url: /img/2007/04/REDC40-10.jpg
+   image_path: /img/2007/04/REDC40-10.jpg
+ - url: /img/2007/04/REDC40-11.jpg
+   image_path: /img/2007/04/REDC40-11.jpg
+ - url: /img/2007/04/REDC40-12.jpg
+   image_path: /img/2007/04/REDC40-12.jpg
 gallery2:
- - image_path: /img/2007/04/REDC-2-01.jpg
- - image_path: /img/2007/04/REDC-2-02.jpg
- - image_path: /img/2007/04/REDC-2-03.jpg
- - image_path: /img/2007/04/REDC-2-04.jpg
+ - url: /img/2007/04/REDC-2-01.jpg
+   image_path: /img/2007/04/REDC-2-01.jpg
+ - url: /img/2007/04/REDC-2-02.jpg
+   image_path: /img/2007/04/REDC-2-02.jpg
+ - url: /img/2007/04/REDC-2-03.jpg
+   image_path: /img/2007/04/REDC-2-03.jpg
+ - url: /img/2007/04/REDC-2-04.jpg
+   image_path: /img/2007/04/REDC-2-04.jpg
 ---
 Versión 3.6 terminada en 2010. Realizada en colaboración con Crakand y Lozanosky, 
 con ayuda de Pumuke Lee, Pokechar, Master_Luc, Phoenix de SadNES City, Numaios y 

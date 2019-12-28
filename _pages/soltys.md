@@ -6,16 +6,26 @@ header:
 date: '2013-11-12 13:19:56 +0100'
 date_gmt: '2013-11-12 11:19:56 +0100'
 gallery:
- - image_path: /img/2013/11/SoltysESP-01.jpg
- - image_path: /img/2013/11/SoltysESP-02.jpg
- - image_path: /img/2013/11/SoltysESP-03.jpg
- - image_path: /img/2013/11/SoltysESP-04.jpg
- - image_path: /img/2013/11/SoltysESP-05.jpg
- - image_path: /img/2013/11/SoltysESP-06.jpg
- - image_path: /img/2013/11/SoltysESP-07.jpg
- - image_path: /img/2013/11/SoltysESP-08.jpg
- - image_path: /img/2013/11/SoltysESP-09.jpg
- - image_path: /img/2013/11/SoltysESP-10.jpg
+ - url: /img/2013/11/SoltysESP-01.jpg
+   image_path: /img/2013/11/SoltysESP-01.jpg
+ - url: /img/2013/11/SoltysESP-02.jpg
+   image_path: /img/2013/11/SoltysESP-02.jpg
+ - url: /img/2013/11/SoltysESP-03.jpg
+   image_path: /img/2013/11/SoltysESP-03.jpg
+ - url: /img/2013/11/SoltysESP-04.jpg
+   image_path: /img/2013/11/SoltysESP-04.jpg
+ - url: /img/2013/11/SoltysESP-05.jpg
+   image_path: /img/2013/11/SoltysESP-05.jpg
+ - url: /img/2013/11/SoltysESP-06.jpg
+   image_path: /img/2013/11/SoltysESP-06.jpg
+ - url: /img/2013/11/SoltysESP-07.jpg
+   image_path: /img/2013/11/SoltysESP-07.jpg
+ - url: /img/2013/11/SoltysESP-08.jpg
+   image_path: /img/2013/11/SoltysESP-08.jpg
+ - url: /img/2013/11/SoltysESP-09.jpg
+   image_path: /img/2013/11/SoltysESP-09.jpg
+ - url: /img/2013/11/SoltysESP-10.jpg
+   image_path: /img/2013/11/SoltysESP-10.jpg
 ---
 Proyecto de traducción del videojuego [Sołtys](http://www.mobygames.com/game/dos/sotys), 
 de la empresa polaca L.K. Avalon, publicado en 1995 y redistribuido como juego freeware por el 

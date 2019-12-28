@@ -6,15 +6,24 @@ header:
 date: '2007-04-04 20:26:38 +0200'
 date_gmt: '2007-04-04 18:26:38 +0200'
 gallery:
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h44m18s217.jpg
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h45m33s220.jpg
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h45m42s89.jpg
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h43m34s42.jpg
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h43m58s13.jpg
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h46m51s232.jpg
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h45m02s202.jpg
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h44m33s108.jpg
- - image_path: /img/2007/04/vlcsnap-2012-12-21-12h46m10s65.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h44m18s217.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h44m18s217.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h45m33s220.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h45m33s220.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h45m42s89.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h45m42s89.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h43m34s42.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h43m34s42.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h43m58s13.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h43m58s13.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h46m51s232.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h46m51s232.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h45m02s202.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h45m02s202.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h44m33s108.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h44m33s108.jpg
+ - url: /img/2007/04/vlcsnap-2012-12-21-12h46m10s65.jpg
+   image_path: /img/2007/04/vlcsnap-2012-12-21-12h46m10s65.jpg
 ---
 Traducción al Castellano del juego Contract J.A.C.K., juego basado en el motor e historia de No One Lives Forever 2, para ordenador. Traducción terminada el 24 de Febrero de 2005.
 

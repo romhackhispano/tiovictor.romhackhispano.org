@@ -6,10 +6,14 @@ header:
 date: '2009-06-21 10:04:53 +0200'
 date_gmt: '2009-06-21 08:04:53 +0200'
 gallery:
-  - image_path: /img/2009/06/zoe01.jpg
-  - image_path: /img/2009/06/zoe02.jpg
-  - image_path: /img/2009/06/zoe03.jpg
-  - image_path: /img/2009/06/zoe04.jpg
+ - url: /img/2009/06/zoe01.jpg
+   image_path: /img/2009/06/zoe01.jpg
+ - url: /img/2009/06/zoe02.jpg
+   image_path: /img/2009/06/zoe02.jpg
+ - url: /img/2009/06/zoe03.jpg
+   image_path: /img/2009/06/zoe03.jpg
+ - url: /img/2009/06/zoe04.jpg
+   image_path: /img/2009/06/zoe04.jpg
 ---
 Traducción realizada por Tío Víctor (IlDucci o VGF), con la ayuda de las herramientas 
 creadas por Barracuda.

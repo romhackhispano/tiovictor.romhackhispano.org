@@ -36,15 +36,14 @@
   {% if page.header.overlay_color or page.header.overlay_image %}
     <div class="wrapper">
       <h1 id="page-title" class="page__title" itemprop="headline">
-  <!-- MODIFICACION: Truco barato para mantener el alto del banner en el menu principal -->
+<!-- MODIFICACION: Trampa para mantener la proporcion del banner y quitar su texto en el menu principal -->
         {% if paginator %}
           {{ "" }}
-  <!-- FIN DE MODIFICACION -->
         {% else %}
           {{ page.title | default: site.title | markdownify | remove: "<p>" | remove: "</p>" }}
         {% endif %}
       </h1>
-  <!-- MODIFICACION: Supresion de la descripcion breve en la cabecera -->
+<!-- MODIFICACION: Supresion de la descripcion breve en la cabecera -->
       {% if page.read_time %}
         <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
       {% endif %}

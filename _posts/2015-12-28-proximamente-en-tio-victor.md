@@ -35,53 +35,98 @@ tags:
 - Resident Evil Survivor
 - Soldier of Fortune I
 gallery:
- - image_path: /img/2015/10/AITD4DC-01.jpg
- - image_path: /img/2015/10/AITD4DC-02.jpg
- - image_path: /img/2015/10/AITD4DC-03.jpg
- - image_path: /img/2015/10/AITD4DC-04.jpg
- - image_path: /img/2015/10/AITD4DC-05.jpg
- - image_path: /img/2015/10/AITD4DC-06.jpg
- - image_path: /img/2015/10/AITD4DC-07.jpg
- - image_path: /img/2015/10/AITD4DC-08.jpg
- - image_path: /img/2015/10/AITD4DC-09.jpg
- - image_path: /img/2015/10/AITD4DC-10.jpg
- - image_path: /img/2015/10/AITD4DC-11.jpg
- - image_path: /img/2015/10/AITD4DC-12.jpg
+ - url: /img/2015/10/AITD4DC-01.jpg
+   image_path: /img/2015/10/AITD4DC-01.jpg
+ - url: /img/2015/10/AITD4DC-02.jpg
+   image_path: /img/2015/10/AITD4DC-02.jpg
+ - url: /img/2015/10/AITD4DC-03.jpg
+   image_path: /img/2015/10/AITD4DC-03.jpg
+ - url: /img/2015/10/AITD4DC-04.jpg
+   image_path: /img/2015/10/AITD4DC-04.jpg
+ - url: /img/2015/10/AITD4DC-05.jpg
+   image_path: /img/2015/10/AITD4DC-05.jpg
+ - url: /img/2015/10/AITD4DC-06.jpg
+   image_path: /img/2015/10/AITD4DC-06.jpg
+ - url: /img/2015/10/AITD4DC-07.jpg
+   image_path: /img/2015/10/AITD4DC-07.jpg
+ - url: /img/2015/10/AITD4DC-08.jpg
+   image_path: /img/2015/10/AITD4DC-08.jpg
+ - url: /img/2015/10/AITD4DC-09.jpg
+   image_path: /img/2015/10/AITD4DC-09.jpg
+ - url: /img/2015/10/AITD4DC-10.jpg
+   image_path: /img/2015/10/AITD4DC-10.jpg
+ - url: /img/2015/10/AITD4DC-11.jpg
+   image_path: /img/2015/10/AITD4DC-11.jpg
+ - url: /img/2015/10/AITD4DC-12.jpg
+   image_path: /img/2015/10/AITD4DC-12.jpg
 gallery2:
- - image_path: /img/2015/12/WINBACK-01.jpg
- - image_path: /img/2015/12/WINBACK-02.jpg
- - image_path: /img/2015/12/WINBACK-03.jpg
- - image_path: /img/2015/12/WINBACK-04.jpg
- - image_path: /img/2015/12/WINBACK-05.jpg
- - image_path: /img/2015/12/WINBACK-06.jpg
- - image_path: /img/2015/12/WINBACK-07.jpg
- - image_path: /img/2015/12/WINBACK-08.jpg
- - image_path: /img/2015/12/WINBACK-09.jpg
- - image_path: /img/2015/12/WINBACK-10.jpg
- - image_path: /img/2015/12/WINBACK-11.jpg
- - image_path: /img/2015/12/WINBACK-12.jpg
- - image_path: /img/2015/12/WINBACK-13.jpg
- - image_path: /img/2015/12/WINBACK-14.jpg
- - image_path: /img/2015/12/WINBACK-16.jpg
- - image_path: /img/2015/12/WINBACK-17.jpg
+ - url: /img/2015/12/WINBACK-01.jpg
+   image_path: /img/2015/12/WINBACK-01.jpg
+ - url: /img/2015/12/WINBACK-02.jpg
+   image_path: /img/2015/12/WINBACK-02.jpg
+ - url: /img/2015/12/WINBACK-03.jpg
+   image_path: /img/2015/12/WINBACK-03.jpg
+ - url: /img/2015/12/WINBACK-04.jpg
+   image_path: /img/2015/12/WINBACK-04.jpg
+ - url: /img/2015/12/WINBACK-05.jpg
+   image_path: /img/2015/12/WINBACK-05.jpg
+ - url: /img/2015/12/WINBACK-06.jpg
+   image_path: /img/2015/12/WINBACK-06.jpg
+ - url: /img/2015/12/WINBACK-07.jpg
+   image_path: /img/2015/12/WINBACK-07.jpg
+ - url: /img/2015/12/WINBACK-08.jpg
+   image_path: /img/2015/12/WINBACK-08.jpg
+ - url: /img/2015/12/WINBACK-09.jpg
+   image_path: /img/2015/12/WINBACK-09.jpg
+ - url: /img/2015/12/WINBACK-10.jpg
+   image_path: /img/2015/12/WINBACK-10.jpg
+ - url: /img/2015/12/WINBACK-11.jpg
+   image_path: /img/2015/12/WINBACK-11.jpg
+ - url: /img/2015/12/WINBACK-12.jpg
+   image_path: /img/2015/12/WINBACK-12.jpg
+ - url: /img/2015/12/WINBACK-13.jpg
+   image_path: /img/2015/12/WINBACK-13.jpg
+ - url: /img/2015/12/WINBACK-14.jpg
+   image_path: /img/2015/12/WINBACK-14.jpg
+ - url: /img/2015/12/WINBACK-16.jpg
+   image_path: /img/2015/12/WINBACK-16.jpg
+ - url: /img/2015/12/WINBACK-17.jpg
+   image_path: /img/2015/12/WINBACK-17.jpg
 gallery3:
- - image_path: /img/2017/04/RESURVIVOR-20170407-01.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-03.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-04.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-05.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-06.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-07.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-08.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-09.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-10.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-11.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-12.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-13.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-14.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-15.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-16.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-17.jpg
- - image_path: /img/2017/04/RESURVIVOR-20170407-18.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-01.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-01.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-03.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-03.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-04.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-04.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-05.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-05.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-06.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-06.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-07.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-07.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-08.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-08.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-09.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-09.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-10.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-10.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-11.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-11.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-12.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-12.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-13.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-13.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-14.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-14.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-15.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-15.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-16.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-16.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-17.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-17.jpg
+ - url: /img/2017/04/RESURVIVOR-20170407-18.jpg
+   image_path: /img/2017/04/RESURVIVOR-20170407-18.jpg
 ---
 Buenas a todos, es el día en el que España entera (Y no sé si América Latina) 
 se pone a hacer chistes y a mí me da por hacer cosas dando una vuelta de tuerca 

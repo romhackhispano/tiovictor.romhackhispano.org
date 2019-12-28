@@ -6,13 +6,20 @@ header:
 date: '2007-04-04 20:32:03 +0200'
 date_gmt: '2007-04-04 18:32:03 +0200'
 gallery:
- - image_path: /img/2007/04/R2RPSX-01.jpg
- - image_path: /img/2007/04/R2RPSX-02.jpg
- - image_path: /img/2007/04/R2RPSX-03.jpg
- - image_path: /img/2007/04/R2RPSX-04.jpg
- - image_path: /img/2007/04/R2RPSX-05.jpg
- - image_path: /img/2007/04/R2RPSX-06.jpg
- - image_path: /img/2007/04/R2RPSX-07.jpg
+ - url: /img/2007/04/R2RPSX-01.jpg
+   image_path: /img/2007/04/R2RPSX-01.jpg
+ - url: /img/2007/04/R2RPSX-02.jpg
+   image_path: /img/2007/04/R2RPSX-02.jpg
+ - url: /img/2007/04/R2RPSX-03.jpg
+   image_path: /img/2007/04/R2RPSX-03.jpg
+ - url: /img/2007/04/R2RPSX-04.jpg
+   image_path: /img/2007/04/R2RPSX-04.jpg
+ - url: /img/2007/04/R2RPSX-05.jpg
+   image_path: /img/2007/04/R2RPSX-05.jpg
+ - url: /img/2007/04/R2RPSX-06.jpg
+   image_path: /img/2007/04/R2RPSX-06.jpg
+ - url: /img/2007/04/R2RPSX-07.jpg
+   image_path: /img/2007/04/R2RPSX-07.jpg
 ---
 Traducción al Castellano del juego Ready 2 Rumble, de Midway, realizada en:  
 - Versión de Nintendo 64 (Ready 2 Rumble Boxing (E) (M3) [!]  

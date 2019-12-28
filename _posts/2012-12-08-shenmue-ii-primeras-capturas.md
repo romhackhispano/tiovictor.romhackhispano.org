@@ -12,16 +12,26 @@ tags:
 - Shenmue II
 - Shenmue
 gallery:
- - image_path: /img/2012/03/S2-20121207-10.jpg
- - image_path: /img/2012/03/S2-20121207-01.jpg
- - image_path: /img/2012/03/S2-20121207-02.jpg
- - image_path: /img/2012/03/S2-20121207-03.jpg
- - image_path: /img/2012/03/S2-20121207-04.jpg
- - image_path: /img/2012/03/S2-20121207-05.jpg
- - image_path: /img/2012/03/S2-20121207-06.jpg
- - image_path: /img/2012/03/S2-20121207-07.jpg
- - image_path: /img/2012/03/S2-20121207-08.jpg
- - image_path: /img/2012/03/S2-20121207-09.jpg
+ - url: /img/2012/03/S2-20121207-10.jpg
+   image_path: /img/2012/03/S2-20121207-10.jpg
+ - url: /img/2012/03/S2-20121207-01.jpg
+   image_path: /img/2012/03/S2-20121207-01.jpg
+ - url: /img/2012/03/S2-20121207-02.jpg
+   image_path: /img/2012/03/S2-20121207-02.jpg
+ - url: /img/2012/03/S2-20121207-03.jpg
+   image_path: /img/2012/03/S2-20121207-03.jpg
+ - url: /img/2012/03/S2-20121207-04.jpg
+   image_path: /img/2012/03/S2-20121207-04.jpg
+ - url: /img/2012/03/S2-20121207-05.jpg
+   image_path: /img/2012/03/S2-20121207-05.jpg
+ - url: /img/2012/03/S2-20121207-06.jpg
+   image_path: /img/2012/03/S2-20121207-06.jpg
+ - url: /img/2012/03/S2-20121207-07.jpg
+   image_path: /img/2012/03/S2-20121207-07.jpg
+ - url: /img/2012/03/S2-20121207-08.jpg
+   image_path: /img/2012/03/S2-20121207-08.jpg
+ - url: /img/2012/03/S2-20121207-09.jpg
+   image_path: /img/2012/03/S2-20121207-09.jpg
 ---
 Bueno, no se puede decir que han pasado pocas cosas en las últimas semanas:
 

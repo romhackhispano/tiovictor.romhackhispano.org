@@ -8,15 +8,23 @@ categories:
 tags:
 - Silent Hill
 gallery:
- - image_path: /img/2009/06/SHv20-01.jpg
- - image_path: /img/2009/06/SHv20-09.jpg
- - image_path: /img/2009/06/SHv20-11.jpg
- - image_path: /img/2009/06/SHv20-16.jpg
+ - url: /img/2009/06/SHv20-01.jpg
+   image_path: /img/2009/06/SHv20-01.jpg
+ - url: /img/2009/06/SHv20-09.jpg
+   image_path: /img/2009/06/SHv20-09.jpg
+ - url: /img/2009/06/SHv20-11.jpg
+   image_path: /img/2009/06/SHv20-11.jpg
+ - url: /img/2009/06/SHv20-16.jpg
+   image_path: /img/2009/06/SHv20-16.jpg
 gallery2:
- - image_path: /img/2009/06/SHv20-06.jpg
- - image_path: /img/2009/06/SHv20-14.jpg
- - image_path: /img/2009/06/SHv20-18.jpg
- - image_path: /img/2009/06/SHv20-20.jpg
+ - url: /img/2009/06/SHv20-06.jpg
+   image_path: /img/2009/06/SHv20-06.jpg
+ - url: /img/2009/06/SHv20-14.jpg
+   image_path: /img/2009/06/SHv20-14.jpg
+ - url: /img/2009/06/SHv20-18.jpg
+   image_path: /img/2009/06/SHv20-18.jpg
+ - url: /img/2009/06/SHv20-20.jpg
+   image_path: /img/2009/06/SHv20-20.jpg
 ---
 Y poco a poco me voy quitando otros proyectos "pequeños" para poder dedicarle más 
 tiempo a los proyectos grandes. Hoy es el turno de cerrar la revisión (Ahora más bien 

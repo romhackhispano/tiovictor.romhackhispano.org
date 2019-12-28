@@ -7,17 +7,27 @@ categories:
 - General
 tags: []
 gallery:
- - image_path: /img/2014/11/ShenmueII-20141116-1.jpg
- - image_path: /img/2014/11/ShenmueII-20141116-2.jpg
- - image_path: /img/2014/11/ShenmueII-20141116-3.jpg
- - image_path: /img/2014/11/ShenmueII-20141116-4.jpg
- - image_path: /img/2014/11/ShenmueII-20141116-5.jpg
- - image_path: /img/2014/11/ShenmueII-20141116-6.jpg
+ - url: /img/2014/11/ShenmueII-20141116-1.jpg
+   image_path: /img/2014/11/ShenmueII-20141116-1.jpg
+ - url: /img/2014/11/ShenmueII-20141116-2.jpg
+   image_path: /img/2014/11/ShenmueII-20141116-2.jpg
+ - url: /img/2014/11/ShenmueII-20141116-3.jpg
+   image_path: /img/2014/11/ShenmueII-20141116-3.jpg
+ - url: /img/2014/11/ShenmueII-20141116-4.jpg
+   image_path: /img/2014/11/ShenmueII-20141116-4.jpg
+ - url: /img/2014/11/ShenmueII-20141116-5.jpg
+   image_path: /img/2014/11/ShenmueII-20141116-5.jpg
+ - url: /img/2014/11/ShenmueII-20141116-6.jpg
+   image_path: /img/2014/11/ShenmueII-20141116-6.jpg
 gallery2:
- - image_path: /img/2014/11/SAP-20141114-01.jpg
- - image_path: /img/2014/11/SAP-20141114-02.jpg
- - image_path: /img/2014/11/SAP-20141114-07.jpg
- - image_path: /img/2014/11/SAP-20141114-08.jpg
+ - url: /img/2014/11/SAP-20141114-01.jpg
+   image_path: /img/2014/11/SAP-20141114-01.jpg
+ - url: /img/2014/11/SAP-20141114-02.jpg
+   image_path: /img/2014/11/SAP-20141114-02.jpg
+ - url: /img/2014/11/SAP-20141114-07.jpg
+   image_path: /img/2014/11/SAP-20141114-07.jpg
+ - url: /img/2014/11/SAP-20141114-08.jpg
+   image_path: /img/2014/11/SAP-20141114-08.jpg
 ---
 Como empieza a ser habitual, los proyectos que veis por aquí se darán un garbeo 
 por las ferias retro de este país. Este mes le toca a RetroBarcelona 2014, el recién 

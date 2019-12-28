@@ -8,15 +8,24 @@ categories:
 tags:
 - 'Clock Tower The First Fear'
 gallery:
- - image_path: /img/2016/07/CTTTF20_V2_01.jpg
- - image_path: /img/2016/07/CTTTF20_V2_02.jpg
- - image_path: /img/2016/07/CTTTF20_V2_03.jpg
- - image_path: /img/2016/07/CTTTF20_V2_04.jpg
- - image_path: /img/2016/07/CTTTF20_V2_05.jpg
- - image_path: /img/2016/07/CTTTF20_V2_06.jpg
- - image_path: /img/2016/07/CTTTF20_V2_07.jpg
- - image_path: /img/2016/07/CTTTF20_V2_08.jpg
- - image_path: /img/2016/07/CTTTF20_V2_09.jpg
+ - url: /img/2016/07/CTTTF20_V2_01.jpg
+   image_path: /img/2016/07/CTTTF20_V2_01.jpg
+ - url: /img/2016/07/CTTTF20_V2_02.jpg
+   image_path: /img/2016/07/CTTTF20_V2_02.jpg
+ - url: /img/2016/07/CTTTF20_V2_03.jpg
+   image_path: /img/2016/07/CTTTF20_V2_03.jpg
+ - url: /img/2016/07/CTTTF20_V2_04.jpg
+   image_path: /img/2016/07/CTTTF20_V2_04.jpg
+ - url: /img/2016/07/CTTTF20_V2_05.jpg
+   image_path: /img/2016/07/CTTTF20_V2_05.jpg
+ - url: /img/2016/07/CTTTF20_V2_06.jpg
+   image_path: /img/2016/07/CTTTF20_V2_06.jpg
+ - url: /img/2016/07/CTTTF20_V2_07.jpg
+   image_path: /img/2016/07/CTTTF20_V2_07.jpg
+ - url: /img/2016/07/CTTTF20_V2_08.jpg
+   image_path: /img/2016/07/CTTTF20_V2_08.jpg
+ - url: /img/2016/07/CTTTF20_V2_09.jpg
+   image_path: /img/2016/07/CTTTF20_V2_09.jpg
 ---
 
 ¡Buenas a todos! Vamos a terminar esta pequeña orgía de lanzamientos de parches con una

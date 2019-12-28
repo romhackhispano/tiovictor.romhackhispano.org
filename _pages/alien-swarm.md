@@ -6,16 +6,26 @@ header:
 date: '2010-07-28 16:25:25 +0200'
 date_gmt: '2010-07-28 14:25:25 +0200'
 gallery:
- - image_path: /img/2010/07/AlienSwarm16-01.jpg
- - image_path: /img/2010/07/AlienSwarm16-02.jpg
- - image_path: /img/2010/07/AlienSwarm16-03.jpg
- - image_path: /img/2010/07/AlienSwarm16-04.jpg
- - image_path: /img/2010/07/AlienSwarm16-05.jpg
- - image_path: /img/2010/07/AlienSwarm16-06.jpg
- - image_path: /img/2010/07/AlienSwarm16-07.jpg
- - image_path: /img/2010/07/AlienSwarm16-08.jpg
- - image_path: /img/2010/07/AlienSwarm16-09.jpg
- - image_path: /img/2010/07/AlienSwarm16-10.jpg
+ - url: /img/2010/07/AlienSwarm16-01.jpg
+   image_path: /img/2010/07/AlienSwarm16-01.jpg
+ - url: /img/2010/07/AlienSwarm16-02.jpg
+   image_path: /img/2010/07/AlienSwarm16-02.jpg
+ - url: /img/2010/07/AlienSwarm16-03.jpg
+   image_path: /img/2010/07/AlienSwarm16-03.jpg
+ - url: /img/2010/07/AlienSwarm16-04.jpg
+   image_path: /img/2010/07/AlienSwarm16-04.jpg
+ - url: /img/2010/07/AlienSwarm16-05.jpg
+   image_path: /img/2010/07/AlienSwarm16-05.jpg
+ - url: /img/2010/07/AlienSwarm16-06.jpg
+   image_path: /img/2010/07/AlienSwarm16-06.jpg
+ - url: /img/2010/07/AlienSwarm16-07.jpg
+   image_path: /img/2010/07/AlienSwarm16-07.jpg
+ - url: /img/2010/07/AlienSwarm16-08.jpg
+   image_path: /img/2010/07/AlienSwarm16-08.jpg
+ - url: /img/2010/07/AlienSwarm16-09.jpg
+   image_path: /img/2010/07/AlienSwarm16-09.jpg
+ - url: /img/2010/07/AlienSwarm16-10.jpg
+   image_path: /img/2010/07/AlienSwarm16-10.jpg
 ---
 Traducción realizada a partir de la traducción oficial de Left 4 Dead 2. Todo el resto de 
 contenidos han sido traducidos íntegramente por IlDucci.

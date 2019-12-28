@@ -8,18 +8,30 @@ categories:
 tags:
 - Resident Evil
 gallery:
-- /img/2007/04/REDC40-01.jpg
-- /img/2007/04/REDC40-02.jpg
-- /img/2007/04/REDC40-03.jpg
-- /img/2007/04/REDC40-04.jpg
-- /img/2007/04/REDC40-05.jpg
-- /img/2007/04/REDC40-06.jpg
-- /img/2007/04/REDC40-07.jpg
-- /img/2007/04/REDC40-08.jpg
-- /img/2007/04/REDC40-09.jpg
-- /img/2007/04/REDC40-10.jpg
-- /img/2007/04/REDC40-11.jpg
-- /img/2007/04/REDC40-12.jpg
+ - url: /img/2007/04/REDC40-01.jpg
+   image_path: /img/2007/04/REDC40-01.jpg
+ - url: /img/2007/04/REDC40-02.jpg
+   image_path: /img/2007/04/REDC40-02.jpg
+ - url: /img/2007/04/REDC40-03.jpg
+   image_path: /img/2007/04/REDC40-03.jpg
+ - url: /img/2007/04/REDC40-04.jpg
+   image_path: /img/2007/04/REDC40-04.jpg
+ - url: /img/2007/04/REDC40-05.jpg
+   image_path: /img/2007/04/REDC40-05.jpg
+ - url: /img/2007/04/REDC40-06.jpg
+   image_path: /img/2007/04/REDC40-06.jpg
+ - url: /img/2007/04/REDC40-07.jpg
+   image_path: /img/2007/04/REDC40-07.jpg
+ - url: /img/2007/04/REDC40-08.jpg
+   image_path: /img/2007/04/REDC40-08.jpg
+ - url: /img/2007/04/REDC40-09.jpg
+   image_path: /img/2007/04/REDC40-09.jpg
+ - url: /img/2007/04/REDC40-10.jpg
+   image_path: /img/2007/04/REDC40-10.jpg
+ - url: /img/2007/04/REDC40-11.jpg
+   image_path: /img/2007/04/REDC40-11.jpg
+ - url: /img/2007/04/REDC40-12.jpg
+   image_path: /img/2007/04/REDC40-12.jpg
 ---
 
 Buenas a todos, hoy vamos a publicar un parche... hecho con otro punto de vista, hasta tal punto que no vamos

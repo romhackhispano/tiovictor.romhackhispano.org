@@ -6,20 +6,34 @@ header:
 date: '2014-01-15 18:23:55 +0100'
 date_gmt: '2014-01-15 16:23:55 +0100'
 gallery:
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap01.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap02.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap03.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap04.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap05.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap06.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap07.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap08.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap09.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap10.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap11.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap12.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap13.jpg
- - image_path: /img/2014/01/SWRacer64-Ronda2-Cap14.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap01.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap01.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap02.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap02.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap03.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap03.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap04.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap04.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap05.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap05.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap06.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap06.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap07.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap07.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap08.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap08.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap09.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap09.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap10.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap10.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap11.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap11.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap12.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap12.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap13.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap13.jpg
+ - url: /img/2014/01/SWRacer64-Ronda2-Cap14.jpg
+   image_path: /img/2014/01/SWRacer64-Ronda2-Cap14.jpg
 ---
 Adaptación de la traducción y doblaje oficiales de Star Wars Episodio I: Racer para 
 Nintendo 64. Realizada por PacoChan, SubDrag e IlDucci.
