@@ -20,6 +20,8 @@ una meta que me llevara a publicar una noticia, no he podido ponerme a ella.
 Sí, efectivamente, por fin hemos llegado al 100% de palabras traducidas, después de tantísimo tiempo. 
 Sé que muchos lo estabais esperando...
 
+EDIT 30/12/2019: Actualizo el parche publicado con un retoque menor.
+
 <!--more-->
 
 Así que os presento un proyecto sorpresa: **¡Me ha dado por revisar los textos de Silent Hill 2!**

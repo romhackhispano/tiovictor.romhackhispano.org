@@ -23,9 +23,9 @@ por dedicarme su valioso tiempo con Ace Combat 3 a mirarme este juego, a
 Retroductor por toda su ayuda, y a PolyMega y la gente de Town of Silent 
 Hill por su ayuda y por el trabajo del Enhanced Edition.
 
-_**DESCARGAR VERSIÓN 1.0:**_
+_**DESCARGAR VERSIÓN 1.0.1:**_
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/52whenmvmo3ehdt/SH2DC-REVISION-TTV-V1.0.7z/file">MEDIAFIRE</a> - <a href="https://mega.nz/#!4c1AiKTI!9HMg3WyYjjAzQdVCLZT5AzCWbWkDzCxKoyku-ABdkVk">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/sor62g1ivg4r43y/SH2DC-REVISION-TTV-V1.0.1.7z/file">MEDIAFIRE</a> - <a href="https://mega.nz/#!dc0HxKxS!BsoYchXZorRwIOZfhulnD2a_Yx59AIHAYj2WRMnq2wE">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/silent-hill-2-directors-cut/"><strong>VOLVER</strong></a></h2>
 

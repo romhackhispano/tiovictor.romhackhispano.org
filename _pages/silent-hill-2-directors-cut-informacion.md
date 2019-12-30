@@ -78,6 +78,9 @@ v1.0
   - Se ha revisado toda la traducción española del juego.  
   - Se ha traducido el menú principal.
 
+v1.0.1
+- Pequeña corrección en el menú de opciones.
+
 ### Instrucciones para aplicar el parche de traducción en PC
 
 Recomendamos utilizar este parche de traducción junto con el mod Enhanced 
