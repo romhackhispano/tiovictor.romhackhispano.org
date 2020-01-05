@@ -117,6 +117,13 @@ Si por algún motivo quieres crear una imagen ISO traducida, haz una copia
 de los datos del juego en tu PC y utiliza Qwix o exiso para generar la 
 imagen.
 
+Si quieres utilizar la traducción en la versión NTSC-U estadounidense, 
+tendrás que extraer los archivos mes a una carpeta aparte, renombrar su 
+última letra para que acabe en "e", en vez de en "s", y entonces 
+sobrescribir los archivos. Aparentemente, esta versión limita los idiomas 
+disponibles al inglés y al japonés, así que no se puede elegir el español 
+tan fácilmente (¡Gracias a David Mariano por el aviso!)
+
 ### Instrucciones para aplicar el parche de traducción en PlayStation 2
 
 Necesitarás extraer la imagen del DVD de Silent Hill 2: Director's Cut, ya 
@@ -126,6 +133,12 @@ NTSC-U norteamericana (código de juego SLUS-20228) en formato .ISO.
 Una vez la hayas extraído, podrás aplicar el parche con la revisión que 
 más te interese utilizando la aplicación xdelta (O xdeltaUI si no te gustan 
 las ventanas de línea de comandos).
+
+Asegúrate de que has volcado tu disco correctamente. Estos son los checksum 
+de mis imágenes:
+
+PAL: 3257e3fb22866061cf8f4f881f5e4b70
+NTSC-U: 37a90d79dea1d60b90b54b371c34c53a
 
 Cómo aplicar un archivo .XDELTA con xdeltaUI:
 
