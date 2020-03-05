@@ -27,7 +27,13 @@ Aegis
 Saispai  
 Dragoonglue  
 Rokuso3  
+roli3000  
+Ayamine  
+Alhechan  
 IlDucci
+
+*REVISIÓN:*  
+Retroductor
 
 *GRÁFICOS Y VÍDEOS:*  
 IlDucci
@@ -48,5 +54,8 @@ Dageron
 Pleonex  
 
 *AGRADECIMIENTOS:*  
-Retroductor  
+TrueFaiterMan  
 yarghenforgen  
+Switch  
+Dark_Kudoh  
+Dantezote  
