@@ -7,7 +7,7 @@ comments: false
 ---
 
 <h2 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2>
-***REGISTRO DE VERSIONES:***
+***REGISTRO DE VERSIONES:*** 
 
 1.0 - Primera versión, juego traducido y doblable al 100%.
 
