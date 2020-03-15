@@ -40,8 +40,11 @@ sin provocar una gran pérdida visual.
 PacoChan también está investigando un fallo en el que todo el parcheador se cerraría solo con una copia corrompida del programa
 adxencd.exe. No sé si habrá una actualización adicional que lo arregle.
 
-<center><h1><b><i>Descargar versión 1.0.1 del parcheador:</i></b></h1></center>
+**EDICIÓN 16:40:** PacoChan ha actualizado el parcheador para incluir una comprobación del estado del programa adxencd.exe.
+Subimos de versión a 1.0.2.
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/fswy88uvsipp08o/AloneInTheDark4Espa%F1olDreamcast101.7z/file">MEDIAFIRE</a> - <a href="https://mega.nz/#!YR1VCJgS!oxYxorGH1tVBWtWk83v6baVoDITwABK9exgYlBUEMO8">MEGA</a></strong></h1>
+<center><h1><b><i>Descargar versión 1.0.2 del parcheador:</i></b></h1></center>
+
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/glno8e4enmadrbe/AloneInTheDark4Espa%F1olDreamcast102.7z/file">MEDIAFIRE</a> - <a href="https://mega.nz/#!IJlkiQaY!LJgIMMhaPaGfK5_OwplBfUk6cdgHv6CviKXLEDDk-08">MEGA</a></strong></h1>
 
 Seguiremos informando.

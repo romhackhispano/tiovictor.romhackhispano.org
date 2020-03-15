@@ -40,6 +40,11 @@ es antiguo y utiliza un solo núcleo, así que de nada sirve tener
 doce) y la codificación mantiene el tamaño del archivo original 
 sin provocar una gran pérdida visual.
 
+1.0.2. - Corrección adicional en el parcheador:
+* Añadida una comprobación adicional para verificar que el 
+programa adxencd.exe no esté dañado durante el arranque del 
+parcheador.
+
 ***CÓMO CONSEGUIR LOS ARCHIVOS DEL DOBLAJE:***
 Debido a que el juego no tiene subtítulos, se ha optado por hacer que **el 
 parcheador obligue a tener en las carpetas Audio y Video los archivos con el 
