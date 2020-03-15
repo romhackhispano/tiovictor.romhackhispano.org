@@ -3,8 +3,6 @@ title: Descargas de The World Ends With You
 permalink: /the-world-ends-with-you-version-en-castellano-2-0/descargar/
 header:
   overlay_image: /img/headers/pages/TWEWYHeader.jpg
-date: '2015-06-02 01:16:14 +0200'
-date_gmt: '2015-06-01 23:16:14 +0200'
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/the-world-ends-with-you-version-en-castellano-2-0/informacion/">INFORMACIÓN</a> - <a href="/the-world-ends-with-you-version-en-castellano-2-0/descargar/">DESCARGAS</a> - <a href="/the-world-ends-with-you-version-en-castellano-2-0/capturas/">CAPTURAS</a></strong></h2>

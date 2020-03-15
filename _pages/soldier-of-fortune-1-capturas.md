@@ -3,8 +3,6 @@ title: Capturas de Soldier of Fortune 1
 permalink: /soldier-of-fortune-1/capturas/
 header:
   overlay_image: /img/headers/pages/SoldierOfFortuneHeader.jpg
-date: '2016-10-02 17:43:00 +0200'
-date_gmt: '2016-10-02 15:43:00 +0200'
 comments: false
 gallery:
  - url: /img/2016/10/SoF-DC-20161002-01.jpg

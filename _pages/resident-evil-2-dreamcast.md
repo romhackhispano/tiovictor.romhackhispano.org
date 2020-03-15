@@ -3,8 +3,6 @@ title: Resident Evil 2 para Dreamcast (Adaptación, v1.5c FINAL)
 permalink: /resident-evil-2-dreamcast/
 header:
   overlay_image: /img/headers/pages/ResidentEvil2Header.jpg
-date: '2011-07-31 23:17:44 +0200'
-date_gmt: '2011-07-31 21:17:44 +0200'
 gallery:
  - url: /img/2011/07/2016-01.jpg
    image_path: /img/2011/07/2016-01.jpg

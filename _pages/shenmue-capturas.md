@@ -3,8 +3,6 @@ title: Capturas de Shenmue I
 permalink: /shenmue/capturas/
 header:
   overlay_image: /img/headers/pages/Shenmue1Header.jpg
-date: '2015-06-01 23:52:43 +0200'
-date_gmt: '2015-06-01 21:52:43 +0200'
 comments: false
 gallery:
  - url: /img/2011/11/ShenmueI01-1.jpg

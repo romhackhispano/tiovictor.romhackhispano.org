@@ -3,8 +3,6 @@ title: Ready 2 Rumble 1 de N64 y PSOne (V1.0)
 permalink: /ready-2-rumble-1/
 header:
   overlay_image: /img/headers/pages/Ready2RumbleHeader.jpg
-date: '2007-04-04 20:32:03 +0200'
-date_gmt: '2007-04-04 18:32:03 +0200'
 gallery:
  - url: /img/2007/04/R2RPSX-01.jpg
    image_path: /img/2007/04/R2RPSX-01.jpg

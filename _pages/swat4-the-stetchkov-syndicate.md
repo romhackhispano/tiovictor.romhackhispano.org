@@ -3,8 +3,6 @@ title: 'SWAT4: The Stetchkov Syndicate PC (V2.2 2012)'
 permalink: /swat4-the-stetchkov-syndicate/
 header:
   overlay_image: /img/headers/pages/SWAT4XHeader.jpg
-date: '2007-04-04 20:31:03 +0200'
-date_gmt: '2007-04-04 18:31:03 +0200'
 ---
 <h2 style="text-align: center;"><strong><a href="/swat4-the-stetchkov-syndicate/informacion/">INFORMACIÓN</a> - <a href="/swat4-the-stetchkov-syndicate/descargar/">DESCARGAS</a> - <a href="/swat4-the-stetchkov-syndicate/capturas/">CAPTURAS</a></strong></h2>
 

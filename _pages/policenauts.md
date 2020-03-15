@@ -3,8 +3,6 @@ title: Policenauts PSX y Saturn (En progreso, 50%)
 permalink: /policenauts/
 header:
   overlay_image: /img/headers/pages/PolicenautsHeader.jpg
-date: '2012-06-13 13:28:49 +0200'
-date_gmt: '2012-06-13 11:28:49 +0200'
 ---
 <h2 style="text-align: center;"><strong><a href="/policenauts/capturas/">CAPTURAS</a></strong></h2>
 

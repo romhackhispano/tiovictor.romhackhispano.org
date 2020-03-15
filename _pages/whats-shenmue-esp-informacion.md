@@ -3,8 +3,6 @@ title: Información de What's Shenmue
 permalink: /whats-shenmue-esp/informacion/
 header:
   overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg
-date: '2015-06-02 00:56:18 +0200'
-date_gmt: '2015-06-01 22:56:18 +0200'
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-esp/informacion/">INFORMACIÓN</a> - <a href="/whats-shenmue-esp/descargar/">DESCARGAS</a> - <a href="/whats-shenmue-esp/capturas/">CAPTURAS</a></strong></h2>

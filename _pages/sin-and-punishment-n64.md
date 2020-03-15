@@ -3,8 +3,6 @@ title: Sin and Punishment N64 (V1.0b)
 permalink: /sin-and-punishment-n64/
 header:
   overlay_image: /img/headers/pages/SinAndPunishmentN64Header.jpg
-date: '2014-05-26 14:52:48 +0200'
-date_gmt: '2014-05-26 12:52:48 +0200'
 ---
 
 <h2 style="text-align: center;"><strong><a href="/sin-and-punishment-n64/informacion/">INFORMACIÓN</a> - <a href="/sin-and-punishment-n64/descargar/">DESCARGAS</a> - <a href="/sin-and-punishment-n64/capturas-2/">CAPTURAS</a></strong></h2>

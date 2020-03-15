@@ -3,8 +3,6 @@ title: 'Descargas de Clock Tower'
 permalink: /clock-tower/descargar/
 header:
   overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg
-date: '2016-07-02 19:31:45 +0200'
-date_gmt: '2016-07-02 17:31:45 +0200'
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/capturas/">CAPTURAS</a> - <a href="/clock-tower/descargar/">DESCARGAS</a></strong></h2>

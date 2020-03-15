@@ -3,8 +3,6 @@ title: Dead Space Extraction (v1.1)
 permalink: /dead-space-extraction/
 header:
   overlay_image: /img/headers/pages/DeadSpaceExtractionHeader.jpg
-date: '2009-12-02 22:09:00 +0100'
-date_gmt: '2009-12-02 20:09:00 +0100'
 gallery:
  - url: /img/2009/12/rzjp69-35.jpg
    image_path: /img/2009/12/rzjp69-35.jpg

@@ -3,8 +3,6 @@ title: Contract J.A.C.K. PC (Versión 1.5 2012)
 permalink: /contract-jack/
 header:
   overlay_image: /img/headers/pages/ContractJACKHeader.jpg
-date: '2007-04-04 20:26:38 +0200'
-date_gmt: '2007-04-04 18:26:38 +0200'
 gallery:
  - url: /img/2007/04/vlcsnap-2012-12-21-12h44m18s217.jpg
    image_path: /img/2007/04/vlcsnap-2012-12-21-12h44m18s217.jpg

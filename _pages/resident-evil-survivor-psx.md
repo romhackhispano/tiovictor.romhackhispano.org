@@ -3,8 +3,6 @@ title: Resident Evil Survivor (PSX, V1.0)
 permalink: /resident-evil-survivor-psx/
 header:
   overlay_image: /img/headers/pages/ResidentEvilSurvivorHeader.jpg
-date: '2016-01-03 20:16:07 +0100'
-date_gmt: '2016-01-03 18:16:07 +0100'
 ---
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-survivor-psx/capturas/">CAPTURAS</a> - <a href="/resident-evil-survivor-psx/descargar/">DESCARGAS</a></strong></h2>
 <center><img src="/img/2017/04/RESURVIVOR-20170407-02.jpg" alt="Resident Evil Survivor para PSX" /></center>

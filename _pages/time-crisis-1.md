@@ -3,8 +3,6 @@ title: Time Crisis 1 de PSOne (Traducción y doblaje, V1.0)
 permalink: /time-crisis-1/
 header:
   overlay_image: /img/headers/pages/TimeCrisisHeader.jpg
-date: '2011-05-08 16:17:26 +0200'
-date_gmt: '2011-05-08 14:17:26 +0200'
 gallery:
  - url: /img/2011/05/SCES_006.57_13072011_194938_0078-e1310586789972.png
    image_path: /img/2011/05/SCES_006.57_13072011_194938_0078-e1310586789972.png

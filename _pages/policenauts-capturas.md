@@ -3,8 +3,6 @@ title: Capturas de Policenauts
 permalink: /policenauts/capturas/
 header:
   overlay_image: /img/headers/pages/PolicenautsHeader.jpg
-date: '2015-06-02 02:05:42 +0200'
-date_gmt: '2015-06-02 00:05:42 +0200'
 comments: false
 gallery:
  - url: /img/2012/09/slps_002-15_11092012_001432_0209.jpg

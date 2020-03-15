@@ -3,8 +3,6 @@ title: Descargas de Alone In The Dark 4 para Dreamcast
 permalink: /alone-in-the-dark-dc/descargar/
 header:
   overlay_image: /img/headers/pages/AITD4DCHeader.jpg
-date: '2016-06-18 14:36:06 +0200'
-date_gmt: '2016-06-18 12:36:06 +0200'
 comments: false
 ---
 
@@ -29,9 +27,9 @@ FFMpeg, Muzzleflash, bITmASTER
 Rais David Báscones, Paqui Horcajo, Jorge Teixeira, Carlos Salamanca, Javier Gámir y 
 Antonio Cobos.
 
-<center><h1><b><i>Descargar versión 1.0 del parcheador:</i></b></h1></center>
+<center><h1><b><i>Descargar versión 1.0.1 del parcheador:</i></b></h1></center>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/2f3rkykay0ycu8s/AloneInTheDark4Espa%C3%B1olDreamcast10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!QRtljCAI!uziMgr5PCxNO76JPasHLLBjvybA8bifRNucl4qZ5n04">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/fswy88uvsipp08o/AloneInTheDark4Espa%F1olDreamcast101.7z/file">MEDIAFIRE</a> - <a href="https://mega.nz/#!YR1VCJgS!oxYxorGH1tVBWtWk83v6baVoDITwABK9exgYlBUEMO8">MEGA</a></strong></h1>
 
 <h1 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/">VOLVER</a></strong></h1>
 

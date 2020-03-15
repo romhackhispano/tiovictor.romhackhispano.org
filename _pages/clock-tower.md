@@ -3,8 +3,6 @@ title: 'Clock Tower para PSX (2.0) y SNES (1.0 BETA)'
 permalink: /clock-tower/
 header:
   overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg
-date: '2016-07-02 19:22:05 +0200'
-date_gmt: '2016-07-02 17:22:05 +0200'
 ---
 <h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/capturas/">CAPTURAS</a> - <a href="/clock-tower/descargar/">DESCARGAS</a></strong></h2>
 

@@ -3,8 +3,6 @@ title: Capturas de The World Ends With You
 permalink: /the-world-ends-with-you-version-en-castellano-2-0/capturas/
 header:
   overlay_image: /img/headers/pages/TWEWYHeader.jpg
-date: '2015-06-02 01:16:38 +0200'
-date_gmt: '2015-06-01 23:16:38 +0200'
 comments: false
 gallery:
  - url: /img/2011/11/TWEWYEsp100_44_7830.png

@@ -3,8 +3,6 @@ title: Sołtys (Traducción oficial, publicada)
 permalink: /soltys/
 header:
   overlay_image: /img/headers/pages/SoltysHeader.jpg
-date: '2013-11-12 13:19:56 +0100'
-date_gmt: '2013-11-12 11:19:56 +0100'
 gallery:
  - url: /img/2013/11/SoltysESP-01.jpg
    image_path: /img/2013/11/SoltysESP-01.jpg

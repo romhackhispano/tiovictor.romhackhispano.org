@@ -3,8 +3,6 @@ title: The 3rd Birthday para PSP (Colaboración, V1.0)
 permalink: /the-3rd-birthday/
 header:
   overlay_image: /img/headers/pages/The3rdBirthdayHeader.jpg
-date: '2011-06-23 12:44:12 +0200'
-date_gmt: '2011-06-23 10:44:12 +0200'
 ---
 <h2 style="text-align: center;"><strong><a href="/the-3rd-birthday/informacion/">INFORMACIÓN</a> - <a href="/the-3rd-birthday/descargar/">DESCARGAS</a> - <a href="/the-3rd-birthday/capturas/">CAPTURAS</a></strong></h2>
 

@@ -3,8 +3,6 @@ title: Shenmue II (1.0.2)
 permalink: /shenmue-ii/
 header:
   overlay_image: /img/headers/pages/Shemnue2Header.jpg
-date: '2012-03-30 18:33:06 +0200'
-date_gmt: '2012-03-30 16:33:06 +0200'
 ---
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/informacion/">INFORMACIÓN</a> - <a href="/shenmue-ii/capturas/">CAPTURAS</a> - <a href="/shenmue-ii/videos/">VÍDEOS</a><br>  
 <a href="/shenmue-ii/descensuras/">DESCENSURAS</a> - <a href="/shenmue-ii/descargar/">DESCARGAS</a></strong></h2>

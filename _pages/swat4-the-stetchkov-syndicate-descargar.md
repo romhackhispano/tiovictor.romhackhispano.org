@@ -3,8 +3,6 @@ title: 'Descargas de SWAT 4: The Stetchkov Syndicate'
 permalink: /swat4-the-stetchkov-syndicate/descargar/
 header:
   overlay_image: /img/headers/pages/SWAT4XHeader.jpg
-date: '2015-06-02 01:28:06 +0200'
-date_gmt: '2015-06-01 23:28:06 +0200'
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/swat4-the-stetchkov-syndicate/informacion/">INFORMACIÓN</a> - <a href="/swat4-the-stetchkov-syndicate/descargar/">DESCARGAS</a> - <a href="/swat4-the-stetchkov-syndicate/capturas/">CAPTURAS</a></strong></h2>

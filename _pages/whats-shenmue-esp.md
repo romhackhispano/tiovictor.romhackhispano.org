@@ -3,8 +3,6 @@ title: What's Shenmue (1.0.4, página en español)
 permalink: /whats-shenmue-esp/
 header:
   overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg
-date: '2014-08-31 23:41:23 +0200'
-date_gmt: '2014-08-31 21:41:23 +0200'
 ---
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-esp/informacion/">INFORMACIÓN</a> - <a href="/whats-shenmue-esp/descargar/">DESCARGAS</a> - <a href="/whats-shenmue-esp/capturas/">CAPTURAS</a></strong></h2>
 

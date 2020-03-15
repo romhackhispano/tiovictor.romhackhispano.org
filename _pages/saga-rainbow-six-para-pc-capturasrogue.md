@@ -3,8 +3,6 @@ title: Capturas de Rogue Spear
 permalink: /saga-rainbow-six-para-pc/capturasrogue/
 header:
   overlay_image: /img/headers/pages/RainbowSixHeader.jpg
-date: '2015-06-02 01:50:42 +0200'
-date_gmt: '2015-06-01 23:50:42 +0200'
 comments: false
 gallery:
  - url: /img/2013/10/RS20121017-12.jpg

@@ -3,8 +3,6 @@ title: Descargas de Shenmue II
 permalink: /shenmue-ii/descargar/
 header:
   overlay_image: /img/headers/pages/Shemnue2Header.jpg
-date: '2015-06-02 00:38:01 +0200'
-date_gmt: '2015-06-01 22:38:01 +0200'
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/informacion/">INFORMACIÓN</a> - <a href="/shenmue-ii/capturas/">CAPTURAS</a> - <a href="/shenmue-ii/videos/">VÍDEOS</a><br>  

@@ -1,10 +1,8 @@
 ---
-title: 'Alone in the Dark: The New Nightmare DC (V1.0)'
+title: 'Alone in the Dark: The New Nightmare DC (V1.0.1)'
 permalink: /alone-in-the-dark-dc/
 header:
   overlay_image: /img/headers/pages/AITD4DCHeader.jpg
-date: '2015-10-14 14:53:36 +0200'
-date_gmt: '2015-10-14 12:53:36 +0200'
 ---
 
 <h2 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2>

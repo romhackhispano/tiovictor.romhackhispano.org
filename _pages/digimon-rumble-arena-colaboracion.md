@@ -3,6 +3,7 @@ title: Digimon Rumble Arena - Colaboración
 permalink: /digimon-rumble-arena-colaboracion/
 header:
   overlay_image: /img/headers/pages/DigimonRumbleArenaHeader.jpg
+comments: false
 ---
 Proyecto de retraducción y doblaje de Digimon Rumble Arena para PlayStation One, dirigido por 
 **[Estudios G3S](http://www.estudiosg3s.com/)**.

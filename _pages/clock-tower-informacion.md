@@ -2,9 +2,7 @@
 title: 'Información sobre Clock Tower'
 permalink: /clock-tower/informacion/
 header:
-  overlay_image: /img/headers/pages/OpWinbackHeader.jpg
-date: '2016-07-02 19:51:02 +0200'
-date_gmt: '2016-07-02 17:51:02 +0200'
+  overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/capturas/">CAPTURAS</a> - <a href="/clock-tower/descargar/">DESCARGAS</a></strong></h2>

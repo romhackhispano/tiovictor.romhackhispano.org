@@ -3,8 +3,6 @@ title: Capturas de El Mundo Nunca es Suficiente
 permalink: /el-mundo-nunca-es-suficiente-n64/capturas/
 header:
   overlay_image: /img/headers/pages/TWINEHeader.jpg
-date: '2015-06-02 02:10:18 +0200'
-date_gmt: '2015-06-02 00:10:18 +0200'
 comments: false
 gallery:
  - url: /img/2007/04/TWINE-ESP-20-01.jpg

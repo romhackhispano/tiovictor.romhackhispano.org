@@ -3,8 +3,6 @@ title: Descargas de la saga Rainbow Six
 permalink: /saga-rainbow-six-para-pc/descargar/
 header:
   overlay_image: /img/headers/pages/RainbowSixHeader.jpg
-date: '2015-06-02 01:49:50 +0200'
-date_gmt: '2015-06-01 23:49:50 +0200'
 comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/saga-rainbow-six-para-pc/informacion/">INFORMACIÓN </a>- <a href="/saga-rainbow-six-para-pc/descargar/">DESCARGAS</a><br>

@@ -3,8 +3,6 @@ title: Capturas de Silent Hill
 permalink: /silent-hill-1/capturas/
 header:
   overlay_image: /img/headers/pages/SilentHillHeader.jpg
-date: '2015-06-02 01:41:33 +0200'
-date_gmt: '2015-06-01 23:41:33 +0200'
 comments: false
 gallery:
  - url: /img/2009/06/SHv20-01.jpg
