@@ -81,6 +81,15 @@ v1.0
 v1.0.1
 - Pequeña corrección en el menú de opciones.
 
+v1.0.2
+- Correcciones de textos:
+   - Cambiada la frase genérica "No puedo abrir la puerta." debido a que 
+     se utiliza en más objetos que no son puertas. (Gracias al equipo de 
+     la Enhanced Edition).
+   - Corregida la frase que decía que la nota sobre la dama de la puerta 
+     estaba en el suelo, cuando está sobre la cama (Gracias al equipo de 
+     la Enhanced Edition).
+
 ### Instrucciones para aplicar el parche de traducción en PC
 
 Recomendamos utilizar este parche de traducción junto con el mod Enhanced 

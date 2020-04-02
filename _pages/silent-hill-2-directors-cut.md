@@ -1,5 +1,5 @@
 ---
-title: "Silent Hill 2: Director's Cut (Revisión, PS2/XBOX/PC, V1.0.1)"
+title: "Silent Hill 2: Director's Cut (Revisión, PS2/XBOX/PC, V1.0.2)"
 permalink: /silent-hill-2-directors-cut/
 header:
   overlay_image: /img/headers/pages/SilentHill2Header.jpg
