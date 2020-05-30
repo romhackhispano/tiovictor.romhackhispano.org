@@ -1,5 +1,5 @@
 ---
-title: "Persona 3 FES (En progreso, 50%)"
+title: "Persona 3 FES (En proceso de revisión lingüística)"
 permalink: /persona-3-fes/
 header:
   overlay_image: /img/headers/pages/Persona3FESHeader.jpg
