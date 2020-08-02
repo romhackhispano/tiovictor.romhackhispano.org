@@ -7,7 +7,7 @@ header:
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/informacion/">INFORMACIÓN</a> - <a href="/shenmue-ii/capturas/">CAPTURAS</a> - <a href="/shenmue-ii/videos/">VÍDEOS</a><br>  
 <a href="/shenmue-ii/descensuras/">DESCENSURAS</a> - <a href="/shenmue-ii/descargar/">DESCARGAS</a></strong></h2>
 
-<center><iframe width="510" height="383" src="https://www.youtube-nocookie.com/embed/LLmIeX1KUYc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="LLmIeX1KUYc" provider="youtube" %}
 
 _**REGISTRO DE VERSIONES:**_
 

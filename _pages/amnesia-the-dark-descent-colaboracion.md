@@ -16,4 +16,4 @@ Podéis ver toda la información pertinente en su blog: **[Enlace](https://camin
 
 Y aquí tenéis una muestra de la traducción y doblaje:
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/D1n7BOtHHwY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="D1n7BOtHHwY" provider="youtube" %}

@@ -18,4 +18,4 @@ lo avanzada que va la cosa. Hemos grabado la persecución a Yuan, y aquí tenéi
 
 Espera un segundo...
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/Q1M9NOJ7srw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="Q1M9NOJ7srw" provider="youtube" %}

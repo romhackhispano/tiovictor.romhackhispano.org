@@ -12,7 +12,7 @@ Proyecto de revisión de la fantraducción y fandoblaje de The World Ends With Y
 Nintendo DS, realizado en 2008 por Rigle, lamateporunyogur y el TWEWYTeam, equipo en 
 el que formé parte.
 
-<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/Nm2dRlux8CI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="Nm2dRlux8CI" provider="youtube" %}
 
 Este proyecto incluye un redoblaje completo del juego; con nuevos actores y varios 
 de los antiguos actores reemplazados; todos los gráficos que faltaban por traducir 

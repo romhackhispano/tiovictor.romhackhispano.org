@@ -67,4 +67,4 @@ A continuación, el vídeo "real" de la persecución a Yuan y una nueva tanda de
 
 {% include gallery %}
 
-<center><iframe width="510" height="383" src="https://www.youtube-nocookie.com/embed/jaDfabKXggY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="jaDfabKXggY" provider="youtube" %}

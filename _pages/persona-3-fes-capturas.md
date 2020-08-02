@@ -117,8 +117,8 @@ gallery2:
 ---
 <h2 style="text-align: center;"><strong><a href="/persona-3-fes/capturas/">CAPTURAS</a></strong></h2>
 
-**GRABACIÓN DE LOS PRIMEROS PASOS DE LA TRAMA, 6 de enero de 2019:**
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/dp70jlAyrWo?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+**GRABACIÓN DE LOS PRIMEROS COMPASES DE LA TRAMA, 6 de enero de 2019:**
+{% include video id="dp70jlAyrWo" provider="youtube" %}
 
 **PRIMERAS IMÁGENES EN ESTADO ALFA, 6 de enero de 2019:**
 {% include gallery id="gallery2" %}

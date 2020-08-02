@@ -32,6 +32,6 @@ gallery:
 
 {% include gallery %}
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/tByfu3q1QMc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="tByfu3q1QMc" provider="youtube" %}
 
 <h2 style="text-align: center;"><a href="/saga-rainbow-six-para-pc/"><strong>VOLVER</strong></a></h2>

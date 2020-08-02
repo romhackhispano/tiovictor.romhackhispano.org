@@ -18,7 +18,7 @@ de revisión lingüística.
 Es irónico que hayamos llegado a esa cifra justo hoy... Los que se hayan pasado el juego sabrán por dónde van los tiros.
 Pero, antes, unos minutos musicales.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/y-JqH1M4Ya8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+{% include video id="y-JqH1M4Ya8" provider="youtube" %}
 
 Ha habido pocas novedades con respecto al informe de situación que publiqué **[el 28 de diciembre](/2019/12/28/hemos-llegado-100-textos-traducidos/)**, pero alguna es de
 carácter especial. Por el momento, la revisión va a hacerse con el mismo equipo actual (más la incorporación de Retroductor). En caso 

@@ -76,9 +76,9 @@ gallery:
 ---
 <h2 style="text-align: center;"><strong><a href="/sin-and-punishment-n64/informacion/">INFORMACIÓN</a> - <a href="/sin-and-punishment-n64/descargar/">DESCARGAS</a> - <a href="/sin-and-punishment-n64/capturas-2/">CAPTURAS</a></strong></h2>
 
-<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/IrQ-IXmQInc?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="IrQ-IXmQInc" provider="youtube" %}
 
-<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/32nxXdVDGwY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="32nxXdVDGwY" provider="youtube" %}
 
 {% include gallery %}
 

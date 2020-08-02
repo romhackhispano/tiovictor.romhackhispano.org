@@ -9,7 +9,7 @@ header:
 Traducción al castellano de la expansión The Stetchkov Syndicate para el juego de PC 
 SWAT4. Traducción terminada el 24 de febrero de 2009.
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/CrarQ3syDo8?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="CrarQ3syDo8" provider="youtube" %}
 
 Todos los textos del juego están traducidos, subtitulos incluidos, e incorpora el European Fonts 
 Update (Archivo que cambia las fuentes de SWAT4 para que no sean Arial, sino que sean fieles a 

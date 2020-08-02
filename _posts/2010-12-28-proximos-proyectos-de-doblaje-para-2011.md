@@ -21,7 +21,7 @@ Suzuki y los de SegaSaturno), pero he hecho este vídeo tan rápido como
 he podido. Os presento los próximos proyectos de doblaje para el próximo 
 2011:
 
-<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/DxVF4yZDXTs?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="DxVF4yZDXTs" provider="youtube" %}
 
 Para los que pregunten, no, no me he olvidado de The World Ends With You, 
 está avanzando. Y para los que pregunten, el 29 de diciembre a las 00:30 

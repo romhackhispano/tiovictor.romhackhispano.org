@@ -23,7 +23,7 @@ The World Ends With You, para Nintendo DS.
 
 <h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/the-world-ends-with-you-version-en-castellano-2-0/descargar/">Ir a la página de descargas</a></strong></h2>
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Nm2dRlux8CI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="Nm2dRlux8CI" provider="youtube" %}
 
 Este parche incluye un redoblaje (Podéis volver a agradecérselo a la comunidad 
 de Doblaje Amateur) casi completo de todo el juego, no solo las cutscenes; y 

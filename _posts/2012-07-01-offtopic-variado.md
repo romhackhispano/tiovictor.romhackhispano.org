@@ -22,4 +22,4 @@ profecía del inicio y la profecía al final del juego.***
 Dicho esto, ¿os pensábais que me iba a quedar con las ganas de doblar algo 
 de Shenmue? Este es mi pequeño tributo.
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/RdVN5rz6a_Q?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="RdVN5rz6a_Q" provider="youtube" %}

@@ -41,4 +41,4 @@ Capturas de pantalla por cortesía de Chinot e Isopure.
 
 {% include gallery %}
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/5iKfqFcTUV4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="5iKfqFcTUV4" provider="youtube" %}

@@ -32,12 +32,12 @@ a toda Dreamcast.es, a Ryo Suzuki de SegaSaturno, y a un servidor por Shenmue II
 Muchísimas gracias a aquellos que os pasásteis por la feria explícitamente a verme. 
 Me alegrasteis el día.
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/QOEyexgfkxM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="QOEyexgfkxM" provider="youtube" %}
 
 **EDIT 13 de marzo de 2013: Ya podemos mostrar los vídeos del SonicJump y de Shenmue II. 
 Más información bajo el salto.**
 
 <!--more-->
 
-<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/rC99zr5M9aQ?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
-<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/3WWHDnk_aG0?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="rC99zr5M9aQ" provider="youtube" %}
+{% include video id="3WWHDnk_aG0" provider="youtube" %}

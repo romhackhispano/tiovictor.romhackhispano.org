@@ -18,7 +18,7 @@ que es algo... mediocre.
 
 En este "trolleo" (Nótesen las comillas) nació este vídeo:
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/pOE8h1amDJM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="pOE8h1amDJM" provider="youtube" %}
 
 Para separarnos de las inocentadas que van a poblar Internet en el día de hoy; 
 esto ya se presenta como algo distinto.

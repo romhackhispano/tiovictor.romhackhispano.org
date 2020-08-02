@@ -58,7 +58,7 @@ Eduwanke - Traducción inicial sobre papel
 Yo, IlDucci - Traducción sobre papel  
 TBG - Traducción sobre papel, investigaciones posteriores, inserción
 
-<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/EO32e1vZsk4?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="EO32e1vZsk4" provider="youtube" %}
 
 {% include gallery %}
 

@@ -18,4 +18,4 @@ que sea cosa de menos de un mes.
 A cambio el equipo de traducción ha colgado el tráiler traducido al castellano 
 en YouTube, tráiler íntegramente perpetrado por el que os escribe ahora mismo:
 
-<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/onVyBEI-agU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="onVyBEI-agU" provider="youtube" %}

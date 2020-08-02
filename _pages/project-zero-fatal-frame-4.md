@@ -20,6 +20,6 @@ copias legales para jugar a juegos traducidos.
 
 Os adjunto el tráiler oficial del juego, traducido al Castellano por un servidor de ustedes:
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/onVyBEI-agU?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="onVyBEI-agU" provider="youtube" %}
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/eOQsHzhZjSI?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="eOQsHzhZjSI" provider="youtube" %}

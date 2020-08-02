@@ -95,4 +95,4 @@ Imágenes de muestra (versión 1.0):
 
 {% include gallery id="gallery2" %}
 
-<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/vUU2Ll6ma0I?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="vUU2Ll6ma0I" provider="youtube" %}

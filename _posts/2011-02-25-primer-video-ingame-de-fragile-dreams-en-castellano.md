@@ -14,4 +14,4 @@ Castellano, el señor Pacochan nos ha grabado un vídeo de los primeros 15 minut
 del juego, completamente traducidos y subtitulados en Castellano.
 Disfrutadlo.
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Zp8ARS8fqxw?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="Zp8ARS8fqxw" provider="youtube" %}

@@ -31,4 +31,4 @@ Instrucciones de uso: Copiar los contenidos del rar en la carpeta donde esté in
 
 {% include gallery %}
 
-<center><iframe width="480" height="360" src="https://www.youtube-nocookie.com/embed/qE5jhnkibDM?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="qE5jhnkibDM" provider="youtube" %}

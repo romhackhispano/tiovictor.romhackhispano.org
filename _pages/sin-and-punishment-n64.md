@@ -10,7 +10,7 @@ header:
 Proyecto de traducción y doblaje del juego **Sin and Punishment: Successor of the Earth 
 (_Tsumi to Batsu: Hoshi no Keishousha_)** para Nintendo 64.
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/32nxXdVDGwY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="32nxXdVDGwY" provider="youtube" %}
 
 Basado en el proyecto de traducción de Zoinkity realizado en 
 [AssemblerGames](http://www.assemblergames.com/forums/showthread.php?47187-Sin-and-Punishment-and-other-jap-only-titels-translation). 

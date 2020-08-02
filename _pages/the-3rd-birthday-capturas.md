@@ -51,7 +51,7 @@ Capturas de la versión 1.5:
 {% include gallery id="gallery" %}
 
 Tráiler de la versión 1.0:
-<center><iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/oH_8NQhil8s?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="oH_8NQhil8s" provider="youtube" %}
 
 Capturas de la versión 1.0:
 {% include gallery id="gallery2" %}

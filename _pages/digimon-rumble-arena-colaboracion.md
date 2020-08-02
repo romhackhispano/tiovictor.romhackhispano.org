@@ -51,4 +51,4 @@ Podéis saber más **[pulsando en este enlace](http://www.estudiosg3s.com/digimo
 Mi trabajo consistió en ayudar en la traducción de textos y gráficos, así como en enseñar a G3S 
 cómo se inyectan sonidos en esta consola.
 
-<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fcvRKrjaivk?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+{% include video id="fcvRKrjaivk" provider="youtube" %}
