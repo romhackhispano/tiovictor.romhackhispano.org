@@ -30,46 +30,44 @@
     <!-- MODIFICACIÓN: Añadir en la página de posts la fecha de escritura de un post y si tiene comentarios -->
     <h4 class="archive_extrainfo">
       {% if post.date %}
-        <strong>
-          <time datetime="{{ post.date | date_to_xmlschema }}">
-            {% assign m = post.date | date: "%-m" %}
-            {{ post.date | date: "%-d" }}
-            {% case m %}
-            {% when '1' %}de enero de
-            {% when '2' %}de febrero de
-            {% when '3' %}de marzo de
-            {% when '4' %}de abril de
-            {% when '5' %}de mayo de
-            {% when '6' %}de junio de
-            {% when '7' %}de julio de
-            {% when '8' %}de agosto de
-            {% when '9' %}de septiembre de
-            {% when '10' %}de octubre de
-            {% when '11' %}de noviembre de
-            {% when '12' %}de diciembre de
-            {% endcase %}
-            {{ post.date | date: "%Y" }}
-          </time>
-        </strong>
+        <time datetime="{{ post.date | date_to_xmlschema }}">
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d" }}
+          {% case m %}
+          {% when '1' %}de enero de
+          {% when '2' %}de febrero de
+          {% when '3' %}de marzo de
+          {% when '4' %}de abril de
+          {% when '5' %}de mayo de
+          {% when '6' %}de junio de
+          {% when '7' %}de julio de
+          {% when '8' %}de agosto de
+          {% when '9' %}de septiembre de
+          {% when '10' %}de octubre de
+          {% when '11' %}de noviembre de
+          {% when '12' %}de diciembre de
+          {% endcase %}
+          {{ post.date | date: "%Y" }}
+        </time>
       {% endif %}
       <span style="padding-left:16px;">
-      <a href="{{ post.url }}#comments">
+        <a href="{{ post.url }}#comments">
           <i class="fa fa-comments" aria-hidden="true"></i>
           <span class="disqus-comment-count" data-disqus-url="http://tiovictor.romhackhispano.org{{ post.url }}">Comentarios</span>
-      </a>
+        </a>
       </span>
     </h4>
     <!-- MODIFICACIÓN: Alterar los contenidos mostrados en la sección de entradas para que se muestren enteras o cortadas -->
-	  <div class="archive__item-excerpt" itemprop="description">
-	  {% if post.summary %}
-	     {{ post.summary }}
-		  <div><strong><a class="archive__item-readmorelink" href="{{ post.url }}">Seguir leyendo...</a></div></strong>
-	  {% else %}
- 	     {{ post.content | split:'<!--more-->' | first }}
-		 {% if post.content contains '<!--more-->' %}
-		 <div><strong><a class="archive__item-readmorelink" href="{{ post.url }}">Seguir leyendo...</a></div></strong>
-	     {% endif %} 
-	  {% endif %}
-	  </div>
+    <div class="archive__item-excerpt" itemprop="description">
+    {% if post.summary %}
+      {{ post.summary }}
+        <div><strong><a class="archive__item-readmorelink" href="{{ post.url }}">Seguir leyendo...</a></div></strong>
+      {% else %}
+        {{ post.content | split:'<!--more-->' | first }}
+        {% if post.content contains '<!--more-->' %}
+        <div><strong><a class="archive__item-readmorelink" href="{{ post.url }}">Seguir leyendo...</a></div></strong>
+      {% endif %} 
+    {% endif %}
+    </div>
   </article>
 </div>
