@@ -14,13 +14,7 @@
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src=
-          {% if teaser contains "://" %}
-            "{{ teaser }}"
-          {% else %}
-            "{{ teaser | relative_url }}"
-          {% endif %}
-          alt="">
+        <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
     <h2 class="archive__item-title" itemprop="headline">
@@ -30,28 +24,31 @@
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
+    {% if post.read_time %}
+      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
+    {% endif %}
     <!-- MODIFICACIÓN: Añadir en la página de posts la fecha de escritura de un post y si tiene comentarios -->
     <h4 class="archive_extrainfo">
       {% if post.date %}
         <strong>
           <time datetime="{{ post.date | date_to_xmlschema }}">
-              {% assign m = post.date | date: "%-m" %}
-              {{ post.date | date: "%-d" }}
-              {% case m %}
-              {% when '1' %}de enero de
-              {% when '2' %}de febrero de
-              {% when '3' %}de marzo de
-              {% when '4' %}de abril de
-              {% when '5' %}de mayo de
-              {% when '6' %}de junio de
-              {% when '7' %}de julio de
-              {% when '8' %}de agosto de
-              {% when '9' %}de septiembre de
-              {% when '10' %}de octubre de
-              {% when '11' %}de noviembre de
-              {% when '12' %}de diciembre de
-              {% endcase %}
-              {{ post.date | date: "%Y" }}
+            {% assign m = post.date | date: "%-m" %}
+            {{ post.date | date: "%-d" }}
+            {% case m %}
+            {% when '1' %}de enero de
+            {% when '2' %}de febrero de
+            {% when '3' %}de marzo de
+            {% when '4' %}de abril de
+            {% when '5' %}de mayo de
+            {% when '6' %}de junio de
+            {% when '7' %}de julio de
+            {% when '8' %}de agosto de
+            {% when '9' %}de septiembre de
+            {% when '10' %}de octubre de
+            {% when '11' %}de noviembre de
+            {% when '12' %}de diciembre de
+            {% endcase %}
+            {{ post.date | date: "%Y" }}
           </time>
         </strong>
       {% endif %}
