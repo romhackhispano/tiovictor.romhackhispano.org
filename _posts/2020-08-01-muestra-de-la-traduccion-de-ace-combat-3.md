@@ -13,6 +13,6 @@ tags:
 grupos de fantraducción que han demostrado querer rivalizar con el proyecto AMALA digan lo contrario), y Ace Combat 3 va viento en popa. Tanto, que creo que es 
 un buen momento para que lo veáis en movimiento:
 
-<iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/dR_7OM-ZWsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/dR_7OM-ZWsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 Seguiremos informando.

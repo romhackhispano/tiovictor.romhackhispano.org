@@ -39,8 +39,7 @@ gallery:
 <h2 style="text-align: center;"><strong><a href="/ace-combat-3/capturas/">CAPTURAS</a></strong></h2>
 
 **GRABACIÓN DE LAS TRES PRIMERAS MISIONES, VERSIÓN AVANZADA, 2 de agosto de 2019:**
-<iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/dR_7OM-ZWsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<center><iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/dR_7OM-ZWsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 **CAPTURAS DE UNA VERSIÓN TEMPRANA, 6 de enero de 2019:**
 {% include gallery %}
 
