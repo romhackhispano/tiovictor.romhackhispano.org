@@ -1,5 +1,5 @@
 ---
-title: GoldenEye 007 - Colaboración
+title: "GoldenEye 007 - Colaboración"
 permalink: /goldeneye-007-colaboracion/
 header:
   overlay_image: /img/headers/pages/GoldenEyeHeader.jpg
