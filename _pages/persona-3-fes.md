@@ -21,7 +21,7 @@ cuya intención es organizar un espacio colaborativo entre distintos fantraducto
 y Persona, unificando términos, expresiones y traducciones diversas entre juegos. Este proyecto está en contacto 
 con **[GlowTranslations](https://glowtranslations.tk/)** y su fantraducción de Persona 4.
 
-**CRÉDITOS (ACTUALIZADOS EL 06/01/2019)**  
+**CRÉDITOS (ACTUALIZADOS EL 25/10/2020)**  
 *TRADUCTORES:*  
 Aegis  
 Saispai  
@@ -33,7 +33,8 @@ Alhechan
 IlDucci
 
 *REVISIÓN:*  
-Retroductor
+Retroductor  
+Valcat
 
 *GRÁFICOS Y VÍDEOS:*  
 IlDucci
@@ -43,7 +44,8 @@ TBG
 SkyBladeCloud  
 Meloman19  
 RyleFury  
-Darkmet
+Darkmet  
+Pleonex  
 
 *PROGRAMACIÓN (INDIRECTA):*  
 ShrineFox  
@@ -51,7 +53,7 @@ ThatOneStruggle
 GNIE  
 TGEnigma  
 Dageron  
-Pleonex  
+Megaflan  
 
 *AGRADECIMIENTOS:*  
 TrueFaiterMan  
@@ -59,3 +61,4 @@ yarghenforgen
 Switch  
 Dark_Kudoh  
 Dantezote  
+MrClx
