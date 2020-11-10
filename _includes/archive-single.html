@@ -10,53 +10,21 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item">
+<div class="{{ include.type | default: 'list' }}__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src="{{ teaser | relative_url }}" alt="">
       </div>
     {% endif %}
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title no_toc" itemprop="headline">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ post.url | relative_url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    {% if post.read_time %}
-      <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
-    {% endif %}
-    <!-- MODIFICACIÓN: Añadir en la página de posts la fecha de escritura de un post y si tiene comentarios -->
-    <h4 class="archive_extrainfo">
-      {% if post.date %}
-        <time datetime="{{ post.date | date_to_xmlschema }}">
-          {% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%-d" }}
-          {% case m %}
-          {% when '1' %}de enero de
-          {% when '2' %}de febrero de
-          {% when '3' %}de marzo de
-          {% when '4' %}de abril de
-          {% when '5' %}de mayo de
-          {% when '6' %}de junio de
-          {% when '7' %}de julio de
-          {% when '8' %}de agosto de
-          {% when '9' %}de septiembre de
-          {% when '10' %}de octubre de
-          {% when '11' %}de noviembre de
-          {% when '12' %}de diciembre de
-          {% endcase %}
-          {{ post.date | date: "%Y" }}
-        </time>
-      {% endif %}
-      <span style="padding-left:16px;">
-        <a href="{{ post.url }}#comments">
-          <i class="fa fa-comments" aria-hidden="true"></i>
-          <span class="disqus-comment-count" data-disqus-url="http://tiovictor.romhackhispano.org{{ post.url }}">Comentarios</span>
-        </a>
-      </span>
-    </h4>
+    {% include page__meta.html type=include.type %}
     <!-- MODIFICACIÓN: Alterar los contenidos mostrados en la sección de entradas para que se muestren enteras o cortadas -->
     <div class="archive__item-excerpt" itemprop="description">
     {% if post.summary %}
