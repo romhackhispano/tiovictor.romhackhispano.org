@@ -29,7 +29,7 @@ Sistema del parcheador de Dreamcast basado en GDI2DATA por FamilyGuy, modificado
 Utiliza programas y código fuente de DC-SWAT, Jöerg Schilling y SiZious. Adaptación a formato 
 GDI basada en el código de Sappharad.
 
-El sistema del parcheador de XBOX utiliza los programas exiso (creado por in@fishtank.org) y FFmpeg.
+El sistema del parcheador de XBOX utiliza los programas exiso (creado por in at fishtank.org) y FFmpeg.
 
 _**REPARTO DE VOCES:**_
 
