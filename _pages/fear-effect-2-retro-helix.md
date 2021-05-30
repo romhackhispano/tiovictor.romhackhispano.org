@@ -6,7 +6,7 @@ header:
 ---
 <h2 style="text-align: center;"><strong><a href="/fear-effect-2-retro-helix/informacion/">INFORMACIÓN</a> - <a href="/fear-effect-2-retro-helix/descargar/">DESCARGAS</a> - <a href="/fear-effect-2-retro-helix/capturas/">CAPTURAS</a></strong></h2>
 
-<p style="text-align: center;"><img src="/img/2018/07/FE2START-Esp-TTV.png" width="320" height="240" /></p><br>
+<p style="text-align: center;"><img src="/img/2018/07/FE2START-Esp-TTV.png" width="320" height="240" /></p>
 
 Entre 2008 y 2009 me dio por cotillear este juego, como fan que era de la 
 primera parte y al no estar contento con la fantraducción que ya existía en su 

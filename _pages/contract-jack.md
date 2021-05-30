@@ -23,7 +23,7 @@ gallery:
  - url: /img/2007/04/vlcsnap-2012-12-21-12h46m10s65.jpg
    image_path: /img/2007/04/vlcsnap-2012-12-21-12h46m10s65.jpg
 ---
-Traducción al Castellano del juego Contract J.A.C.K., juego basado en el motor e historia de No One Lives Forever 2, para ordenador. Traducción terminada el 24 de Febrero de 2005.
+Traducción al castellano de Contract J.A.C.K., juego basado en el motor e historia de No One Lives Forever 2, para ordenador. Traducción terminada el 24 de febrero de 2005.
 
 <h1 style="text-align: center;"><a href="http://www.mediafire.com/download/fncxldie1cy6fo9/ContractJACK-ESv15.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!UAFTTaRS!OAxadwYqm2dmm48yWAmxLa51hXqWc6nMLfqCVLNBNeo">MEGA</a></h1>
 

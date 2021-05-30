@@ -14,7 +14,7 @@ de .ISO.
 En el selector de idioma de los menús de ajustes veréis que aparece "ING/ESP". Esto quiere decir 
 que los textos y gráficos estarán en español, pero las voces seguirán en inglés.
 
-**Cómo aplicar el parche de traducción**
+### Cómo aplicar el parche de traducción
 
 Una vez la hayas extraído, podrás aplicar el parche de traducción utilizando 
 la aplicación xdelta (O xdeltaUI si no te gusta utilizar líneas de comandos).
@@ -56,7 +56,7 @@ distribuida en forma de parche y para ser usada para los legitimos
 poseedores del juego original.
 
 
-**Cómo copiar el juego para usarlo en una PlayStation 2**
+### Cómo copiar el juego para usarlo en una PlayStation 2
 
 Por lo general, puedes utilizar cualquier programa de grabación de discos 
 (Recomendamos ImgBurn o Alcohol 120%), siempre y cuando grabes a la 

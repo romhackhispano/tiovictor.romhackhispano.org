@@ -9,15 +9,15 @@ comments: false
 <a href="/saga-rainbow-six-para-pc/capturasr6/">CAPTURAS DE RAINBOW SIX</a><br>
 <a href="/saga-rainbow-six-para-pc/capturasrogue/">CAPTURAS DE ROGUE SPEAR</a></strong></h2>
 
-_**REGISTRO DE CAMBIOS EN RAINBOW SIX:**_  
-1.0 - Primera versión. Todos los textos localizables del juego están completamente 
+### REGISTRO DE CAMBIOS EN RAINBOW SIX
+* 1.0 - Primera versión. Todos los textos localizables del juego están completamente 
 traducidos al castellano. Solo faltan textos menores (Menú debug, indicador de 
 autoapuntado, nombres de los niveles al crear un servidor multijugador). Estos 
 textos no se tocarán ya que afectan a cualquier medida antitrampas del modo 
 multijugador.  
-1.1 - Revisión menor a los textos del juego.
+* 1.1 - Revisión menor a los textos del juego.
 
-_**CÓMO INSTALAR RAINBOW SIX, SU EXPANSIÓN Y EL PARCHE**_  
+### CÓMO INSTALAR RAINBOW SIX, SU EXPANSIÓN Y EL PARCHE
 Esta traducción está dirigida a cualquiera de las versiones en inglés del juego, 
 sean de Reino Unido, Estados Unidos, de Take 2 o de Ubisoft.
 
@@ -32,13 +32,13 @@ algunos de estos componentes, puede que la traducción no funcione
 correctamente, y si instaláis alguno de estos componentes después de instalar
 la traducción, tendréis que volver a instalarla.
 
-_**REGISTRO DE CAMBIOS EN ROGUE SPEAR**_  
-1.0 - Primera versión. Todos los textos localizables del juego están completamente 
+### REGISTRO DE CAMBIOS EN ROGUE SPEAR
+* 1.0 - Primera versión. Todos los textos localizables del juego están completamente 
 traducidos al castellano. La traducción de las expansiones se publicará próximamente.  
-1.1 - Añadida la actualización de todas las expansiones existentes de Rogue Spear. 
+* 1.1 - Añadida la actualización de todas las expansiones existentes de Rogue Spear. 
 Retoques menores a la traducción de Rogue Spear.
 
-_**CÓMO INSTALAR ROGUE SPEAR, SUS EXPANSIONES Y EL PARCHE**_  
+### CÓMO INSTALAR ROGUE SPEAR, SUS EXPANSIONES Y EL PARCHE
 Esta traducción está dirigida a cualquiera de las versiones en inglés del
 juego, sean de Reino Unido, Estados Unidos, de Take 2 o de Ubisoft.
 

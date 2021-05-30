@@ -7,14 +7,14 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-survivor-psx/capturas/">CAPTURAS</a> - <a href="/resident-evil-survivor-psx/descargar/">DESCARGAS</a></strong></h2>
 
-_**REGISTRO DE REVISIONES:**_
+### REGISTRO DE REVISIONES
  - 1.0 - Primera versión:
    - Todo el juego está traducido al castellano.
    - Los subtítulos de las escenas ingame han sido expandidos y resincronizados con las voces en la medida de lo posible.
  - 1.0.1 - Corrección menor:
    - Corregido el fallo de los créditos del juego en consola real.
 
-_**COMO APLICAR EL PARCHE DE TRADUCCIÓN:**_
+### COMO APLICAR EL PARCHE DE TRADUCCIÓN
 
 AVISO: El parche está pensado para ser aplicado a una copia de seguridad 
 de tu juego original _**que tenga el parche anticopia de PSX Killer**_. ¡El parche 
@@ -56,7 +56,7 @@ las imagenes del juego ya parcheado. La traducción está hecha para ser
 distribuida en forma de parche y para ser usada para los legitimos 
 poseedores del juego original.
 
-_**COMO COPIAR EL JUEGO PARA USARLO EN UNA PLAYSTATION 1/2:**_
+### COMO COPIAR EL JUEGO PARA USARLO EN UNA PLAYSTATION 1/2
 
 Por lo general, puedes utilizar cualquier programa de grabación de discos 
 (Recomendamos ImgBurn o Alcohol 120%), siempre y cuando grabes a la 
@@ -76,7 +76,7 @@ Si queréis informaros sobre los fabricantes de discos, qué marcas comprar o
 dónde comprarlas, os recomiendo que os informéis por ahí, ya que hay otras 
 personas que saben explicar la situación mejor que yo.
 
-_**SOLUCIÓN DE PROBLEMAS:**_
+### SOLUCIÓN DE PROBLEMAS
  - xdelta o xdeltaUI dan el error "Checksum Mismatch":
    - Probablemente, no has aplicado el parche anticopia de PSX Killer al 
      juego, o puede que hayas seleccionado un Source File (archivo de 

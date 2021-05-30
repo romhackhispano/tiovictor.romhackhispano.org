@@ -6,7 +6,7 @@ header:
 ---
 <h2 style="text-align: center;"><strong><a href="/ace-combat-3/capturas/">CAPTURAS</a></strong></h2>
 
-<p style="text-align: center;"><img src="/img/2019/01/AC3-ESP-20190106-01.jpg" /></p><br>
+<p style="text-align: center;"><img src="/img/2019/01/AC3-ESP-20190106-01.jpg" /></p>
 
 Tras conocer la saga Ace Combat a través de su entrega más «simplificada» para muchos, Assault Horizon, decidí ayudar 
 a principios de 2018 a un equipo de traductores italianos que pretendían hacer una nueva y mejorada traducción para 

@@ -8,7 +8,7 @@ comments: false
 
 <h2 style="text-align: center;"><strong><a href="/sin-and-punishment-n64/informacion/">INFORMACIÓN</a> - <a href="/sin-and-punishment-n64/descargar/">DESCARGAS</a> - <a href="/sin-and-punishment-n64/capturas-2/">CAPTURAS</a></strong></h2>
 
-**CÓMO JUGAR A LA TRADUCCIÓN**
+### CÓMO JUGAR A LA TRADUCCIÓN
 
 _En consola real:_  
 La traducción solo se puede jugar en un monitor que admita el formato de vídeo NTSC. 
@@ -28,7 +28,7 @@ emulador antes de jugar, y el uso de los siguientes plugins:
 - Plugin de audio: Jabo's DirectSound 1.7.0.7.  
 - Plugin RSP: Plugin RSP de Jabo y Zilmar, plugin oficial de Project64.
 
-**REGISTRO DE VERSIONES:**  
+### REGISTRO DE VERSIONES
 1.0: Primera versión del parche.  
 El juego está completamente traducido y doblado al castellano. Se ha traducido también 
 el manual y la guía rápida debido a que contienen elementos relevantes de la trama del juego.

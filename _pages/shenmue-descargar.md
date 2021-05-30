@@ -10,7 +10,7 @@ Aquí encontrarás la última versión del parche de traducción. El parche debe
 a una imagen .GDI del juego original. Por favor, no preguntes dónde encontrar las imágenes 
 .GDI originales o las imágenes ya traducidas.
 
-<h2 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/1m6fenyl53bih70/ShenmueIEnEspa%C3%B1ol105b.7z" target="_blank">DESCARGAR VERSIÓN 1.0.5B DEL PARCHE</a></strong></h2>
+<h3 style="text-align: center;"><a href="http://www.mediafire.com/download/1m6fenyl53bih70/ShenmueIEnEspa%C3%B1ol105b.7z" target="_blank">DESCARGAR VERSIÓN 1.0.5B DEL PARCHE</a></h3>
 
 Creación del proyecto, traductor incial: **Ryo Suzuki**  
 Segundo jefe de proyecto, traducción de textos, dirección de doblaje: **IlDucci**  

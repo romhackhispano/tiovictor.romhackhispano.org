@@ -69,7 +69,7 @@ plugins básicos), Mupen64 y Project64.
 Para hacer que 1964 y Project64 no borren las partidas guardadas, ver las instrucciones 
 del archivo léeme.
 
-_**Utilidades necesarias para parchear la ROM**_
+### Utilidades necesarias para parchear la ROM
 
 [xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/)  
 Tool64 (Para quitar el byteswap a la ROM. Cargar la carpeta y pulsar en la flecha que va a la derecha)

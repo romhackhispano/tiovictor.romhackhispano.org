@@ -7,9 +7,9 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/capturas/">CAPTURAS</a> - <a href="/clock-tower/descargar/">DESCARGAS</a></strong></h2>
 
-**_INFORMACIÓN PARA LA VERSIÓN DE PLAYSTATION (BAJAR PARA VER LA INFORMACIÓN PARA SUPER NINTENDO)_**
+## INFORMACIÓN PARA LA VERSIÓN DE PLAYSTATION (BAJAR PARA VER LA INFORMACIÓN PARA SUPER NINTENDO)
 
-**_Aplicación del parche (Por R41D3R)_**
+### Aplicación del parche (Por R41D3R)
 
 El parche se ha generado a partir de una copia del juego en formato .CUE/.BIN. El CD-ROM 
 tiene dos pistas, siendo la segunda una pista de audio con una canción secreta, LIKE55.WAV.
@@ -25,7 +25,7 @@ de la imagen.
 No es una gran pérdida a menos que te guste escuchar una canción demasiado alegre y completamente 
 inapropiada para el tono que tiene este juego.
 
-_**Controles del juego**_
+### Controles del juego
 
 Los siguientes controles se refieren al Tipo A.
 
@@ -43,9 +43,9 @@ Para hacer que Jennifer se tranquilice (mientras no haya enemigos), basta con de
 Triángulo y esperar a que Jennifer se arrodille para descansar.
 
 
-**_INFORMACIÓN PARA LA VERSIÓN DE SUPER NINTENDO_**
+## INFORMACIÓN PARA LA VERSIÓN DE SUPER NINTENDO
 
-**_Aplicación del parche_**
+### Aplicación del parche
 
 Cómo aplicar el parche en formato .IPS con Lunar IPS:
 
@@ -68,7 +68,7 @@ El parche en castellano ha sido probado en emuladores, pero debería
 funcionar en flashcards, como el Super EverDrive.
 
 
-_**Controles del juego**_
+### Controles del juego
 
 Cruceta: Mover el cursor  
 Botón L: Correr hacia la izquierda  

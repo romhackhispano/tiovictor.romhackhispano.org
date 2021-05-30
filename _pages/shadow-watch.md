@@ -7,7 +7,7 @@ header:
 <h2 style="text-align: center;"><strong><a href="/shadow-watch/informacion/">INFORMACIÓN</a> - <a href="/shadow-watch/capturas/">CAPTURAS</a> - <a href="/shadow-watch/descargar/">DESCARGAS</a></strong></h2>
 
 <center><img src="/img/2017/06/MenuPrincipal.jpg" alt="Shadow Watch para PC" /></center>
-<br>
+
 Proyecto de fantraducción de **Shadow Watch**, desarrollado por Red Storm Entertainment para PC. 
 El proyecto empezó en primavera de 2013 y publicado en su versión 1.0 el 18 de junio de 2017.
 

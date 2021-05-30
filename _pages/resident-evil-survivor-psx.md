@@ -6,7 +6,7 @@ header:
 ---
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-survivor-psx/capturas/">CAPTURAS</a> - <a href="/resident-evil-survivor-psx/descargar/">DESCARGAS</a></strong></h2>
 <center><img src="/img/2017/04/RESURVIVOR-20170407-02.jpg" alt="Resident Evil Survivor para PSX" /></center>
-<br>
+
 Traducción de textos y gráficos de Resident Evil: Survivor para PlayStation One empezado 
 a finales de 2015 y publicado el 15 de abril de 2017. La última versión, la 1.0.1, se publicó 
 el 30 de abril de 2017.

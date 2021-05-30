@@ -42,7 +42,7 @@ gallery:
    image_path: /img/2009/12/rzjp69-28.jpg
 ---
 Traducción realizada en colaboración con TBG, eduwanke y GameZelda de los foros de ElOtroLado.net. 
-Traducción terminada y publicada el 4 de abril de 2010.
+Publicada el 4 de abril de 2010.
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/8jeidbo5qvomf4x/DeadSpaceExtractionESP11.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!cUdmRJBZ!1ONCTYcR1f2YX8aeWaFWrmKGhCEV3QM-id8XCjmAD3k">MEGA</a></strong></h1>
 

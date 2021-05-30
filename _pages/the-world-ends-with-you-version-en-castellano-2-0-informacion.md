@@ -10,7 +10,7 @@ comments: false
 **NOTA: El parcheador sólo funcionará con un archivo ROM de la versión EUR 
 del juego, o la versión EUR que contenga la antigua traducción del TWEWYTeam.**
 
-**PROBLEMAS CONOCIDOS**
+### PROBLEMAS CONOCIDOS
 
 The World Ends With You funciona perfectamente en emuladores para PC (El equipo 
 de traducción no ha probado emuladores en otros soportes, como teléfonos móviles), 

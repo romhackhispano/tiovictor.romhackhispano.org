@@ -7,16 +7,16 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/soldier-of-fortune-1/informacion/">INFORMACIÓN</a> - <a href="/soldier-of-fortune-1/descargar/">DESCARGAS</a> - <a href="/soldier-of-fortune-1/capturas/">CAPTURAS</a></strong></h2>
 
-_**REGISTRO DE VERSIONES:**_
+### REGISTRO DE VERSIONES
 
-1.0 - Primera versión, traducida al 100%:
+* 1.0 - Primera versión, traducida al 100%:
  - Se ha traducido el juego desde cero, sin utilizar otras traducciones ya existentes 
 (En PC o en PS2).
  - Se ha editado la fuente para añadir los caracteres españoles que faltaban.
  - En el caso de la versión para consola real, se han eliminado varios archivos que 
 engordaban el juego para que no entrara en un CD.
 
-_**COMO APLICAR EL PARCHE DE TRADUCCIÓN:**_
+### COMO APLICAR EL PARCHE DE TRADUCCIÓN
 
 Necesitarás la imágenes en formato .GDI de Soldier of Fortune (Sirve tanto la versión PAL europea 
 como la NTSC-U estadounidense) y el programa de parcheado. La mejor opción es volcar tus discos 
@@ -68,7 +68,7 @@ imágenes ya parcheadas. La traducción está hecha para ser distribuida en
 forma de parche y para ser usada para los legitimos poseedores del juego 
 original.
 
-_**COMO COPIAR EL JUEGO PARA USARLO EN UNA DREAMCAST:**_
+### COMO COPIAR EL JUEGO PARA USARLO EN UNA DREAMCAST
 
 Es importante tener una versión moderna del programa Alcohol 120%. 
 Recomendamos tener de la versión 1.9.8 en adelante.
@@ -82,7 +82,7 @@ No se pueden copiar imágenes GDI a un CD con ningún programa.
 Si quieres jugar el juego en tu consola real mediante discos CD-R, utiliza 
 la opción MDS (Para consolas).
 
-_**SOLUCIÓN DE PROBLEMAS:**_
+### SOLUCIÓN DE PROBLEMAS
 
  - El parcheador muestra un código desconocido y no crea bien las imágenes: 
    - En muchos casos el problema se resuelve al utilizar el parcheador en 

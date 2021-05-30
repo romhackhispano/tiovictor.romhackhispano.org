@@ -6,7 +6,7 @@ header:
 ---
 <h2 style="text-align: center;"><strong><a href="/silent-hill-2-directors-cut/informacion/">INFORMACIÓN</a> - <a href="/silent-hill-2-directors-cut/descargar/">DESCARGAS</a> - <a href="/silent-hill-2-directors-cut/capturas/">CAPTURAS</a></strong></h2>
 
-<center><img src="/img/2019/12/SH2DC_MainMenuESP.jpg" /></center><br>
+<center><img src="/img/2019/12/SH2DC_MainMenuESP.jpg" /></center>
 
 Este proyecto le pega un repasito a la traducción oficial de Silent Hill 2: Director's Cut, que me apetecía volver 
 a revisitar sobre julio de 2019 (al final la traducción y testeo se hicieron en noviembre). La idea surgió tras 

@@ -187,11 +187,37 @@ gallery3:
    image_path: /img/2020/10/P3FES-20201026-36.jpg
  - url: /img/2020/10/P3FES-20201026-37.jpg
    image_path: /img/2020/10/P3FES-20201026-37.jpg
+gallery4:
+ - url: /img/2021/04/P3FES-20210402-01.png
+   image_path: /img/2021/04/P3FES-20210402-01.png
+ - url: /img/2021/04/P3FES-20210402-03.jpg
+   image_path: /img/2021/04/P3FES-20210402-03.jpg
+ - url: /img/2021/04/P3FES-20210402-05.jpg
+   image_path: /img/2021/04/P3FES-20210402-05.jpg
+ - url: /img/2021/04/P3FES-20210402-07.jpg
+   image_path: /img/2021/04/P3FES-20210402-07.jpg
+ - url: /img/2021/04/P3FES-20210402-08.jpg
+   image_path: /img/2021/04/P3FES-20210402-08.jpg
+ - url: /img/2021/04/P3FES-20210402-09.jpg
+   image_path: /img/2021/04/P3FES-20210402-09.jpg
+ - url: /img/2021/04/P3FES-20210402-10.jpg
+   image_path: /img/2021/04/P3FES-20210402-10.jpg
+ - url: /img/2021/04/P3FES-20210402-11.jpg
+   image_path: /img/2021/04/P3FES-20210402-11.jpg
+ - url: /img/2021/04/P3FES-20210402-12.jpg
+   image_path: /img/2021/04/P3FES-20210402-12.jpg
+ - url: /img/2021/04/P3FES-20210402-13.jpg
+   image_path: /img/2021/04/P3FES-20210402-13.jpg
+ - url: /img/2021/04/P3FES-20210402-14.jpg
+   image_path: /img/2021/04/P3FES-20210402-14.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="/persona-3-fes/capturas/">CAPTURAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/persona-3-fes/informacion/">INFORMACIÓN</a> - <a href="/persona-3-fes/descargar/">DESCARGAS</a> - <a href="/persona-3-fes/capturas/">CAPTURAS</a></strong></h2>
 
 **GRABACIÓN DE LOS PRIMEROS COMPASES DE LA TRAMA, 6 de enero de 2019:**
 {% include video id="dp70jlAyrWo" provider="youtube" %}
+
+**IMÁGENES EN ESTADO BETA, DURANTE EL TESTEO, 2 de abril de 2021:**
+{% include gallery id="gallery3" %}
 
 **PRIMERAS IMÁGENES EN ESTADO PREBETA, 26 de octubre de 2020:**
 {% include gallery id="gallery3" %}

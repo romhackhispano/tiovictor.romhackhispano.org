@@ -14,7 +14,7 @@ Una vez la hayas extraído, podrás aplicar el parche de traducción de cada
 disco utilizando la aplicación xdelta (O xdeltaUI si no te gustan las líneas 
 de comandos).
 
-**Cómo aplicar el parche de traducción**
+### Cómo aplicar el parche de traducción
 
 Una vez la hayas extraído, podrás aplicar el parche de traducción utilizando 
 la aplicación xdelta (O xdeltaUI si no te gusta utilizar líneas de comandos).
@@ -56,7 +56,7 @@ distribuida en forma de parche y para ser usada para los legitimos
 poseedores del juego original.
 
 
-**Cómo copiar el juego para usarlo en una PlayStation 1 o 2**
+### Cómo copiar el juego para usarlo en una PlayStation 1 o 2
 
 Por lo general, puedes utilizar cualquier programa de grabación de discos 
 (Recomendamos ImgBurn o Alcohol 120%), siempre y cuando grabes a la 

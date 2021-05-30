@@ -10,7 +10,7 @@ Revisión/retraducción completa al castellano y al español latino de Silent Hi
 PlayStation 1, disponible para las ediciones PAL europea y NTSC-U estadounidense.
 
 <center><img src="/img/2009/06/SHv20-22.jpg"></center>
-<br>
+
 Detalles del proyecto v2.0:  
 - **Revisión completa** de todos los textos del juego, con mayor libertad de acción. 
 Reescritura de bastantes textos.  

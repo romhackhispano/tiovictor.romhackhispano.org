@@ -59,20 +59,20 @@ en fluidez de diálogos y en naturalidad, pero manteniendo la esencia de la tram
 no sea tan abrupto.  
 - Se han corregido las posiciones de los textos en el menú de Opciones.
 
-_**Traducción del juego (v3.6 FINAL 2010)**_
+### Traducción del juego (v3.6 FINAL 2010)
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/69o596om2xde00a/REDC-V36.rar">Mediafire</a> - <a href="https://mega.nz/#!IBUAkLRA!MBRMMFKk2DKND6GxVbel8dZnDRXsK059igCXZQeiZq0">MEGA</a></strong></h1>
 
-_**Traducción del juego (v4.0 2016)**_
+### Traducción del juego (v4.0 2016)
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/026swg0b4prpzw3/REDC-V40.7z">Mediafire</a> - <a href="https://mega.nz/#!URUDhIZQ!OOreSOXDSE9Vp6KI6iZ_vnRZyXm3wUdCDvJmUEMnuAE">MEGA</a></strong></h1>
 
-_**Utilidades necesarias para parchear la ISO**_
+### Utilidades necesarias para parchear la ISO
 
 PPF-O-Matic 3.0: Para aplicar archivos .ppf.  
 [xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/)
 
-_**Notas de lanzamiento**_  
+### Notas de lanzamiento
 - _**Importante:**_ No aplicar el parche sobre una imagen del juego ya en Castellano, 
 o surgirán defectos en los textos. El parche debe aplicarse sobre una imagen del juego 
 sólo en francés, sin tocar. Las partidas guardadas de versiones previas de la traducción 
@@ -82,16 +82,16 @@ llamado psxfin. En ePSXe no debería dar problemas, se ha probado con los siguie
 El de Pete's o PEOPS para vídeo, y los del propio ePSXe para sonido, CDRom y demás. La bios 
 sería SCPH1001 o SCPH101.
 
-_**Cómo copiar la traducción a un disco para jugar en consola real:**_  
+### Cómo copiar la traducción a un disco para jugar en consola real
 Con las grabadoras y Windows modernos, recomiendo utilizar los programas [ImgBurn](http://www.imgburn.com/) 
 (Es gratuito) o Alcohol 120% (De pago). Curiosamente, Resident Evil se lee mejor a velocidades 
 superiores a 16x (O en el caso de ImgBurn, con el modo AWS seleccionado en la velocidad de grabación).
 
-Imágenes de muestra (versión 4.0):
+### Imágenes de muestra (versión 4.0):
 
 {% include gallery %}
 
-Imágenes de muestra (versión 1.0):
+### Imágenes de muestra (versión 1.0):
 
 {% include gallery id="gallery2" %}
 

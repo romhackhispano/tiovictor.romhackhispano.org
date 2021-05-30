@@ -18,7 +18,7 @@ y luego indícanos los mismos y el código que tiene.
 El parcheador de PacoChan cogerá solo imágenes en formato GDI, y las convertirá al formato 
 MDS/MDF, ya preparadas para su uso en consola.
 
-**REGISTRO DE VERSIONES:**
+### REGISTRO DE VERSIONES
 
 - 1.0: Primera versión.
   - Todos los textos están completamente traducidos al Castellano.
@@ -35,7 +35,7 @@ MDS/MDF, ya preparadas para su uso en consola.
 - 1.0.4: Añadida la traducción al portugués brasileño.
   - Correcciones menores en las texturas del juego.
 
-**ERRORES CONOCIDOS**  
+### ERRORES CONOCIDOS
 - En Demul se ven los bordes de los carteles iniciales. Es un defecto del emulador en sí.  
 - En consola real, las bocas o los subtítulos pueden tardar una décima de segundo de más 
 en aparecer. Este defecto ya existía en el juego original.

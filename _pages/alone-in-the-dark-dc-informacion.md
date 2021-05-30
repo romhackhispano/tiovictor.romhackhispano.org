@@ -7,45 +7,44 @@ comments: false
 ---
 
 <h2 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2>
-***REGISTRO DE VERSIONES:*** 
+### REGISTRO DE VERSIONES
 
-1.0 - Primera versión, juego traducido y doblable al 100%.
-
-* Se han adaptado todos los textos posibles de la traducción original, corrigiendo erratas 
+* 1.0 - Primera versión, juego traducido y doblable al 100%.
+  - Se han adaptado todos los textos posibles de la traducción original, corrigiendo erratas 
 y defectos menores, adaptando la estructura de párrafos dentro de los documentos.  
-* Se han traducido todos los textos dedicados a Dreamcast.  
-* Se ha corregido la fuente para que los caracteres acentuados no destaquen respecto al 
+  - Se han traducido todos los textos dedicados a Dreamcast.  
+  - Se ha corregido la fuente para que los caracteres acentuados no destaquen respecto al 
 resto de letras (Solo en documentos).  
-* Se han añadido (De forma exclusiva para esta versión) voces dobladas en dos puntos que 
+  - Se han añadido (De forma exclusiva para esta versión) voces dobladas en dos puntos que 
 solo se escuchaban en inglés (La frase de Carnby cuando ve los restos del hombre herido y 
 las voces que dicen &laquo;Aline&raquo; en el espejo de De Certo) en el resto de versiones.  
-* Se han traducido los gráficos del estado de salud de los personajes (No estaban traducidos 
+  - Se han traducido los gráficos del estado de salud de los personajes (No estaban traducidos 
 en el resto de versiones).
 
-1.0.1 - Correcciones variadas en el parcheador y en los créditos:
-* Restaurada la acreditación de Releon.
-* El programa verifica que haya un mínimo de GBs libres en el 
+* 1.0.1 - Correcciones variadas en el parcheador y en los créditos:
+  - Restaurada la acreditación de Releon.
+  - El programa verifica que haya un mínimo de GBs libres en el 
 disco duro antes de empezar a funcionar, avisa de la necesidad de 
 tener instalado Visual Studio 2015, corrige varios errores en 
 Windows 10.
-* Se ha mejorado el proceso de conversión de vídeo al formato 
+  - Se ha mejorado el proceso de conversión de vídeo al formato 
 intermedio, aprovechando las CPUs multinúcleo.
-* Se ha añadido un nuevo formato de salida: "GDI (lento)", que 
+  - Se ha añadido un nuevo formato de salida: "GDI (lento)", que 
 recodifica los vídeos doblados en su totalidad en vez de cambiar 
 solo la pista de audio. Este modo está pensado para usuarios de 
 emuladores de disco óptico (ODE) que tengan problemas a la hora de 
-ver la introducción o cualquier otro de los vídeos doblados.
+ver la introducción o cualquier otro de los vídeos doblados.  
 El proceso lleva entre 4 y 8 horas según la CPU (el compresor 
 es antiguo y utiliza un solo núcleo, así que de nada sirve tener 
 doce) y la codificación mantiene el tamaño del archivo original 
 sin provocar una gran pérdida visual.
 
-1.0.2. - Corrección adicional en el parcheador:
-* Añadida una comprobación adicional para verificar que el 
+* 1.0.2. - Corrección adicional en el parcheador:
+  - Añadida una comprobación adicional para verificar que el 
 programa adxencd.exe no esté dañado durante el arranque del 
 parcheador.
 
-***CÓMO CONSEGUIR LOS ARCHIVOS DEL DOBLAJE:***
+### CÓMO CONSEGUIR LOS ARCHIVOS DEL DOBLAJE
 Debido a que el juego no tiene subtítulos, se ha optado por hacer que **el 
 parcheador obligue a tener en las carpetas Audio y Video los archivos con el 
 doblaje en castellano.** Este parcheador reconoce los audios de las versiones 
@@ -54,7 +53,7 @@ por complicaciones a la hora de identificar los audios).
 
 A continuación indicaré los archivos necesarios según la versión que tengas más a mano.
 
-***VERSIÓN DE PC:***
+#### VERSIÓN DE PC
 
 * NOTA: Si no queréis reinstalar el juego, podéis obtener los archivos mencionados directamente 
 de los discos indicados.  
@@ -64,13 +63,13 @@ Audio que hay junto al Parcheador.
 C808_052, C813_061 y EXTRO (Disco 3) deben ir en la carpeta Video (Sin acento) que hay en el 
 parcheador.
 
-***VERSIÓN DE PLAYSTATION 2*** (Recomendada por su mayor calidad):
+#### VERSIÓN DE PLAYSTATION 2 (Recomendada por su mayor calidad)
 
 * Los archivos SPANISH.FAT y SPANISH.NOB de la carpeta NOB (Audio).  
 * Los archivos A111_122.SPA, A112_167.SPA, INTRO.SPA), A825_165.SPA, C808_052.SPA, C813_061.SPA 
 y EXTRO.SPA de la carpeta MOVIES30\MULTI (Video).
 
-***COMO APLICAR EL PARCHE DE TRADUCCIÓN:***
+### COMO APLICAR EL PARCHE DE TRADUCCIÓN
 
 El parche está pensado para ser aplicado a una copia de seguridad de tu juego
 original. Sabemos que en el caso de la Dreamcast no es fácil que un usuario
@@ -123,7 +122,7 @@ imágenes ya parcheadas. La traducción está hecha para ser distribuida en
 forma de parche y para ser usada para los legitimos poseedores del juego 
 original.
 
-***CÓMO COPIAR EL JUEGO PARA USARLO EN UNA DREAMCAST:***
+### CÓMO COPIAR EL JUEGO PARA USARLO EN UNA DREAMCAST
 
 Es importante tener la última versión disponible del programa Alcohol 120%. 
 Durante nuestras pruebas hemos utilizado la versión 1.9.8.
@@ -143,7 +142,7 @@ Las imágenes GDI no son compatibles con ningún formato de CDs.
 Si quieres jugar el juego en tu consola real mediante discos CD-R, debes 
 seleccionar la opción "NRG (para consola real)".
 
-***SOLUCIÓN DE PROBLEMAS:***
+### SOLUCIÓN DE PROBLEMAS
 
 * El parcheador muestra un código desconocido y no crea bien las imágenes: 
      * En muchos casos el problema se resuelve al utilizar el parcheador en 

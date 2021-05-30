@@ -6,7 +6,7 @@ header:
 ---
 <h2 style="text-align: center;"><strong><a href="/operation-winback/informacion/">INFORMACIÓN</a> - <a href="/operation-winback/descargar/">DESCARGAS</a> - <a href="/operation-winback/capturas/">CAPTURAS</a></strong></h2>
 
-<p style="text-align: center;"><img src="/img/2018/03/WinbackStart.jpg" width="320" height="240" /></p><br>
+<p style="text-align: center;"><img src="/img/2018/03/WinbackStart.jpg" width="320" height="240" /></p>
 
 En 2015 me dio por cotillear el (remaster de la época) juego Operation 
 Winback de PS2 y pensé en convertir la traducción que ya existe para la 

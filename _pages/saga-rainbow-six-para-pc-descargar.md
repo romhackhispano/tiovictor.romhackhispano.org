@@ -12,7 +12,7 @@ comments: false
 Este proyecto ha sido traducido por un servidor de ustedes, **IlDucci,** con la colaboración 
 de **TheFireRed**, **ConanCimmerio**, **raulpuro**, **Tim Kohler** y **BELANAR**.
 
-_**Traducción de Tom Clancy's Rainbow Six**_
+### Traducción de Tom Clancy's Rainbow Six
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/6szb8f76oxvanpp/TraduccionRainbowSixEspanol11.7z">Mediafire</a> - <a href="https://mega.nz/#!RMkjkajC!E94P5RlsU-bZhmi2KTpV99Z8y4RvZOlJNXw5oN2s1DQ">MEGA</a></strong></h1>
 
@@ -28,7 +28,7 @@ en este orden:
 Aquellos que tengan la versión Codegame de Ubisoft (Rainbow Six Pack) deben ignorar las actualizaciones 
 ya que esta edición viene pre-actualizada.
 
-_**Traducción de Tom Clancy's Rainbow Six: Rogue Spear**_
+### Traducción de Tom Clancy's Rainbow Six: Rogue Spear
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5czgeua6igwxu8u/TraduccionRogueSpearEspanol11.7z">Mediafire</a> - <a href="https://mega.nz/#!FYcFEQrS!oeaOxUQc1Ayf8dsj4pE0qWPUcvieY3aVwJabwuHCDZk">MEGA</a></strong></h1>
 
