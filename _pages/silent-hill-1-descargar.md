@@ -18,7 +18,7 @@ nikita600, CUE, Stealth, Ortew, Viento, Michael Sabin**
 
 Agradecimientos especiales a Leeg.
 
-<h2 style="text-align: center;"><strong>DESCARGAR VERSIÓN 2.1B:</strong></h2>
+<h2 style="text-align: center;"><strong>VERSIÓN 2.1B DE LA TRADUCCIÓN:</strong></h2>
 
 <h1 style="text-align: center;"><strong><a href="https://mega.nz/#!QAVnlYiA!Q4OEtB6NTvqAilCUdhHLlm7pty3L1bhcyTxxjT8UvAg" target="_blank">MEGA</a> - <a href="http://www.mediafire.com/file/cbkuxjag8ml33m7/SH-PSX-Retraduccion21B.7z" target="_blank">MEDIAFIRE</a></strong></h1>
 

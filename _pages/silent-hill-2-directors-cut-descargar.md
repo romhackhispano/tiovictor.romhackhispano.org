@@ -23,7 +23,7 @@ por dedicarme su valioso tiempo con Ace Combat 3 a mirarme este juego, a
 Retroductor por toda su ayuda, y a PolyMega y la gente de Town of Silent 
 Hill por su ayuda y por el trabajo del Enhanced Edition.
 
-_**DESCARGAR VERSIÓN 1.0.2:**_
+_**VERSIÓN 1.0.2 DEL PARCHE DE RETRADUCCIÓN:**_
 
 <h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/SH2DC-REVISION-TTV-V1.0.2.7z">TRADUSQUARE</a>
 

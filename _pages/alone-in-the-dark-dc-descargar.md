@@ -27,7 +27,7 @@ FFMpeg, Muzzleflash, bITmASTER
 Rais David Báscones, Paqui Horcajo, Jorge Teixeira, Carlos Salamanca, Javier Gámir y 
 Antonio Cobos.
 
-<center><h1><b><i>Descargar versión 1.0.2 del parcheador:</i></b></h1></center>
+<center><h1><b><i>Versión 1.0.2 del parcheador:</i></b></h1></center>
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/glno8e4enmadrbe/AloneInTheDark4Espa%F1olDreamcast102.7z/file">MEDIAFIRE</a> - <a href="https://mega.nz/#!IJlkiQaY!LJgIMMhaPaGfK5_OwplBfUk6cdgHv6CviKXLEDDk-08">MEGA</a></strong></h1>
 

@@ -40,7 +40,7 @@ _Maquetación:_ IlDucci
 Fotos de la Tierra cortesía de la NASA.  
 Diseños del juego ilustrados por Senji Mitsumachi. Utilizado bajo permiso.
 
-<h1 style="text-align: center;"><strong>DESCARGAR PARCHE (V1.0b):  
+<h1 style="text-align: center;"><strong>VERSIÓN V1.0b DEL PARCHE DE TRADUCCIÓN:  
 <a href="https://mega.nz/#!dU1W1ZZT!R03dUYRdihG7SWohq0wD_-4sT-SS-9bD8J4EYboMxkc" target="_blank">MEGA</a> - <a href="http://www.mediafire.com/download/nedfd0084twazp6/SinAndPunishmentCastellano10b.7z" target="_blank">MEDIAFIRE</a></strong></h1>
 
 Para que el parche funcione, es necesario tener una copia en formato en formato 

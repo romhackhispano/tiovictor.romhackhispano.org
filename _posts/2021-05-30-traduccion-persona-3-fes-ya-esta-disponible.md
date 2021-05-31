@@ -14,6 +14,12 @@ tags:
 Esta noticia va a ser bastante larga, así que vayamos paso a paso. **Recomiendo que os leáis el primer apartado como mínimo** para saber las cosas que están hechas, 
 las cosas que faltan, las cosas que son y no son compatibles en estos momentos.
 
+EDIT 30/05/2021: Hemos actualizado los enlaces de los parcheadores con una versión alternativa para Windows de 32 bits. AVISO: el parcheador de 32 bits es **MUCHO** 
+más lento que la versión de 64 bits.
+
+Y otra cosa: no intentéis modificar la versión NTSC con los archivos de la fantraducción. Los resultados pueden ser... lamentables.
+No daremos soporte a cualquier versión o intento ajeno al nuestro de convertir la traducción a la versión NTSC-U.
+
 <!--more-->
 
 ### El estado actual de la traducción de Persona 3 FES

@@ -56,7 +56,7 @@ a la piratería ni permitirá que se comente dónde conseguirlas por métodos no
 Las imágenes parcheadas resultantes replican casi a la perfección los sistemas utilizados 
 por TuxTheWise para conseguir sus releases.
 
-<h1 style="text-align: center;"><strong>Descargar parcehador V1.5D:</strong></h1>
+<h1 style="text-align: center;"><strong>Parcehador con la versión V1.5D:</strong></h1>
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/vce12knc6nc3vog/ResidentEvil2DC-V15D.7z">MEDIAFIRE</a> - <a href="
 https://mega.nz/#!kc8l1ACZ!NNFAN6CVltIZgsKTTDz9kRT0dOyhtgPu89VngQHizMY">MEGA</a></strong></h1>
 

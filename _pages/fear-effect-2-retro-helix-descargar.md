@@ -14,7 +14,7 @@ _- Revisión lingüística:_ Retroductor
 
 _Utiliza herramientas de RedComet, Klarth, CUE, Michael Sabin y MarkGrass._
 
-_**DESCARGAR VERSIÓN 1.0:**_
+_**VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:**_
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/r67r2nu6q6t8jkc/FearEffect2ESP-IlDucci-V10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!cVVH2CDA!O7k11-hDa-O9btiEO94x5LfwT2GFNWiNifo0OXPiuUI">MEGA</a></strong></h1>
 
