@@ -72,6 +72,11 @@ poseedores del juego original.
   - Se han traducido todos los textos del juego.
   - Se han traducido y adaptado el 99% de los gráficos del juego (faltan las onomatopeyas que aparecen al conectar un golpe contra un enemigo cuando se ha acertado en una debilidad).
   - Se han subtitulado todos los vídeos del juego utilizando un sistema de subtitulación al vuelo, cortesía de RyleFury.
+* v1.0.1 - Corrección de errores en la versión PAL:
+  - Añadido un nuevo parcheador para los que tengáis sistemas operativos de 32 bits. AVISO: su funcionamiento es mucho más lento que la versión de 64 bits.
+  - Corregido el fallo en el que el cuadro de texto de la pantalla de ayuda sobre los vínculos sociales se quedaba corto de altura.
+  - Corregido el fallo en el que varios subtítulos de la FMV del 11 de julio se mostraban sin borde, haciéndolos parcialmente ilegibles.
+  - Corregidas otras varias erratas menores.
 
 ### Instrucciones para aplicar el parche de traducción en PlayStation 2
 

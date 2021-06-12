@@ -69,11 +69,11 @@ La comunidad de Velvet Network
 
 _**PARCHEADOR VERSIÓN 1.0 PAL PARA WINDOWS DE 64 BITS:**_
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/P3FES-TraduccionAlCastellano-ParcheadorPAL64bits.7z">TRADUSQUARE</a> - <a href="https://mega.nz/file/sVtlGCZD#JmT7qa1HiJm55oOY5x5D7_NdL-jq50S-iGiib_2VSbM">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/P3FES-TraduccionAlCastellano-ParcheadorPAL64bits.7z">TRADUSQUARE</a> - <a href="https://mega.nz/file/Id0zBSbJ#oAbXnk20SYr9SPX0DysaYIhe4tNeNkSTz9F7Gb8w5B0">MEGA</a></strong></h1>
 
 _**PARCHEADOR VERSIÓN 1.0 PAL PARA WINDOWS DE 32 BITS:**_
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/P3FES-TraduccionAlCastellano-ParcheadorPAL32bits.7z">TRADUSQUARE</a> - <a href="https://mega.nz/file/5cl11CxB#JTqB5IYvep6YvELLoHTuk2cDyw9l06XmAkSgJ0m34q4">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/P3FES-TraduccionAlCastellano-ParcheadorPAL32bits.7z">TRADUSQUARE</a> - <a href="https://mega.nz/file/BU1VQShZ#0Z4C8Ld_PNFewRYfrHiyq18U2sulagVsPabSLDQdI94">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/persona-3-fes/"><strong>VOLVER</strong></a></h2>
 
