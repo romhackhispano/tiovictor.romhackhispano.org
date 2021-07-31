@@ -18,7 +18,7 @@ Tras organizar un equipo inicial y sufrir varios años de retraso en la parte de
 de 2018 por fin se da paso a la fase de traducción de textos, que terminó el 31 de diciembre de 2020, momento en el que 
 comenzó el testeo, terminando el 17 de mayo de 2021. El parche sería publicado el día 28 del mismo mes.
 
-Proyecto realizado en colaboración con el Proyecto AMALA de la comunidad **[TraduSquare](https://tradusquare.es/)**, 
+Proyecto realizado en colaboración con el Proyecto AMALA de la comunidad **[TraduSquare](https://tradusquare.es/){:target="_blank"}**, 
 cuya intención es organizar un espacio colaborativo entre distintos fantraductores de juegos de la sagas Megami Tensei 
 y Persona, unificando términos, expresiones y traducciones diversas entre juegos. Este proyecto está en contacto 
-con **[GlowTranslations](https://glowtranslations.tk/)** y su fantraducción de Persona 4.
+con **[GlowTranslations](https://glowtranslations.tk/){:target="_blank"}** y su fantraducción de Persona 4.

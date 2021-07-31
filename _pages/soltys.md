@@ -25,14 +25,14 @@ gallery:
  - url: /img/2013/11/SoltysESP-10.jpg
    image_path: /img/2013/11/SoltysESP-10.jpg
 ---
-Proyecto de traducción del videojuego [Sołtys](http://www.mobygames.com/game/dos/sotys), 
+Proyecto de traducción del videojuego [Sołtys](http://www.mobygames.com/game/dos/sotys){:target="_blank"}, 
 de la empresa polaca L.K. Avalon, publicado en 1995 y redistribuido como juego freeware por el 
 grupo de emulación de aventuras gráficas ScummVM.
 
 Traducido íntegramente al castellano por **TheFireRed** y un servidor, **IlDucci**.
 
 El juego puede obtenerse de forma gratuita y legal en la página web de ScummVM.org. 
-[Podéis descargarlo pulsando aquí.](http://sourceforge.net/projects/scummvm/files/extras/Soltys/soltys-es-v1.0.zip/download)
+[Podéis descargarlo pulsando aquí.](http://sourceforge.net/projects/scummvm/files/extras/Soltys/soltys-es-v1.0.zip/download){:target="_blank"}
 
 La historia nos cuenta las desventuras del jefe de un pueblo rural de Polonia que tiene que 
 "rescatar" al novio de su "poco agraciada" hija para que puedan casarse.

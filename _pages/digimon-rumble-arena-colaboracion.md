@@ -6,7 +6,7 @@ header:
 comments: false
 ---
 Proyecto de retraducción y doblaje de Digimon Rumble Arena para PlayStation One, dirigido por 
-**[Estudios G3S](http://www.estudiosg3s.com/)**.
+**[Estudios G3S](http://www.estudiosg3s.com/){:target="_blank"}**.
 
 Esta traducción está basada en la versión NTSC-U del juego (Hay intención de publicar un parche 
 para la versión europea) y respeta todos los términos de la saga original, además de incluir las 
@@ -46,7 +46,7 @@ Su primera versión se publicó el 30 de marzo de 2018.
 **Andromeda Studio Dubs** – TAI/TERRIERMON  
 **Víctor González** – WORMMON
 
-Podéis saber más **[pulsando en este enlace](http://www.estudiosg3s.com/digimon-rumble-arena-lanzamiento/)**.
+Podéis saber más **[pulsando en este enlace](http://www.estudiosg3s.com/digimon-rumble-arena-lanzamiento/){:target="_blank"}**.
 
 Mi trabajo consistió en ayudar en la traducción de textos y gráficos, así como en enseñar a G3S 
 cómo se inyectan sonidos en esta consola.

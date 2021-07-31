@@ -10,7 +10,7 @@ header:
 
 Este proyecto le pega un repasito a la traducción oficial de Silent Hill 2: Director's Cut, que me apetecía volver 
 a revisitar sobre julio de 2019 (al final la traducción y testeo se hicieron en noviembre). La idea surgió tras 
-conocer la **[Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/)**, un mod que restaura la versión 
+conocer la **[Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/){:target="_blank"}**, un mod que restaura la versión 
 de PC y permite que se pueda jugar en sistemas operativos modernos.
 
 Aunque mi objetivo era el de castellanizar más la traducción (ya que hay elementos que demostrarían, a mi juicio, 

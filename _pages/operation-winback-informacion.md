@@ -16,6 +16,18 @@ que los textos y gráficos estarán en español, pero las voces seguirán en ing
 
 ### Cómo aplicar el parche de traducción
 
+Necesitarás extraer una imagen en formato .BIN/.CUE de la versión PAL 
+europea de Operation Winback, con el código de juego SLES-50155.
+
+Esta es la suma de comprobación (checksum) de la imagen original del juego 
+en formato .BIN/.CUE (un solo archivo .BIN):
+
+```
+CRC-32: effc32fe  
+   MD5: 8d9834690804ffe3ac99196cd122b05d  
+ SHA-1: 1dd8b5ab7f07a8bac957f30314e0911841424312  
+```
+
 Una vez la hayas extraído, podrás aplicar el parche de traducción utilizando 
 la aplicación xdelta (O xdeltaUI si no te gusta utilizar líneas de comandos).
 
@@ -30,8 +42,7 @@ http://www.romhacking.net/utilities/598/ )
  - Pulsa en el botón "Open" que hay debajo del texto "Patch" y selecciona el 
    archivo .XDELTA.
  - Pulsa en el botón "Open" que hay debajo del texto "Source File" y 
-   selecciona la imagen en formato .BIN de tu copia del juego con el 
-   parche anticopia ya instalado.
+   selecciona la imagen en formato .BIN o .IMG de tu copia del juego.
  - Introduce en el cuadro que hay debajo de "Output File" o pulsa en el 
    botón que contiene los puntos suspensivos (...) el nombre que tendrá la 
    imagen traducida. Asegúrate de que esté en la misma carpeta donde esté la 
@@ -44,7 +55,7 @@ http://www.romhacking.net/utilities/598/ )
    original.
  - Ahora podrás jugar con la versión traducida al castellano o copiarla en 
    un CD-R si quieres jugar en una consola modificada.
-
+   
 Es posible que los antivirus interfieran con el programa de parcheado 
 durante su funcionamiento, pero NO debes desactivarlos mientras utilizas el 
 programa.

@@ -4,12 +4,11 @@ permalink: /project-zero-fatal-frame-4/
 header:
   overlay_image: /img/headers/pages/ProjectZero4Header.jpg
 ---
-Proyecto de traducción dirigido por la gente de [**Project Sae**](http://www.projectsae.es/sae.php), 
+Proyecto de traducción dirigido por la gente de [**Project Sae**](http://www.projectsae.es/sae.php){:target="_blank"}, 
 capitaneado por Benja-Kumo y en el que han participado Crucible, Sergio, Orion, Kasumi, Meng-huo, 
 Imrishale, Sora Baudelaire, Simonchu, Yuna y un servidor.
 
-Podéis descargar el parche de traducción [**en este 
-enlace**](http://www.projectsae.es/project-zero-4/parche-espanol.html). 
+Podéis descargar el parche de traducción [**en este enlace**](http://www.projectsae.es/project-zero-4/parche-espanol.html){:target="_blank"}. 
 Todo el soporte técnico oficial se llevará a través de los foros de ProjectSae.
 
 Mi parte de colaboración en este proyecto ha sido el de Jefe de traducción (que no de todo el proyecto), 

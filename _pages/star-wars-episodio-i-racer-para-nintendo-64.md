@@ -39,7 +39,7 @@ Nintendo 64. Realizada por PacoChan, SubDrag e IlDucci.
 Este parche traduce y dobla el juego completamente al castellano utilizando la 
 localización oficial que solo existe en la versión para PC con algunos retoques.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/1vonv3d8lsk767t/StarWarsRacerN64-102FINAL.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!5E8WQS6C!-vqRF-pjkCMUPsbV4YnM0tW4lHWlqzvy9sw1CaDS15M">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/1vonv3d8lsk767t/StarWarsRacerN64-102FINAL.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!5E8WQS6C!-vqRF-pjkCMUPsbV4YnM0tW4lHWlqzvy9sw1CaDS15M" target="_blank">MEGA</a></strong></h1>
 
 Es necesario tener XDelta (Para hacerlo más fácil utilizar XDeltaUI también) y una 
 copia de la ROM "Star Wars Episode I - Racer (Europe) (En,Fr,De).n64", en formato .n64 
@@ -71,7 +71,7 @@ del archivo léeme.
 
 ### Utilidades necesarias para parchear la ROM
 
-[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/)  
+[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}  
 Tool64 (Para quitar el byteswap a la ROM. Cargar la carpeta y pulsar en la flecha que va a la derecha)
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5z5e3813mdqp8tm/Tool64_v1.11Beta1.zip">MEDIAFIRE</a> - <a href="https://mega.nz/#!sZM3EaaL!6VxPMLqdJ4L1eCnqqiMkNaYB0Xr0e9L3tOKe9y8eXHI">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5z5e3813mdqp8tm/Tool64_v1.11Beta1.zip" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!sZM3EaaL!6VxPMLqdJ4L1eCnqqiMkNaYB0Xr0e9L3tOKe9y8eXHI" target="_blank">MEGA</a></strong></h1>

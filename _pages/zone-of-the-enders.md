@@ -25,19 +25,40 @@ del Entrenamiento por Realidad Virtual ya está completamente traducida en ambas
 - Todos los subtítulos, textos de ayuda y de misiones están completamente traducidos al 
 Castellano. Solo quedan en Inglés los detalles de la interfaz, por obligación.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/t48jbt81mbf6jtt/ZoneOfTheEnders-TraduESP10Bis.rar">MEDIAFIRE</a> - <a href="https://mega.nz/#!IBEy0R5Z!jHNco96l2juGHwdbAZmRwhaKCNqDxm1rhC5EGMoT9eY">MEGA</a></strong></h1>
+<h3 style="text-align: center;">VERSIÓN 1.0 BIS DEL PARCHE DE TRADUCCIÓN:</h3>
 
-_**Utilidades necesarias para parchear la ISO**_  
-Se utilizará el sistema xdelta (Gracias a la gente de JunkerHQ y a josete2k de EOL) 
-para parchear la ISO, ya que al editarla estoy cambiando su tamaño final.
+<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/ZoneOfTheEnders-TraduESP10Bis.rar" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/xFMGybKC#R2KxEvd6OBV7fzz3M9M_jIT08KbXM1sE3GwLWe2PfNs" target="_blank">MEGA</a></strong></h1>
 
-Aunque en el archivo .RAR están el ejecutable de xdelta y archivos .bat para facilitar 
-el proceso de parcheado, he encontrado un GUI para el xdelta.
+### Cómo aplicar el parche de traducción:
 
-[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/)
+Necesitarás la imagen en formato .ISO de Zone Of The Enders (Dependiendo de 
+una versión u otra utiliza su archivo de traducción correspondiente), y el 
+resto de los archivos que vienen incluídos en el RAR.
 
-Necesitaréis una imagen ISO del juego. No servirán otros formatos de imagen.
+Esta es la suma de comprobación de las imágenes originales del juego en 
+formato ISO:
 
-Si todo sale bien, debería aparecer al poco tiempo una ISO nueva, lista para pasar por la grabadora.
+Versión PAL europea (SLES-50111):
+
+```
+CRC-32: 44ad4a1a
+   MD5: 56ebd20ba66e37773ef9e5d266155198
+ SHA-1: 0e1c47232cc8eed3c5735f2ad41b284e02e0afee
+```
+
+Versión NTSC estadounidense (SLUS-20148):
+
+```
+CRC-32: 5b57ab85
+   MD5: 71761611dc57b7d2836a356391fcffa4
+ SHA-1: 325a54367ea6618a578faa34de967aab5b019b0c
+```
+
+- Coloca en la misma carpeta la ISO y los archivos del RAR.
+- Renombra la ISO a ZOEPAL.iso si es la versión PAL o Europea; si es la 
+  versión norteamericana, renombra la iso a ZOENTSC.iso.
+- Ejecuta el archivo .bat correspondiente a la ISO del juego que tengas.
+  Si todo sale bien, la aplicación debería aparecer, quedarse un poco y 
+  cerrarse, dejando un nuevo archivo .ISO traducido para poder pasar a disco.
 
 {% include gallery %}

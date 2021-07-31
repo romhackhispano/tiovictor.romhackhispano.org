@@ -16,7 +16,8 @@ _**CRÉDITOS DEL PROYECTO:**_
 
 Con la colaboración de ConanCimmerio, TheFireRed y Retroductor
 
-<h2 style="text-align: center;"><em><strong>Versión 1.0 del parche de traducción:</strong></em></h2>
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/file/tk5rdajcass7b3w/ShadowWatchEspanol10.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!VVVC2SZZ!LIN9bi27glVoBdY7uUhX17wo8uWMQbrD8posZrtTioY">MEGA</a></h1>
+<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+
+<h1 style="text-align: center;"><a href="http://www.mediafire.com/file/tk5rdajcass7b3w/ShadowWatchEspanol10.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!VVVC2SZZ!LIN9bi27glVoBdY7uUhX17wo8uWMQbrD8posZrtTioY" target="_blank">MEGA</a></h1>
 <h2 style="text-align: center;"><strong><a href="/shadow-watch/">VOLVER</a></strong></h2>
 

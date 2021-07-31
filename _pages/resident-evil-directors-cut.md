@@ -59,18 +59,18 @@ en fluidez de diálogos y en naturalidad, pero manteniendo la esencia de la tram
 no sea tan abrupto.  
 - Se han corregido las posiciones de los textos en el menú de Opciones.
 
-### Traducción del juego (v3.6 FINAL 2010)
+<h3 style="text-align: center;">TRADUCCIÓN DEL JUEGO (V3.6 FINAL 2010):</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/69o596om2xde00a/REDC-V36.rar">Mediafire</a> - <a href="https://mega.nz/#!IBUAkLRA!MBRMMFKk2DKND6GxVbel8dZnDRXsK059igCXZQeiZq0">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/REDC-V36.rar" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/#!IBUAkLRA!MBRMMFKk2DKND6GxVbel8dZnDRXsK059igCXZQeiZq0" target="_blank">MEGA</a></strong></h1>
 
-### Traducción del juego (v4.0 2016)
+<h3 style="text-align: center;">TRADUCCIÓN DEL JUEGO (V4.0 2016):</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/026swg0b4prpzw3/REDC-V40.7z">Mediafire</a> - <a href="https://mega.nz/#!URUDhIZQ!OOreSOXDSE9Vp6KI6iZ_vnRZyXm3wUdCDvJmUEMnuAE">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/REDC-V40.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/dIdyGbgK#pyCjkZQyWdxhR4gsn9QTNF-NP3X-5OjwscNhARGkjeI" target="_blank">MEGA</a></strong></h1>
 
 ### Utilidades necesarias para parchear la ISO
 
 PPF-O-Matic 3.0: Para aplicar archivos .ppf.  
-[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/)
+[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}
 
 ### Notas de lanzamiento
 - _**Importante:**_ No aplicar el parche sobre una imagen del juego ya en Castellano, 
@@ -83,7 +83,7 @@ El de Pete's o PEOPS para vídeo, y los del propio ePSXe para sonido, CDRom y de
 sería SCPH1001 o SCPH101.
 
 ### Cómo copiar la traducción a un disco para jugar en consola real
-Con las grabadoras y Windows modernos, recomiendo utilizar los programas [ImgBurn](http://www.imgburn.com/) 
+Con las grabadoras y Windows modernos, recomiendo utilizar los programas [ImgBurn](http://www.imgburn.com/){:target="_blank"} 
 (Es gratuito) o Alcohol 120% (De pago). Curiosamente, Resident Evil se lee mejor a velocidades 
 superiores a 16x (O en el caso de ImgBurn, con el modo AWS seleccionado en la velocidad de grabación).
 

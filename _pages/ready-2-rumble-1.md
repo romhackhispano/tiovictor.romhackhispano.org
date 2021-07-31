@@ -32,19 +32,19 @@ Imágenes de la versión de PSOne:
 
 {% include gallery %}
 
-_**Versión de PlayStation One**_
+<h3 style="text-align: center;">PARCHE PARA LA VERSIÓN DE PLAYSTATION ONE:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/a3t3ol5dakefqa8/Ready2Rumble-PSX-PAL.7z">MEDIAFIRE</a> - 
-<a href="https://mega.nz/#!AR8xGDBD!cvqDLrhR9Y9eDCGo_W4Lf-x9ajylpxfjZ3HVLdjdVIQ">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/Ready2Rumble-PSX-PAL.7z" target="_blank">TRADUSQUARE</a> - 
+<a href="https://mega.nz/file/xFdS2J4C#WQq7-Gvvrg0WBb6tsZlta2WSLJrX7ScdoSVtrT4SGUg" target="_blank">MEGA</a></strong></h1>
 
-_**Versión de Nintendo 64**_
+<h3 style="text-align: center;">PARCHE PARA LA VERSIÓN DE NINTENDO 64:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/mdfdpl2up3j1cmi/Ready2Rumble-N64-%28E%29%28M3%29%5B%21%5D.7z">MEDIAFIRE</a> - 
-<a href="https://mega.nz/#!tRkmGCzI!zI7qEuUqQ4DaM2rN9kM3zTcKrjXQvvKRm7ssJ2d0GyA">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/Ready2Rumble-N64-%28E%29%28M3%29%5B%21%5D.7z" target="_blank">TRADUSQUARE</a> - 
+<a href="https://mega.nz/file/UJFG1Bab#jIxCHqSD6h7se4G7IUSuwZatyixdnzcQzpR6cO3wzRU" target="_blank">MEGA</a></strong></h1>
 
 _**Utilidades necesarias para parchear la ROM:**_  
-[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/)
+[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}
 
 Tool64 (Para quitar el byteswap a la ROM. Cargar la carpeta y pulsar en la flecha que va a la derecha)
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5z5e3813mdqp8tm/Tool64_v1.11Beta1.zip">MEDIAFIRE</a> - <a href="https://mega.nz/#!sZM3EaaL!6VxPMLqdJ4L1eCnqqiMkNaYB0Xr0e9L3tOKe9y8eXHI">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5z5e3813mdqp8tm/Tool64_v1.11Beta1.zip" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!sZM3EaaL!6VxPMLqdJ4L1eCnqqiMkNaYB0Xr0e9L3tOKe9y8eXHI" target="_blank">MEGA</a></strong></h1>

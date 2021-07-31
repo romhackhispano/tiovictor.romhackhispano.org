@@ -13,8 +13,8 @@ Proyecto de traducción y doblaje del juego **Sin and Punishment: Successor of t
 {% include video id="32nxXdVDGwY" provider="youtube" %}
 
 Basado en el proyecto de traducción de Zoinkity realizado en 
-[AssemblerGames](http://www.assemblergames.com/forums/showthread.php?47187-Sin-and-Punishment-and-other-jap-only-titels-translation). 
+[AssemblerGames](http://www.assemblergames.com/forums/showthread.php?47187-Sin-and-Punishment-and-other-jap-only-titels-translation){:target="_blank"}. 
 También se utilizan herramientas de SubDrag para la inyección de audio.
 
-El doblaje corre a cargo del [grupo **G3S**](http://www.estudiosg3s.com/), responsables 
+El doblaje corre a cargo del [grupo **G3S**](http://www.estudiosg3s.com/){:target="_blank"}, responsables 
 de varios proyectos de fandubs, entre ellos Gurren Lagann o Fairy Tail.

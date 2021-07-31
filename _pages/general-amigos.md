@@ -6,15 +6,15 @@ header:
 comments: false
 ---
 
-[TraduSquare](https://tradusquare.es/)  
-[Aegis Translations (Hogar de Aegisflame)](http://aegis.romhackhispano.org/)  
-[Blog de Xulikotony](http://traduccionesxt.blogspot.com.es/)  
-[Artema Translations](http://hotayeldi-traducciones.blogspot.com.es/)  
-[Dreamcast.es](http://www.dreamcast.es/)  
-[Fortaleza Romhack](http://fortaleza.romhackhispano.org/)  
-[Game Over me pone](http://www.portalgameover.com/)  
-[Romhacking.net](http://www.romhacking.net/)  
-[SegaSaturno](http://www.segasaturno.com/)  
-[Tales Translations](http://blog.tales-tra.com/)  
+[TraduSquare](https://tradusquare.es/){:target="_blank"}  
+[Aegis Translations (Hogar de Aegisflame)](http://aegis.romhackhispano.org/){:target="_blank"}  
+[Blog de Xulikotony](http://traduccionesxt.blogspot.com.es/){:target="_blank"}  
+[Artema Translations](http://hotayeldi-traducciones.blogspot.com.es/){:target="_blank"}  
+[Dreamcast.es](http://www.dreamcast.es/){:target="_blank"}  
+[Fortaleza Romhack](http://fortaleza.romhackhispano.org/){:target="_blank"}  
+[Game Over me pone](http://www.portalgameover.com/){:target="_blank"}  
+[Romhacking.net](http://www.romhacking.net/){:target="_blank"}  
+[SegaSaturno](http://www.segasaturno.com/){:target="_blank"}  
+[Tales Translations](http://blog.tales-tra.com/){:target="_blank"}  
 
 

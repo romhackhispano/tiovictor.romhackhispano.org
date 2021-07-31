@@ -44,13 +44,13 @@ gallery:
 Traducción realizada en colaboración con TBG, eduwanke y GameZelda de los foros de ElOtroLado.net. 
 Publicada el 4 de abril de 2010.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/8jeidbo5qvomf4x/DeadSpaceExtractionESP11.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!cUdmRJBZ!1ONCTYcR1f2YX8aeWaFWrmKGhCEV3QM-id8XCjmAD3k">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/8jeidbo5qvomf4x/DeadSpaceExtractionESP11.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!cUdmRJBZ!1ONCTYcR1f2YX8aeWaFWrmKGhCEV3QM-id8XCjmAD3k" target="_blank">MEGA</a></strong></h1>
 
 La traducción ha sido realizada en base a la versión PAL, pero gracias al sistema Riivolution, 
 se puede utilizar también en la versión NTSC-U, sin importar la consola que tengas.
 
 Hemos utilizado el formato de parche Riivolution (Que permite parchear al vuelo una copia original 
-del juego). Podéis bajaros el parcheador y saber más sobre este sistema en [http://rvlution.net/riiv/](http://rvlution.net/riiv/)
+del juego). Podéis bajaros el parcheador y saber más sobre este sistema en [http://rvlution.net/riiv/](http://rvlution.net/riiv/){:target="_blank"}
 
 CRÉDITOS:  
 GameZelda - Creación de herramientas e investigaciones iniciales  
@@ -62,5 +62,4 @@ TBG - Traducción sobre papel, investigaciones posteriores, inserción
 
 {% include gallery %}
 
-[Hilo de discusión OFICIAL (Para sugerencias y soporte técnico) en 
-ElOtroLado](http://www.elotrolado.net/hilo_preproyecto-traduccion-de-dead-space-extraction_1306888)
+[Hilo de discusión OFICIAL (Para sugerencias y soporte técnico) en ElOtroLado](http://www.elotrolado.net/hilo_preproyecto-traduccion-de-dead-space-extraction_1306888){:target="_blank"}

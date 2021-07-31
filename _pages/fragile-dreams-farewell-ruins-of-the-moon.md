@@ -25,7 +25,9 @@ Proyecto llevado a cabo en Traducciones de Tío Víctor, por el siguiente equipo
 **CUE, Klint y Pacochan de Tales Translations, xulikotony, TheKiller**, y yo, **IlDucci**; 
 con la colaboración de **yS, Raizing, Luffy, Ayato** y los creadores de **Riivolution**.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/eva1brhnodvb53d/FragileDreamsESP11.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!QUlSnawK!VPhIxEUNwvN7ZNaXmSL1uhB1nqm_ph6bscwnt-WWNC4">MEGA</a></strong></h1>
+<h3 style="text-align: center;">VERSIÓN 1.1 DEL PARCHE DE TRADUCCIÓN:</h3>
+
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/eva1brhnodvb53d/FragileDreamsESP11.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!QUlSnawK!VPhIxEUNwvN7ZNaXmSL1uhB1nqm_ph6bscwnt-WWNC4" target="_blank">MEGA</a></strong></h1>
 
 El parche contiene todos los textos que había en inglés completamente traducidos al Castellano, 
 y trae un pequeño extra: En los mapas había algunas líneas en Japonés que no se habían traducido 
@@ -38,7 +40,7 @@ proyecto de fantraducción.**
 Este parche utiliza el formato del sistema de parcheo al vuelo Riivolution, que permite a los 
 usuarios que tengan una copia original del juego poder jugarlo traducido sin tener que realizar 
 copia alguna de él.  
-Podéis bajaros el parcheador y saber más sobre este sistema en [http://rvlution.net/riiv/](http://rvlution.net/riiv/Main_Page)
+Podéis bajaros el parcheador y saber más sobre este sistema en [http://rvlution.net/riiv/](http://rvlution.net/riiv/Main_Page){:target="_blank"}
 
 Capturas del desarrollo (Las siguientes imágenes no reflejan el resultado final):
 

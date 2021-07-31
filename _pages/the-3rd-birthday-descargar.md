@@ -21,9 +21,9 @@ _Testeo:_ eliden
 _Desde aquí queremos dar un fuerte saludo al equipo que ha completado la fantraducción 
 italiana en romhacking.it y darles las gracias por permitirnos usar sus modificaciones._
 
-_**VERSIÓN 1.5 DEL PARCHE DE TRADUCCIÓN:**_
+<h3 style="text-align: center;">VERSIÓN 1.5B DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/1r2j1t1ubjiqkh3/T3B-V15-TraduESP.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!kMV0iBbD!khEvl2LUF0Fpbx5ku0XHcPzCH8nnS0wGuJKJ9S7Dgqk">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/T3B-V15B-TraduESP.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/AUdwRDrD#Tc9W1iwCv34CVQsnIFWxlLYeMeVaI8ddX94K4loAHYE" target="_blank">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/the-3rd-birthday/"><strong>VOLVER</strong></a></h2>
 

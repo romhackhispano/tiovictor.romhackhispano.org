@@ -10,8 +10,6 @@ Aquí encontrarás la última versión del parche de traducción. El parche debe
 a una imagen .GDI del juego original. Por favor, no preguntes dónde encontrar las imágenes 
 .GDI originales o las imágenes ya traducidas.
 
-<h3 style="text-align: center;"><a href="http://www.mediafire.com/download/1m6fenyl53bih70/ShenmueIEnEspa%C3%B1ol105b.7z" target="_blank">VERSIÓN 1.0.5B DEL PARCHE</a></h3>
-
 Creación del proyecto, traductor incial: **Ryo Suzuki**  
 Segundo jefe de proyecto, traducción de textos, dirección de doblaje: **IlDucci**  
 Corrección de textos: **el_capo, xulikotony**  
@@ -24,6 +22,10 @@ Shenhua Ling (Castellano): **Laura Peña**
 Shenhua Ling (Español latino): **Rinneichan**  
 Narrador del epílogo (Castellano): **Víctor González**  
 Narrador del epílogo (Español latino): **Juanjo Martí**
+
+<h3 style="text-align: center;">VERSIÓN 1.0.5.B DEL PARCHE DE TRADUCCIÓN:</h3>
+
+<h1 style="text-align: center;"><strong><a href="https://mega.nz/file/xc0GGTTR#pETvPMO4hZD5qALFJqUHe0F3WAmP00Oi7RZcVdhIF6I" target="_blank">MEGA</a> - <a href="http://tradusquare.es/parches/TraduccionesTioVictor/ShenmueIEnEspañol105b.7z" target="_blank">TRADUSQUARE</a></strong></h1>
 
 <h2 style="text-align: center;"><strong><a href="/shenmue/">VOLVER</a></strong></h2>
 

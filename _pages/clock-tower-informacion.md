@@ -7,7 +7,7 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/capturas/">CAPTURAS</a> - <a href="/clock-tower/descargar/">DESCARGAS</a></strong></h2>
 
-## INFORMACIÓN PARA LA VERSIÓN DE PLAYSTATION (BAJAR PARA VER LA INFORMACIÓN PARA SUPER NINTENDO)
+## INFORMACIÓN PARA LA VERSIÓN DE PLAYSTATION
 
 ### Aplicación del parche (Por R41D3R)
 
@@ -47,12 +47,17 @@ Triángulo y esperar a que Jennifer se arrodille para descansar.
 
 ### Aplicación del parche
 
-Cómo aplicar el parche en formato .IPS con Lunar IPS:
-
 Necesitarás una copia de la ROM de Clock Tower (J) en formato SMC CON 
 CABECERA, el archivo IPS de la traducción de Aeon Genesis, el archivo IPS 
 incluido y la aplicación Lunar IPS (Puedes conseguirla en este enlace: 
 http://www.romhacking.net/utilities/240/ )
+
+Esta es la suma de comprobación (checksum) de la ROM original del juego en 
+formato .SMC:
+
+CRC-32: ec246b7e  
+   MD5: f921fac3bbd70be88ea02576e9d7fe2f  
+ SHA-1: 672935366f6393d6161ef853d2152b3f076e6935
 
  - Abre el programa Lunar IPS.exe.  
  - Haz clic en "Apply IPS Patch".  
@@ -64,9 +69,7 @@ http://www.romhacking.net/utilities/240/ )
  - En la ventana "Select File to Patch", selecciona el mismo archivo SMC que has parcheado antes. El archivo será sobrescrito.  
  - El programa dirá que el parche ha sido aplicado. La ROM ya está traducida al castellano.
 
-El parche en castellano ha sido probado en emuladores, pero debería 
-funcionar en flashcards, como el Super EverDrive.
-
+El parche en castellano ha sido probado en emuladores, pero debería funcionar en flashcards, como el Super EverDrive.
 
 ### Controles del juego
 

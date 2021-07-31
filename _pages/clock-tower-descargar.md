@@ -26,8 +26,8 @@ Revisión de la versión 2.0: IlDucci
 Doblaje: VGF  
 Caligrafía de la carta: ConanCimmerio
 
-<h2 style="text-align: center;"><em><strong>Versión 2.0 del parche para PlayStation:</strong></em></h2>
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/download/a5oyc59071gad2e/CTTFF-ES-20.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!8YNwHDzS!Gup-x87OVLNn4Vonx0fZ18CWQCBMVii8_ALnWUynrHg">MEGA</a></h1>
+<h3 style="text-align: center;">VERSIÓN 2.0 DEL PARCHE PARA PLAYSTATION:</h3>
+<h1 style="text-align: center;"><a href="http://www.mediafire.com/download/a5oyc59071gad2e/CTTFF-ES-20.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!8YNwHDzS!Gup-x87OVLNn4Vonx0fZ18CWQCBMVii8_ALnWUynrHg" target="_blank">MEGA</a></h1>
 <br>
 _**CRÉDITOS DE LA VERSIÓN PARA SUPER NINTENDO:**_
 
@@ -44,8 +44,8 @@ Utiliza herramientas de RedComet y Klarth.
 
 **AVISO: REQUIRE UNA ROM CON EL PARCHE DE AEON GENESIS YA APLICADO.**
 
-<h2 style="text-align: center;"><em><strong>Versión 1.0 del parche para Super Nintendo:</strong></em></h2>
-<h1 style="text-align: center;"><a href="http://www.mediafire.com/file/fxmptpg8fxggzmm/CTSNES-ESP-10BETA.7z">MEDIAFIRE</a> - <a href="https://mega.nz/#!BIU2SDKR!K2qFXRzQn-aNHN8RRSMDdiSJbfEhLDqdy1zQ4yLifqg">MEGA</a></h1>
+<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE PARA SUPER NINTENDO:</h3>
+<h1 style="text-align: center;"><a href="http://tradusquare.es/parches/TraduccionesTioVictor/CTSNES-ESP-10BETA.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/1AdAyLyI#uWo61feorYp66V1IT1gksLoKME_feaa8RDk0JdrVpuQ" target="_blank">MEGA</a></h1>
 
 <h2 style="text-align: center;"><strong><a href="/clock-tower/">VOLVER</a></strong></h2>
 

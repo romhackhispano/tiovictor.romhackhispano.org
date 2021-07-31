@@ -43,7 +43,7 @@ main:
           url: /shenmue/
         - title: "SHENMUE II (DC/XBOX, 1.0.2)"
           url: /shenmue-ii/
-        - title: "SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1B)"
+        - title: "SILENT HILL 1 (PSX, RETRADUCCIÓN, V2.1C)"
           url: /silent-hill-1/
         - title: "SILENT HILL 2 (PS2/XBOX/PC, REVISIÓN, V1.0.2)"
           url: /silent-hill-2-directors-cut/
@@ -57,9 +57,9 @@ main:
           url: /star-wars-episodio-i-racer-para-nintendo-64/
         - title: "SWAT4: THE STETCHKOV SYNDICATE (PC, V2.2 2012)"
           url: /swat4-the-stetchkov-syndicate/
-        - title: "TIME CRISIS 1 (PSX, V1.0)"
+        - title: "TIME CRISIS 1 (PSX, V1.0B)"
           url: /time-crisis-1/
-        - title: "THE 3RD BIRTHDAY (PSP, V1.5)"
+        - title: "THE 3RD BIRTHDAY (PSP, V1.5B)"
           url: /the-3rd-birthday/
         - title: "THE WORLD ENDS WITH YOU (NDS, 2.0)"
           url: /the-world-ends-with-you-version-en-castellano-2-0/

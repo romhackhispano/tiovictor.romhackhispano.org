@@ -21,15 +21,15 @@ _**EL PARCHEADOR UTILIZA HERRAMIENTAS DE:**_
 Jöerg Schilling, Wwashington, jj1odm, Sappharad, FamilyGuy, el equipo de FFMpeg, SiZiOUS, Laurent 
 Alacoque, Philipp Biermann
 
-<h1 style="text-align: center;"><strong><a>VERSIÓN PARA DREAMCAST</a></strong></h1>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN PARA DREAMCAST:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/dfb8hczbqmmy4dm/SoldierOfFortuneDC-V10.7z">MEDIAFIRE</a> - <a href="
-https://mega.nz/#!dQsy1IbA!GAhiN4XWzxATwqT02jpSegRNqodBa3Az-RZv2sIDBcI">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/dfb8hczbqmmy4dm/SoldierOfFortuneDC-V10.7z" target="_blank">MEDIAFIRE</a> - <a href="
+https://mega.nz/#!dQsy1IbA!GAhiN4XWzxATwqT02jpSegRNqodBa3Az-RZv2sIDBcI" target="_blank">MEGA</a></strong></h1>
 
-<h1 style="text-align: center;"><strong><a>VERSIÓN PARA PC</a></strong></h1>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN PARA PC:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/dymrq0fdy3fpcd3/SoldierOfFortunePC-V10.7z">MEDIAFIRE</a> - <a href="
-https://mega.nz/#!gRNFFBCZ!ikvJdDWDhf-MI2lk8lsIMDfahXx6ul9qzyi8_CXoNxo">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/dymrq0fdy3fpcd3/SoldierOfFortunePC-V10.7z" target="_blank">MEDIAFIRE</a> - <a href="
+https://mega.nz/#!gRNFFBCZ!ikvJdDWDhf-MI2lk8lsIMDfahXx6ul9qzyi8_CXoNxo" target="_blank">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/soldier-of-fortune-1/"><strong>VOLVER</strong></a></h2>
 

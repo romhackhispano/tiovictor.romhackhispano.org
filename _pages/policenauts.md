@@ -20,5 +20,4 @@ Programación y romhacking: 75% en PSOne, 70% en Saturn.
 
 La traducción irá dirigida hacia la versión de PSOne, aunque queremos adaptarla a Saturn (Ya que es la versión con la historia más completa).
 
-[**Pulsa aquí para descargar el manual de Policenauts traducido al 
-Castellano.**](http://www.mediafire.com/download.php?fwc6b4ac966ycor)
+[**Pulsa aquí para descargar el manual de Policenauts traducido al Castellano.**](http://www.mediafire.com/download.php?fwc6b4ac966ycor){:target="_blank"}
