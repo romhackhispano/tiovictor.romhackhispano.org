@@ -16,7 +16,7 @@ _Utiliza herramientas de RedComet, Klarth, CUE, Michael Sabin y MarkGrass._
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/FearEffect2ESP-IlDucci-V10.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/JNVkETyZ#QwupQHy9rzpNi9VP6zzx9OmCZM1Y_FhR2nmJgpPrpUM" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/FearEffect2ESP-IlDucci-V10.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/JNVkETyZ#QwupQHy9rzpNi9VP6zzx9OmCZM1Y_FhR2nmJgpPrpUM" target="_blank">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/fear-effect-2-retro-helix/"><strong>VOLVER</strong></a></h2>
 

@@ -25,7 +25,7 @@ Narrador del epílogo (Español latino): **Juanjo Martí**
 
 <h3 style="text-align: center;">VERSIÓN 1.0.5.B DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/file/xc0GGTTR#pETvPMO4hZD5qALFJqUHe0F3WAmP00Oi7RZcVdhIF6I" target="_blank">MEGA</a> - <a href="http://tradusquare.es/parches/TraduccionesTioVictor/ShenmueIEnEspañol105b.7z" target="_blank">TRADUSQUARE</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://mega.nz/file/xc0GGTTR#pETvPMO4hZD5qALFJqUHe0F3WAmP00Oi7RZcVdhIF6I" target="_blank">MEGA</a> - <a href="https://tradusquare.es/parches/TraduccionesTioVictor/ShenmueIEnEspañol105b.7z" target="_blank">TRADUSQUARE</a></strong></h1>
 
 <h2 style="text-align: center;"><strong><a href="/shenmue/">VOLVER</a></strong></h2>
 

@@ -14,7 +14,7 @@ _Utiliza herramientas de RedComet, Klarth, Hermes/PS2REALITY y Dageron._
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/OPWB-V10-ESP.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/pYVkSZqC#PppPK_y0youHdoJW-hBpJDkdKdQNlcJh8-A5cRnoAyE" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/OPWB-V10-ESP.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/pYVkSZqC#PppPK_y0youHdoJW-hBpJDkdKdQNlcJh8-A5cRnoAyE" target="_blank">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/operation-winback/"><strong>VOLVER</strong></a></h2>
 

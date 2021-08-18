@@ -25,7 +25,7 @@ Hill por su ayuda y por el trabajo del Enhanced Edition.
 
 <h3 style="text-align: center;">VERSIÓN 1.0.2 DEL PARCHE DE RETRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/SH2DC-REVISION-TTV-V1.0.2.7z" target="_blank">TRADUSQUARE</a>
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/SH2DC-REVISION-TTV-V1.0.2.7z" target="_blank">TRADUSQUARE</a>
 
 <h2 style="text-align: center;"><a href="/silent-hill-2-directors-cut/"><strong>VOLVER</strong></a></h2>
 

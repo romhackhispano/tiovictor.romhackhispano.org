@@ -34,12 +34,12 @@ Imágenes de la versión de PSOne:
 
 <h3 style="text-align: center;">PARCHE PARA LA VERSIÓN DE PLAYSTATION ONE:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/Ready2Rumble-PSX-PAL.7z" target="_blank">TRADUSQUARE</a> - 
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/Ready2Rumble-PSX-PAL.7z" target="_blank">TRADUSQUARE</a> - 
 <a href="https://mega.nz/file/xFdS2J4C#WQq7-Gvvrg0WBb6tsZlta2WSLJrX7ScdoSVtrT4SGUg" target="_blank">MEGA</a></strong></h1>
 
 <h3 style="text-align: center;">PARCHE PARA LA VERSIÓN DE NINTENDO 64:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/Ready2Rumble-N64-%28E%29%28M3%29%5B%21%5D.7z" target="_blank">TRADUSQUARE</a> - 
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/Ready2Rumble-N64-%28E%29%28M3%29%5B%21%5D.7z" target="_blank">TRADUSQUARE</a> - 
 <a href="https://mega.nz/file/UJFG1Bab#jIxCHqSD6h7se4G7IUSuwZatyixdnzcQzpR6cO3wzRU" target="_blank">MEGA</a></strong></h1>
 
 _**Utilidades necesarias para parchear la ROM:**_  

@@ -45,7 +45,7 @@ Utiliza herramientas de RedComet y Klarth.
 **AVISO: REQUIRE UNA ROM CON EL PARCHE DE AEON GENESIS YA APLICADO.**
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE PARA SUPER NINTENDO:</h3>
-<h1 style="text-align: center;"><a href="http://tradusquare.es/parches/TraduccionesTioVictor/CTSNES-ESP-10BETA.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/1AdAyLyI#uWo61feorYp66V1IT1gksLoKME_feaa8RDk0JdrVpuQ" target="_blank">MEGA</a></h1>
+<h1 style="text-align: center;"><a href="https://tradusquare.es/parches/TraduccionesTioVictor/CTSNES-ESP-10BETA.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/1AdAyLyI#uWo61feorYp66V1IT1gksLoKME_feaa8RDk0JdrVpuQ" target="_blank">MEGA</a></h1>
 
 <h2 style="text-align: center;"><strong><a href="/clock-tower/">VOLVER</a></strong></h2>
 

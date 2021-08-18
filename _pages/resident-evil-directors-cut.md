@@ -61,11 +61,11 @@ no sea tan abrupto.
 
 <h3 style="text-align: center;">TRADUCCIÓN DEL JUEGO (V3.6 FINAL 2010):</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/REDC-V36.rar" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/#!IBUAkLRA!MBRMMFKk2DKND6GxVbel8dZnDRXsK059igCXZQeiZq0" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/REDC-V36.rar" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/#!IBUAkLRA!MBRMMFKk2DKND6GxVbel8dZnDRXsK059igCXZQeiZq0" target="_blank">MEGA</a></strong></h1>
 
 <h3 style="text-align: center;">TRADUCCIÓN DEL JUEGO (V4.0 2016):</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/REDC-V40.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/dIdyGbgK#pyCjkZQyWdxhR4gsn9QTNF-NP3X-5OjwscNhARGkjeI" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/REDC-V40.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/dIdyGbgK#pyCjkZQyWdxhR4gsn9QTNF-NP3X-5OjwscNhARGkjeI" target="_blank">MEGA</a></strong></h1>
 
 ### Utilidades necesarias para parchear la ISO
 

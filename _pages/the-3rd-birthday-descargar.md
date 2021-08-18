@@ -23,7 +23,7 @@ italiana en romhacking.it y darles las gracias por permitirnos usar sus modifica
 
 <h3 style="text-align: center;">VERSIÓN 1.5B DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://tradusquare.es/parches/TraduccionesTioVictor/T3B-V15B-TraduESP.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/AUdwRDrD#Tc9W1iwCv34CVQsnIFWxlLYeMeVaI8ddX94K4loAHYE" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/T3B-V15B-TraduESP.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/AUdwRDrD#Tc9W1iwCv34CVQsnIFWxlLYeMeVaI8ddX94K4loAHYE" target="_blank">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/the-3rd-birthday/"><strong>VOLVER</strong></a></h2>
 
