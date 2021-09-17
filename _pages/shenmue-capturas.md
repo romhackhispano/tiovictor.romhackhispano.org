@@ -119,7 +119,7 @@ gallery2:
  - url: /img/2011/11/demul-2015-05-11-16-22-30-76.jpg
    image_path: /img/2011/11/demul-2015-05-11-16-22-30-76.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="/shenmue/informacion/">INFORMACIÓN</a> - <a href="/shenmue/descargar/">DESCARGAS</a> - <a href="/shenmue/capturas/">CAPTURAS</a> - <a href="/shenmue/videos/">VÍDEOS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/shenmue/informacion/">INFORMACIÓN</a> - <a href="/shenmue/descargar/">DESCARGAS</a> - <a href="/shenmue/capturas/">CAPTURAS</a> - <a href="/shenmue/videos/">VÍDEOS</a></strong></h2>
 
 _**Capturas de la versión 1.0:**_
 

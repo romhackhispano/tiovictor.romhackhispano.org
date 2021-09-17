@@ -5,7 +5,7 @@ header:
   overlay_image: /img/headers/pages/Shenmue1Header.jpg
 comments: false
 ---
-<h2 style="text-align: center;"><strong><a href="/shenmue/informacion/">INFORMACIÓN</a> - <a href="/shenmue/descargar/">DESCARGAS</a> - <a href="/shenmue/capturas/">CAPTURAS</a> - <a href="/shenmue/videos/">VÍDEOS</a></strong></h2>  
+<h2 style="text-align: center;"><strong><a href="/shenmue/informacion/">INFORMACIÓN</a> - <a href="/shenmue/descargar/">DESCARGAS</a> - <a href="/shenmue/capturas/">CAPTURAS</a> - <a href="/shenmue/videos/">VÍDEOS</a></strong></h2>  
 
 ### INFORMACIÓN DEL PROYECTO
 

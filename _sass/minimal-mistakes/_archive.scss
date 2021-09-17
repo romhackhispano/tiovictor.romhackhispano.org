@@ -74,7 +74,8 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-6;
+  /* MODIFICACION PARA AUMENTAR EL TAMANO DE LA FUENTE DE LOS CONTENIDOS DE LAS NOTICIAS EN LA PAGINA PRINCIPAL */
+  font-size: $type-size-5;
 
   & + p {
     text-indent: 0;
@@ -127,7 +128,8 @@
 .list__item {
   .page__meta {
     margin: 0 0 4px;
-    font-size: 0.6em;
+    /* MODIFICACION PARA AUMENTAR EL TAMANO DE LA FUENTE DE LA FECHA Y EL ENLACE DE COMENTARIOS EN LAS NOTICIAS DE LA PAGINA PRINCIPAL */
+    font-size: 0.75em;
   }
 }
 

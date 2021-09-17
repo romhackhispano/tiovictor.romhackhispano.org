@@ -223,6 +223,7 @@ compress_html:
   ignore:
     envs: development
 
+date_format: "%-d de %m de %Y"
 
 # Defaults
 # MODIFICACIÓN: Cambian los defaults de forma acorde con el diseño de la página.

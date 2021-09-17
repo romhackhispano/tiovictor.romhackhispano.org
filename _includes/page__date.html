@@ -1,46 +1,8 @@
-<!-- MODIFICACION: Aprovecha esta pagina nueva para anadir aqui el formato de fecha personalizado -->
+<!-- MODIFICACION: Cambia el sistema de visualizacion de fecha para que muestre los meses en minusculas. -->
+<!-- Este codigo no muestra efecto alguno en el estado actual de la web -->
+{% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 {% if page.last_modified_at %}
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong>
-   <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">
-    {% assign m = page.last_modified_at | date: "%-m" %}
-    {{ page.last_modified_at | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}de enero de
-    {% when '2' %}de febrero de
-    {% when '3' %}de marzo de
-    {% when '4' %}de abril de
-    {% when '5' %}de mayo de
-    {% when '6' %}de junio de
-    {% when '7' %}de julio de
-    {% when '8' %}de agosto de
-    {% when '9' %}de septiembre de
-    {% when '10' %}de octubre de
-    {% when '11' %}de noviembre de
-    {% when '12' %}de diciembre de
-    {% endcase %}
-    {{ page.last_modified_at | date: "%Y" }}
-   </time>
-  </p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.last_modified_at | date: "%Y-%m-%d" }}">{{ page.last_modified_at | date: date_format }}</time></p>
 {% elsif page.date %}
-  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong>
-   <time datetime="{{ page.date | date_to_xmlschema }}">
-    {% assign m = page.date | date: "%-m" %}
-    {{ page.date | date: "%-d" }}
-    {% case m %}
-    {% when '1' %}de enero de
-    {% when '2' %}de febrero de
-    {% when '3' %}de marzo de
-    {% when '4' %}de abril de
-    {% when '5' %}de mayo de
-    {% when '6' %}de junio de
-    {% when '7' %}de julio de
-    {% when '8' %}de agosto de
-    {% when '9' %}de septiembre de
-    {% when '10' %}de octubre de
-    {% when '11' %}de noviembre de
-    {% when '12' %}de diciembre de
-    {% endcase %}
-    {{ page.date | date: "%Y" }}
-   </time>
-  </p>
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: date_format }}</time></p>
 {% endif %}
