@@ -168,8 +168,10 @@ body {
 
   &--overlay {
     position: relative;
-    margin-bottom: 2em;
-    padding: 3em 0;
+    /* MODIFICACIONES DE LA WEB */
+    margin-bottom: 1.5em;
+    padding: 2.5em 0;
+    min-height: 9em;
     @include clearfix;
     background-size: cover;
     background-repeat: no-repeat;
