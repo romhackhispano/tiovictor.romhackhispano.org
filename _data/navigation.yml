@@ -3,7 +3,7 @@ main:
   - title: "Traducciones"
     url: /traducciones/
     children:
-        - title: "ACE COMBAT 3: ELECTROSPHERE (PSX, EN PROGRESO)"
+        - title: "ACE COMBAT 3: ELECTROSFERA (PSX, EN PROGRESO)"
           url: /ace-combat-3/
         - title: "ALIEN SWARM (PC, V1.6)"
           url: /alien-swarm/
@@ -82,6 +82,11 @@ main:
           url: /goldeneye-007-colaboracion/
         - title: "Project Zero/Fatal Frame 4"
           url: /project-zero-fatal-frame-4/
+  - title: "Otras modificaciones"
+    url: /otras-modificaciones/
+    children:
+        - title: "Forbidden Siren 2 (fuente mejorada)"
+          url: /forbidden-siren-2-fuente/
   - title: "Amigos"
     url: /amigos/
     children:

@@ -5,7 +5,8 @@ header:
   overlay_image: /img/headers/pages/Persona3FESHeader.jpg
 comments: false
 ---
-<h2 style="text-align: center;"><strong><a href="/persona-3-fes/informacion/">INFORMACIÓN</a> - <a href="/persona-3-fes/descargar/">DESCARGAS</a> - <a href="/persona-3-fes/capturas/">CAPTURAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/persona-3-fes/informacion/">INFORMACIÓN</a> - <a href="/persona-3-fes/descargar/">DESCARGAS</a><br>  
+<a href="/persona-3-fes/capturas/">CAPTURAS</a> - <a href="/persona-3-fes/tutoriales/">TUTORIALES AVANZADOS</a><br></strong></h2>
 
 ### Información general del proyecto
 
@@ -39,26 +40,16 @@ ninguno de los mods que hay actualmente en circulación**: undubs al japonés,
 mods para cargar archivos del disco duro mediante emulador, el mod para 
 poder elegir a todo el equipo en combate...
 
-Para el caso del undub, las modificaciones que hemos hecho han alterado los 
-sistemas de archivos del juego, así que es necesario modificar o bien los 
-programas existentes (PersonaPatcher, ModCompendium) o bien el mod para leer 
-archivos del HDD en PCSX2. La gente que conozco que sería capaz de hacer 
-esos cambios no está disponible en estos momentos, así que habría que 
-pedírselo a los creadores de estos mods, pero ya han demostrado que solo les 
-interesa modificar la versión NTSC-U pura. Así que, sintiéndolo mucho, hay 
-que esperar.
+Eso quiere decir que para aplicar otros mods que afectan a los archivos del juego, 
+como es el caso de un undub, hay que editar los archivos DESPUÉS de aplicar el parche 
+de fantraducción. Actualmente se pueden aplicar mediante un método que podréis encontrar 
+en el apartado de tutoriales avanzados. 
 
-Para el caso del mod para elegir a todo el equipo de combate, es necesario 
-modificar el mod por dos motivos:
- - para que sea compatible con la versión PAL del juego,
- - para que sea compatible con nuestras modificaciones.
-
-Me explico: los cambios que se han hecho en el ejecutable del juego han 
-requerido de inyectar código en una zona sin usar del juego. Resulta que esa 
-zona está cotizada por todos los modders de Persona 3, así que es necesario 
-que alguien con conocimientos de ingeniería inversa mueva el mod de sitio (o 
-mover nuestros cambios de sitio, pero, de nuevo, el retraso de un mes como 
-mínimo nos afecta).
+Para que funcionen otros mods de tipo .PNACH o que afecten al ejecutable del juego, 
+es necesario modificar o bien los programas existentes (ModCompendium, etc.) o bien esos mods 
+en sí, como el que permite leer archivos del HDD en PCSX2. Por desgracia, no tenemos tiempo 
+para andar convirtiendo estos mods y los creadores originales ya han demostrado que solo les 
+interesa modificar la versión NTSC-U pura. Lo siento.
 
 **Si quieres distribuir estos parches o ponerlos en tu página web, por favor, 
 consúltanos primero. Bajo ningún concepto distribuyas o cuelgues en internet 

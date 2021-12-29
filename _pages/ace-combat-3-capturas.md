@@ -1,5 +1,5 @@
 ---
-title: "Capturas de Ace Combat 3: Electrosphere"
+title: "Capturas de Ace Combat 3: Electrosfera"
 permalink: /ace-combat-3/capturas/
 header:
   overlay_image: /img/headers/pages/AceCombat3Header.jpg
@@ -37,6 +37,9 @@ gallery:
    image_path: /img/2019/01/AC3-ESP-20190106-51.jpg
 ---
 <h2 style="text-align: center;"><strong><a href="/ace-combat-3/capturas/">CAPTURAS</a></strong></h2>
+
+**TRÁILER FINAL, 27 de noviembre de 2021**
+{% include video id="pBC0jYR3yXY" provider="youtube" %}
 
 **GRABACIÓN DE LAS TRES PRIMERAS MISIONES, VERSIÓN AVANZADA, 2 de agosto de 2019:**
 {% include video id="dR_7OM-ZWsw" provider="youtube" %}

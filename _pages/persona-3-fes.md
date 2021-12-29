@@ -4,7 +4,8 @@ permalink: /persona-3-fes/
 header:
   overlay_image: /img/headers/pages/Persona3FESHeader.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="/persona-3-fes/informacion/">INFORMACIÓN</a> - <a href="/persona-3-fes/descargar/">DESCARGAS</a> - <a href="/persona-3-fes/capturas/">CAPTURAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/persona-3-fes/informacion/">INFORMACIÓN</a> - <a href="/persona-3-fes/descargar/">DESCARGAS</a><br>  
+<a href="/persona-3-fes/capturas/">CAPTURAS</a> - <a href="/persona-3-fes/tutoriales/">TUTORIALES AVANZADOS</a><br></strong></h2>
 
 <p style="text-align: center;"><img src="/img/2019/01/Persona3FESStart.jpg" /></p>
 
