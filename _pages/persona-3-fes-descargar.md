@@ -36,6 +36,8 @@ _**CRÉDITOS:**_
 *CONVERSIÓN A LA VERSIÓN PAL EUROPEA:* GriffithVIII  
 *AGRADECIMIENTOS:* Warrior250  
 
+<h3 style="text-align: center;">ARCHIVOS DE LA MODIFICACIÓN:</h3>
+
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/2pcb1hjsfk5x3yn/P3FES_Controllable_Party_Members_Mod_for_the_PAL_version_1.0.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/UNsiSTYa#jD-kOmsnkj8CQdvdDJ_-lCA311TsLfJ5WYhCgwEk52o" target="_blank">MEGA</a></strong></h1>
 
 ### PersonaPatcher con soporte para las fantraducciones al castellano (para modificar los contenidos de la ISO)

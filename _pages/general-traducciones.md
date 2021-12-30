@@ -9,6 +9,7 @@ comments: false
 # PC
 
 [**ALIEN SWARM** (V1.6)](/alien-swarm/)  
+[**A.O.T. WINGS OF FREEDOM** (EN PROGRESO)](/aot-wings-of-freedom/)  
 [**CONTRACT J.A.C.K.** (VERSIÓN 1.5 2012)](/contract-jack/)  
 [**SAGA RAINBOW SIX** (V1.0)](/saga-rainbow-six-para-pc/)  
 [**SHADOW WATCH** (V1.0)](/shadow-watch/)  
@@ -17,10 +18,13 @@ comments: false
 [**SOLDIER OF FORTUNE 1** (V1.0)](/soldier-of-fortune-1/)  
 [**SWAT4: THE STETCHKOV SYNDICATE** (V2.2 2012)](/swat4-the-stetchkov-syndicate/)  
 
-# Playstation 1, 2, PSP
+# Playstation 1, 2, 3, PSP, PS Vita
 
 [**ACE COMBAT 3: ELECTROSPHERE** (PSX, EN PROGRESO)](/ace-combat-3/)  
+[**A.O.T. WINGS OF FREEDOM** (PS3/PSVITA, EN PROGRESO)](/aot-wings-of-freedom/)  
 [**CLOCK TOWER: THE FIRST FEAR** (PSX, V2.0)](/clock-tower/)  
+[**CRIMSON TEARS** (PSX, EN PROGRESO)](/crimson-tears/)  
+[**ECHO NIGHT BEYOND** (PSX, EN PROGRESO)](/echo-night-beyond/)  
 [**FEAR EFFECT 2: RETRO HELIX** (PSX, V1.0)](/fear-effect-2-retro-helix/)  
 [**OPERATION WINBACK** (PS2, V1.0)](/operation-winback/)  
 [**PERSONA 3 FES** (PS2, PAL V1.0, NTSC-U EN PROGRESO)](/persona-3-fes/)  
