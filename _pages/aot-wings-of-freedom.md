@@ -3,45 +3,22 @@ title: "A.o.T. Wings of Freedom (PC, PS3, PSVita, EN PROGRESO)"
 permalink: /aot-wings-of-freedom/
 header:
   overlay_image: /img/headers/pages/AOTWingsOfFreedomHeader.jpg
-gallery:
- - url: /img/2021/12/AOT-20211230-01.jpg
-   image_path: /img/2021/12/AOT-20211230-01.jpg
- - url: /img/2021/12/AOT-20211230-02.jpg
-   image_path: /img/2021/12/AOT-20211230-02.jpg
- - url: /img/2021/12/AOT-20211230-03.jpg
-   image_path: /img/2021/12/AOT-20211230-03.jpg
- - url: /img/2021/12/AOT-20211230-04.jpg
-   image_path: /img/2021/12/AOT-20211230-04.jpg
- - url: /img/2021/12/AOT-20211230-05.jpg
-   image_path: /img/2021/12/AOT-20211230-05.jpg
- - url: /img/2021/12/AOT-20211230-06.jpg
-   image_path: /img/2021/12/AOT-20211230-06.jpg
- - url: /img/2021/12/AOT-20211230-07.jpg
-   image_path: /img/2021/12/AOT-20211230-07.jpg
- - url: /img/2021/12/AOT-20211230-08.jpg
-   image_path: /img/2021/12/AOT-20211230-08.jpg
- - url: /img/2021/12/AOT-20211230-09.jpg
-   image_path: /img/2021/12/AOT-20211230-09.jpg
- - url: /img/2021/12/AOT-20211230-10.jpg
-   image_path: /img/2021/12/AOT-20211230-10.jpg
- - url: /img/2021/12/AOT-20211230-11.jpg
-   image_path: /img/2021/12/AOT-20211230-11.jpg
- - url: /img/2021/12/AOT-20211230-12.jpg
-   image_path: /img/2021/12/AOT-20211230-12.jpg
- - url: /img/2021/12/AOT-20211230-13.jpg
-   image_path: /img/2021/12/AOT-20211230-13.jpg
- - url: /img/2021/12/AOT-20211230-14.jpg
-   image_path: /img/2021/12/AOT-20211230-14.jpg
- - url: /img/2021/12/AOT-20211230-15.jpg
-   image_path: /img/2021/12/AOT-20211230-15.jpg
- - url: /img/2021/12/AOT-20211230-16.jpg
-   image_path: /img/2021/12/AOT-20211230-16.jpg
- - url: /img/2021/12/AOT-20211230-17.jpg
-   image_path: /img/2021/12/AOT-20211230-17.jpg
 ---
 
-PÁGINA EN CONSTRUCCIÓN.
+<h2 style="text-align: center;"><strong><a href="/aot-wings-of-freedom/capturas/">CAPTURAS</a></strong></h2>
 
-Capturas del primer anuncio, 30 de diciembre de 2021:
+<p style="text-align: center;"><img src="/img/2022/03/AOT-20220318-01.jpg" /></p>
 
-{% include gallery %}
+Proyecto que se inició de forma privada en 2017 de cara a hacer un fandub, pero al suspenderse este, dejé aparcado hasta 
+tiempo después porque no me apetecía publicar una traducción de un juego tan reciente. Ya en enero de 2021 la recuperé para 
+publicarla cuando hubieran pasado unos cinco años desde el lanzamiento del juego original.
+
+Los términos de este proyecto siguen los impuestos por la traducción oficial del manga en España. Actualmente está pensada 
+para las versiones de PC, PlayStation 3 y PS Vita. Sería posible convertirla a la versión de PlayStation 4, pero no dispongo de 
+una consola modificada y con el juego y los DLC comprados.
+
+**CRÉDITOS (ACTUALIZADOS EL 18/03/2022)**  
+
+ - *Traducción original, edición de gráficos y vídeos:* IlDucci  
+ - *Programación:* Kaplas, Darkmet, Megaflan, Kosmo零  
+ - *Testeo y revisión de uniformidad con la traducción del manga:* joguersan, Akatsukidarkxx, Z3R0  

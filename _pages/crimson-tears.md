@@ -3,35 +3,18 @@ title: "Crimson Tears (PS2, EN PROGRESO)"
 permalink: /crimson-tears/
 header:
   overlay_image: /img/headers/pages/CrimsonTearsHeader.jpg
-gallery:
- - url: /img/2021/12/CTEARS-20211227-01.jpg
-   image_path: /img/2021/12/CTEARS-20211227-01.jpg
- - url: /img/2021/12/CTEARS-20211227-02.jpg
-   image_path: /img/2021/12/CTEARS-20211227-02.jpg
- - url: /img/2021/12/CTEARS-20211227-03.jpg
-   image_path: /img/2021/12/CTEARS-20211227-03.jpg
- - url: /img/2021/12/CTEARS-20211227-04.jpg
-   image_path: /img/2021/12/CTEARS-20211227-04.jpg
- - url: /img/2021/12/CTEARS-20211227-05.jpg
-   image_path: /img/2021/12/CTEARS-20211227-05.jpg
- - url: /img/2021/12/CTEARS-20211227-06.jpg
-   image_path: /img/2021/12/CTEARS-20211227-06.jpg
- - url: /img/2021/12/CTEARS-20211227-07.jpg
-   image_path: /img/2021/12/CTEARS-20211227-07.jpg
- - url: /img/2021/12/CTEARS-20211227-08.jpg
-   image_path: /img/2021/12/CTEARS-20211227-08.jpg
- - url: /img/2021/12/CTEARS-20211227-09.jpg
-   image_path: /img/2021/12/CTEARS-20211227-09.jpg
- - url: /img/2021/12/CTEARS-20211227-10.jpg
-   image_path: /img/2021/12/CTEARS-20211227-10.jpg
- - url: /img/2021/12/CTEARS-20211227-11.jpg
-   image_path: /img/2021/12/CTEARS-20211227-11.jpg
- - url: /img/2021/12/CTEARS-20211227-12.jpg
-   image_path: /img/2021/12/CTEARS-20211227-12.jpg
 ---
 
-PÁGINA EN CONSTRUCCIÓN.
+<h2 style="text-align: center;"><strong><a href="/crimson-tears/capturas/">CAPTURAS</a></strong></h2>
 
-Capturas del primer anuncio, 30 de diciembre de 2021:
+<p style="text-align: center;"><img src="/img/2021/12/CTEARS-20211227-01.jpg" /></p>
 
-{% include gallery %}
+Un beat'em up que compré en su día, que me hizo especial gracia, y que pensé en 2021 que sería fácil de traducir. 
+Tardé una semana en abrirlo y cerrarlo. **Actualmente tiene el 100% de gráficos y textos traducidos e insertables, 
+pero está esperando a un revisor externo.**
+
+**CRÉDITOS (ACTUALIZADOS EL 18/03/2022)**  
+
+ - *Traductor y editor de contenidos:* IlDucci  
+
+*Utiliza herramientas de Klarth, RedComet, PacoChan, y CUE.*
