@@ -10,22 +10,22 @@ comments: false
 
 ## PARCHEADOR CON LA FANTRADUCCIÓN
 
-_**CRÉDITOS (V1.0 PAL)**_  
+_**CRÉDITOS (V1.1 PAL y NTSC-U)**_  
 *TRADUCTORES:* Aegis, Saispai, Dragoonglue, Rokuso3, roli300, Ayamine, Alhechan, IlDucci  
 *REVISIÓN:* Retroductor, Valcat, TrueFaiterMan  
 *GRÁFICOS Y VÍDEOS:* IlDucci  
-*PROGRAMACIÓN (DEDICADA):* TBG, SkyBladeCloud, Meloman19, RyleFury, Darkmet, Pleonex, Megaflan, PacoChan, GriffithVIII  
+*PROGRAMACIÓN (DEDICADA):* TBG, SkyBladeCloud, Meloman19, RyleFury, Darkmet, Pleonex, Megaflan, PacoChan, GriffithVIII, D3f4lt, OrtewLant  
 *PROGRAMACIÓN (INDIRECTA):* ShrineFox, ThatOneStruggle, GNIE, TGEnigma, Dageron  
-*TESTEO:* roli300, Joguersan  
+*TESTEO:* roli300, Joguersan, Sorium  
 *AGRADECIMIENTOS:* Todos los participantes del proyecto AMALA, TrueFaiterMan, Rock_Lee/Vk, ConanCimmerio, yarghenforgen, Switch, Dark_Kudoh, MrClX, Jesús Valle "Dantezote", Rukasu13, AngieLaura, Noctis, Leeg, Hagane, La comunidad de Velvet Network
 
-<h3 style="text-align: center;">PARCHEADOR 1.0 PAL (WINDOWS DE 64 BITS):</h3>
+<h3 style="text-align: center;">PARCHEADOR 1.1 PAL Y NTSC-U (WINDOWS DE 64 BITS):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/P3FES-TraduccionAlCastellano-ParcheadorPAL64bits.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/Id0zBSbJ#oAbXnk20SYr9SPX0DysaYIhe4tNeNkSTz9F7Gb8w5B0" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/P3FES-TraduccionAlCastellano-Parcheador64bits.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/Id0zBSbJ#oAbXnk20SYr9SPX0DysaYIhe4tNeNkSTz9F7Gb8w5B0" target="_blank">MEGA</a></strong></h1>
 
-<h3 style="text-align: center;">PARCHEADOR 1.0 PAL (WINDOWS DE 32 BITS):</h3>
+<h3 style="text-align: center;">PARCHEADOR 1.1 PAL Y NTSC-U (WINDOWS DE 32 BITS):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/P3FES-TraduccionAlCastellano-ParcheadorPAL32bits.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/BU1VQShZ#0Z4C8Ld_PNFewRYfrHiyq18U2sulagVsPabSLDQdI94" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/P3FES-TraduccionAlCastellano-Parcheador32bits.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/QEVSRDbB#3tQhBOC44U2z6InzS1lL6jLSekiNNnNtZGUyz9ZOIvI" target="_blank">MEGA</a></strong></h1>
 
 ## OTRAS HERRAMIENTAS Y MODIFICACIONES
 

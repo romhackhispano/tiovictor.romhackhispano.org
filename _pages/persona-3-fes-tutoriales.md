@@ -95,13 +95,42 @@ Si tienes Linux, [existe un equivalente llamado PS2 Pnacher que puedes descargar
 <a name="tuto2"></a>
 ## Cómo editar la ISO fantraducida para cambiar sus contenidos
 
-AVISO: estas instrucciones son más complejas de lo normal. Abstenerse manazas.
+## EL KIT DE UNDUB SE HA RETRASADO UNA SEMANA POR MOTIVOS DE ÚLTIMA HORA. TENED PACIENCIA, POR FAVOR.
 
-Para añadir otros mods, lo primero que debes hacer es aplicar a una copia de seguridad 
-original y virgen de la imagen ISO del juego el parche de fantraducción. De lo contrario, 
-el parcheador o el archivo XDELTA darán un error al comprobar la integridad del mismo.
+**Necesitaréis vuestra copia de seguridad de Persona 3 FES, en su versión PAL o NTSC-U, con el parche 
+de fantraducción ya aplicado, una copia de seguridad de la versión original japonesa de Persona 3 FES 
+y el kit de undub que he preparado.**
 
-***TUTORIAL EN CONSTRUCCIÓN***
+Podéis descargaros el kit de undub **[en este enlace](ESCRIBIR AQUÍ ENLACE) ([mirror en MEGA](ESCRIBIR AQUÍ ENLACE)).**
+
+_CRÉDITOS DEL KIT DE UNDUB:_
+Programación del script: IlDucci, basada en el trabajo del SelfBootPack de FamilyGuy.
+Programación de herramientas de terceros: Igor Pavlov y el equipo OSS de 7-Zip, Jörg Schilling y el equipo 
+OSS de las cdrtools, Roxfan, CUE, Snake128, TGEnigma y el equipo OSS de Amicitia, D3f4lt
+
+**Este kit solo funciona en Windows.** He simplificado el proceso para que sea lo más sencillo posible:
+ - **Pon en una misma carpeta los contenidos** del archivo comprimido **del kit de undub, la imagen 
+   ISO de tu copia de seguridad de la versión PAL o NTSC traducida y la NTSC-J original.**
+ - **Arrastra la imagen ISO de la versión NTSC-J al archivo "_1-Extraer ISO.bat".** Asegúrate de que nada 
+   haya dado error.
+ - **Arrastra la imagen ISO de la versión PAL o NTSC-U traducidas al archivo "_1-Extraer ISO.bat".**
+   Asegúrate de que nada haya dado error.
+ - Teniendo ya los archivos de la versión japonesa y de la versión traducida extraídos, **arrastra la 
+   imagen ISO de la versión PAL o NTSC-U traducida al archivo "_2-Reinsertar todo a nueva ISO.bat".** 
+   Asegúrate de que nada haya dado error _(el mensaje "Warning: Cannot add inode hints with -no-cache-inodes" 
+   de mkisofs se puede ignorar)_.
+   Aviso a piratones: no mezcléis ~~~los rayos~~ los archivos PAL con los NTSC-U. Luego lo lamentaréis 
+   y vendréis a pedirme ayuda innecesariamente.
+ - **Si todo ha ido bien y nada ha dado errores raros, deberías tener una nueva imagen ISO** en la misma 
+   carpeta donde se encuentren los archivos .bat, cuyo nombre de archivo acabe en "_UNDUB.iso". **Ya tienes 
+   versión con las voces japonesas y los textos en español.**
+
+Varios incisos:
+ - Técnicamente, este kit también se puede usar con versiones en inglés del juego. Para otras fantraducciones, 
+   depende de las modificaciones técnicas que les hayan aplicado.
+ - **No recomiendo utilizar los archivos de un undub ya existente.** ¿Por qué? Pues porque la fantraducción aplica 
+   subtítulos a los vídeos al vuelo, a través de programación, y si utilizáis los vídeos de un undub, veréis unos 
+   subtítulos molestando a otros subtítulos, y al final os costará leerlos.
 
 
 <h2 style="text-align: center;"><a href="/persona-3-fes/"><strong>VOLVER</strong></a></h2>
