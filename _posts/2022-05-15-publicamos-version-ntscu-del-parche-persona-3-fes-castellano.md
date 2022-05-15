@@ -31,7 +31,7 @@ hacer la conversión.**
 
 Con esta versión, la 1.1, **también corregimos las últimas erratas y defectos visuales que quedaban por enmendar en parches anteriores**.
 
-Podéis descargaros el parcheador desde [la sección de descargas del proyecto](https://tiovictor.romhackhispano.org/persona-3-fes/informacion/) o [la ficha de TraduSquare](https://tradusquare.es/proyectos/persona-3-fes/)
+Podéis descargaros el parcheador desde **[la sección de descargas del proyecto](https://tiovictor.romhackhispano.org/persona-3-fes/informacion/)** o **[la ficha de TraduSquare](https://tradusquare.es/proyectos/persona-3-fes/)**.
 
 Pero eso no es todo con Persona 3 FES: **también estamos ultimando un kit de undub que os permitirá poner voces japonesas** en vuestras copias de seguridad 
 fantraducidas. Por desgracia, **no ha sido posible lanzarlo hoy, pero a lo largo de la semana que viene ya debería de estar listo para ser publicado**.
