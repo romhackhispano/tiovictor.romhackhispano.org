@@ -14,7 +14,7 @@ _**CRÉDITOS (V1.1 PAL y NTSC-U)**_
 *TRADUCTORES:* Aegis, Saispai, Dragoonglue, Rokuso3, roli300, Ayamine, Alhechan, IlDucci  
 *REVISIÓN:* Retroductor, Valcat, TrueFaiterMan  
 *GRÁFICOS Y VÍDEOS:* IlDucci  
-*PROGRAMACIÓN (DEDICADA):* TBG, SkyBladeCloud, Meloman19, RyleFury, Darkmet, Pleonex, Megaflan, PacoChan, GriffithVIII, D3f4lt, OrtewLant  
+*PROGRAMACIÓN (DEDICADA):* TBG, SkyBladeCloud, Meloman19, RyleFury, Darkmet, Pleonex, Megaflan, PacoChan, GriffithVIII, D3fau4, OrtewLant  
 *PROGRAMACIÓN (INDIRECTA):* ShrineFox, ThatOneStruggle, GNIE, TGEnigma, Dageron  
 *TESTEO:* roli300, Joguersan, Sorium  
 *AGRADECIMIENTOS:* Todos los participantes del proyecto AMALA, TrueFaiterMan, Rock_Lee/Vk, ConanCimmerio, yarghenforgen, Switch, Dark_Kudoh, MrClX, Jesús Valle "Dantezote", Rukasu13, AngieLaura, Noctis, Leeg, Hagane, La comunidad de Velvet Network

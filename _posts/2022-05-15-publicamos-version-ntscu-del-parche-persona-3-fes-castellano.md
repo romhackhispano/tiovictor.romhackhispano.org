@@ -26,7 +26,7 @@ versión NTSC-U estadounidense.** ¿Qué diferencias hay entre la PAL y la NTSC-
 es la versión que muchos españoles tendremos en nuestras estanterías, de ahí mi insistencia en cubrir ambas ediciones.
 
 Las modificaciones de la versión NTSC-U están en paridad con las modificaciones para la versión PAL, así que nadie se va a perder nada. En ese sentido, **tengo 
-que dar un millón de gracias a RyleFury por darnos el código de las modificaciones PAL, así como a D3f4lt, GriffithXIII y OrtewLant por dedicar su tiempo a 
+que dar un millón de gracias a RyleFury por darnos el código de las modificaciones PAL, así como a D3fau4, GriffithVIII y OrtewLant por dedicar su tiempo a 
 hacer la conversión.**
 
 Con esta versión, la 1.1, **también corregimos las últimas erratas y defectos visuales que quedaban por enmendar en parches anteriores**.
@@ -36,7 +36,7 @@ Podéis descargaros el parcheador desde **[la sección de descargas del proyecto
 Pero eso no es todo con Persona 3 FES: **también estamos ultimando un kit de undub que os permitirá poner voces japonesas** en vuestras copias de seguridad 
 fantraducidas. Por desgracia, **no ha sido posible lanzarlo hoy, pero a lo largo de la semana que viene ya debería de estar listo para ser publicado**.
 
-**Para este kit de undub he contado con la ayuda directa de D3f4lt y de Snake128**, este último de SwitchCord Traducciones, para poder hacerlo realidad con el 
+**Para este kit de undub he contado con la ayuda directa de D3fau4 y de Snake128**, este último de SwitchCord Traducciones, para poder hacerlo realidad con el 
 mínimo de herramientas, todas ellas de código abierto.
 
 Lo último que me quedaría por editar, de nuevo, son las onomatopeyas en 3D que aparecen al conectar un ataque en las batallas. A lo largo de este año ha habido 

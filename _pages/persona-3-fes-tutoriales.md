@@ -106,7 +106,7 @@ Podéis descargaros el kit de undub **[en este enlace](ESCRIBIR AQUÍ ENLACE) ([
 _CRÉDITOS DEL KIT DE UNDUB:_
 Programación del script: IlDucci, basada en el trabajo del SelfBootPack de FamilyGuy.
 Programación de herramientas de terceros: Igor Pavlov y el equipo OSS de 7-Zip, Jörg Schilling y el equipo 
-OSS de las cdrtools, Roxfan, CUE, Snake128, TGEnigma y el equipo OSS de Amicitia, D3f4lt
+OSS de las cdrtools, Roxfan, CUE, Snake128, TGEnigma y el equipo OSS de Amicitia, D3fau4
 
 **Este kit solo funciona en Windows.** He simplificado el proceso para que sea lo más sencillo posible:
  - **Pon en una misma carpeta los contenidos** del archivo comprimido **del kit de undub, la imagen 
