@@ -21,11 +21,11 @@ _**CRÉDITOS (V1.1 PAL y NTSC-U)**_
 
 <h3 style="text-align: center;">PARCHEADOR 1.1 PAL Y NTSC-U (WINDOWS DE 64 BITS):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador64bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/QEVSRDbB#3tQhBOC44U2z6InzS1lL6jLSekiNNnNtZGUyz9ZOIvI" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador64bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/dAdgjDjb#aSCw9cdGgsYlQLMk2dY4sFRTSPfLtvZ6rd-O56GN1bg" target="_blank">MEGA</a></strong></h1>
 
 <h3 style="text-align: center;">PARCHEADOR 1.1 PAL Y NTSC-U (WINDOWS DE 32 BITS):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador32bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/xdcTRRID#iPUavwsSJJgk0ZnEcbPI4Cn6wJBf9VVf3ApM4k9FIU4" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador32bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/1NdjGJLL#EMO2GMSJWVixYue4hBC_Z0Xy_KqUR6XZritk6kgDpx8" target="_blank">MEGA</a></strong></h1>
 
 ## OTRAS HERRAMIENTAS Y MODIFICACIONES
 
