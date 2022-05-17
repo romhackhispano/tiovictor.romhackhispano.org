@@ -18,6 +18,9 @@ tags:
 - 'Echo Night Beyond'
 ---
 
+**EDIT 17/05/2022: He actualizado el parche para corregir un defecto visual en la versión NTSC-U (no es necesario redescargar el parcheador, pero sí volver 
+a aplicar el parche sobre una copia de seguridad virgen del juego) y ya he publicado el kit de undub.**
+
 Buenas a todos. Vaya mesecitos que hemos tenido por aquí, la verdad. Bueno, no me andaré por las ramas: **la fantraducción de Persona 3 FES ha finalizado. 
 Otra vez.**
 

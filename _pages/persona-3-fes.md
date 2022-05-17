@@ -1,5 +1,5 @@
 ---
-title: "Persona 3 FES (V1.1)"
+title: "Persona 3 FES (V1.1b)"
 permalink: /persona-3-fes/
 header:
   overlay_image: /img/headers/pages/Persona3FESHeader.jpg

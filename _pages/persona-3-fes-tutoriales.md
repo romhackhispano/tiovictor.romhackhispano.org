@@ -11,7 +11,7 @@ comments: false
 # Índice
 
 1. [Cómo aplicar el parche de control del equipo de combate (Controllable Party Mod)](#tuto1)
-2. [Cómo editar la ISO fantraducida para cambiar sus contenidos](#tuto2)
+2. [Cómo hacer un undub con la ISO fantraducida](#tuto2)
 
 <a name="tuto1"></a>
 ## Cómo aplicar el parche de control del equipo de combate (Controllable Party Mod)
@@ -93,15 +93,15 @@ has seguido todos los pasos al pie de la letra, coméntanoslo por TraduSquare.
 Si tienes Linux, [existe un equivalente llamado PS2 Pnacher que puedes descargar desde aquí.](https://github.com/Snaggly/PS2_Pnacher)
 
 <a name="tuto2"></a>
-## Cómo editar la ISO fantraducida para cambiar sus contenidos
-
-## EL KIT DE UNDUB SE HA RETRASADO UNA SEMANA POR MOTIVOS DE ÚLTIMA HORA. TENED PACIENCIA, POR FAVOR.
+## Cómo hacer un undub con la ISO fantraducida
 
 **Necesitaréis vuestra copia de seguridad de Persona 3 FES, en su versión PAL o NTSC-U, con el parche 
 de fantraducción ya aplicado, una copia de seguridad de la versión original japonesa de Persona 3 FES 
 y el kit de undub que he preparado.**
 
-Podéis descargaros el kit de undub **[en este enlace](ESCRIBIR AQUÍ ENLACE) ([mirror en MEGA](ESCRIBIR AQUÍ ENLACE)).**
+<h3 style="text-align: center;">DESCARGA DEL KIT DE MODIFICACIÓN:</h3>
+
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/atdmpyrl8y2r61z/KitUndubP3F10.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/AN0C1BhD#UjFK5zgOUK1puwvmFjSIt42Kr060FeJBWq38rsk1Sb8" target="_blank">MEGA</a></strong></h1>
 
 _CRÉDITOS DEL KIT DE UNDUB:_
 Programación del script: IlDucci, basada en el trabajo del SelfBootPack de FamilyGuy.

@@ -84,6 +84,7 @@ poseedores del juego original.
   - Corregidos los defectos de color verde en los vídeos de los créditos finales de El viaje.
   - Corregidas las pocas erratas encontradas a lo largo de este año.
   - Corregidas otras varias erratas menores.
+* v1.1b - Corregido un defecto visual en la pantalla de selección de accesorios en la versión NTSC-U estadounidense.
 
 ### Instrucciones para aplicar el parche de traducción en PlayStation 2
 

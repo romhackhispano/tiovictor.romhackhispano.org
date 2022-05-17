@@ -10,7 +10,7 @@ comments: false
 
 ## PARCHEADOR CON LA FANTRADUCCIÓN
 
-_**CRÉDITOS (V1.1 PAL y NTSC-U)**_  
+_**CRÉDITOS (V1.1 PAL y v1.1b NTSC-U)**_  
 *TRADUCTORES:* Aegis, Saispai, Dragoonglue, Rokuso3, roli300, Ayamine, Alhechan, IlDucci  
 *REVISIÓN:* Retroductor, Valcat, TrueFaiterMan  
 *GRÁFICOS Y VÍDEOS:* IlDucci  
@@ -19,13 +19,13 @@ _**CRÉDITOS (V1.1 PAL y NTSC-U)**_
 *TESTEO:* roli300, Joguersan, Sorium  
 *AGRADECIMIENTOS:* Todos los participantes del proyecto AMALA, TrueFaiterMan, Rock_Lee/Vk, ConanCimmerio, yarghenforgen, Switch, Dark_Kudoh, MrClX, Jesús Valle "Dantezote", Rukasu13, AngieLaura, Noctis, Leeg, Hagane, La comunidad de Velvet Network
 
-<h3 style="text-align: center;">PARCHEADOR 1.1 PAL Y NTSC-U (WINDOWS DE 64 BITS):</h3>
+<h3 style="text-align: center;">PARCHEADOR 1.1b PAL Y NTSC-U (WINDOWS DE 64 BITS):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador64bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/dAdgjDjb#aSCw9cdGgsYlQLMk2dY4sFRTSPfLtvZ6rd-O56GN1bg" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador64bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/cZsBiYaB#ZvU-HhMfrD8Jg0oPNwVLaVGWCsf6lYW-UFfMTZDaCBc" target="_blank">MEGA</a></strong></h1>
 
-<h3 style="text-align: center;">PARCHEADOR 1.1 PAL Y NTSC-U (WINDOWS DE 32 BITS):</h3>
+<h3 style="text-align: center;">PARCHEADOR 1.1b PAL Y NTSC-U (WINDOWS DE 32 BITS):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador32bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/1NdjGJLL#EMO2GMSJWVixYue4hBC_Z0Xy_KqUR6XZritk6kgDpx8" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador32bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/MY8BWJ7b#IK6QUD6ML-EDD6wxSfT2AV89hVsYJXSgctgVT8gqlkE" target="_blank">MEGA</a></strong></h1>
 
 ## OTRAS HERRAMIENTAS Y MODIFICACIONES
 
