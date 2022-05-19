@@ -44,7 +44,7 @@ fantraducidas. Por desgracia, **no ha sido posible lanzarlo hoy, pero a lo largo
 **Para este kit de undub he contado con la ayuda directa de D3fau4 y de Snake128**, este último de SwitchCord Traducciones, para poder hacerlo realidad con el 
 mínimo de herramientas, todas ellas de código abierto.
 
-El kit de undub lo podéis encontrar **[en la sección de tutoriales del proyecto](https://tiovictor.romhackhispano.org/persona-3-fes/tutoriales/)**.
+El kit de undub lo podéis encontrar **[en la sección de tutoriales del proyecto](https://tiovictor.romhackhispano.org/persona-3-fes/tutoriales/#tuto2)**.
 
 Lo último que me quedaría por editar, de nuevo, son las onomatopeyas en 3D que aparecen al conectar un ataque en las batallas. A lo largo de este año ha habido 
 avances en la manipulación de su formato por parte de la comunidad de modding de Persona, pero todavía no es posible reinsertar los modelos correctamente (estos 
