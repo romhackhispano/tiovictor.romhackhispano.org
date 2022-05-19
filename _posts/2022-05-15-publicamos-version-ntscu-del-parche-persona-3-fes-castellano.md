@@ -21,6 +21,8 @@ tags:
 **EDIT 17/05/2022: He actualizado el parche para corregir un defecto visual en la versión NTSC-U (no es necesario redescargar el parcheador, pero sí volver 
 a aplicar el parche sobre una copia de seguridad virgen del juego) y ya he publicado el kit de undub.**
 
+**EDIT 19/05/2022: He actualizado el kit de undub para enmendar el error de ISO no compatible. Si sigue dando problemas, aseguraos de instalar 7Zip antes de nada.**
+
 Buenas a todos. Vaya mesecitos que hemos tenido por aquí, la verdad. Bueno, no me andaré por las ramas: **la fantraducción de Persona 3 FES ha finalizado. 
 Otra vez.**
 
@@ -41,6 +43,8 @@ fantraducidas. Por desgracia, **no ha sido posible lanzarlo hoy, pero a lo largo
 
 **Para este kit de undub he contado con la ayuda directa de D3fau4 y de Snake128**, este último de SwitchCord Traducciones, para poder hacerlo realidad con el 
 mínimo de herramientas, todas ellas de código abierto.
+
+El kit de undub lo podéis encontrar **[en la sección de tutoriales del proyecto](https://tiovictor.romhackhispano.org/persona-3-fes/tutoriales/)**.
 
 Lo último que me quedaría por editar, de nuevo, son las onomatopeyas en 3D que aparecen al conectar un ataque en las batallas. A lo largo de este año ha habido 
 avances en la manipulación de su formato por parte de la comunidad de modding de Persona, pero todavía no es posible reinsertar los modelos correctamente (estos 

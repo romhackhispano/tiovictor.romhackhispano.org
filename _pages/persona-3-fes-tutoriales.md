@@ -101,14 +101,17 @@ y el kit de undub que he preparado.**
 
 <h3 style="text-align: center;">DESCARGA DEL KIT DE MODIFICACIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/atdmpyrl8y2r61z/KitUndubP3F10.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/AN0C1BhD#UjFK5zgOUK1puwvmFjSIt42Kr060FeJBWq38rsk1Sb8" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/lg0v0guow0qu1er/KitUndubP3F11.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/wMU3hR6B#MO9r0QhUCtJCCNrC5meXgmb4hm_l-XSo_gj2IfPh7OY" target="_blank">MEGA</a></strong></h1>
 
 _CRÉDITOS DEL KIT DE UNDUB:_
 Programación del script: IlDucci, basada en el trabajo del SelfBootPack de FamilyGuy.
 Programación de herramientas de terceros: Igor Pavlov y el equipo OSS de 7-Zip, Jörg Schilling y el equipo 
 OSS de las cdrtools, Roxfan, CUE, Snake128, TGEnigma y el equipo OSS de Amicitia, D3fau4
 
-**Este kit solo funciona en Windows.** He simplificado el proceso para que sea lo más sencillo posible:
+**Este kit solo funciona en Windows.** En caso de que salga un error de ISO no compatible, aseguraos de tener 
+instalado 7Zip en vuestro PC.
+
+He simplificado el proceso para que sea lo más sencillo posible:
  - **Pon en una misma carpeta los contenidos** del archivo comprimido **del kit de undub, la imagen 
    ISO de tu copia de seguridad de la versión PAL o NTSC traducida y la NTSC-J original.**
  - **Arrastra la imagen ISO de la versión NTSC-J al archivo "_1-Extraer ISO.bat".** Asegúrate de que nada 
