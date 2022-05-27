@@ -103,7 +103,7 @@ y el kit de undub que he preparado.**
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/q5bmry3k6uyi76z/KitUndubP3F12.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/Rdc2DA6Y#X9rYBBcP4uSPFdWfc4D-J-6cOhcH9QTJNJ7XuO8jg10" target="_blank">MEGA</a></strong></h1>
 
-_CRÉDITOS DEL KIT DE UNDUB:_
+_CRÉDITOS DEL KIT DE UNDUB:_  
 Programación del script: IlDucci, basada en el trabajo del SelfBootPack de FamilyGuy.  
 Programación de herramientas de terceros: Igor Pavlov y el equipo OSS de 7-Zip, Jörg Schilling y el equipo 
 OSS de las cdrtools, Roxfan, CUE, Snake128, TGEnigma y el equipo OSS de Amicitia, D3fau4
