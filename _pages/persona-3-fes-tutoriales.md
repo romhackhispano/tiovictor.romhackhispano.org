@@ -99,12 +99,12 @@ Si tienes Linux, [existe un equivalente llamado PS2 Pnacher que puedes descargar
 de fantraducción ya aplicado, una copia de seguridad de la versión original japonesa de Persona 3 FES 
 y el kit de undub que he preparado.**
 
-<h3 style="text-align: center;">DESCARGA DEL KIT DE MODIFICACIÓN PARA UNDUBS:</h3>
+<h3 style="text-align: center;">DESCARGA DEL KIT DE MODIFICACIÓN PARA UNDUBS (v1.2):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/lg0v0guow0qu1er/KitUndubP3F11.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/wMU3hR6B#MO9r0QhUCtJCCNrC5meXgmb4hm_l-XSo_gj2IfPh7OY" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/q5bmry3k6uyi76z/KitUndubP3F12.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/Rdc2DA6Y#X9rYBBcP4uSPFdWfc4D-J-6cOhcH9QTJNJ7XuO8jg10" target="_blank">MEGA</a></strong></h1>
 
 _CRÉDITOS DEL KIT DE UNDUB:_
-Programación del script: IlDucci, basada en el trabajo del SelfBootPack de FamilyGuy.
+Programación del script: IlDucci, basada en el trabajo del SelfBootPack de FamilyGuy.  
 Programación de herramientas de terceros: Igor Pavlov y el equipo OSS de 7-Zip, Jörg Schilling y el equipo 
 OSS de las cdrtools, Roxfan, CUE, Snake128, TGEnigma y el equipo OSS de Amicitia, D3fau4
 
