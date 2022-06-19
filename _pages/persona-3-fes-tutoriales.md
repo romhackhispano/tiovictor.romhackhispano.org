@@ -99,9 +99,9 @@ Si tienes Linux, [existe un equivalente llamado PS2 Pnacher que puedes descargar
 de fantraducción ya aplicado, una copia de seguridad de la versión original japonesa de Persona 3 FES 
 y el kit de undub que he preparado.**
 
-<h3 style="text-align: center;">DESCARGA DEL KIT DE MODIFICACIÓN PARA UNDUBS (v1.2):</h3>
+<h3 style="text-align: center;">DESCARGA DEL KIT DE MODIFICACIÓN PARA UNDUBS (v1.3):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/q5bmry3k6uyi76z/KitUndubP3F12.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/Rdc2DA6Y#X9rYBBcP4uSPFdWfc4D-J-6cOhcH9QTJNJ7XuO8jg10" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/hcc7ol8wix3t2l4/KitUndubP3F13.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/EVFAyahR#ud8gu4PKXOYm7ODMaMN-Vx3qjKxIQQ1_qBX1KHI7tZ4" target="_blank">MEGA</a></strong></h1>
 
 _CRÉDITOS DEL KIT DE UNDUB:_  
 Programación del script: IlDucci, basada en el trabajo del SelfBootPack de FamilyGuy.  

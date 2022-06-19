@@ -83,7 +83,7 @@ es: &DEFAULT_ES
   tags_label                 : "Etiquetas:"
   categories_label           : "Categorías:"
   date_label                 : "Actualizado:"
-  comments_label             : "Deja un comentario"
+  comments_label             : "Deja un comentario (NOTA: ES NECESARIO ACEPTAR LAS COOKIES PARA PODER LEER Y ENVIAR COMENTARIOS)"
   comments_title             : "Comentarios"
   more_label                 : "Ver más"
   related_label              : "Artículos relacionados"
