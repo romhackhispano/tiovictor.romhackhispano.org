@@ -27,7 +27,7 @@ Castellano. Solo quedan en Inglés los detalles de la interfaz, por obligación.
 
 <h3 style="text-align: center;">VERSIÓN 1.0 BIS DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/ZoneOfTheEnders-TraduESP10Bis.rar" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/xFMGybKC#R2KxEvd6OBV7fzz3M9M_jIT08KbXM1sE3GwLWe2PfNs" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/t77o69zd3zbx3pz/ZoneOfTheEnders-TraduESP10Bis.rar/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/xFMGybKC#R2KxEvd6OBV7fzz3M9M_jIT08KbXM1sE3GwLWe2PfNs" target="_blank">MEGA</a></strong></h1>
 
 ### Cómo aplicar el parche de traducción:
 

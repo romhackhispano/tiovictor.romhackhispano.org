@@ -23,7 +23,7 @@ Soldados/Moz: **Luisma Albarracín**
 
 <h3 style="text-align: center;">VERSIÓN 1.0C DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://tradusquare.es/parches/TraduccionesTioVictor/TimeCrisisPSOneESP10%20C.7z" target="_blank">TRADUSQUARE</a> - <a href="https://mega.nz/file/UMdxHASZ#jXnsG79n1aU3Wvus4feO40zkHS2wRSA15nTdD3_-Uuc" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/k9tl9nin83v0zv1/TimeCrisisPSOneESP10_C.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/UMdxHASZ#jXnsG79n1aU3Wvus4feO40zkHS2wRSA15nTdD3_-Uuc" target="_blank">MEGA</a></strong></h1>
 
 <h3 style="text-align: center;">HERRAMIENTAS ADICIONALES:</h3>
 

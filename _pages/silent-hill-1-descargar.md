@@ -20,7 +20,7 @@ Agradecimientos especiales a Leeg.
 
 <h3 style="text-align: center;">VERSIÓN 2.1C DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/file/4dMQFDZD#NCcBZB85Qs0Mz2gGEzjxVVr6Ga96QAOGlGrVJOkjDB0" target="_blank">MEGA</a> - <a href="https://tradusquare.es/parches/TraduccionesTioVictor/SH-PSX-Retraduccion21C.7z" target="_blank">TRADUSQUARE</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://mega.nz/file/4dMQFDZD#NCcBZB85Qs0Mz2gGEzjxVVr6Ga96QAOGlGrVJOkjDB0" target="_blank">MEGA</a> - <a href="https://www.mediafire.com/file/i2a21brql1nsh85/SH-PSX-Retraduccion21C.7z/file" target="_blank">MEDIAFIRE</a></strong></h1>
 
 Para poder aplicar el parche, necesitaréis **la versión PAL o la versión NTSC-U del juego.** 
 
