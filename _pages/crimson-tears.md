@@ -13,8 +13,9 @@ Un beat'em up que compré en su día, que me hizo especial gracia, y que pensé 
 Tardé una semana en abrirlo y cerrarlo. **Actualmente tiene el 100% de gráficos y textos traducidos e insertables, 
 pero está esperando a un revisor externo.**
 
-**CRÉDITOS (ACTUALIZADOS EL 18/03/2022)**  
+**CRÉDITOS (ACTUALIZADOS EL 04/09/2022)**  
 
  - *Traductor y editor de contenidos:* IlDucci  
+ - *Revisión y testeo:* Óscar73, IlDucci  
 
-*Utiliza herramientas de Klarth, RedComet, PacoChan, y CUE.*
+*Utiliza herramientas de Klarth, RedComet, Vash, PacoChan y CUE.*

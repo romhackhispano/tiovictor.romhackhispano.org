@@ -17,8 +17,8 @@ Los términos de este proyecto siguen los impuestos por la traducción oficial d
 para las versiones de PC, PlayStation 3 y PS Vita. Sería posible convertirla a la versión de PlayStation 4, pero no dispongo de 
 una consola modificada y con el juego y los DLC comprados.
 
-**CRÉDITOS (ACTUALIZADOS EL 18/03/2022)**  
+**CRÉDITOS (ACTUALIZADOS EL 04/09/2022)**  
 
  - *Traducción original, edición de gráficos y vídeos:* IlDucci  
- - *Programación:* Kaplas, Darkmet, Megaflan, Kosmo零  
+ - *Programación:* Kaplas, Darkmet, Megaflan, Kosmo零, D3fau4  
  - *Testeo y revisión de uniformidad con la traducción del manga:* joguersan, Akatsukidarkxx, Z3R0  

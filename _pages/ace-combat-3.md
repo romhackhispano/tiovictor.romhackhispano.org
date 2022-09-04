@@ -19,15 +19,17 @@ traducción con un nuevo traductor de japonés a inglés, de cuyos textos y acot
 italiana como en la castellana.
 
 En estos momentos, el proyecto está en una fase avanzada de desarrollo, con la ingeniería inversa acabada en un 95%, los 
-gráficos acabados en un 95% (hemos editado hasta algunas FMV, pero nos quedan por editar otras escenas animadas que utilizan 
-un formato propio), y los textos están totalmente traducidos, pero están siendo releídos y revisados para dejarlos lo más 
-pulidos posibles.
+gráficos acabados en un 95% (hemos editado hasta varias FMV) y los textos están totalmente traducidos y revisados, a falta 
+de comenzar las tareas de testeo.
 
-**CRÉDITOS (ACTUALIZADOS EL 28/12/2020)**  
+**CRÉDITOS (ACTUALIZADOS EL 04/09/2022)**  
 
 _**Una coproducción de Traducciones del Tío Víctor y loadwordteam**_
  - *Coordinador del proyecto internacional:* Infrid  
  - *Traducción japonés-inglés:* Yargenfolgen  
  - *Traducción inglés-castellano:* IlDucci  
+ - *Traducción adicional japonés-castellano, revisión lingüística:* Dark_Kudoh  
  - *Edición de gráficos:* IlDucci, OrientalComputer_01, Azu Crepuscular  
- - *Programación/Romhacking:* Infrid, SolidSnake11, OrtewLant  
+ - *Programación/Romhacking:* Infrid, SolidSnake11, OrtewLant, Kosmo零  
+
+*Utiliza herramientas de Michael Sabin, Klarth, RedComet y CUE.*

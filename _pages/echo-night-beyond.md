@@ -14,13 +14,14 @@ tener una copia original hasta muchos años después. Tras tontear con la idea d
 no fue hasta julio-agosto de 2021 cuando me dio por meterme a saco con la edición del juego, ya que todo lo que 
 he aprendido hasta ahora.
 
-**Actualmente el juego tiene el 95% de gráficos traducidos** (solo falta el del asiento del principio del juego, que tiene una codificación extraña), **el 100% de sus textos 
-traducidos** (que no eran muchos) **e insertados para hacer pruebas**, y está funcionando perfectamente. **Solo está esperando una revisión sobre papel seguida de un testeo 
-del juego, que no deberían llevar mucho tiempo. Simplemente, me falta a mí tiempo.**
+**Actualmente el juego tiene el 95% de gráficos traducidos** (solo falta el del asiento del principio del juego, que tiene una codificación extraña), **y el 100% de sus textos 
+traducidos** (que no eran muchos)**, revisados e insertados**. **Actualmente falta hacer una serie de hacks que pueden llevar algo de tiempo.**
 
-**CRÉDITOS (ACTUALIZADOS EL 18/03/2022)**  
+**CRÉDITOS (ACTUALIZADOS EL 04/09/2022)**  
 
  - *Traductor y editor de contenidos:* IlDucci  
- - *Programación:* D3fau4, Darkmet  
+ - *Revisión lingüística:* joguersan, 堕落王 (Wu)  
+ - *Testeo:* Óscar78, IlDucci  
+ - *Programación:* D3fau4, Snake128  
 
-*Utiliza herramientas de Klarth, RedComet, PacoChan, y CUE.*
+*Utiliza informaciones de wmltogether y herramientas de Klarth, RedComet, PacoChan, CUE, Darkmet y Dageron.*
