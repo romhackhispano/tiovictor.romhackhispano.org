@@ -54,8 +54,10 @@ gallery:
    image_path: /img/2021/12/ENB_20211227_30.jpg
 ---
 
-<h2 style="text-align: center;"><strong><a href="/echo-night-beyond/capturas/">CAPTURAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/echo-night-beyond/informacion/">INFORMACIÓN</a> - <a href="/echo-night-beyond/descargar/">DESCARGAS</a> - <a href="/echo-night-beyond/capturas/">CAPTURAS</a></strong></h2>
 
 Capturas del primer anuncio, 30 de diciembre de 2021:
 
 {% include gallery %}
+
+<h2 style="text-align: center;"><a href="/echo-night-beyond/"><strong>VOLVER</strong></a></h2>

@@ -1,5 +1,5 @@
 ---
-title: El Mundo Nunca Es Suficiente N64 (V1.0)
+title: El Mundo Nunca Es Suficiente N64 (V1.0.1)
 permalink: /el-mundo-nunca-es-suficiente-n64/
 header:
   overlay_image: /img/headers/pages/TWINEHeader.jpg

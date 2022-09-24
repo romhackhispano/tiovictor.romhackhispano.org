@@ -12,7 +12,7 @@ _**CRÉDITOS DEL PROYECTO:**_
 **Herramientas adicionales:** Klarth, RedComet  
 **Traducción de textos y gráficos, testeo:** IlDucci
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">VERSIÓN 1.0.1 DEL PARCHE DE TRADUCCIÓN:</h3>
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/q3i6gj32uoxyf5q/TheWorldIsNotEnoughN64V1.0.1.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!wEdShR5R!AaiDHHga5jNyBAaxn-NJB1fVvQWqOe0YoMXmcML3nRM" target="_blank">MEGA</a></strong></h1>
 

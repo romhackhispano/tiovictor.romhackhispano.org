@@ -6,6 +6,6 @@ header:
 comments: false
 ---
 
-[Forbidden Siren 2 (fuentes y gráficos mejorados)](/forbidden-siren-2-fuente/)  
+[**Forbidden Siren 2 (fuentes y gráficos mejorados)**](/forbidden-siren-2-fuente/)  
 
 

@@ -7,6 +7,23 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/el-mundo-nunca-es-suficiente-n64/informacion/">INFORMACIÓN</a> - <a href="/el-mundo-nunca-es-suficiente-n64/descargar/">DESCARGAS</a> - <a href="/el-mundo-nunca-es-suficiente-n64/capturas/">CAPTURAS</a></strong></h2>
 
+REGISTRO DE VERSIONES:
+
+ - 0.2: Primera versión, publicada el 9 de junio de 2009:
+   - Traducción casi completa de los menús y de las dos primeras misiones. 
+     No se ha editado ningún gráfico. No se han insertado los caracteres 
+     propios del español.
+ - 1.0: Segunda versión.
+   - Todo el juego está retraducido al castellano, descartando la 
+     traducción antigua. Se ha editado la fuente para incorporar las 
+     tildes y también otros gráficos esenciales para el proyecto. Se ha 
+     eliminado el selector de idioma. Gracias a Zoinkity, la protección 
+     regional por software ha sido desactivada, haciendo que esta ROM pueda
+     funcionar en consolas PAL y NTSC. Primera versión FINAL.
+ - 1.0.1: Actualización menor.
+   - Restaurado un gráfico que había sido eliminado en las pantallas 
+     de demostración.
+
 El juego ha sido testeado en consola real y en los emuladores Project64 1.6 y 1964.
 
 Ambos emuladores pueden ejecutar el juego, pero con defectos de vídeo y sonido. 
