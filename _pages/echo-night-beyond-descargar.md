@@ -17,7 +17,7 @@ comments: false
 
 *Utiliza informaciones de wmltogether y herramientas de Klarth, RedComet, PacoChan, CUE, Darkmet y Dageron.*
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">VERSIÓN 1.0.1 DEL PARCHE DE TRADUCCIÓN:</h3>
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/faorch4o0a7ju4b/ENB_TTV_V1.0.1.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/xAc2iChK#weFFwWu1cwuMtb1YQ9lWhegpM8u9EZ_8n4dq2wItKGc" target="_blank">MEGA</a></strong></h1>
 <h2 style="text-align: center;"><a href="/echo-night-beyond/"><strong>VOLVER</strong></a></h2>
