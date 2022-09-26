@@ -98,6 +98,11 @@ poseedores del juego original.
   que hacían que se mostraran textos indebidos.
   - Se ha corregido un fallo original por el cual el mapa dejaba de 
   funcionar al acceder a la zona del dispensario.
+* v1.0.1 - Corregidos los subtítulos de la versión NTSC-U, más:
+  - Corregida la traducción de la pantalla del puzzle del sistema de 
+  control de los tanques.
+  - Corregida la textura de la pantalla del sistema de paneles 
+  solares.
 
 ### Instrucciones para aplicar el parche de traducción en PlayStation 2
 
