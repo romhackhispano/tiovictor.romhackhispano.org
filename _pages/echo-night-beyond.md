@@ -1,5 +1,5 @@
 ---
-title: "Echo Night Beyond (PS2, V1.0)"
+title: "Echo Night Beyond (PS2, V1.0.1)"
 permalink: /echo-night-beyond/
 header:
   overlay_image: /img/headers/pages/EchoNightBeyondHeader.jpg

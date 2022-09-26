@@ -14,6 +14,10 @@ tags:
 por fin un poquito de descarga para mí y miedo para vosotros: **¡publicamos el parche de traducción fan de Echo Night: 
 Beyond!** ¡Y con soporte para la versión NTSC-U incluido!
 
+**EDIT 26/09/2019: El parche ha sido actualizado de urgencia debido a un fallo por mi parte al copiar los subtítulos 
+traducidos en la versión estadounidense. La versión 1.0.1 también contiene un par de arreglitos muy menores para tanto 
+la versión PAL como la NTSC-U. Perdón por las molestias.**
+
 <!--more-->
 
 En las últimas semanas, **gracias a la ayuda de GriffithVIII**, hemos solventado las modificaciones que hacían falta a varios 
