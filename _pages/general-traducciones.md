@@ -23,7 +23,7 @@ comments: false
 [**ACE COMBAT 3: ELECTROSPHERE** (PSX, EN PROGRESO)](/ace-combat-3/)  
 [**A.O.T. WINGS OF FREEDOM** (PS3/PSVITA, EN PROGRESO)](/aot-wings-of-freedom/)  
 [**CLOCK TOWER: THE FIRST FEAR** (PSX, V2.0)](/clock-tower/)  
-[**CRIMSON TEARS** (PSX, EN PROGRESO)](/crimson-tears/)  
+[**CRIMSON TEARS** (PSX, V1.0)](/crimson-tears/)  
 [**ECHO NIGHT BEYOND** (PS2, V1.0.1)](/echo-night-beyond/)  
 [**FEAR EFFECT 2: RETRO HELIX** (PSX, V1.0)](/fear-effect-2-retro-helix/)  
 [**OPERATION WINBACK** (PS2, V1.0)](/operation-winback/)  

@@ -29,8 +29,12 @@ gallery:
  - url: /img/2021/12/CTEARS-20211227-12.jpg
    image_path: /img/2021/12/CTEARS-20211227-12.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="/crimson-tears/capturas/">CAPTURAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/crimson-tears/informacion/">INFORMACIÓN</a> - <a href="/crimson-tears/descargar/">DESCARGAS</a> - <a href="/crimson-tears/capturas/">CAPTURAS</a></strong></h2>
 
 Capturas del primer anuncio, 30 de diciembre de 2021:
 
 {% include gallery %}
+
+<h2 style="text-align: center;"><a href="/crimson-tears/"><strong>VOLVER</strong></a></h2>
+
+
