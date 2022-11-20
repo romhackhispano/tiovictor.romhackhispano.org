@@ -11,7 +11,8 @@ window.cookieconsent.initialise({
   "type": "opt-in",
   "content": {
     "message": "Me dicen en Europa que si no digo que esta página web utiliza cookies únicamente con fines analíticos y os dejo elegir si las queréis o no, podría morir un gatito.",
-    "dismiss": "Rechazar cookies",
+    // PERSONALIZACION PARA TRADUCIR EL BOTON DE RECHAZAR DE UNA SANTA VEZ.
+    "deny": "Rechazar cookies",
     "allow": "Aceptar cookies",
     "link": "Más información",
     "href": "https://tiovictor.romhackhispano.org/cookies/"
