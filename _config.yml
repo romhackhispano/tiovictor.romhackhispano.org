@@ -48,6 +48,7 @@ google:
   instant_search         : # false (default), true
 after_footer_scripts     :
   - /assets/js/cookie-consent.js
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :

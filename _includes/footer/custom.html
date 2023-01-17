@@ -1,5 +1,22 @@
 <!-- start custom footer snippets -->
 
+<!-- MIERDA DE ANALYTICS PUESTA AQUI DE FORMA PERSONALIZADA -->
+
+<script>
+  function loadGAOnConsent() {
+    var d = document, s = d.createElement('script');
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-C8CR6KE8RW';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    
+    gtag('config', 'G-C8CR6KE8RW');
+  }
+</script>
+
 <!-- MODIFICACION: COOKIE CONSENT, DE https://www.osano.com/cookieconsent/download/ -->
 <!-- HA DE ESTAR TANTO EN HEAD COMO EN FOOTER O NO FUNCIONA -->
 
