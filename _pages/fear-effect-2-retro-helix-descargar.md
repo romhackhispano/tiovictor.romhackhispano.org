@@ -18,6 +18,9 @@ _Utiliza herramientas de RedComet, Klarth, CUE, Michael Sabin y MarkGrass._
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/lq9dppio523eckf/FearEffect2ESP-IlDucci-V10.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/JNVkETyZ#QwupQHy9rzpNi9VP6zzx9OmCZM1Y_FhR2nmJgpPrpUM" target="_blank">MEGA</a></strong></h1>
 
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}**
+
 <h2 style="text-align: center;"><a href="/fear-effect-2-retro-helix/"><strong>VOLVER</strong></a></h2>
 
 

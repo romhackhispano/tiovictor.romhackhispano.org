@@ -27,9 +27,8 @@ Soldados/Moz: **Luisma Albarracín**
 
 <h3 style="text-align: center;">HERRAMIENTAS ADICIONALES:</h3>
 
-[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}  
-[binmerge (Para separar el archivo BIN en sus pistas)](https://github.com/putnam/binmerge){:target="_blank"}
-
+[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}  
+[binmerge (para separar el archivo BIN en sus pistas)](https://github.com/putnam/binmerge){:target="_blank"}
 
 <h2 style="text-align: center;"><a href="/time-crisis-1/"><strong>VOLVER</strong></a></h2>
 

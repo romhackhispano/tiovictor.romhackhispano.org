@@ -27,7 +27,7 @@ Traducción al castellano de Contract J.A.C.K., juego basado en el motor e histo
 
 <h1 style="text-align: center;"><a href="http://www.mediafire.com/download/fncxldie1cy6fo9/ContractJACK-ESv15.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!UAFTTaRS!OAxadwYqm2dmm48yWAmxLa51hXqWc6nMLfqCVLNBNeo" target="_blank">MEGA</a></h1>
 
-Instrucciones de uso: Copiar los contenidos del rar en la carpeta donde esté instalado el juego. Sobreescribir si pregunta.
+Instrucciones de uso: copiar los contenidos del rar en la carpeta donde esté instalado el juego. Sobreescribir si pregunta.
 
 {% include gallery %}
 

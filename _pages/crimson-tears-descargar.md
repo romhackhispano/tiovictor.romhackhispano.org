@@ -19,6 +19,9 @@ comments: false
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/5n4e0owmvoodbq3/CTEARS-ESP-TIOVICTOR-V1.0.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/MQMAEIqL#gS-E2_lXlM6hytBzP2w5YoQ7LQ-9TZx_IoexrmZjZxA" target="_blank">MEGA</a></strong></h1>
 
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}**
+
 <h2 style="text-align: center;"><a href="/crimson-tears/"><strong>VOLVER</strong></a></h2>
 
 

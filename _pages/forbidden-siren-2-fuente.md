@@ -25,3 +25,6 @@ Aunque estas capturas están en inglés, los cambios se aplican también a la ve
 {% include gallery %}
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/8m9qhw75lq4d4as/Improved_Fonts_and_Graphics_for_Forbidden_Siren_2_by_IlDucci_1.0.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/EQtmyC7D#mVvcIIlTtW_Zl_EqxwNa-ENIlD1IEIqe6cp8hYc08GI" target="_blank">MEGA</a></strong></h1>
+
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}**

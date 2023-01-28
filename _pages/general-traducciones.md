@@ -43,7 +43,7 @@ comments: false
 [**DEAD SPACE EXTRACTION** (WII, V1.1)](/dead-space-extraction/)  
 [**EL MUNDO NUNCA ES SUFICIENTE** (N64, V1.0)](/el-mundo-nunca-es-suficiente-n64/)  
 [**FRAGILE DREAMS: FAREWELL RUINS OF THE MOON** (WII, V1.1)](/fragile-dreams-farewell-ruins-of-the-moon/)  
-[**READY 2 RUMBLE** (N64, V1.0)](/ready-2-rumble-1/)  
+[**READY 2 RUMBLE** (N64, V2.0)](/ready-2-rumble-1/)  
 [**SIN AND PUNISHMENT** (N64, V1.0B)](/sin-and-punishment-n64/)  
 [**STAR WARS EPISODIO I RACER** (N64, 1.0.2 FINAL)](/star-wars-episodio-i-racer-para-nintendo-64/)  
 [**THE WORLD ENDS WITH YOU** (NDS, 2.0)](/the-world-ends-with-you-version-en-castellano-2-0/)  

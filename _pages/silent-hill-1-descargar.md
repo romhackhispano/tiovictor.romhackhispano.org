@@ -46,8 +46,8 @@ Para sacar una imagen ISO del disco original necesitaréis una aplicación para 
 Mi preferida es [ImgBurn](http://www.imgburn.com/){:target="_blank"}. Tenéis las instrucciones de parcheo 
 dentro del archivo Léeme, en el interior del parche.
 
-_**Utilidades necesarias para parchear la ROM**_  
-[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}
 
 <h2 style="text-align: center;"><strong><a href="/silent-hill-1/">VOLVER</a></strong></h2>
 

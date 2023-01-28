@@ -25,6 +25,10 @@ italiana en romhacking.it y darles las gracias por permitirnos usar sus modifica
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/bh6vcpzyfiaq1qg/T3B-V15B-TraduESP.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/AUdwRDrD#Tc9W1iwCv34CVQsnIFWxlLYeMeVaI8ddX94K4loAHYE" target="_blank">MEGA</a></strong></h1>
 
+
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}**
+
 <h2 style="text-align: center;"><a href="/the-3rd-birthday/"><strong>VOLVER</strong></a></h2>
 
 

@@ -48,6 +48,9 @@ _**CRÉDITOS:**_
 
 **[Enlace al ejecutable modificado](https://github.com/D3fau4/Amicitia/releases)**
 
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}**
+
 <h2 style="text-align: center;"><a href="/persona-3-fes/"><strong>VOLVER</strong></a></h2>
 
 
