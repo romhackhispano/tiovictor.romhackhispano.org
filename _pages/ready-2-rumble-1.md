@@ -7,7 +7,7 @@ header:
 
 <h2 style="text-align: center;"><strong><a href="/ready-2-rumble-1/informacion/">INFORMACIÓN</a> - <a href="/ready-2-rumble-1/descargar/">DESCARGAS</a> - <a href="/ready-2-rumble-1/capturas/">CAPTURAS</a></strong></h2>
 
-<p style="text-align: center;"><img src="/img/2021/12/CTEARS-20211227-01.jpg" /></p>
+<p style="text-align: center;"><img src="/img/2023/01/R2R_N64_20ESP_04.jpg" /></p>
 
 Parche de traducción al castellano del juego Ready 2 Rumble Boxing (por Midway) realizada originalmente en 2007 
 para PlayStation y Nintendo 64, ambas en sus versiones PAL europeas, y retraducida por completo en 2023 en su 
