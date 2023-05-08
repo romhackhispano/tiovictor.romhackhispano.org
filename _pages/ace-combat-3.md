@@ -14,22 +14,28 @@ la versión japonesa de Ace Combat 3: electrosphere. Para los que no lo sepan, l
 con una trama completamente recortada para abaratar costes.
 
 Descontentos con el material inglés producido por el equipo anterior, nuestro equipo, que finalmente adoptaría el nombre 
-de **loadwordteam**, decidió revisar y rehacer todas las herramientas, ingeniería inversa, investigación de gráficos y 
+de **Load Word Team**, decidió revisar y rehacer todas las herramientas, ingeniería inversa, investigación de gráficos y 
 traducción con un nuevo traductor de japonés a inglés, de cuyos textos y acotaciones nos basaríamos tanto en la versión 
 italiana como en la castellana.
 
-En estos momentos, el proyecto está en una fase avanzada de desarrollo, con la ingeniería inversa acabada en un 95%, los 
-gráficos acabados en un 95% (hemos editado hasta varias FMV) y los textos están totalmente traducidos y revisados, a falta 
-de comenzar las tareas de testeo.
+El proyecto verá la luz el 27 de mayo de 2023.
 
-**CRÉDITOS (ACTUALIZADOS EL 04/09/2022)**  
+**CRÉDITOS (ACTUALIZADOS EL 07/05/2023)**  
 
-_**Una coproducción de Traducciones del Tío Víctor y loadwordteam**_
- - *Coordinador del proyecto internacional:* Infrid  
- - *Traducción japonés-inglés:* Yargenfolgen  
- - *Traducción inglés-castellano:* IlDucci  
- - *Traducción adicional japonés-castellano, revisión lingüística:* Dark_Kudoh  
- - *Edición de gráficos:* IlDucci, OrientalComputer_01, Azu Crepuscular  
- - *Programación/Romhacking:* Infrid, SolidSnake11, OrtewLant, Kosmo零  
+_**Una coproducción de Traducciones del Tío Víctor y Load Word Team**_
 
-*Utiliza herramientas de Michael Sabin, Klarth, RedComet y CUE.*
+*Coordinador del proyecto internacional:* Infrid
+
+*Traducción japonés-inglés:* Yargenfolgen
+*Edición gráfica/de vídeo:* IlDucci, OrientalComputer_01
+*Ilustraciones animadas:* Azu Crepuscular
+*Programación de herramientas:* Infrid, Kosmo零
+*Ingeniería inversa:* SolidSnake11, Ortew Lant, IlDucci
+*Testeo/edición de textos al inglés:* Dfactor, Raivop, IlDucci
+*Agradecimientos especiales:* Phoenix, Agna
+
+*Traducción de textos inglés-español:* IlDucci
+*Revisión de textos japonés-español, subtitulación del AppenDisc:* Dark_Kudoh
+*Testeo de la versión española:* IlDucci, Megaflan, 堕落王 (Wu), TrueFaiterMan
+
+*Programación (herramientas de terceros):* Steve Monaco «Klarth» (Atlas), RedComet (Cartographer), Michael Sabin (jPSXdec), Lameguy64 (img2tim, isodump, MKPSXISO), Kingcom y todos los colaboradores de Armips, Silent, Chromaryu, G4Vi, y spicyjpeg (MKPSXISO), Dashman (layer merger), CUE (psx-mode2), putnam (binmerge).
