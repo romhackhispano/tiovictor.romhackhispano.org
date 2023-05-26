@@ -3,7 +3,7 @@ main:
   - title: "Traducciones"
     url: /traducciones/
     children:
-        - title: "ACE COMBAT 3: ELECTROSFERA (PSX, EN PROGRESO)"
+        - title: "ACE COMBAT 3: ELECTROSFERA (PSX, V1.0)"
           url: /ace-combat-3/
         - title: "ALIEN SWARM (PC, V1.6)"
           url: /alien-swarm/
