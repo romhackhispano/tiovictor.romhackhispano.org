@@ -62,6 +62,9 @@ original.
    - No se han podido subtitular los diálogos de la primera mitad de la misión 06 (Fantasmas del pasado); los del flashback de la misión 29 (Traición) ni los de la segunda mitad del final verdadero. Para ver las traducciones de esos textos, ir al punto 6.
    - No se ha podido traducir el nombre de la partida guardada incluida con el AppenDisc («deadcopy», «copia muerta») que desbloquea el Night Raven en el simulador de misiones.
    - Se incluye la corrección que cambia las canciones a las que deberían reproducirse de las misiones 27 (Claustrofobia) y 29 (Traición) por SolidSnake11.
+   
+ * v1.0b - Se ha añadido una pareja de parches de conversión que no se incluyeron con el 
+ lanzamiento original debido a una confusión. El parche de traducción no ha sido cambiado.
 
 ### Qué parches hay que aplicar a tu versión del juego
 
