@@ -41,7 +41,7 @@ putnam (binmerge).
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/37i6oobbjzyxw4m/AC3electrosfera-V1.0-Castellano-TraduccionesDelTioVictor.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/NAERCIyY#Cr2aqilra2gIUXAN79UP95X6gKADEWC31w6AWPydlFU" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/ikb23ly1l9aewfc/AC3electrosfera-V1.0b-Castellano-TraduccionesDelTioVictor.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/VQNQSRIb#aGrVh-2lYk7IKZKAkGM9f_FaeC9s2M5aCxwv0_jLUfM" target="_blank">MEGA</a></strong></h1>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
 **[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**

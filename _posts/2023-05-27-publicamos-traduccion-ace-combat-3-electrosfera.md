@@ -77,6 +77,9 @@ Antes de nada, publicidad descarada: **si queréis saber más sobre la parte ing
 
 **Esta noticia se va a centrar en la parte castellana principalmente, y madre mía, ha sido un viaje bastante largo e intenso.** No pensé que acabaría enganchándome a otra franquicia de videojuegos tan fácilmente, pero esto es lo que tiene elegir los proyectos que hago por su atractivo argumental, no por su atractivo jugable (en el caso de los Persona, empecé a traducir el tres por un ramalazo y acabé viéndome gameplays del 4 Golden, 5 Royal y Strikers, pero nunca he sido capaz de pasarme ninguno sin ir a tope de trampas).
 
+**EDIT 28 de mayo del 2023: se ha actualizado el parche con una pareja de parches de conversión 
+adicionales que faltaban por añadir. El parche de traducción en sí no ha sufrido cambios.**
+
 <!--more-->
 
 En el caso de Ace Combat 3, como creo que ya comenté y seguramente enfade a más de uno, empecé a conocer la franquicia con el juego más arcade de todos (el que estaba hecho para atraer a una nueva generación), Assault Horizon. Más tarde me engancharía al 3 y al 7, así que aún me quedan juegos que conocer y catar.
