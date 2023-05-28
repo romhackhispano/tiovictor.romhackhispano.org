@@ -63,8 +63,7 @@ original.
    - No se ha podido traducir el nombre de la partida guardada incluida con el AppenDisc («deadcopy», «copia muerta») que desbloquea el Night Raven en el simulador de misiones.
    - Se incluye la corrección que cambia las canciones a las que deberían reproducirse de las misiones 27 (Claustrofobia) y 29 (Traición) por SolidSnake11.
    
- * v1.0b - Se ha añadido una pareja de parches de conversión que no se incluyeron con el 
- lanzamiento original debido a una confusión. El parche de traducción no ha sido cambiado.
+ * v1.0b - Se ha añadido una pareja de parches de conversión que no se incluyeron con el lanzamiento original debido a una confusión. El parche de traducción no ha sido cambiado.
 
 ### Qué parches hay que aplicar a tu versión del juego
 
@@ -90,23 +89,28 @@ comandos) para aplicar los parches correspondientes.
 Estas son las posibles sumas de las ediciones (obtenidas gracias a la base 
 de datos de Redump.org):
 
-VERSIÓN 1 (SLPS-02020~1):
+VERSIÓN 1:
 MD5 DEL CD 1: 30f7dce98b6901290cb26c9baf27268f
 MD5 DEL CD 2: 50760963ae8a26ea0188b165f05b33a1
 
-VERSIÓN 2 (SCPS-45397~8):
+VERSIÓN 2:
 MD5 DEL CD 1: 86fd694677098d26909086895404f571
 MD5 DEL CD 2: c3909981452f1506290121b2763beb24
+
+VERSIÓN 3:
+MD5 DEL CD 1: 1294b780cb5da2136608bb8e5c2c08a0
+MD5 DEL CD 2: 50760963ae8a26ea0188b165f05b33a1
 
 **¡¡¡IMPORTANTE!!!**
 
 **Si tienes la versión 1, solo tienes que aplicar los parches de traducción a 
 tus imágenes del juego.**
 
-**Si tienes la versión 2, en cambio, primero tendrás que aplicar los parches 
-de conversión** a las imágenes del juego para convertirlas a la versión 1 y 
-después aplicar los parches de traducción. Encontrarás estos parches dentro 
-del archivo comprimido del parche, en la carpeta Parches de conversión.
+**Si, en cambio, tienes la versión 2 o la versión 3, primero tendrás que 
+aplicar los parches de conversión a las imágenes del juego para convertirlas 
+a la versión 1 y después aplicar los parches de traducción.** Encontrarás 
+estos parches dentro del archivo comprimido del parche, en la carpeta 
+Parches de conversión.
 
 Si quieres distribuir estos parches o ponerlos en tu página web, por favor, 
 consúltanos primero. Bajo ningún concepto distribuyas o cuelgues en internet 
@@ -141,9 +145,9 @@ programa.
 ### Cómo aplicar el parche para el CD especial del AppenDisc
 
 **Necesitarás extraer únicamente la imagen del CD AppenDisc de la banda sonora 
-oficial japonesa de Ace Combat 3: electrosphere (código del disco SLPM-80453) 
-en formato .BIN/.CUE. No es necesario hacer una copia de seguridad del otro 
-disco.**
+oficial japonesa de Ace Combat 3: electrosphere (código del disco 
+SLPM-80453) en formato .BIN/.CUE. No es necesario hacer una copia de 
+seguridad del otro disco.**
 
 Para hacer tu copia de seguridad te hará falta un lector de DVD/BluRay y un 
 programa de copiado de discos ópticos (como ImgBurn o Alcohol 120%). Si 
