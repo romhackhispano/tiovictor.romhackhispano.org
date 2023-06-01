@@ -13,7 +13,7 @@ _**Una coproducción de Traducciones del Tío Víctor y Load Word Team**_
 
 *Coordinador del proyecto internacional:* Infrid  
 
-*Traducción japonés-inglés:* Yargenfolgen  
+*Traducción japonés-inglés:* Yarghenforgen  
 *Edición gráfica/de vídeo:* IlDucci, OrientalComputer_01  
 *Ilustraciones animadas:* Azu Crepuscular  
 *Programación de herramientas:* Infrid, Kosmo零  
