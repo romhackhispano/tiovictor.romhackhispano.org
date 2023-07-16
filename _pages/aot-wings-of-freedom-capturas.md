@@ -40,8 +40,12 @@ gallery:
    image_path: /img/2021/12/AOT-20211230-17.jpg
 ---
 
-<h2 style="text-align: center;"><strong><a href="/aot-wings-of-freedom/capturas/">CAPTURAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/aot-wings-of-freedom/informacion/">INFORMACIÓN</a> - <a href="/aot-wings-of-freedom/descargar/">DESCARGAS</a> - <a href="/aot-wings-of-freedom/capturas/">CAPTURAS</a></strong></h2>
 
 Capturas del primer anuncio, 30 de diciembre de 2021:
 
 {% include gallery %}
+
+<h2 style="text-align: center;"><a href="/aot-wings-of-freedom/"><strong>VOLVER</strong></a></h2>
+
+

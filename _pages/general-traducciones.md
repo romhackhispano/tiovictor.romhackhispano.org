@@ -9,7 +9,7 @@ comments: false
 # PC
 
 [**ALIEN SWARM** (V1.6)](/alien-swarm/)  
-[**A.O.T. WINGS OF FREEDOM** (EN PROGRESO)](/aot-wings-of-freedom/)  
+[**A.O.T. WINGS OF FREEDOM** (V1.0)](/aot-wings-of-freedom/)  
 [**CONTRACT J.A.C.K.** (VERSIÓN 1.5 2012)](/contract-jack/)  
 [**SAGA RAINBOW SIX** (V1.0)](/saga-rainbow-six-para-pc/)  
 [**SHADOW WATCH** (V1.0)](/shadow-watch/)  
@@ -21,7 +21,7 @@ comments: false
 # Playstation 1, 2, 3, PSP, PS Vita
 
 [**ACE COMBAT 3: ELECTROSFERA** (PSX, V1.0)](/ace-combat-3/)  
-[**A.O.T. WINGS OF FREEDOM** (PS3/PSVITA, EN PROGRESO)](/aot-wings-of-freedom/)  
+[**A.O.T. WINGS OF FREEDOM** (PS3/PSVITA, V1.0)](/aot-wings-of-freedom/)  
 [**CLOCK TOWER: THE FIRST FEAR** (PSX, V2.0)](/clock-tower/)  
 [**CRIMSON TEARS** (PSX, V1.0)](/crimson-tears/)  
 [**ECHO NIGHT BEYOND** (PS2, V1.0.1)](/echo-night-beyond/)  

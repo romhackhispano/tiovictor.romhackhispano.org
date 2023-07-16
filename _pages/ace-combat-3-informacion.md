@@ -7,7 +7,17 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/ace-combat-3/informacion/">INFORMACIÓN</a> - <a href="/ace-combat-3/descargar/">DESCARGAS</a> - <a href="/ace-combat-3/capturas/">CAPTURAS</a></strong></h2>
 
-### Información general del proyecto
+# Índice
+
+1. [Información general del proyecto](#ac3info_1)
+2. [Registro de revisiones](#ac3info_2)
+3. [Qué parches hay que aplicar a tu versión del juego](#ac3info_3)
+4. [Cómo aplicar el archivo .XDELTA con Delta Patcher](#ac3info_4)
+5. [Cómo aplicar el parche para el CD especial del AppenDisc](#ac3info_5)
+6. [Traducción de las escenas sin subtitular](#ac3info_6)
+7. [Instrucciones para usar la traducción en una PlayStation 1 o 2](#ac3info_7)
+
+### Información general del proyecto<a name="ac3info_1"></a>
 
 Gracias por jugar a este parche de traducción aficionada para la versión 
 japonesa de Ace Combat 3: electrosphere (traducido aquí como Ace Combat 3: 
@@ -50,7 +60,7 @@ copias del juego ya parcheado. La traducción está hecha para ser distribuida
 en forma de parche y para ser usada para los legítimos poseedores del juego 
 original.
 
-### Registro de revisiones
+### Registro de revisiones<a name="ac3info_2"></a>
 
  * v1.0 - Primera versión de la traducción:
    - La totalidad de los textos y gráficos del juego han sido traducidos al castellano a partir del japonés y de la traducción inglesa de Load Word Team.
@@ -65,7 +75,7 @@ original.
    
  * v1.0b - Se ha añadido una pareja de parches de conversión que no se incluyeron con el lanzamiento original debido a una confusión. El parche de traducción no ha sido cambiado.
 
-### Qué parches hay que aplicar a tu versión del juego
+### Qué parches hay que aplicar a tu versión del juego<a name="ac3info_3"></a>
 
 **Necesitarás extraer las imágenes de ambos CD de Ace Combat 3: electrosphere 
 en su versión NTSC-U japonesa en formato .BIN/.CUE.** Para ello te hará falta 
@@ -118,7 +128,7 @@ copias del juego ya parcheado. La traducción está hecha para ser distribuida
 en forma de parche y para ser usada para los legítimos poseedores del juego 
 original.
 
-### Cómo aplicar el archivo .XDELTA con Delta Patcher:
+### Cómo aplicar el archivo .XDELTA con Delta Patcher<a name="ac3info_4"></a>
 
 Necesitarás la imagen original del juego, el archivo xdelta y la aplicación 
 Delta Patcher ([puedes conseguirla en su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)).
@@ -142,7 +152,7 @@ Es posible que los antivirus interfieran con el programa de parcheado
 durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
 programa.
 
-### Cómo aplicar el parche para el CD especial del AppenDisc
+### Cómo aplicar el parche para el CD especial del AppenDisc<a name="ac3info_5"></a>
 
 **Necesitarás extraer únicamente la imagen del CD AppenDisc de la banda sonora 
 oficial japonesa de Ace Combat 3: electrosphere (código del disco 
@@ -193,7 +203,7 @@ solo (por ejemplo, porque a algunos emuladores no les guste un .CUE con
 varios .BIN), vuelve a ejecutar el programa binmerge-gui, pero esta vez 
 introduciendo los .CUE en la pestaña «Fusionar pistas».
 
-### Traducción de las escenas sin subtitular
+### Traducción de las escenas sin subtitular<a name="ac3info_6"></a>
 
 Por motivos técnicos, no ha sido posible traducir tres escenas del juego que 
 no incluían subtítulos ni forma oficial de subtitularlos.
@@ -212,7 +222,7 @@ bajo vuestra propia responsabilidad.
 
 **También podéis ver estas escenas subtituladas [en el canal de YouTube de Traducciones del Tío Víctor](https://www.youtube.com/@TraduccionesdelTioVictor/videos).**
 
-### Instrucciones para usar la traducción en una PlayStation 1 o 2
+### Instrucciones para usar la traducción en una PlayStation 1 o 2<a name="ac3info_7"></a>
 
 Si tienes la consola modificada para que pueda leer imágenes ISO desde un 
 disco duro o dispositivo USB, sigue los pasos que requiera tu aplicación 

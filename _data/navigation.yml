@@ -9,7 +9,7 @@ main:
           url: /alien-swarm/
         - title: "ALONE IN THE DARK: THE NEW NIGHTMARE (DC, V1.0.2)"
           url: /alone-in-the-dark-dc/
-        - title: "A.O.T. WINGS OF FREEDOM (PC/PS3/PSVITA, EN PROGRESO)"
+        - title: "A.O.T. WINGS OF FREEDOM (PC/PS3/PSVITA, V1.0)"
           url: /aot-wings-of-freedom/
         - title: "CLOCK TOWER (PSX/SNES)"
           url: /clock-tower/
@@ -91,7 +91,7 @@ main:
   - title: "Otras modificaciones"
     url: /otras-modificaciones/
     children:
-        - title: "Forbidden Siren 2 (fuente mejorada)"
+        - title: "Forbidden Siren 2 (fuente mejorada, V2.0)"
           url: /forbidden-siren-2-fuente/
   - title: "Amigos"
     url: /amigos/
