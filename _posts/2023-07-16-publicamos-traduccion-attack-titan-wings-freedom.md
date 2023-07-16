@@ -1,7 +1,7 @@
 ---
 title: "¡Publicamos la traducción de Attack on Titan: Wings of Freedom!"
 header:
-  overlay_image: /img/headers/posts/HeaderAceCombat3-03.jpg
+  overlay_image: /img/headers/posts/HeaderAOT1_01.jpg
 layout: single
 
 categories:
