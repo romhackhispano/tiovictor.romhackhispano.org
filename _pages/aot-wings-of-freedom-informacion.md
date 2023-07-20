@@ -172,8 +172,8 @@ podrás extraer ambos y desencriptarlos.
  - Una vez VitaShell te lleve al interior de la carpeta sin hacer más, pulsa 
    el botón Triángulo y selecciona «Mark All/Marcar todo». Después vuelve a 
    pulsar el botón Triángulo y selecciona «Copy/Copiar».
- - Vuelve a la carpeta «ux0:\DEC\», pulsa el botón Triángulo y selecciona 
-   «Paste/Pegar».
+ - Vuelve a la carpeta «ux0:\DEC\GAME», pulsa el botón Triángulo y 
+   selecciona «Paste/Pegar».
  - El juego comenzará a copiarse en esa carpeta nueva con los datos 
    desencriptados. Espera a que termine el proceso y luego transfiere esta 
    carpeta a tu PC con VitaShell, ya sea mediante FTP o por un cable USB.
