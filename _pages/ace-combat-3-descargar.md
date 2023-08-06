@@ -39,7 +39,7 @@ putnam (binmerge).
    fans que han mantenido y actualizado todo tipo de información relacionada 
    con Ace Combat 3.
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">VERSIÓN 1.1 DEL PARCHE DE TRADUCCIÓN:</h3>
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/3fxc1bqd89q7djy/AC3electrosfera-V1.1-Castellano-TraduccionesDelTioVictor.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/pZd3yA7b#uXOb4kWLh19AnebP7SpSMYonXhkTGeArzKZ1yAoy-d8" target="_blank">MEGA</a></strong></h1>
 
