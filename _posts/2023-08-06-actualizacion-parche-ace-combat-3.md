@@ -1,7 +1,7 @@
 ---
 title: "Actualización del parche de Ace Combat 3"
 header:
-  overlay_image: /img/headers/posts/HeaderAceCombat3-06
+  overlay_image: /img/headers/posts/HeaderAceCombat3-06.jpg
 layout: single
 
 categories:
