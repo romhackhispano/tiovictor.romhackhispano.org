@@ -1,5 +1,5 @@
 ---
-title: "Ace Combat 3: electrosfera (PSX, V1.0)"
+title: "Ace Combat 3: electrosfera (PSX, V1.1)"
 permalink: /ace-combat-3/
 header:
   overlay_image: /img/headers/pages/AceCombat3Header.jpg

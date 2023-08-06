@@ -74,6 +74,14 @@ original.
    - Se incluye la corrección que cambia las canciones a las que deberían reproducirse de las misiones 27 (Claustrofobia) y 29 (Traición) por SolidSnake11.
    
  * v1.0b - Se ha añadido una pareja de parches de conversión que no se incluyeron con el lanzamiento original debido a una confusión. El parche de traducción no ha sido cambiado.
+ 
+ * v1.1 - Correcciones en la traducción:
+   - Se ha corregido la fecha de nacimiento de Fiona en su entrada del buscador.
+   - Se ha recuperado una fecha de Park en su entrada del buscador.
+   - Se han corregido algunas frases en las rutas de Neucom.
+   - Se han clarificado los textos de algunos mensajes del AppenDisc.
+   - Se ha unificado el nombre de la misión 21.
+   - Se han arreglado los textos que se mostraban cortados en ciertas escenas.
 
 ### Qué parches hay que aplicar a tu versión del juego<a name="ac3info_3"></a>
 
