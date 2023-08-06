@@ -21,6 +21,6 @@ Os traigo junto con loadwordteam y el resto del equipo de traducción al castell
 - Se ha unificado el nombre de la misión 21.
 - Se han arreglado los textos que se mostraban cortados en ciertas escenas.
 
-Como siempre, podéis descargaros el parche desde [la página de descargas del proyecto](https://tiovictor.romhackhispano.org/ace-combat-3/descargar/) o desde [la ficha de TraduSquare](https://tradusquare.es/proyectos/ace-combat-3/)
+Como siempre, podéis descargaros el parche desde [la página de descargas del proyecto](https://tiovictor.romhackhispano.org/ace-combat-3/descargar/) o desde [la ficha de TraduSquare](https://tradusquare.es/proyectos/ace-combat-3/).
 
 Seguiremos informando.
