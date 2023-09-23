@@ -59,3 +59,5 @@ en Mastodon y BlueSky.**
 **Podéis encontrarme en Mastodon en la instancia de TKZ.one, con el usuario [IlDucci](https://tkz.one/@IlDucci), y en BlueSky con el usuario [vgfilducci](https://bsky.app/profile/vgfilducci.bsky.social).**
 
 Y eso es todo. Seguiremos informando.
+
+**EDICIÓN: Se ha encontrado un fallo de última hora en el parche para Saturn que dejaba las voces en silencio. Os ruego que volváis a descargaros el parche para Saturn.**
