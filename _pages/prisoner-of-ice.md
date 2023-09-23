@@ -39,7 +39,7 @@ CUE (cd-replace).
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN PARA SEGA SATURN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/4cx58yck4hov3kz/PriOI-SATURNPATCH-ESP.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/Ud0Q0BIC#8krDzlXatvouLURgV6QO6YwrdboXyyGo70VYDHRlq9Q" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/4cx58yck4hov3kz/PriOI-SATURNPATCH-ESP.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/tJlA3ATY#pp8hAEfopvaYocgD1vFWMzU1bGjDHuSrhLAPO1ja7j8" target="_blank">MEGA</a></strong></h1>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
 **[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
