@@ -119,7 +119,7 @@ main:
         - title: "Tales Translations"
           url: http://blog.tales-tra.com/
   - title: "Políticas GDPR"
-    url: 
+    url: /politicas/
     children:
         - title: "Política de privacidad"
           url: /politica-de-privacidad/

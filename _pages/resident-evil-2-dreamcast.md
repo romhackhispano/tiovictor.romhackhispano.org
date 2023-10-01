@@ -58,7 +58,7 @@ por TuxTheWise para conseguir sus releases.
 
 <h3 style="text-align: center;">VERSIÓN 1.5D DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/vce12knc6nc3vog/ResidentEvil2DC-V15D.7z" target="_blank">MEDIAFIRE</a> - <a href="
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/93p3lujo4a9sqdd/ResidentEvil2DC-V15D.7z/file" target="_blank">MEDIAFIRE</a> - <a href="
 https://mega.nz/#!kc8l1ACZ!NNFAN6CVltIZgsKTTDz9kRT0dOyhtgPu89VngQHizMY" target="_blank">MEGA</a></strong></h1>
 
 Para obtener soporte técnico para el juego, dirigiros a [SegaSaturno](http://www.segasaturno.com/){:target="_blank"}. 
