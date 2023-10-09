@@ -13,7 +13,7 @@ comments: false
 [**CONTRACT J.A.C.K.** (VERSIÓN 1.5 2012)](/contract-jack/)  
 [**SAGA RAINBOW SIX** (V1.0)](/saga-rainbow-six-para-pc/)  
 [**SHADOW WATCH** (V1.0)](/shadow-watch/)  
-[**SILENT HILL 2: DIRECTOR'S CUT** (REVISIÓN, V1.0.3)](/silent-hill-2-directors-cut/)  
+[**SILENT HILL 2: DIRECTOR'S CUT** (REVISIÓN, V1.0.4)](/silent-hill-2-directors-cut/)  
 [**SOŁTYS** (TRADUCCIÓN OFICIAL, V1.0)](/soltys/)  
 [**SOLDIER OF FORTUNE 1** (V1.0)](/soldier-of-fortune-1/)  
 [**SWAT4: THE STETCHKOV SYNDICATE** (V2.2 2012)](/swat4-the-stetchkov-syndicate/)  
@@ -33,7 +33,7 @@ comments: false
 [**RESIDENT EVIL: DIRECTOR’S CUT** (PSX, V3.6 Y V4.0)](/resident-evil-directors-cut/)  
 [**RESIDENT EVIL SURVIVOR** (PSX, V1.0.1)](/resident-evil-survivor-psx/)  
 [**SILENT HILL 1** (PSX, RETRADUCCIÓN, V2.1C)](/silent-hill-1/)  
-[**SILENT HILL 2: DIRECTOR'S CUT** (PS2, REVISIÓN, V1.0.3)](/silent-hill-2-directors-cut/)  
+[**SILENT HILL 2: DIRECTOR'S CUT** (PS2, REVISIÓN, V1.0.4)](/silent-hill-2-directors-cut/)  
 [**TIME CRISIS 1** (PSX, V1.0B)](/time-crisis-1/)  
 [**THE 3RD BIRTHDAY** (PSP, V1.5B)](/the-3rd-birthday/)  
 [**ZONE OF THE ENDERS 1** (1.0 BIS)](/zone-of-the-enders/)  
@@ -62,7 +62,7 @@ comments: false
 # Xbox
 
 [**SHENMUE II** (V1.0.2)](/shenmue-ii/)  
-[**SILENT HILL 2: DIRECTOR'S CUT** (REVISIÓN, V1.0.3)](/silent-hill-2-directors-cut/)  
+[**SILENT HILL 2: DIRECTOR'S CUT** (REVISIÓN, V1.0.4)](/silent-hill-2-directors-cut/)  
 [**WRECKLESS: THE YAKUZA MISSIONS** (V1.0)](/wreckless-the-yakuza-missions-para-xbox/)  
 
 
