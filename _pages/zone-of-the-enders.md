@@ -1,5 +1,5 @@
 ---
-title: Zone of The Enders 1 (1.0 BIS)
+title: Zone of The Enders 1 (1.5 2024)
 permalink: /zone-of-the-enders/
 header:
   overlay_image: /img/headers/pages/ZOE1Header.jpg
@@ -9,12 +9,18 @@ header:
 
 {% include video id="j9e-fzb2_0E" provider="youtube" %}
 
-Traducción realizada por Tío Víctor (IlDucci o VGF), con la ayuda de las herramientas 
-creadas por Barracuda.
+A lo largo del año 2009 organicé esta traducción con ayuda de Barracuda, quien me estaba ayudando 
+con las herramientas para la versión 2.0 del proyecto de The World Ends With You, para hacer este proyectito rápido. 
+Siempre he sido fan de los juegos de Hideo Kojima, así que quise aprovechar para cubrir el vacío español que había 
+dejado Konami al decidir que Zone of the Enders 1 solo contaría con traducciones al francés, alemán e italiano.
 
-- Se ha traducido tanto la versión PAL Europea como la NTSC-USA. Los subtítulos del juego 
-son idénticos en ambas versiones (Sólo hay diferencias en los cortes de los subtítulos, 
-no en su texto), sólo los menús pueden tener pequeñas diferencias en sus textos. La parte 
-del Entrenamiento por Realidad Virtual ya está completamente traducida en ambas versiones.  
-- Todos los subtítulos, textos de ayuda y de misiones están completamente traducidos al 
-Castellano. Solo quedan en Inglés los detalles de la interfaz, por obligación.
+Mucho más tarde y pasada la versión HD, que sí trajo traducción oficial, a finales de noviembre de 2023, el usuario 
+José Miguel Zamora me contactó para pedirme que corrigiese un fallo en el juego. Llevaba ya un tiempo queriendo hacer 
+un repaso a esta traducción, así que aproveché las circunstancias para revisarlo todo.
+
+La versión 1.5 2024 se publicó el 10 de marzo de ese mismo año.
+
+- Se han traducido tanto la versión PAL europea como la NTSC-U.
+- Se han utilizado las reglas de la RAE de 1999, que serían las utilizadas en la época del juego.
+- Todos los subtítulos, textos de ayuda y de misiones están completamente traducidos al castellano.
+Solo quedan en inglés los elementos de la interfaz por problemas a la hora de expandir las texturas con textos.
