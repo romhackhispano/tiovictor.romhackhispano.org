@@ -95,7 +95,7 @@ TraduSquare, **Samquete, y un servidor**, y mantendrá la línea de mis revision
 **La revisión de Silent Hill 4 comenzará una vez acabe el testeo de Silent Hill 3 y en un principio será compatible con las versiones PAL europea para PlayStation 2, así como todas las 
 versiones para XBOX original y PC. No debería llevar mucho tiempo.**
 
-## Sołtys...<a name="soltys"></a>
+## Sołtys<a name="soltys"></a>
 
 **Como ya comenté en su día, al final me he lanzado a revisar la traducción de Sołtys para traducir los gráficos que quedaban pendientes. Gracias al trabajo de [Stefan Hueg](https://github.com/codengine/cge-tools), 
 ahora todas las texturas del juego están a nuestro alcance.**
