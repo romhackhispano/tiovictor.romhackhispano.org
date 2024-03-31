@@ -75,7 +75,7 @@ Aquí tenéis una lista generalizada de los cambios que se han hecho:
    - Se ha restaurado el contenido del documento sobre la Wish House, 
      en el que algunas páginas se mostraban incompletas en español.
 
-**Tenéis más capturas y los enlaces de descarga de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/silent-hill-3/).**
+**Tenéis más capturas y los enlaces de descarga de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/silent-hill-3/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/silent-hill-3/).**
 
 **Sobre Silent Hill 4: The Room...** Como dije en mi última noticia, no debería llevar mucho tiempo. **La revisión sobre papel está acabada y ya solo queda testearla a fondo. 
 El testeo sí que puede llevar más o menos tiempo**, según si la hago solo o acompañado. Eso sí, creo que para Silent Hill 4: The Room cambiaron de traductor, porque a pesar 
