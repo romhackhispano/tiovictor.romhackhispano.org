@@ -14,6 +14,7 @@ comments: false
 [**SAGA RAINBOW SIX** (V1.0)](/saga-rainbow-six-para-pc/)  
 [**SHADOW WATCH** (V1.0)](/shadow-watch/)  
 [**SILENT HILL 2: DIRECTOR'S CUT** (REVISIÓN, V1.0.4)](/silent-hill-2-directors-cut/)  
+[**SILENT HILL 3** (REVISIÓN, V1.0)](/silent-hill-3/)  
 [**SOŁTYS** (TRADUCCIÓN OFICIAL, V1.0)](/soltys/)  
 [**SOLDIER OF FORTUNE 1** (V1.0)](/soldier-of-fortune-1/)  
 [**SWAT4: THE STETCHKOV SYNDICATE** (V2.2 2012)](/swat4-the-stetchkov-syndicate/)  
@@ -34,9 +35,10 @@ comments: false
 [**RESIDENT EVIL SURVIVOR** (PSX, V1.0.1)](/resident-evil-survivor-psx/)  
 [**SILENT HILL 1** (PSX, RETRADUCCIÓN, V2.1C)](/silent-hill-1/)  
 [**SILENT HILL 2: DIRECTOR'S CUT** (PS2, REVISIÓN, V1.0.4)](/silent-hill-2-directors-cut/)  
+[**SILENT HILL 3** (PS2, REVISIÓN, V1.0)](/silent-hill-3/)  
 [**TIME CRISIS 1** (PSX, V1.0B)](/time-crisis-1/)  
 [**THE 3RD BIRTHDAY** (PSP, V1.5B)](/the-3rd-birthday/)  
-[**ZONE OF THE ENDERS 1** (1.0 BIS)](/zone-of-the-enders/)  
+[**ZONE OF THE ENDERS 1** (PS2, 1.5 2024)](/zone-of-the-enders/)  
 
 # Nintendo: Super Nintendo, Nintendo 64, Wii, DS
 
