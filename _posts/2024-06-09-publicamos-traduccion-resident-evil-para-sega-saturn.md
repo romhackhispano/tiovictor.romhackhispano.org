@@ -50,7 +50,7 @@ precios están por las puñeteras nubes!).**
 
 **Algunos estaréis pensando en que podría utilizar esta doble versión en el parche para PlayStation, tal vez incluso sacar una versión del parche para PC... 
 y ya está en desarrollo**, pero tengo una serie de problemillas que necesito resolver. No esperéis que los resuelva rápidamente, porque voy a preferir 
-avanzar otros asuntos más prioritarios de encima.
+avanzar otros asuntos más prioritarios.
 
 Volviendo a Sega Saturn... Como ya comenté, me vi obligado a liarme con esta versión cuando Kitchen34 entendió que podía coger mi traducción sin mi permiso. 
 Por suerte para ambos, llegamos a un entendimiento mutuo y yo me dediqué a rehacer toda la ingeniería inversa de formatos para este juego. **Antes de que nadie 
