@@ -37,6 +37,21 @@ gallery2:
    image_path: /img/2007/04/REDC-2-03.jpg
  - url: /img/2007/04/REDC-2-04.jpg
    image_path: /img/2007/04/REDC-2-04.jpg
+gallery3:
+ - url: /img/2024/06/REDC_SAT_202406_02.jpg
+   image_path: /img/2024/06/REDC_SAT_202406_02.jpg
+ - url: /img/2024/06/REDC_SAT_202406_03.jpg
+   image_path: /img/2024/06/REDC_SAT_202406_03.jpg
+ - url: /img/2024/06/REDC_SAT_202406_05.jpg
+   image_path: /img/2024/06/REDC_SAT_202406_05.jpg
+ - url: /img/2024/06/REDC_SAT_202406_06.jpg
+   image_path: /img/2024/06/REDC_SAT_202406_06.jpg
+ - url: /img/2024/06/REDC_SAT_202406_07.jpg
+   image_path: /img/2024/06/REDC_SAT_202406_07.jpg
+ - url: /img/2024/06/REDC_SAT_202406_08.jpg
+   image_path: /img/2024/06/REDC_SAT_202406_08.jpg
+ - url: /img/2024/06/REDC_SAT_202406_09.jpg
+   image_path: /img/2024/06/REDC_SAT_202406_09.jpg
 ---
 <h2 style="text-align: center;"><strong><a href="/resident-evil-directors-cut/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-directors-cut/descargar/">DESCARGAS</a> - <a href="/resident-evil-directors-cut/capturas/">CAPTURAS</a></strong></h2>
 
@@ -44,11 +59,15 @@ gallery2:
 
 {% include gallery %}
 
+### Imágenes de la versión 4.1 para Sega Saturn:
+
+{% include gallery id="gallery3" %}
+
 ### Imágenes de la versión 1.0:
 
 {% include gallery id="gallery2" %}
 
-**Introducción del juego traducida (es necesario iniciar sesión en YouTube):**
+**Introducción del juego traducida (versión 1.0, es necesario iniciar sesión en YouTube):**
 
 {% include video id="vUU2Ll6ma0I" provider="youtube" %}
 

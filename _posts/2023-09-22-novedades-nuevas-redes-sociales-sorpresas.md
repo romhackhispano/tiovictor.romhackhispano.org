@@ -28,8 +28,8 @@ el proyecto zanjado hasta nuevo aviso.
 para ponernos al día y aclarar una serie de cosas. **Gracias a SaturnAR y a FacundoARG, hemos obtenido cierto código original que nos 
 faltaba y que nos permitirá aclarar varias cosas que se habían quedado perdidas** entre los materiales que tenemos.
 
-Lo malo es que en mitad de los avances se cruzó **Kitchen34**, administrador de la página web **[Delta Island](https://www.delta-island.com/forum/){:target="_blank"}**, 
-dedicada al desarrollo de traducciones, conversiones de traducciones y otras modificaciones para SegaSaturn. **Él estaba interesado en convertir 
+Lo malo es que en mitad de los avances se cruzó **Kitchen34**, administrador de la página web Delta Island, 
+dedicada al desarrollo de traducciones, conversiones de traducciones y otras modificaciones para Sega Saturn. **Él estaba interesado en convertir 
 nuestra traducción del primer Resident Evil: Director's Cut a la versión para Sega Saturn, así que le he estado prestando apoyo en este último mes**, 
 rompiendo los formatos nuevos de esta versión y adaptando la traducción a la misma.
 

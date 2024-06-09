@@ -8,7 +8,16 @@ comments: false
 
 <h2 style="text-align: center;"><strong><a href="/resident-evil-directors-cut/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-directors-cut/descargar/">DESCARGAS</a> - <a href="/resident-evil-directors-cut/capturas/">CAPTURAS</a></strong></h2>
 
-### Registro de revisiones
+# Índice
+
+1. [Registro de revisiones](#punto1)
+2. [Cómo aplicar un parche .XDELTA](#punto2)
+3. [Instrucciones para aplicar el parche de traducción en PlayStation](#punto3)
+4. [Instrucciones para aplicar el parche de traducción en Sega Saturn](#punto4)
+5. [Instrucciones para copiar el juego traducido a un CD-R](#punto5)
+6. [Los ODE de Sega Saturn y problemas encontrados con Saroo](#punto6)
+
+### Registro de revisiones<a name="punto1"></a>
 
 * 1.0 - Primera versión, todos los textos, documentos y imágenes del juego 
  traducidos, problemas con los espacios identificados.
@@ -64,72 +73,193 @@ comments: false
   final no sea tan abrupto.
   - Varios diálogos que aparecían donde no debían han sido resueltos.
   - Corregidas las posiciones de los textos del menú de opciones.
+* 4.1 - Convertida la traducción a la versión para Sega Saturn, tanto la 
+edición PAL europea como la NTSC-U estadounidense. No ha sido posible 
+editar todavía la versión NTSC-U de PSX. Otros cambios:
+  - La versión de Sega Saturn incluye todos los vídeos sin censura.
+  - Afinación de los tiempos de los subtítulos en varias escenas.
+  - Corrección de textos en varios documentos del Archivo.
+  - Cambiado el texto de la pantalla de muerte para que se pueda 
+    aplicar tanto a Chris como a Jill.
 
-### Cómo aplicar el parche de traducción
+### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
 
-Esta es la suma de comprobación (checksum) de la imagen original del juego 
-en formato .BIN/.CUE:
+Cómo aplicar un archivo .XDELTA con Delta Patcher:
+
+Necesitarás el archivo original a modificar, el archivo xdelta 
+correspondiente y la aplicación Delta Patcher (puedes conseguirla en: 
+https://github.com/marco-calautti/DeltaPatcher/releases/ )
+
+ - Abre el programa Delta Patcher.
+ - Asegúrate de que la opción «Backup original file» esté activada en el 
+   botón con forma de engranaje, junto al botón «Apply patch».
+ - Pulsa en el botón con forma de carpeta que hay dentro del cuadro de 
+   «Original file» y selecciona el archivo original que quieras modificar.
+ - Pulsa en el botón con forma de carpeta que hay dentro del cuadro de 
+   «XDelta patch» y selecciona el archivo .XDELTA.
+ - Haz clic en «Apply patch» y se aplicará el parche a una copia del 
+   archivo seleccionado que tendrá el sufijo «_PATCHED», mientras que el 
+   archivo original se mantendrá igual.
+
+Es posible que los antivirus interfieran con el programa de parcheado 
+durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
+programa.
+
+### Instrucciones para aplicar el parche de traducción en PlayStation<a name="punto3"></a>
+
+Necesitarás extraer la imagen del CD de Resident Evil: Director's Cut en su 
+versión PAL EN FRANCÉS (código de juego SLES-00970) en formato .BIN/.CUE. 
+Para ello te hará falta un lector de DVD/BluRay y un programa de copiado de 
+discos ópticos (como ImgBurn o Alcohol 120%). Si necesitas ayuda, busca 
+tutoriales sobre el uso de estos programas en Internet.
+
+Una vez hayas comprobado qué versión tienes del juego, podrás aplicar el 
+parche correspondiente al archivo .BIN.
+
+Asegúrate de que has volcado tu disco correctamente. Estas son las posibles 
+sumas de comprobación, o checksums:
+
+VERSIÓN PAL FRANCESA (SLES-00970):
 ```
 CRC-32: f8adc16f
    MD5: 6f9f0c0a0e38a6e9e6527dba73b365f5
  SHA-1: 5d9d1ea07595ae468ba4183a73331f0dace2384e
 ```
 
-Necesitarás la imagen original de cada disco, el archivo xdelta 
-correspondiente y la aplicación xdelta UI (Puedes conseguirla en la 
-siguiente página web: http://www.romhacking.net/utilities/598/ )
+### Instrucciones para aplicar el parche de traducción en Sega Saturn<a name="punto4"></a>
 
- - Abre el programa xdeltaUI.
- - Asegúrate de que la pestaña "Apply Patch" esté seleccionada.
- - Pulsa en el botón "Open" que hay debajo del texto "Patch" y selecciona el 
-   archivo .XDELTA de uno de los discos.
- - Pulsa en el botón "Open" que hay debajo del texto "Source File" y 
-   selecciona la imagen en formato .BIN o .IMG de tu copia del disco 
-   correspondiente al archivo .XDELTA.
- - Introduce en el cuadro que hay debajo de "Output File" o pulsa en el 
-   botón que contiene los puntos suspensivos (...) el nombre que tendrá la 
-   imagen .BIN traducida. Asegúrate de que esté en la misma carpeta donde 
-   esté la imagen original.
- - Pulsa en "Patch" y se aplicará el parche a la imagen.
- - Cierra el programa xdeltaUI y accede a la carpeta donde tienes las 
-   imágenes.
- - Cambia el nombre a la imagen original del juego por uno cualquiera y 
-   cambia el nombre de la imagen traducida por el nombre que tenía la imagen 
-   original.
- - Repite los pasos anteriores con las imágenes del resto de discos.
- - Ahora podrás jugar con la versión traducida al castellano o copiarla en 
-   un CD-R si quieres jugar en una consola modificada.
+Necesitarás extraer la imagen del CD de Resident Evil, ya sea en su versión 
+PAL europea (código de juego MK-81092) como en su versión NTSC-U 
+estadounidense (código de juego T-1221H) en formato de dos pistas .BIN y 
+un archivo .CUE.
 
-Es posible que los antivirus interfieran con el programa de parcheado 
-durante su funcionamiento, pero NO debes desactivarlos mientras utilizas el 
-programa.
+Para ello te hará falta un lector de DVD/BluRay y un programa de copiado de 
+discos ópticos (como ImgBurn o Alcohol 120%). Si necesitas ayuda, busca 
+tutoriales sobre el uso de estos programas en Internet.
 
-Si quieres distribuir estos parches o ponerlos en tu página web, por favor, 
-consúltanos primero. Bajo ningún concepto distribuyas o cuelgues en internet 
-las imagenes del juego ya parcheado. La traducción está hecha para ser 
-distribuida en forma de parche y para ser usada para los legitimos 
-poseedores del juego original.
+La mayoría de programas de creación de imágenes de disco suelen generar un 
+único archivo .BIN y un único archivo .CUE, pero para este parche es 
+necesario sacar todas las pistas de forma individual. Si tu programa es lo 
+bastante antiguo como para haber sacado las 2 pistas del juego en archivos 
+.BIN separados, ignora el siguiente párrafo.
 
-### Cómo copiar el juego para usarlo en una PlayStation 1 o 2
+Para extraer las pistas, recomiendo utilizar el programa binmerge-gui, una 
+versión del programa de putnam con una interfaz más fácil de usar gracias a 
+Infrid. Puedes descargarte el programa también en la dirección 
+https://github.com/loadwordteam/binmerge-gui .
+ - Abre el programa binmerge-gui y selecciona la pestaña «Separar pistas».
+ - Haz clic en «Buscar .CUE original» y selecciona el archivo .CUE de tu 
+   copia de seguridad del disco.
+ - Haz clic en «Seleccionar .CUE separado» y pon un nombre de archivo en una 
+   carpeta diferente a donde se encuentren los archivos .BIN/.CUE originales 
+   del disco.
+ - Haz clic en «¡Separar pistas!». Si todo sale bien, la carpeta que hayas 
+   seleccionado para el .CUE separado contendrá 16 archivos .BIN y un 
+   archivo .CUE.
+
+Ya con los 2 archivos .BIN, puedes aplicar el archivo XDELTA a la pista, o 
+«track», 01. Utiliza Delta Patcher y las instrucciones sobre el uso de Delta 
+Patcher para aplicar el parche.
+
+Esta es la suma de comprobación de la pista 01 en las dos versiones:
+
+VERSIÓN PAL:
+```
+  CRC-32: 195dba98
+     MD5: 2bd6c275274f596e3c8a0ff650e11b8c
+   SHA-1: 886c0c470359e8070a92493db1c85ba0b36b3a24
+```
+
+VERSIÓN NTSC-U:
+```
+  CRC-32: f712365e
+     MD5: ffe9b7018da54b90dc6ab9f948b12ed8
+   SHA-1: c7af9583f864feaf353ca447bad0092e5982d6b5
+```
+
+Si por cualquier motivo necesitas volver a unir los 2 archivos BIN en uno 
+solo (por ejemplo, porque a algunos emuladores no les guste un .CUE con 
+varios .BIN), vuelve a ejecutar el programa binmerge-gui, pero esta vez 
+introduciendo los .CUE en la pestaña «Fusionar pistas».
+
+### Instrucciones para copiar el juego traducido a un CD-R<a name="punto5"></a>
+
+Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
+todavía utilicen CDs «quemados» o «tostados» (CD-R) para jugar con sus 
+consolas reales y no utilicen sistemas modernos de emulación de disco óptico 
+(los llamados ODE) u otros sistemas de carga de copias de seguridad a través 
+de tarjetas SD. Si tienes alguno de estos, no necesitas tanta complicación.
+
+Si quieres jugar a este parche de traducción en una consola real y con un 
+CD-R, necesitas que admita discos no originales, ya sea modificada con un 
+chip o con otros métodos que existan. Si necesitas más información sobre 
+esta parte, búscala en Internet.
 
 Por lo general, puedes utilizar cualquier programa de grabación de discos 
-(Recomendamos ImgBurn o Alcohol 120%), siempre y cuando grabes a la 
-velocidad más baja posible y, en el caso de Alcohol 120%, utilices el 
-preajuste para discos de PlayStation.
+(recomendamos ImgBurn o Alcohol 120%), y, en el caso de Alcohol 120%, 
+utilices el preajuste para discos de PlayStation (en la versión de 
+PlayStation) o el preajuste Saturn (para la versión de Sega Saturn).
 
-Por otro lado, no recomendamos el uso de discos de la marca Verbatim, TDK o 
-Imation que hayan sido comprados a partir de 2014, ya que una consola real 
-sólo leerá uno de cada quince discos copiados.
+Por norma general lo mejor es grabar los discos a la velocidad más baja 
+posible, pero hemos visto casos en los que grabar a la máxima es la única 
+forma de hacer que funcionen. Empieza siempre por la velocidad más baja.
 
-Actualmente, la gran mayoría de CD-Rs de tiendas pequeñas y grandes 
-superficies dan problemas por su calidad. Evitad los discos cuyo fabricante 
-no sea Ritek, Taiyo Yuden, Mitsubishi, etc. (Podéis ver su fabricante 
-introduciendo el CD-R en vuestro ordenador y leyendo sus especificaciones 
-con ImgBurn).
+Actualmente, la gran mayoría de DVD-Rs, tanto de tiendas pequeñas como de 
+grandes superficies dan problemas, por su calidad. Evita los discos cuyo 
+fabricante no sea Ritek, Taiyo Yuden, Mitsubishi, etc. (Podéis ver su 
+fabricante introduciendo el DVD-R en vuestro ordenador y leyendo sus 
+especificaciones con ImgBurn).
 
 Si queréis informaros sobre los fabricantes de discos, qué marcas comprar o 
 dónde comprarlas, os recomiendo que os informéis por ahí, ya que hay otras 
 personas que saben explicar la situación mejor que yo.
+
+### Los ODE de Sega Saturn y problemas encontrados con Saroo<a name="punto6"></a>
+
+**La versión para Sega Saturn ha sido probada extensivamente con los 
+siguientes métodos de carga:**
+ - CD-R con un Action Replay modificado.
+ - Imagen .BIN/.CUE cargada a través de un Fenrir Duo de 2023.
+ - Imagen .BIN/.CUE cargada a través de un Saroo de 2024.
+
+En los dos primeros casos no hemos encontrado problema alguno y hemos podido 
+pasarnos el juego sin mayor problema, pero **Saroo ha dado una serie de 
+problemas que, en el momento de redactar este texto, quedan pendientes de 
+resolver y son completamente ajenos a nuestro parche.** Entre los problemas 
+que os podáis encontrar, hemos visto los siguientes:
+ - Desaparición de algunos textos concretos (en el modo demo).
+ - Corrupción de pantalla al interactuar con una puerta.
+ - Desaparición de modelos 3D (personajes, enemigos, objetos del entorno...) 
+   al interactuar con una puerta.
+ - Bloqueo del juego («softlock») al intentar utilizar el ordenador del 
+   laboratorio teniendo en el inventario las Diapositivas o no habiendo 
+   recogido las Diapositivas de su habitación: si ocurriera esto, será 
+   necesario seguir los siguientes pasos:
+   - Al llegar al cuarto del ordenador, recoge las Diapositivas.
+   - Sal del cuarto, busca un baúl y deposita en él las Diapositivas.
+   - Vuelve al ordenador sin llevar las Diapositivas encima e interactúa 
+     con él.
+   - Si todo va bien, no se quedará bloqueado en el logotipo de Umbrella.
+
+**Por estas razones y por consejo de la comunidad de SegaXtreme, el equipo de 
+traducción va a ignorar cualquier comentario o fallo que haya ocurrido con 
+un Saroo.**
+
+**EDICIÓN DE ÚLTIMA HORA: nuestro testeador de Saroo ha encontrado la 
+siguiente configuración, que podéis incluir en vuestro archivo .ini y que, 
+con suerte, arreglará esos problemas:**
+
+```
+# RESIDENT EVIL (U)
+[T-1221H   V1.002]
+play_delay = 100000
+sector_delay = 5000
+
+# RESIDENT EVIL (E)
+[MK-81092  V1.002]
+play_delay = 100000
+sector_delay = 5000
+```
 
 <h2 style="text-align: center;"><a href="/resident-evil-directors-cut/"><strong>VOLVER</strong></a></h2>
 

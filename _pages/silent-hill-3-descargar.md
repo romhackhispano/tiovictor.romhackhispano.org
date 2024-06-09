@@ -27,6 +27,10 @@ ayuda y por el trabajo de Silent Hill 2: Enhanced Edition.
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/g4hdjxkp1hldt5e/SH3-REVISION-TTV-V1.0.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/NEkXnLpB#lhCP_bWR_j2zxFTNHxkSK11U0AsfTOiMZx2TUGZ5g9U" target="_blank">MEGA</a></strong></h1>
 
+
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
+
 <h2 style="text-align: center;"><a href="/silent-hill-3/"><strong>VOLVER</strong></a></h2>
 
 

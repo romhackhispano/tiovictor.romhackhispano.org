@@ -23,9 +23,9 @@ por dedicarme su valioso tiempo con Ace Combat 3 a mirarme este juego, a
 Retroductor por toda su ayuda, y a PolyMega y la gente de Town of Silent 
 Hill por su ayuda y por el trabajo del Enhanced Edition.
 
-<h3 style="text-align: center;">VERSIÓN 1.0.5 DEL PARCHE DE RETRADUCCIÓN:</h3>
+<h3 style="text-align: center;">VERSIÓN 1.0.7 DEL PARCHE DE RETRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/osdgq3d4dsatcgx/SH2DC-REVISION-TTV-V1.0.5.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/gA1UnYAY#tuHVGqAPcWHTmFHNljCptcxJaqgeYmJU2jtw37ppodU" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/zd4j9su7aqo94mo/SH2DC-REVISION-TTV-V1.0.7.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/BEEiCAQZ#TkqRWXv-9zQMgjtzPP7p1mn83vgH6nx9qOxUpDNRBvU" target="_blank">MEGA</a></strong></h1>
 
 <h2 style="text-align: center;"><a href="/silent-hill-2-directors-cut/"><strong>VOLVER</strong></a></h2>
 

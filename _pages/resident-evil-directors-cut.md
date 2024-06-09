@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil: Director's Cut para PSOne (v3.6 y v4.0)"
+title: "Resident Evil: Director's Cut para PSOne (v3.6 y v4.1)"
 permalink: /resident-evil-directors-cut/
 header:
   overlay_image: /img/headers/pages/ResidentEvil1Header.jpg
@@ -28,3 +28,7 @@ en fluidez de diálogos y en naturalidad, pero manteniendo la esencia de la tram
 - Se ha remontado la imagen y el audio de la escena del primer zombi para que el final 
 no sea tan abrupto.  
 - Se han corregido las posiciones de los textos en el menú de Opciones.
+
+La versión 4.1 se llevó a cabo entre 2023 y 2024 con el fin de traducir la versión para 
+Sega Saturn y allanar el camino a otras futuras versiones para PlayStation y PC. 
+La versión 4.1 para Sega Saturn se hizo en colaboración con Delta Island.

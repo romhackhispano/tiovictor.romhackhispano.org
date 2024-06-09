@@ -89,6 +89,19 @@ v1.0.2
    - Corregida la frase que decía que la nota sobre la dama de la puerta 
      estaba en el suelo, cuando está sobre la cama (Gracias al equipo de 
      la Enhanced Edition).
+v1.0.3
+ - Correcciones menores en la versión de PC:
+   - Ajustados los textos para que se puedan ver en relaciones de 
+   aspecto 4:3.
+v1.0.4
+- Correcciones adicionales de textos en todas las ediciones.
+v1.0.5
+- Correcciones adicionales de textos en todas las ediciones.
+v1.0.6
+- Cambio en la estructura interna de los archivos de la versión para 
+  la Enhanced Edition para adaptarla a sus últimos cambios.
+v1.0.7
+- Añadidas nuevas cadenas en la versión de PC para la Enhanced Edition.
 
 ### Instrucciones para aplicar el parche de traducción en PC
 
