@@ -30,8 +30,11 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
+enable_copy_code_button  : # true, false (default)
+copyright                : "Traducciones del Tío Víctor" # "copyright" name, defaults to site.title
+copyright_url            : # "copyright" URL, defaults to site.url
 comments:
-  provider               : "disqus"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : traduccionesdeltiovictor
 reCaptcha:
@@ -43,17 +46,26 @@ atom_feed:
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
+lunr:
+  search_within_pages    : # true, false (default)
+algolia:
+  application_id         : # YOUR_APPLICATION_ID
+  index_name             : # YOUR_INDEX_NAME
+  search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
+  powered_by             : # true (default), false
 google:
   search_engine_id       : # YOUR_SEARCH_ENGINE_ID
   instant_search         : # false (default), true
+# MODIFICACION: Anadido el script para el consentimiento de las cookies.
 after_footer_scripts     :
   - /assets/js/cookie-consent.js
 
 # SEO Related
 google_site_verification :
 bing_site_verification   :
-yandex_site_verification :
 naver_site_verification  :
+yandex_site_verification :
+baidu_site_verification  :
 
 # Social Sharing
 twitter:
@@ -73,7 +85,11 @@ social:
 
 # Analytics
 analytics:
-  provider               : "custom"
+  # MODIFICACIÓN: utilizando un proveedor custom en vez del de Google para que pueda funcionar el sistema de consentimiento de cookies.
+  provider               : "custom" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
@@ -171,9 +187,34 @@ sass:
 # Outputting
 # MODIFICACIÓN: Cambia los enlaces permalinks de los posts al estilo WordPress
 permalink: /:year/:month/:day/:title/
+timezone: Europe/Madrid
+
+
+# Pagination with jekyll-paginate
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: Europe/Madrid
+
+# MODIFICACION: COMPROBAR SI SE PUEDE UTILIZAR ESTO O SI ES NECESARIO.
+# Pagination with jekyll-paginate-v2
+# See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
+#   for configuration details
+pagination:
+  # Set enabled to true to use paginate v2
+  # enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 10
+  permalink: '/page/:num/'
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: ''
+  trail:
+    before: 2
+    after: 2
 
 
 # Plugins (previously gems:)
@@ -229,10 +270,11 @@ compress_html:
   ignore:
     envs: development
 
+# MODIFICACIÓN: Cambia el formato de la fecha.
 date_format: "%-d de %m de %Y"
 
 # Defaults
-# MODIFICACIÓN: Cambian los defaults de forma acorde con el diseño de la página.
+# MODIFICACIÓN: Cambia todo el apartado de defaults y añade los pages de forma acorde con el diseño de la página.
 defaults:
   # _posts
   - scope:

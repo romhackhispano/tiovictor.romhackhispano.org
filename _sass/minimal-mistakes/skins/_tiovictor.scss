@@ -1,5 +1,6 @@
 /* ==========================================================================
-   Tio Victor skin
+   Traducciones del Tio Victor skin
+   By IlDucci and Soywiz
    ========================================================================== */
 
 /* Colores */
@@ -24,16 +25,10 @@ $info-color                 : #2196f3 !default;
   background: $lighter-gray;
 }
 
-/* Page hero */
-/* Antes ubicado en page.scss */
-.page__hero {
-  &--overlay {
-    margin-bottom: 1.5em;
-    padding: 2.5em 0;
-    min-height: 9em;
-  }
-}
-
 $right-sidebar-width-narrow: 175px !default;
 $right-sidebar-width: 280px !default;
 $right-sidebar-width-wide: 400px !default;
+
+/* Pendiente: anadir el resto de cambios metidos en los siguientes archivos de sass: */
+/* _archive, _navigation, _page, _sidebar */
+/* _archive */
