@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-# MODIFICACION: Anadida una skin personalizada.
+# MODIFICACIÓN: Añadida una skin personalizada.
 minimal_mistakes_skin    : "tiovictor" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -22,8 +22,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Tío Víctor"
 description              : "Fantraducciones al castellano realizadas por IlDucci"
-url                      : http://tiovictor.romhackhispano.org
-baseurl                  : 
+url                      : http://tiovictor.romhackhispano.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # NO ES NECESARIO the subpath of your site, e.g. "/blog"
 repository               : "romhackhispano/tiovictor.romhackhispano.org"
 teaser                   : "img/NotiEnBlancoV2.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : 
   location         : 
-  email            : 
+  email            :
 
 
 # Site Footer
@@ -111,7 +111,7 @@ footer:
       icon: "fab fa-fw fa-mastodon"
       url: "https://tkz.one/@IlDucci"
     - label: "BlueSky"
-      icon: "fas fa-solid fa-square"
+      icon: "fab fa-fw fa-bluesky"
       url: "https://bsky.app/profile/vgfilducci.bsky.social"
     - label: "Política de cookies"
       icon: "fas fa-exclamation-triangle"
@@ -200,10 +200,11 @@ paginate_path: /page:num/
 #   for configuration details
 pagination:
   # Set enabled to true to use paginate v2
-  # enabled: true
+  enabled: true
   debug: false
   collection: 'posts'
-  per_page: 10
+  # MODIFICACIÓN: ajusta el número de entradas por página.
+  per_page: 5
   permalink: '/page/:num/'
   title: ':title - page :num'
   limit: 0
