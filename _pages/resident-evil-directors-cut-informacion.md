@@ -81,14 +81,43 @@ editar todavía la versión NTSC-U de PSX. Otros cambios:
   - Corrección de textos en varios documentos del Archivo.
   - Cambiado el texto de la pantalla de muerte para que se pueda 
     aplicar tanto a Chris como a Jill.
+* 4.2 - Versión que incluye parches con doblaje íntegro al castellano.
+- CAMBIOS PARA TODAS LAS VERSIONES:
+  - Implementación de los cambios de traducción de la versión 4.1 en 
+    las versiones de PlayStation.
+  - Implementación de la traducción en la, hasta ahora, intocable 
+    versión Director's Cut NTSC-U estadounidense (para los que quieran 
+    jugar a 60 Hz) de PlayStation, así como en la versión PAL inglesa 
+    que tendrá bastante gente en España.
+  - Implementación de la introducción sin censura en dichas versiones 
+    de habla inglesa.
+  - Retraducción y recentrado de los menús de guardado y carga de 
+    partida de PlayStation.
+  - Corrección de algunas erratas menores e inconsistencias en las 
+    preguntas dirigidas hacia el jugador.
+  - Corrección de un fallo original del juego en sus ediciones PAL en 
+    la que Wesker apuntaría con su pistola incorrectamente a la cámara 
+    en una escena de la ruta de Jill.
+  - Corrección de un fallo en la versión PAL para Saturn en el que el 
+    juego se colgaría en el pasillo que da al ascensor al helipuerto, 
+    jugando con Chris y con Jill y Rebecca vivas.
+  - Corrección de las animaciones en varias cinemáticas que no estaban 
+    sincronizadas. No se han podido corregir todas por motivos técnicos.
+  - Unificados todos los textos y nombres de objetos relacionados con 
+    el ropero.
+  - Otros ajustes menores en los textos.
+- CAMBIOS PARA LAS VERSIONES DOBLADAS:
+  - Doblaje íntegro del juego, con una adaptación nueva de la 
+    traducción, ajena al proyecto, y con un toque más peliculero y 
+    adulto. AVISO: esta nueva traducción incluye lenguaje soez.
+  - Eliminación de los subtítulos en las versiones dobladas.
 
 ### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
 
 Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
 Necesitarás el archivo original a modificar, el archivo xdelta 
-correspondiente y la aplicación Delta Patcher (puedes conseguirla en: 
-https://github.com/marco-calautti/DeltaPatcher/releases/ )
+correspondiente y la aplicación Delta Patcher (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**).
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 
@@ -107,23 +136,37 @@ programa.
 
 ### Instrucciones para aplicar el parche de traducción en PlayStation<a name="punto3"></a>
 
-Necesitarás extraer la imagen del CD de Resident Evil: Director's Cut en su 
-versión PAL EN FRANCÉS (código de juego SLES-00970) en formato .BIN/.CUE. 
-Para ello te hará falta un lector de DVD/BluRay y un programa de copiado de 
-discos ópticos (como ImgBurn o Alcohol 120%). Si necesitas ayuda, busca 
-tutoriales sobre el uso de estos programas en Internet.
+Necesitarás extraer la imagen del CD de Resident Evil: Director's Cut en una 
+de las tres versiones compatibles en formato .BIN/.CUE. Para ello te hará 
+falta un lector de DVD/BluRay y un programa de copiado de discos ópticos 
+(como ImgBurn o Alcohol 120%). Si necesitas ayuda, busca tutoriales sobre el 
+uso de estos programas en Internet.
 
 Una vez hayas comprobado qué versión tienes del juego, podrás aplicar el 
 parche correspondiente al archivo .BIN.
 
-Asegúrate de que has volcado tu disco correctamente. Estas son las posibles 
-sumas de comprobación, o checksums:
+Asegúrate de que has volcado tu disco correctamente. Estas son las versiones 
+compatibles y sus respectivas sumas de comprobación, o checksums:
 
 VERSIÓN PAL FRANCESA (SLES-00970):
 ```
 CRC-32: f8adc16f
    MD5: 6f9f0c0a0e38a6e9e6527dba73b365f5
  SHA-1: 5d9d1ea07595ae468ba4183a73331f0dace2384e
+```
+
+VERSIÓN PAL INGLESA (SLES-00969):
+```
+CRC-32: 052fe98e
+   MD5: 850b338d8bef853035315e98164bba4d
+ SHA-1: 8ce02b5d7d9c44562dd12012b9df5c2643cfdd14
+```
+
+VERSIÓN NTSC-U ESTADOUNIDENSE (SLUS-00551):
+```
+CRC-32: a973b63a
+   MD5: 50d96c24761ebf5926719c7090f8bf22
+ SHA-1: d926cec7ac6a1665cc00039ab92dee6a6bebe824
 ```
 
 ### Instrucciones para aplicar el parche de traducción en Sega Saturn<a name="punto4"></a>
@@ -145,8 +188,7 @@ bastante antiguo como para haber sacado las 2 pistas del juego en archivos
 
 Para extraer las pistas, recomiendo utilizar el programa binmerge-gui, una 
 versión del programa de putnam con una interfaz más fácil de usar gracias a 
-Infrid. Puedes descargarte el programa también en la dirección 
-https://github.com/loadwordteam/binmerge-gui .
+Infrid. Puedes descargarte el programa también en **[su página web](https://github.com/loadwordteam/binmerge-gui)**.
  - Abre el programa binmerge-gui y selecciona la pestaña «Separar pistas».
  - Haz clic en «Buscar .CUE original» y selecciona el archivo .CUE de tu 
    copia de seguridad del disco.

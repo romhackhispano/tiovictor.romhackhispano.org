@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil: Director's Cut para PSOne (v3.6 y v4.1)"
+title: "Resident Evil: Director's Cut para PSOne (v3.6 y v4.2)"
 permalink: /resident-evil-directors-cut/
 header:
   overlay_image: /img/headers/pages/ResidentEvil1Header.jpg
@@ -32,3 +32,6 @@ no sea tan abrupto.
 La versión 4.1 se llevó a cabo entre 2023 y 2024 con el fin de traducir la versión para 
 Sega Saturn y allanar el camino a otras futuras versiones para PlayStation y PC. 
 La versión 4.1 para Sega Saturn se hizo en colaboración con Delta Island.
+
+La versión 4.2 se estrenó el 29 de julio de 2024 con motivo del lanzamiento de un doblaje 
+al castellano íntegro, llevado a cabo por el grupo **[Resident Evil Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO?cbrd=1)**.

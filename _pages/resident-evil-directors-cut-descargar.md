@@ -9,16 +9,38 @@ comments: false
 <h2 style="text-align: center;"><strong><a href="/resident-evil-directors-cut/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-directors-cut/descargar/">DESCARGAS</a> - <a href="/resident-evil-directors-cut/capturas/">CAPTURAS</a></strong></h2>
 
 **CRÉDITOS DEL PROYECTO**
- - *Participantes del proyecto:* Crakand, Lozanosky e IlDucci  
- - *Revisión de la versión 4.0:* TheMarkusBoy e IlDucci
+ - *Participantes del proyecto:* Crakand, Lozanosky e IlDucci
 
-**CRÉDITOS DE LA VERSIÓN 4.1 EN ADELANTE:**
+**CRÉDITOS DE LA VERSIÓN 4.0 EN ADELANTE:**
  - *Jefe de proyecto, traducción, edición gráfica, de vídeo y sonido:* IlDucci
+ - *Coescritor y jefe de pruebas de la versión 4.0:* TheMarkusBoy
  - *Conversión inicial a Sega Saturn:* Delta Island/Kitchen34
  - *Herramientas dedicadas:* CUE, PacoChan
  - *Ingeniería inversa para Sega Saturn:* Bo, IlDucci
  - *Ingeniería inversa para PlayStation:* MasterLuc, PhOeNiX, IlDucci
  - *Testeo de Sega Saturn:* Wesker, Cerbero, Releon
+
+**CRÉDITOS DEL DOBLAJE EN CASTELLANO:**
+ - *Dirección de doblaje, técnico de grabación y de mezclas, adaptador de 
+ diálogos, testeo del doblaje:* Salvi Garrido  
+ - *Asistencia de mezclas:* David Flores  
+ - *Inserción del doblaje, preparación de materiales y de guión:* IlDucci
+ 
+<center>
+<b>Reparto de voces:</b><br>
+
+Chris Redfield: José Meco<br>
+Jill Valentine: Henar Hernández<br>
+Barry Burton: Txemi del Olmo<br>
+Rebecca Chambers: Gracia Comitre<br>
+Albert Wesker: Gabriel Jiménez<br>
+Richard Aiken: David Flores<br>
+Brad Vickers: Salvi Garrido<br>
+Voz del sistema: Ana Isabel Rodríguez<br>
+Enrico Marini: Adolfo Pastor<br>
+Joseph Frost: Ángel Luis Martínez
+
+</center>
 
  - *Herramientas de terceros:* Jörg Schilling y el equipo de CDRTools, Lameguy64 y el equipo de mkpsxiso, 
 Michael Sabin (jpsxdec), Steve «Klarth» Monaco (Atlas), RedComet 
@@ -32,30 +54,25 @@ equipo de FFMpeg, SuikazeRaider (CPKAudioMixer), los equipos de Mednafen y
 de Mednaffe, los equipos de Yabause y Kronos, el equipo de SSF, Stenzek 
 (Duckstation).
 
-*Agradecimientos especiales: Phoenix de SadNES City, Master_Luc, Pumuke Lee, Snake172002, Seryi, Fali, Pokechar, 
-Numaios, Monicapo, Wesker, Raskaipika y los testers de la versión 4.0.*
+*Agradecimientos especiales: A PhOeNiX de SadNES City, Master_Luc, Pumuke Lee, Snake172002, Seryi, Fali, 
+Pokechar, Numaios, Monicapo, Wesker, Raskaipika y a los testers de la 
+versión 4.0 (ojalá hubiese anotado esos créditos en su día, lo siento 
+muchísimo).*
 
 *Agradecimientos de la versión 4.1 en adelante:
-A CUE, MeganGrass y a la comunidad de SegaXtreme por toda la información 
-concerniente a la versión de Sega Saturn.*
+A CUE, MeganGrass, a la comunidad de SegaXtreme por toda la información 
+concerniente a la versión de Sega Saturn y la comunidad de Halley's Comet 
+Software por su ayuda con el formato de sonido de Sega Saturn.*
 
-<h3 style="text-align: center;">TRADUCCIÓN DEL JUEGO (V3.6 FINAL 2010):</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V3.6 FINAL 2010):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/exxcw7d72j8anpe/REDC-V36.rar/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!IBUAkLRA!MBRMMFKk2DKND6GxVbel8dZnDRXsK059igCXZQeiZq0" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/exxcw7d72j8anpe/REDC-V36.rar/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/xF1VmbSb#ot3AJMmmRmIRHTQ3nYjEbA12HCJ-zZE_ItCpwhAgSN4" target="_blank">MEGA</a></strong></h1>
 
-<h3 style="text-align: center;">TRADUCCIÓN DEL JUEGO (V4.0 2016 PARA PSX):</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE DEL JUEGO (V4.2 2024 PARA PSX Y SATURN):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/cp4at9uif6v24bu/REDC-V40.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/dIdyGbgK#pyCjkZQyWdxhR4gsn9QTNF-NP3X-5OjwscNhARGkjeI" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/folder/9rh9895tjhs01/REDC" target="_blank">Carpeta de MEDIAFIRE</a></strong></h1>
 
-<h3 style="text-align: center;">TRADUCCIÓN DEL JUEGO (V4.1 2024 PARA SATURN):</h3>
-
-<h4 style="text-align: center;">PARCHE PARA LA VERSIÓN PAL:</h4>
-
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/y04o9d3hdp765mr/REDC_TRADUESP_TTV_4.1_SATURN_PAL.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/xF1VmbSb#ot3AJMmmRmIRHTQ3nYjEbA12HCJ-zZE_ItCpwhAgSN4" target="_blank">MEGA</a></strong></h1>
-
-<h4 style="text-align: center;">PARCHE PARA LA VERSIÓN NTSC-U:</h4>
-
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/ygp06lrc6lmez0r/REDC_TRADUESP_TTV_4.1_SATURN_NTSCU.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/oYVyDK5Y#Y_ERKbKgX7tZM4ZXocH_ielf61SzRJ500PvWN0Aev3c" target="_blank">MEGA</a></strong></h1>
+<h1 style="text-align: center;"><strong><a href="https://mega.nz/folder/hcdVmQLR#rTq2AVpd8NHbsfOgEk_8OA" target="_blank">Carpeta de MEGA</a></strong></h1>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
 

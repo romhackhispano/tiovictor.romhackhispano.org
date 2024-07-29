@@ -55,19 +55,34 @@ gallery3:
 ---
 <h2 style="text-align: center;"><strong><a href="/resident-evil-directors-cut/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-directors-cut/descargar/">DESCARGAS</a> - <a href="/resident-evil-directors-cut/capturas/">CAPTURAS</a></strong></h2>
 
-### Imágenes de la versión más reciente, 4.0:
+# Índice
 
-{% include gallery %}
+1. [Imágenes de la versión 4.1 para Sega Saturn](#punto1)
+2. [Muestras del doblaje de Resident Evil Castellano](#punto2)
+3. [Imágenes de la versión 4.0](#punto3)
+4. [Imágenes de la versión 1.0](#punto4)
+5. [Introducción del juego traducida (versión 1.0, es necesario iniciar sesión en YouTube)](#punto5)
 
-### Imágenes de la versión 4.1 para Sega Saturn:
+### Imágenes de la versión 4.1 para Sega Saturn:<a name="punto1"></a>
 
 {% include gallery id="gallery3" %}
 
-### Imágenes de la versión 1.0:
+### Muestras del doblaje de Resident Evil Castellano:<a name="punto2"></a>
+
+{% include video id="VBGM-vjXDBc" provider="youtube" %}
+{% include video id="591dWr_LfoU" provider="youtube" %}
+{% include video id="BSbPdSK5N_w" provider="youtube" %}
+{% include video id="p6cp_6HtEo8" provider="youtube" %}
+
+### Imágenes de la versión 4.0:<a name="punto3"></a>
+
+{% include gallery %}
+
+### Imágenes de la versión 1.0:<a name="punto4"></a>
 
 {% include gallery id="gallery2" %}
 
-**Introducción del juego traducida (versión 1.0, es necesario iniciar sesión en YouTube):**
+### Introducción del juego traducida (versión 1.0, es necesario iniciar sesión en YouTube):<a name="punto5"></a>
 
 {% include video id="vUU2Ll6ma0I" provider="youtube" %}
 
