@@ -34,11 +34,11 @@ Jill Valentine: Henar Hernández<br>
 Barry Burton: Txemi del Olmo<br>
 Rebecca Chambers: Gracia Comitre<br>
 Albert Wesker: Gabriel Jiménez<br>
-Richard Aiken: David Flores<br>
+Richard Aiken: Ángel Luis Martínez<br>
 Brad Vickers: Salvi Garrido<br>
 Voz del sistema: Ana Isabel Rodríguez<br>
 Enrico Marini: Adolfo Pastor<br>
-Joseph Frost: Ángel Luis Martínez
+Joseph Frost: David Flores
 
 </center>
 
