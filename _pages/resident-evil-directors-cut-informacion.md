@@ -111,6 +111,23 @@ editar todavía la versión NTSC-U de PSX. Otros cambios:
     traducción, ajena al proyecto, y con un toque más peliculero y 
     adulto. AVISO: esta nueva traducción incluye lenguaje soez.
   - Eliminación de los subtítulos en las versiones dobladas.
+* 4.2b - Correcciones menores:
+  - Quitados los subtítulos de las FMV en la versión PAL francesa con 
+    doblaje.
+  - Corregido el texto de "Pulsa cualquier botón" en la pantalla de 
+    título de los parches para Sega Saturn.
+  - Corregido el texto "VestíbuloB" en la pantalla de guardado/carga en 
+    las versiones para Sega Saturn.
+  - Corregida una mala transición durante la introducción en las 
+    versiones dobladas para Sega Saturn.
+  - Corregidos varios defectos visuales en los iconos de los objetos 
+    tras recogerlos en ciertas habitaciones puntuales, donde se 
+    mostrarían en negro.
+  - Añadido el final sin censura de Chris sobreviviendo solo a la 
+    versión para PlayStation.
+  - Restaurado el logo completo de Capcom en las versiones NTSC-U para 
+    PlayStation.
+  - Otros fallos menores corregidos.
 
 ### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
 

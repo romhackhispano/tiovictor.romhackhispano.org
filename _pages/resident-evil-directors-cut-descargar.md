@@ -68,7 +68,7 @@ Software por su ayuda con el formato de sonido de Sega Saturn.*
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/exxcw7d72j8anpe/REDC-V36.rar/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/xF1VmbSb#ot3AJMmmRmIRHTQ3nYjEbA12HCJ-zZE_ItCpwhAgSN4" target="_blank">MEGA</a></strong></h1>
 
-<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE DEL JUEGO (V4.2 2024 PARA PSX Y SATURN):</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE DEL JUEGO (V4.2b 2024 PARA PSX Y SATURN):</h3>
 
 <h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/folder/9rh9895tjhs01/REDC" target="_blank">Carpeta de MEDIAFIRE</a></strong></h1>
 

@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil: Director's Cut para PSOne (v3.6 y v4.2)"
+title: "Resident Evil: Director's Cut para PSOne (v3.6 y v4.2b)"
 permalink: /resident-evil-directors-cut/
 header:
   overlay_image: /img/headers/pages/ResidentEvil1Header.jpg
