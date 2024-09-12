@@ -14,7 +14,9 @@ de **TheFireRed**, **ConanCimmerio**, **raulpuro**, **Tim Kohler** y **BELANAR**
 
 ### Traducción de Tom Clancy's Rainbow Six
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/6szb8f76oxvanpp/TraduccionRainbowSixEspanol11.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!RMkjkajC!E94P5RlsU-bZhmi2KTpV99Z8y4RvZOlJNXw5oN2s1DQ" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/download/6szb8f76oxvanpp/TraduccionRainbowSixEspanol11.7z" class="btn btn--primary btn--x-large" target="_blank">Mediafire</a> <a href="https://mega.nz/#!RMkjkajC!E94P5RlsU-bZhmi2KTpV99Z8y4RvZOlJNXw5oN2s1DQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 Para que Rainbow Six y su traducción funcionen correctamente, deberéis instalarlo 
 en este orden:
@@ -30,7 +32,9 @@ ya que esta edición viene pre-actualizada.
 
 ### Traducción de Tom Clancy's Rainbow Six: Rogue Spear
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5czgeua6igwxu8u/TraduccionRogueSpearEspanol11.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!FYcFEQrS!oeaOxUQc1Ayf8dsj4pE0qWPUcvieY3aVwJabwuHCDZk" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/download/5czgeua6igwxu8u/TraduccionRogueSpearEspanol11.7z" class="btn btn--primary btn--x-large" target="_blank">Mediafire</a> <a href="https://mega.nz/#!FYcFEQrS!oeaOxUQc1Ayf8dsj4pE0qWPUcvieY3aVwJabwuHCDZk" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 Para que Rogue Spear, sus expansiones y la traducción funcionen bien, deberéis instalarlos en el 
 siguiente orden (Saltaos cualquier expansión que no queráis instalar):

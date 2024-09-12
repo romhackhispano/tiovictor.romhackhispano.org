@@ -15,7 +15,9 @@ comments: false
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/ym6yrzy5t26gd16/WrecklessXBOXEspanol10.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!wR8wHIRR!l-86I3hnTuFuvCHKDvmjpd7XIU2NP2IpG3sF4omFEVg" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/download/ym6yrzy5t26gd16/WrecklessXBOXEspanol10.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!wR8wHIRR!l-86I3hnTuFuvCHKDvmjpd7XIU2NP2IpG3sF4omFEVg" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 
 <h2 style="text-align: center;"><a href="/wreckless-the-yakuza-missions-para-xbox/"><strong>VOLVER</strong></a></h2>

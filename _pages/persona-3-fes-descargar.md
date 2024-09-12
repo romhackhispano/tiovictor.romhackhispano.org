@@ -21,11 +21,15 @@ _**CRÉDITOS (V1.1 PAL y v1.1b NTSC-U)**_
 
 <h3 style="text-align: center;">PARCHEADOR 1.1b PAL Y NTSC-U (WINDOWS DE 64 BITS):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador64bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/cZsBiYaB#ZvU-HhMfrD8Jg0oPNwVLaVGWCsf6lYW-UFfMTZDaCBc" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador64bits.7z" class="btn btn--primary btn--x-large" target="_blank">GITHUB</a> <a href="https://mega.nz/file/cZsBiYaB#ZvU-HhMfrD8Jg0oPNwVLaVGWCsf6lYW-UFfMTZDaCBc" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center>
 
 <h3 style="text-align: center;">PARCHEADOR 1.1b PAL Y NTSC-U (WINDOWS DE 32 BITS):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador32bits.7z" target="_blank">GITHUB</a> - <a href="https://mega.nz/file/MY8BWJ7b#IK6QUD6ML-EDD6wxSfT2AV89hVsYJXSgctgVT8gqlkE" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://github.com/TraduSquare/Parches/releases/download/P3FES/P3FES-TraduccionAlCastellano-Parcheador32bits.7z" class="btn btn--primary btn--x-large" target="_blank">GITHUB</a> <a href="https://mega.nz/file/MY8BWJ7b#IK6QUD6ML-EDD6wxSfT2AV89hVsYJXSgctgVT8gqlkE" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center>
 
 ## OTRAS HERRAMIENTAS Y MODIFICACIONES
 
@@ -38,7 +42,9 @@ _**CRÉDITOS:**_
 
 <h3 style="text-align: center;">ARCHIVOS DE LA MODIFICACIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/2pcb1hjsfk5x3yn/P3FES_Controllable_Party_Members_Mod_for_the_PAL_version_1.0.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/UNsiSTYa#jD-kOmsnkj8CQdvdDJ_-lCA311TsLfJ5WYhCgwEk52o" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://www.mediafire.com/file/2pcb1hjsfk5x3yn/P3FES_Controllable_Party_Members_Mod_for_the_PAL_version_1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/UNsiSTYa#jD-kOmsnkj8CQdvdDJ_-lCA311TsLfJ5WYhCgwEk52o" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center>
 
 ### PersonaPatcher con soporte para las fantraducciones al castellano (para modificar los contenidos de la ISO)
 
@@ -49,7 +55,7 @@ _**CRÉDITOS:**_
 **[Enlace al ejecutable modificado](https://github.com/D3fau4/Amicitia/releases)**
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
-**[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}**
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
 
 <h2 style="text-align: center;"><a href="/persona-3-fes/"><strong>VOLVER</strong></a></h2>
 

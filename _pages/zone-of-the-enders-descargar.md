@@ -28,8 +28,9 @@ un repaso a mi traducción.*
 
 <h3 style="text-align: center;">VERSIÓN 1.5 2024 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/hcqyx95wpc3lin9/ZoneOfTheEnders-TraduESP15_2024.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/1J9SGIqK#P2sGMR9xF71707KnuA33LsAMMc34TPPIFts99mN-x9Y" target="_blank">MEGA</a></strong></h1>
-
+<center>
+<a href="https://www.mediafire.com/file/hcqyx95wpc3lin9/ZoneOfTheEnders-TraduESP15_2024.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/1J9SGIqK#P2sGMR9xF71707KnuA33LsAMMc34TPPIFts99mN-x9Y" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
 **[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**

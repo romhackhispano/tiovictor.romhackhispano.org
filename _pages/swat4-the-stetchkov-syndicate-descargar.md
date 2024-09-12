@@ -18,11 +18,15 @@ el juego. Asegúrate de que te pregunta si quieres sobrescribir los archivos, y 
 
 <h3 style="text-align: center;">ACTUALIZACIÓN OFICIAL V1.1 DE SWAT 4 EN ESPAÑOL:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/zm1i1ly4iwuu58o/swat4_update_es_10_11.exe" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!EMdwFT5T!IcWczmrQBTtmP0rweuZxdXXB3UgMKslnAqBy5ltnQMI" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/download/zm1i1ly4iwuu58o/swat4_update_es_10_11.exe" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!EMdwFT5T!IcWczmrQBTtmP0rweuZxdXXB3UgMKslnAqBy5ltnQMI" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center>
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN DE STETCHKOV SYNDICATE:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/co7m9jbok2k53g4/SWAT4XTraduEspanolV22.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!wFcRjASI!1nmc00I2yQmC7jDJT--Pa6OsaNC4RipwfjNcPe9L9vU" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/file/co7m9jbok2k53g4/SWAT4XTraduEspanolV22.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!wFcRjASI!1nmc00I2yQmC7jDJT--Pa6OsaNC4RipwfjNcPe9L9vU" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 <h2 style="text-align: center;"><strong><a href="/swat4-the-stetchkov-syndicate/">VOLVER</a></strong></h2>
 

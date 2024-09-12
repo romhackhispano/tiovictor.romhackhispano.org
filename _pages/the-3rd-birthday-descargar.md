@@ -23,11 +23,12 @@ italiana en romhacking.it y darles las gracias por permitirnos usar sus modifica
 
 <h3 style="text-align: center;">VERSIÓN 1.5B DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/bh6vcpzyfiaq1qg/T3B-V15B-TraduESP.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/AUdwRDrD#Tc9W1iwCv34CVQsnIFWxlLYeMeVaI8ddX94K4loAHYE" target="_blank">MEGA</a></strong></h1>
-
+<center>
+<a href="https://www.mediafire.com/file/bh6vcpzyfiaq1qg/T3B-V15B-TraduESP.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/AUdwRDrD#Tc9W1iwCv34CVQsnIFWxlLYeMeVaI8ddX94K4loAHYE" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
-**[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}**
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
 
 <h2 style="text-align: center;"><a href="/the-3rd-birthday/"><strong>VOLVER</strong></a></h2>
 

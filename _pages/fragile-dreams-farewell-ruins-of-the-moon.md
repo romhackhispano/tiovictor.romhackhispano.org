@@ -27,7 +27,9 @@ con la colaboración de **yS, Raizing, Luffy, Ayato** y los creadores de **Riivo
 
 <h3 style="text-align: center;">VERSIÓN 1.1 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/eva1brhnodvb53d/FragileDreamsESP11.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!QUlSnawK!VPhIxEUNwvN7ZNaXmSL1uhB1nqm_ph6bscwnt-WWNC4" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/download/eva1brhnodvb53d/FragileDreamsESP11.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!QUlSnawK!VPhIxEUNwvN7ZNaXmSL1uhB1nqm_ph6bscwnt-WWNC4" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 El parche contiene todos los textos que había en inglés completamente traducidos al Castellano, 
 y trae un pequeño extra: En los mapas había algunas líneas en Japonés que no se habían traducido 

@@ -20,7 +20,9 @@ Agradecimientos especiales a Leeg.
 
 <h3 style="text-align: center;">VERSIÓN 2.1C DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/file/4dMQFDZD#NCcBZB85Qs0Mz2gGEzjxVVr6Ga96QAOGlGrVJOkjDB0" target="_blank">MEGA</a> - <a href="https://www.mediafire.com/file/i2a21brql1nsh85/SH-PSX-Retraduccion21C.7z/file" target="_blank">MEDIAFIRE</a></strong></h1>
+<center>
+<a href="https://mega.nz/file/4dMQFDZD#NCcBZB85Qs0Mz2gGEzjxVVr6Ga96QAOGlGrVJOkjDB0" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/file/i2a21brql1nsh85/SH-PSX-Retraduccion21C.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a>
+</center><br>
 
 Para poder aplicar el parche, necesitaréis **la versión PAL o la versión NTSC-U del juego.** 
 
@@ -47,7 +49,7 @@ Mi preferida es [ImgBurn](http://www.imgburn.com/){:target="_blank"}. Tenéis la
 dentro del archivo Léeme, en el interior del parche.
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
-[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
 
 <h2 style="text-align: center;"><strong><a href="/silent-hill-1/">VOLVER</a></strong></h2>
 

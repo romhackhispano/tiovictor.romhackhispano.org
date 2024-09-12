@@ -35,11 +35,15 @@ CUE (cd-replace).
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN PARA PLAYSTATION:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/o7ty9oawoq72mtw/PriOI-PSXPATCH-ESP.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/UAsEhS5b#8nW4MVUoDfEOAcmR0blItIGw9-CDt47Mi8_KTEpmgfQ" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://www.mediafire.com/file/o7ty9oawoq72mtw/PriOI-PSXPATCH-ESP.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/UAsEhS5b#8nW4MVUoDfEOAcmR0blItIGw9-CDt47Mi8_KTEpmgfQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center>
 
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN PARA SEGA SATURN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/4cx58yck4hov3kz/PriOI-SATURNPATCH-ESP.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/tJlA3ATY#pp8hAEfopvaYocgD1vFWMzU1bGjDHuSrhLAPO1ja7j8" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://www.mediafire.com/file/4cx58yck4hov3kz/PriOI-SATURNPATCH-ESP.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/tJlA3ATY#pp8hAEfopvaYocgD1vFWMzU1bGjDHuSrhLAPO1ja7j8" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
 **[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**

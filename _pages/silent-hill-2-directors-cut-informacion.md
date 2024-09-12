@@ -51,18 +51,18 @@ las imagenes del juego ya parcheado. La traducción está hecha para ser
 distribuida en forma de parche y para ser usada para los legitimos 
 poseedores del juego original.
 
-### Diferencias entre la versión "neutra" (ESN) y la "castellana" (ESP)
+### Diferencias entre la versión «neutra» (ESN) y la «castellana» (ESP)
 
 La revisión se ha dividido en dos versiones:
 
-La versión "neutra", nombrabada ESN, es una versión que respeta más la, para 
+La versión «neutra», nombrabada ESN, es una versión que respeta más la, para 
 mí, aparente intención del traductor oficial de hacer una traducción para 
 todos los hispanoparlantes. Se han mantenido elementos neutros (como el uso 
 de goma en vez de chicle, o la falta de voseo antiguo en el libro Ceremonia
 Crimson...) y se han incluido otros nuevos (alterado el lenguaje de Eddie, 
 que sonaba más castellano, por ejemplo).
 
-La versión "castellana", nombrada ESP, añade modificaciones más en la línea 
+La versión «castellana», nombrada ESP, añade modificaciones más en la línea 
 de lo que yo suelo hacer y en la línea de las traducciones para España 
 (restauración de los tiempos compuestos, por ejemplo), pero sin pasarme 
 tampoco adaptando. También he recuperado un par de elementos que se 
@@ -73,35 +73,29 @@ inglés)...
 Aplícate la traducción que más se adapte a tus gustos.
 
 ### Registro de revisiones
-v1.0
-- Primera versión de la traducción:  
+- v1.0: Primera versión de la traducción  
   - Se ha revisado toda la traducción española del juego.  
   - Se ha traducido el menú principal.
-
-v1.0.1
-- Pequeña corrección en el menú de opciones.
-
-v1.0.2
-- Correcciones de textos:
+- v1.0.1: Pequeña corrección en el menú de opciones.
+- v1.0.2: Correcciones de textos
    - Cambiada la frase genérica "No puedo abrir la puerta." debido a que 
      se utiliza en más objetos que no son puertas. (Gracias al equipo de 
      la Enhanced Edition).
    - Corregida la frase que decía que la nota sobre la dama de la puerta 
      estaba en el suelo, cuando está sobre la cama (Gracias al equipo de 
      la Enhanced Edition).
-v1.0.3
- - Correcciones menores en la versión de PC:
+- v1.0.3: Correcciones menores en la versión de PC.
    - Ajustados los textos para que se puedan ver en relaciones de 
-   aspecto 4:3.
-v1.0.4
-- Correcciones adicionales de textos en todas las ediciones.
-v1.0.5
-- Correcciones adicionales de textos en todas las ediciones.
-v1.0.6
-- Cambio en la estructura interna de los archivos de la versión para 
+     aspecto 4:3.
+- v1.0.4: Correcciones adicionales de textos en todas las ediciones.
+- v1.0.5: Correcciones adicionales de textos en todas las ediciones.
+- v1.0.6: Cambio en la estructura interna de los archivos de la versión para 
   la Enhanced Edition para adaptarla a sus últimos cambios.
-v1.0.7
-- Añadidas nuevas cadenas en la versión de PC para la Enhanced Edition.
+- v1.0.7: Añadidas nuevas cadenas en la versión de PC para la Enhanced Edition.
+- v1.0.8: Añadidas nuevas cadenas en la versión de PC y corregido un bug en 
+         el que la pantalla de título se mostraba rota en la Enhanced
+         Edition. Las versiones para PS2 y XBOX, al no tener cambios, se 
+         mantienen en la versión 1.0.5.
 
 ### Instrucciones para aplicar el parche de traducción en PC
 
@@ -162,34 +156,28 @@ de mis imágenes:
 PAL: 3257e3fb22866061cf8f4f881f5e4b70
 NTSC-U: 37a90d79dea1d60b90b54b371c34c53a
 
-Cómo aplicar un archivo .XDELTA con xdeltaUI:
+Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
-Necesitarás la imagen original del juego, el archivo xdelta 
-correspondiente y la aplicación xdelta UI (Puedes conseguirla en la 
-siguiente página web: http://www.romhacking.net/utilities/598/ )
+Necesitarás la imagen original del juego, el archivo xdelta y la aplicación 
+Delta Patcher (**[puedes conseguirla en su web](https://github.com/marco-calautti/DeltaPatcher/releases/)**).
 
- - Abre el programa xdeltaUI.
- - Asegúrate de que la pestaña "Apply Patch" esté seleccionada.
- - Pulsa en el botón "Open" que hay debajo del texto "Patch" y selecciona el 
-   archivo .XDELTA.
- - Pulsa en el botón "Open" que hay debajo del texto "Source File" y 
-   selecciona la imagen en formato .BIN o .IMG de tu copia del juego con el 
-   parche anticopia ya instalado.
- - Introduce en el cuadro que hay debajo de "Output File" o pulsa en el 
-   botón que contiene los puntos suspensivos (...) el nombre que tendrá la 
-   imagen traducida. Asegúrate de que esté en la misma carpeta donde esté la 
-   imagen original.
- - Pulsa en "Patch" y se aplicará el parche a la imagen.
- - Cierra el programa xdeltaUI y accede a la carpeta donde tienes las 
-   imágenes.
- - Cambia el nombre a la imagen original del juego por uno cualquiera y 
-   cambia el nombre de la imagen traducida por el nombre que tenía la imagen 
-   original.
+ - Abre el programa Delta Patcher.
+ - Asegúrate de que la opción «Backup original file» esté activada en el 
+   botón con forma de engranaje, junto al botón «Apply patch».
+ - Pulsa en el botón con forma de carpeta que hay dentro del cuadro de 
+   «Original file» y selecciona la imagen en formato .BIN de tu copia del 
+   juego.
+ - Pulsa en el botón con forma de carpeta que hay dentro del cuadro de 
+   «XDelta patch» y selecciona el archivo .XDELTA.
+ - Haz clic en «Apply patch» y se aplicará el parche al archivo .BIN de tu 
+   imagen, conservando una copia de la original.
  - Ahora podrás jugar con la versión traducida al castellano o copiarla en 
-   un disco si quieres jugar en una consola modificada.
+   un CD-R si quieres jugar en una consola modificada.
+ - Si quieres recuperar tu imagen original, solo tienes que cambiar el 
+   nombre y extensión del archivo original por el del editado y viceversa.
 
 Es posible que los antivirus interfieran con el programa de parcheado 
-durante su funcionamiento, pero NO debes desactivarlos mientras utilizas el 
+durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
 programa.
 
 ### Instrucciones para usar la traducción en una PlayStation 2

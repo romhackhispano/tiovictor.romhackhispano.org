@@ -87,11 +87,15 @@ Joy: **María Cebrián**
 
 <h3 style="text-align: center;">VERSIÓN 1.0.2 DEL PARCHE DE TRADUCCIÓN PARA DREAMCAST PAL:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/file/ZBVgXLCQ#3DqpjH6WeXXOyNlh16pEH0Lcjz1SxXzPFyk-D9tQAHs" target="_blank">MEGA</a> - <a href="https://www.mediafire.com/file/3ia838wv844rbla/ShenmueIIEnEspanolDREAMCAST102.7z/file" target="_blank">MEDIAFIRE</a></strong></h1>
+<center>
+<a href="https://mega.nz/file/ZBVgXLCQ#3DqpjH6WeXXOyNlh16pEH0Lcjz1SxXzPFyk-D9tQAHs" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/file/3ia838wv844rbla/ShenmueIIEnEspanolDREAMCAST102.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a>
+</center>
 
 <h3 style="text-align: center;">VERSIÓN 1.0.2 DEL PARCHE DE TRADUCCIÓN PARA XBOX PAL:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/file/sYcCFBQS#h6BJ75az9o6QBjDxBKOjuCfQVUKGKvxj-A1TtnlmmOM" target="_blank">MEGA</a> - <a href="https://www.mediafire.com/file/upf72jozcrd09d2/ShenmueIIEnEspanolXBOX102.7z/file" target="_blank">MEDIAFIRE</a></strong></h1>
+<center>
+<a href="https://mega.nz/file/sYcCFBQS#h6BJ75az9o6QBjDxBKOjuCfQVUKGKvxj-A1TtnlmmOM" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/file/upf72jozcrd09d2/ShenmueIIEnEspanolXBOX102.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a>
+</center><br>
 
 <h2 style="text-align: center;"><strong><a href="/shenmue-ii/">VOLVER</a></strong></h2>
 

@@ -36,9 +36,15 @@ To FamilyGuy &amp; HyKan for their help with the CDDA tracks.
 To kRYPT, fackue, James Reiner, Master Kyodai, xhizors92 &amp; Gin for their knowledge 
 and to Fénix, Ryo Suzuki &amp; Rock_Lee-Vk for their support.
 
-<h1 style="text-align: center;"><strong>Download V1.0.4:</strong><br><strong><a href="http://www.mediafire.com/download/lfr5nbrhe2q42xb/WhatsShenmue104.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!ZEcwySSA!-77BUlzGzhzmcCkJZ2kE6KsvBsFiPhmNcbMTuxayxxA" target="_blank">MEGA</a></strong></h1>
+<h3 style="text-align: center;"><strong>Download V1.0.4:</strong></h3>
+<center>
+<a href="http://www.mediafire.com/download/lfr5nbrhe2q42xb/WhatsShenmue104.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!ZEcwySSA!-77BUlzGzhzmcCkJZ2kE6KsvBsFiPhmNcbMTuxayxxA" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center>
 
-<h1 style="text-align: center;"><strong>Extra contents (Cover and manuals):<br><a href="http://www.mediafire.com/download/ls82yh9qcndrnw4/WhatsShenmueExtras-11.7z" target="_blank">Mediafire</a> - <a href="https://mega.nz/#!AV0H1ASK!Xqecv4NuZ__TAAo3B5Evss-b0jEO8ApOKsENzUYhntY" target="_blank">MEGA</a>
+<h3 style="text-align: center;"><strong>Extra contents (Cover and manuals):</strong></h3>
+<center>
+<a href="http://www.mediafire.com/download/ls82yh9qcndrnw4/WhatsShenmueExtras-11.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!AV0H1ASK!Xqecv4NuZ__TAAo3B5Evss-b0jEO8ApOKsENzUYhntY" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 <h2 style="text-align: center;"><strong><a href="/whats-shenmue-eng/">BACK</a></strong></h2>
 

@@ -44,7 +44,9 @@ gallery:
 Traducción realizada en colaboración con TBG, eduwanke y GameZelda de los foros de ElOtroLado.net. 
 Publicada el 4 de abril de 2010.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/8jeidbo5qvomf4x/DeadSpaceExtractionESP11.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!cUdmRJBZ!1ONCTYcR1f2YX8aeWaFWrmKGhCEV3QM-id8XCjmAD3k" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/download/8jeidbo5qvomf4x/DeadSpaceExtractionESP11.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!cUdmRJBZ!1ONCTYcR1f2YX8aeWaFWrmKGhCEV3QM-id8XCjmAD3k" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 La traducción ha sido realizada en base a la versión PAL, pero gracias al sistema Riivolution, 
 se puede utilizar también en la versión NTSC-U, sin importar la consola que tengas.
@@ -52,11 +54,11 @@ se puede utilizar también en la versión NTSC-U, sin importar la consola que te
 Hemos utilizado el formato de parche Riivolution (Que permite parchear al vuelo una copia original 
 del juego). Podéis bajaros el parcheador y saber más sobre este sistema en [http://rvlution.net/riiv/](http://rvlution.net/riiv/){:target="_blank"}
 
-CRÉDITOS:  
-GameZelda - Creación de herramientas e investigaciones iniciales  
-Eduwanke - Traducción inicial sobre papel  
-Yo, IlDucci - Traducción sobre papel  
-TBG - Traducción sobre papel, investigaciones posteriores, inserción
+**CRÉDITOS:**  
+GameZelda: *Creación de herramientas e investigaciones iniciales*  
+Eduwanke: *Traducción inicial sobre papel*  
+IlDucci: *Traducción sobre papel*  
+TBG: *Traducción sobre papel, investigaciones posteriores, inserción*
 
 {% include video id="EO32e1vZsk4" provider="youtube" %}
 

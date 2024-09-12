@@ -9,27 +9,39 @@ comments: false
 
 _**CRÉDITOS DE LA TRADUCCIÓN:**_
 
-Investigación y programación del proyecto: **CUE y Pacochan**  
-Traducción de textos y gráficos, dirección del doblaje: **IlDucci**
+ - *Jefe del proyecto original, traducción, edición de gráficos, dirección 
+   del doblaje, modificaciones de la versión 1.5:* IlDucci
+ - *Programación, ingeniería inversa, hackeo de la versión 1.0:*
+   CUE, PacoChan
+ - *Ayuda de edición de sonido de la versión 1.0:* SnackAndLarry
+ - *Ingeniería inversa y hackeo de la versión 1.5:* Ortew
 
-_**Reparto de voces:**_  
-Jefe de la VSSE: **Álvaro Polo**  
-Locutor: **Víctor González**  
-Sherudo: **Enrique Colinet**  
-Wild Dog: **Néstor Moreno**  
-Rachel: **Noelia de Luis**  
-Kantaris: **María Cebrián**  
-Soldados/Moz: **Luisma Albarracín**
+<center>
+<b>Reparto de voces:</b><br>
 
-<h3 style="text-align: center;">VERSIÓN 1.0C DEL PARCHE DE TRADUCCIÓN:</h3>
+Sherudo Garo: Enrique Colinet<br>
+Kantaris: María Cebrián<br>
+Jefe de la VSSE: Álvaro Polo<br>
+Soldados, Moz: Luisma Albarracín<br>
+Rachel Macpherson: Thais Serrano Castro<br>
+Wild Dog: Néstor Moreno<br>
+Narrador: Víctor González Fraile<br>
+</center>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/k9tl9nin83v0zv1/TimeCrisisPSOneESP10_C.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/UMdxHASZ#jXnsG79n1aU3Wvus4feO40zkHS2wRSA15nTdD3_-Uuc" target="_blank">MEGA</a></strong></h1>
+ - *Herramientas de terceros:* Lameguy64 y el equipo de mkpsxiso, bITmASTER 
+   (vagpacker/vagunpacker), jmarti856 y yonsaber (AIFF2VAG), Chris Putnam 
+   (binmerge), Kingcom y todos los colaboradores de Armips, Barubary 
+   (TiledGGD), Stenzek (Duckstation), Nicholas Noble y el equipo de 
+   pcsx-redux, Martin Korth (NO$PSX), el equipo de pSXfin.
 
-<h3 style="text-align: center;">HERRAMIENTAS ADICIONALES:</h3>
+<h3 style="text-align: center;">VERSIÓN 1.5 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}  
-[binmerge (para separar el archivo BIN en sus pistas)](https://github.com/putnam/binmerge){:target="_blank"}
+<center>
+<a href="https://www.mediafire.com/file/kwt32u8izsihkcz/TimeCrisisPSOneESP15.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/sAdXFKIa#jyfLEckY4VQgUHlu1vscaRKRQeJQz7ZJRlmsgd1CPz8" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/file_premium/u23usg3umzmvwjt/TimeCrisisPSOneESP15.7z/file" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
+</center><br>
+
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**  
+**[binmerge-gui (para separar una imagen BIN en sus pistas individuales)](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}**
 
 <h2 style="text-align: center;"><a href="/time-crisis-1/"><strong>VOLVER</strong></a></h2>
-
-

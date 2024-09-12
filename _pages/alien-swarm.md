@@ -35,9 +35,11 @@ lanzamiento, Valve publicó la traducción oficial de este juego.
 Esta traducción se guarda aquí a título de recordatorio. Faltan por traducir la línea que dice 
 "Objectives complete!", y los textos en grande de "Misión cumplida" y "Misión fallida".
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">VERSIÓN 1.6 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/vmp8vcme4p4kt6l/TraduccionAlienSwarm16.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!oIUj2JaK!Pl-WPfXAU5PP1RRjK-wKY5zuJ5G0q6teza2WRh6yBLs" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/download/vmp8vcme4p4kt6l/TraduccionAlienSwarm16.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!oIUj2JaK!Pl-WPfXAU5PP1RRjK-wKY5zuJ5G0q6teza2WRh6yBLs" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 Para instalar la traducción, descomprime el archivo .rar en tu carpeta de instalación de 
 Steam/steamapps/common.

@@ -42,7 +42,9 @@ Diseños del juego ilustrados por Senji Mitsumachi. Utilizado bajo permiso.
 
 <h3 style="text-align: center;">VERSIÓN 1.0b DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/#!dU1W1ZZT!R03dUYRdihG7SWohq0wD_-4sT-SS-9bD8J4EYboMxkc" target="_blank">MEGA</a> - <a href="http://www.mediafire.com/download/nedfd0084twazp6/SinAndPunishmentCastellano10b.7z" target="_blank">MEDIAFIRE</a></strong></h1>
+<center>
+<a href="https://mega.nz/#!dU1W1ZZT!R03dUYRdihG7SWohq0wD_-4sT-SS-9bD8J4EYboMxkc" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="http://www.mediafire.com/download/nedfd0084twazp6/SinAndPunishmentCastellano10b.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a>
+</center><br>
 
 Para que el parche funcione, es necesario tener una copia en formato en formato 
 .z64 (Sin Byte Swap), con estas características:
@@ -56,15 +58,13 @@ MD5: a0657bc99e169153fd46aeccfde748f3
 SHA-1: 581297b9d5c3a4c33169ae0aae218c742cd9cbcf
 ```
 
-Si quieres jugar en versión original subtitulada, aplica el parche  
-SAPESP.10.SUBTITULADO.xdelta. Si quieres jugar a la versión traducida y  
-doblada al castellano, aplica el parche SAPESP.10.DOBLADO.xdelta.
+Si quieres jugar en versión original subtitulada, aplica el parche SAPESP.10.SUBTITULADO.xdelta. 
+Si quieres jugar a la versión traducida y doblada al castellano, aplica el parche SAPESP.10.DOBLADO.xdelta.
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
-**[xDeltaUI (para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}**
-
-Tool64 (para quitar el byteswap a la ROM. Selecciona la carpeta donde tengas la copia de seguridad de tu ROM y pulsa en el icono con dos flechas 
-que apuntan hacia la derecha)
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**  
+**[Tool64 (para quitar el byteswap a la ROM)](https://www.zophar.net/utilities/n64aud/tool-n64.html){:target="_blank"}**  
+Selecciona la carpeta donde tengas la copia de seguridad de tu ROM y pulsa en el icono con dos flechas que apuntan hacia la derecha.
 
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5z5e3813mdqp8tm/Tool64_v1.11Beta1.zip" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!sZM3EaaL!6VxPMLqdJ4L1eCnqqiMkNaYB0Xr0e9L3tOKe9y8eXHI" target="_blank">MEGA</a></strong></h1>
 

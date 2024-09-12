@@ -23,9 +23,14 @@ por dedicarme su valioso tiempo con Ace Combat 3 a mirarme este juego, a
 Retroductor por toda su ayuda, y a PolyMega y la gente de Town of Silent 
 Hill por su ayuda y por el trabajo del Enhanced Edition.
 
-<h3 style="text-align: center;">VERSIÓN 1.0.7 DEL PARCHE DE RETRADUCCIÓN:</h3>
+<h3 style="text-align: center;">VERSIÓN 1.0.8 DEL PARCHE DE RETRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/zd4j9su7aqo94mo/SH2DC-REVISION-TTV-V1.0.7.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/BEEiCAQZ#TkqRWXv-9zQMgjtzPP7p1mn83vgH6nx9qOxUpDNRBvU" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://www.mediafire.com/file/swr4k4hpunu64cv/SH2DC-REVISION-TTV-V1.0.8.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/1Y0iTZAT#kSLKtJPRP6RKShr-Uc_AUF6l1CWcMJyUG57CeQTP1YQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/file_premium/qxr975pylu8zo4c/SH2DC-REVISION-TTV-V1.0.8.7z/file" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
+</center><br>
+
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[Delta Patcher (para aplicar el parche a la versión de PS2)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
 
 <h2 style="text-align: center;"><a href="/silent-hill-2-directors-cut/"><strong>VOLVER</strong></a></h2>
 

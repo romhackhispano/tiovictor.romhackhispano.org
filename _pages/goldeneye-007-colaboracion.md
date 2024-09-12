@@ -47,13 +47,13 @@ y un servidor de ustedes.
 
 Adjunto una copia del archivo con el permiso de Sogun.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/wk6b3xanx2kbkqp/gespanishtranslationv20%5Bsogun-ilducci%5D.zip" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!9IsDAQJY!JoGJSCmv7aOyfgdXhphB-gzleztypmOVCBungpVwZzs" target="_blank">MEGA</a></strong></h1>  
+<center>
+<a href="http://www.mediafire.com/download/wk6b3xanx2kbkqp/gespanishtranslationv20%5Bsogun-ilducci%5D.zip" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!9IsDAQJY!JoGJSCmv7aOyfgdXhphB-gzleztypmOVCBungpVwZzs" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center>
 
 {% include gallery %}
 
-**_Utilidades necesarias para parchear la ROM_**  
-[xDeltaUI (Para aplicar el parche al juego)](http://www.romhacking.net/utilities/598/){:target="_blank"}
-
-Tool64 (Para quitar el byteswap a la ROM. Cargar la carpeta y pulsar en la flecha que va a la derecha)
-
+_**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**  
+**[Tool64 (para quitar el byteswap a la ROM)](https://www.zophar.net/utilities/n64aud/tool-n64.html){:target="_blank"}**  
 <h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/5z5e3813mdqp8tm/Tool64_v1.11Beta1.zip" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!sZM3EaaL!6VxPMLqdJ4L1eCnqqiMkNaYB0Xr0e9L3tOKe9y8eXHI" target="_blank">MEGA</a></strong></h1>

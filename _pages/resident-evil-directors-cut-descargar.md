@@ -66,17 +66,18 @@ Software por su ayuda con el formato de sonido de Sega Saturn.*
 
 <h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V3.6 FINAL 2010):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file_premium/exxcw7d72j8anpe/REDC-V36.rar/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/xF1VmbSb#ot3AJMmmRmIRHTQ3nYjEbA12HCJ-zZE_ItCpwhAgSN4" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://www.mediafire.com/file_premium/exxcw7d72j8anpe/REDC-V36.rar/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/xF1VmbSb#ot3AJMmmRmIRHTQ3nYjEbA12HCJ-zZE_ItCpwhAgSN4" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center>
 
 <h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE DEL JUEGO (V4.2b 2024 PARA PSX Y SATURN):</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/folder/9rh9895tjhs01/REDC" target="_blank">Carpeta de MEDIAFIRE</a></strong></h1>
-
-<h1 style="text-align: center;"><strong><a href="https://mega.nz/folder/hcdVmQLR#rTq2AVpd8NHbsfOgEk_8OA" target="_blank">Carpeta de MEGA</a></strong></h1>
+<center>
+<a href="https://www.mediafire.com/folder/9rh9895tjhs01/REDC" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/hcdVmQLR#rTq2AVpd8NHbsfOgEk_8OA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
+</center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
-
-**[PPF-O-Matic 3.0: Para aplicar archivos .ppf.](https://www.romhacking.net/utilities/356/)**  
+**[PPF-O-Matic 3.0: Para aplicar archivos .ppf.](https://www.psx-place.com/resources/ppf-o-matic.507/)**  
 **[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
 
 <h2 style="text-align: center;"><a href="/resident-evil-directors-cut/"><strong>VOLVER</strong></a></h2>

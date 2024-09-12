@@ -22,7 +22,7 @@ _YOSHIYA "JOSHUA" KIRYU:_    Daisuke
 _SANAE HANEKOMA:_            KJ360  
 _SHO MINAMIMOTO:_            Xombie  
 _YODAI HIGASHIZAWA:_         Salvi_Toriyama  
-_KOKI KARIYA: _              W.C.  
+_KOKI KARIYA:_               W.C.  
 _MITSUKI KONISHI:_           Haido  
 _MEGUMI KITANIJI:_           Snack_and_larry  
 _UZUKI YASHIRO:_             LMR  
@@ -51,7 +51,9 @@ _Página Web:_ Serede, Darkneyra
 
 <h3 style="text-align: center;">VERSIÓN 2.0 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/uaf86eom3986zk5/Parcheador_TWEWY_Final.7z" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!BBtXRYrT!zXK4mZRZ76-CfcKuhhuIkhDtHaTgsDjFybipi8FDnvQ" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="http://www.mediafire.com/download/uaf86eom3986zk5/Parcheador_TWEWY_Final.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!BBtXRYrT!zXK4mZRZ76-CfcKuhhuIkhDtHaTgsDjFybipi8FDnvQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 <h2 style="text-align: center;"><a href="/the-world-ends-with-you-version-en-castellano-2-0/"><strong>VOLVER</strong></a></h2>
 

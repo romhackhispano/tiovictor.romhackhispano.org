@@ -29,7 +29,9 @@ Antonio Cobos.
 
 <h3 style="text-align: center;">VERSIÓN 1.0.2 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/glno8e4enmadrbe/AloneInTheDark4Espa%F1olDreamcast102.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/#!IJlkiQaY!LJgIMMhaPaGfK5_OwplBfUk6cdgHv6CviKXLEDDk-08" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://www.mediafire.com/file/glno8e4enmadrbe/AloneInTheDark4Espa%F1olDreamcast102.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!IJlkiQaY!LJgIMMhaPaGfK5_OwplBfUk6cdgHv6CviKXLEDDk-08" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 <h1 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/">VOLVER</a></strong></h1>
 

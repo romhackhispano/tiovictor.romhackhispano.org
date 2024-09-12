@@ -52,31 +52,28 @@ CRC-32: 1d4a3ff7
 
 ### Cómo aplicar el parche de traducción
 
-Necesitarás una imagen .BIN/.CUE de tu copia de seguridad del juego, el 
-archivo xdelta incluido y la aplicación xdelta UI (Puedes conseguirla en la 
-siguiente página web: http://www.romhacking.net/utilities/598/ )
+Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
- - Abre el programa xdeltaUI.
- - Asegúrate de que la pestaña "Apply Patch" esté seleccionada.
- - Pulsa en el botón "Open" que hay debajo del texto "Patch" y selecciona el 
-   archivo .XDELTA.
- - Pulsa en el botón "Open" que hay debajo del texto "Source File" y 
-   selecciona la imagen en formato .BIN o .IMG de tu copia del juego.
- - Introduce en el cuadro que hay debajo de "Output File" o pulsa en el 
-   botón que contiene los puntos suspensivos (...) el nombre que tendrá la 
-   imagen traducida. Asegúrate de que esté en la misma carpeta donde esté la 
-   imagen original.
- - Pulsa en "Patch" y se aplicará el parche a la imagen.
- - Cierra el programa xdeltaUI y accede a la carpeta donde tienes las 
-   imágenes.
- - Cambia el nombre a la imagen original del juego por uno cualquiera y 
-   cambia el nombre de la imagen traducida por el nombre que tenía la imagen 
-   original.
- - Ahora podrás jugar con la versión traducida o copiarla en un CD-R si 
-   quieres jugar en una consola modificada.
+Necesitarás la imagen original del juego, el archivo xdelta y la aplicación 
+Delta Patcher (**[puedes conseguirla en su web](https://github.com/marco-calautti/DeltaPatcher/releases/)**).
+
+ - Abre el programa Delta Patcher.
+ - Asegúrate de que la opción «Backup original file» esté activada en el 
+   botón con forma de engranaje, junto al botón «Apply patch».
+ - Pulsa en el botón con forma de carpeta que hay dentro del cuadro de 
+   «Original file» y selecciona la imagen en formato .BIN de tu copia del 
+   juego.
+ - Pulsa en el botón con forma de carpeta que hay dentro del cuadro de 
+   «XDelta patch» y selecciona el archivo .XDELTA.
+ - Haz clic en «Apply patch» y se aplicará el parche al archivo .BIN de tu 
+   imagen, conservando una copia de la original.
+ - Ahora podrás jugar con la versión traducida al castellano o copiarla en 
+   un CD-R si quieres jugar en una consola modificada.
+ - Si quieres recuperar tu imagen original, solo tienes que cambiar el 
+   nombre y extensión del archivo original por el del editado y viceversa.
 
 Es posible que los antivirus interfieran con el programa de parcheado 
-durante su funcionamiento, pero NO debes desactivarlos mientras utilizas el 
+durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
 programa.
 
 <h2 style="text-align: center;"><strong><a href="/silent-hill-1/">VOLVER</a></strong></h2>

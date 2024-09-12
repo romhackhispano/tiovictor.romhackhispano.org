@@ -49,8 +49,7 @@ Triángulo y esperar a que Jennifer se arrodille para descansar.
 
 Necesitarás una copia de la ROM de Clock Tower (J) en formato SMC CON 
 CABECERA, el archivo IPS de la traducción de Aeon Genesis, el archivo IPS 
-incluido y la aplicación Lunar IPS (Puedes conseguirla en este enlace: 
-http://www.romhacking.net/utilities/240/ )
+incluido y la aplicación Lunar IPS (**[puedes conseguirla pulsando aquí](https://fusoya.eludevisibility.org/lips/)**).
 
 Esta es la suma de comprobación (checksum) de la ROM original del juego en 
 formato .SMC:

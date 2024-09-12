@@ -41,10 +41,13 @@ putnam (binmerge).
 
 <h3 style="text-align: center;">VERSIÓN 1.1 DEL PARCHE DE TRADUCCIÓN:</h3>
 
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/3fxc1bqd89q7djy/AC3electrosfera-V1.1-Castellano-TraduccionesDelTioVictor.7z/file" target="_blank">MEDIAFIRE</a> - <a href="https://mega.nz/file/pZd3yA7b#uXOb4kWLh19AnebP7SpSMYonXhkTGeArzKZ1yAoy-d8" target="_blank">MEGA</a></strong></h1>
+<center>
+<a href="https://www.mediafire.com/file/3fxc1bqd89q7djy/AC3electrosfera-V1.1-Castellano-TraduccionesDelTioVictor.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/pZd3yA7b#uXOb4kWLh19AnebP7SpSMYonXhkTGeArzKZ1yAoy-d8" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+</center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
-**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**  
+**[binmerge-gui (para separar una imagen BIN en sus pistas individuales, para el AppenDisc)](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}**
 
 <h2 style="text-align: center;"><a href="/ace-combat-3/"><strong>VOLVER</strong></a></h2>
 
