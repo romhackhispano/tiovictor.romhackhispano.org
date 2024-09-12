@@ -37,7 +37,7 @@ También me gustaría dedicar unas líneas en particular al proyecto **[Silent H
 el cual cerró sus puertas con una actualización final el pasado 30 de agosto de este año.
 
 Ha sido un honor poder formar parte de un proyecto que pretendía revitalizar un clásico injustamente tratado a lo largo de los años, y me alegro 
-de haber podido compartir impresiones y sugerencias con John «Ratiocinator» Kubiak. Espero que tanto a él como al resto del equipo les trate bien 
+de haber podido compartir impresiones y sugerencias con John «Ratiocinator» Kubiak. Espero que tanto a él como al resto del equipo les trate bien 
 la vida de cara al futuro.
 
 Si vais a jugar a la Enhanced Edition, recordad que el mod incluye de serie la revisión y adaptación que hizo el equipo que yo capitaneé hará unos años, 
