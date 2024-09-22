@@ -41,7 +41,7 @@ Chris: Skads<br>
 Wesker: Neto<br>
 Rodrigo: IlDucci<br>
 Megafonía: La voz de Nicki<br>
-Soldado de introducción: YitanDrowned
+Soldado de introducción: YitanDrowned<br>
 
 </center>
 
