@@ -14,7 +14,7 @@ Colaboración entre PacoChan, Nisto, GriffithVIII y un servidor por ustedes por 
 (cuya voz reconoceréis algunos por haber colaborado en otros fandubs de esta casa), quien se ha encargado de dirigir toda la parte artística y sonora. 
 Este proyecto revisa todos los textos y retraduce el juego en su totalidad con un elenco de voces de calidad profesional.
 
-**CRÉDITOS:**
+**CRÉDITOS:**  
 Retraducción de textos: IlDucci, 堕落王 (Wu)  
 Reconstrucción y edición gráfica: IlDucci  
 Ingeniería inversa: IlDucci, PacoChan, Nisto, GriffithVIII  
@@ -42,10 +42,9 @@ Wesker: Neto<br>
 Rodrigo: IlDucci<br>
 Megafonía: La voz de Nicki<br>
 Soldado de introducción: YitanDrowned<br>
+</center><br>
 
-</center>
-
-**TEMA BERCEUSE:**
+**TEMA BERCEUSE:**  
 Intérprete: Aida Deturck  
 Letra: Dantezote, Luisma McFly
 
