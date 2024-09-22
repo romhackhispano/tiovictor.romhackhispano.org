@@ -29,6 +29,8 @@ main:
           url: /fragile-dreams-farewell-ruins-of-the-moon/
         - title: "OPERATION WINBACK (PS2, V1.0)"
           url: /operation-winback/
+        - title: "OPERATION WINBACK 2: PROJECT POSEIDON (PS2, V1.0)"
+          url: /operation-winback-2-project-poseidon/
         - title: "PERSONA 3 FES (PS2, V1.1b)"
           url: /persona-3-fes/
         - title: "POLICENAUTS (PSX/SATURN, EN PROGRESO)"
@@ -57,7 +59,7 @@ main:
           url: /silent-hill-3/
         - title: "SIN AND PUNISHMENT (N64, V1.0B)"
           url: /sin-and-punishment-n64/
-        - title: "SOLTYS (PC, V1.0)"
+        - title: "SOŁTYS (PC, V1.0)"
           url: /soltys/
         - title: "SOLDIER OF FORTUNE 1 (PC/DC, V1.0)"
           url: /soldier-of-fortune-1/
@@ -92,6 +94,8 @@ main:
           url: /prisoner-of-ice/
         - title: "Project Zero/Fatal Frame 4"
           url: /project-zero-fatal-frame-4/
+        - title: "Resident Evil: Code Veronica doblado"
+          url: /resident-evil-code-veronica-doblado-colaboracion/
   - title: "Otras modificaciones"
     url: /otras-modificaciones/
     children:

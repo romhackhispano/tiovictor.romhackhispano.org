@@ -9,11 +9,13 @@ categories:
 - 'Echo Night Beyond'
 - 'Crimson Tears'
 - 'A.o.T: Wings of Freedom'
+- 'Resident Evil: Code Veronica'
 tags:
 - 'Ace Combat 3'
 - 'Echo Night Beyond'
 - 'Crimson Tears'
 - 'A.o.T: Wings of Freedom'
+- 'Resident Evil: Code Veronica'
 ---
 
 ¡Buenas a todos! Tras un veranito bastante... extraño, la verdad, hoy os traigo varias noticias breves sobre buena parte de los proyectos que tengo entre manos.

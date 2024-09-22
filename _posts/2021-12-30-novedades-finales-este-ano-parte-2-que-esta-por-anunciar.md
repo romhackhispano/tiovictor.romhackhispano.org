@@ -120,10 +120,12 @@ categories:
 - 'Echo Night Beyond'
 - 'Crimson Tears'
 - 'A.o.T: Wings of Freedom'
+- 'Resident Evil: Code Veronica'
 tags:
 - 'Echo Night Beyond'
 - 'Crimson Tears'
 - 'A.o.T: Wings of Freedom'
+- 'Resident Evil: Code Veronica'
 ---
 
 ¡Hola de nuevo! Llegó la sorpresa que os guardaba para este año: no uno, ni dos, **sino tres proyectos de fantraducción nuevos, de diferentes calados**.

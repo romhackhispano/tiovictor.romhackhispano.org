@@ -130,34 +130,34 @@ introduciendo los .CUE en la pestaña «Fusionar pistas».
 ### Instrucciones para copiar el juego traducido a un CD-R<a name="timecrisisinfo_4"></a>
 
 **Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
-todavía utilicen CDs «quemados» o «tostados» (CD-R) para jugar con sus 
+todavía utilicen discos «quemados» o «tostados» (DVD-R) para jugar con sus 
 consolas reales y no utilicen sistemas modernos de emulación de disco óptico 
 (los llamados ODE) u otros sistemas de carga de copias de seguridad a través 
-de tarjetas SD. Si tienes alguno de estos, no necesitas tanta complicación.**
+de discos duros o memorias USB. Si tienes alguno de estos, no necesitas 
+tanta complicación.**
 
 Si quieres jugar a este parche de traducción en una consola real y con un 
-CD-R, necesitas que admita discos no originales, ya sea modificada con un 
+DVD-R, necesitas que admita discos no originales, ya sea modificada con un 
 chip o con otros métodos que existan. Si necesitas más información sobre 
 esta parte, búscala en Internet.
 
 Por lo general, puedes utilizar cualquier programa de grabación de discos 
 (recomendamos ImgBurn o Alcohol 120%), y, en el caso de Alcohol 120%, 
-utilices el preajuste para discos de PlayStation (en la versión de 
-PlayStation) o el preajuste Saturn (para la versión de Sega Saturn).
+utilices el preajuste para discos de PlayStation 2.
 
 Por norma general lo mejor es grabar los discos a la velocidad más baja 
 posible, pero hemos visto casos en los que grabar a la máxima es la única 
 forma de hacer que funcionen. Empieza siempre por la velocidad más baja.
 
-**Actualmente, la gran mayoría de DVD-Rs, tanto de tiendas pequeñas como de 
-grandes superficies dan problemas, por su calidad. Evita los discos cuyo 
-fabricante no sea Ritek, Taiyo Yuden, Mitsubishi, etc.** (Podéis ver su 
-fabricante introduciendo el DVD-R en vuestro ordenador y leyendo sus 
-especificaciones con ImgBurn).
+**Actualmente, la gran mayoría de discos regrabables, tanto de tiendas 
+pequeñas como de grandes superficies, dan problemas por su calidad.** Evita 
+los discos cuyo fabricante no sea Ritek, Taiyo Yuden, Mitsubishi, etc. 
+(Puedes ver su fabricante introduciendo el DVD-R en tu ordenador y 
+leyendo sus especificaciones con ImgBurn).
 
-Si queréis informaros sobre los fabricantes de discos, qué marcas comprar o 
-dónde comprarlas, os recomiendo que os informéis por ahí, ya que hay otras 
-personas que saben explicar la situación mejor que yo.
+Si quieres informarte sobre los fabricantes de discos, qué marcas comprar o 
+dónde comprarlas, tendrás que buscar esa información en otra parte, ya que 
+hay otras personas que saben explicar la situación mejor que yo.
 
 <h2 style="text-align: center;"><a href="/time-crisis-1/"><strong>VOLVER</strong></a></h2>
 

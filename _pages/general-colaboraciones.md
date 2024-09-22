@@ -7,6 +7,7 @@ comments: false
 ---
 
 [Amnesia: The Dark Descent](/amnesia-the-dark-descent-colaboracion)  
+[Resident Evil: Code Veronica](/resident-evil-code-veronica-doblado-colaboracion)  
 [Digimon Rumble Arena](/digimon-rumble-arena-colaboracion)  
 [Final Fantasy VII](/final-fantasy-vii-colaboracion)  
 [Golden Eye 007](/goldeneye-007-colaboracion/)  
