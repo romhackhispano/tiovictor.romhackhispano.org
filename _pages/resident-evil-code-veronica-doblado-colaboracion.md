@@ -30,17 +30,20 @@ Inserción y testeo: Dantezote
 
 Betatesting: Gross-Standards, IlDucci, Dantezote
 
-**REPARTO DE VOCES:**
-Claire: Sonia MADLR  
-Steve: Dantezote  
-Alfred: Fatter Madigan  
-Alexia: GiniGini  
-Narrador: Doblajes Mandril  
-Chris: Skads  
-Wesker: Neto  
-Rodrigo: IlDucci  
-Megafonía: La voz de Nicki  
+<center>
+<b>REPARTO DE VOCES:</b><br>
+Claire: Sonia MADLR<br>
+Steve: Dantezote<br>
+Alfred: Fatter Madigan<br>
+Alexia: GiniGini<br>
+Narrador: Doblajes Mandril<br>
+Chris: Skads<br>
+Wesker: Neto<br>
+Rodrigo: IlDucci<br>
+Megafonía: La voz de Nicki<br>
 Soldado de introducción: YitanDrowned
+
+</center>
 
 **TEMA BERCEUSE:**
 Intérprete: Aida Deturck  
