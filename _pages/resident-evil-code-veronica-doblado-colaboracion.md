@@ -15,35 +15,35 @@ Colaboración entre PacoChan, Nisto, GriffithVIII y un servidor por ustedes por 
 Este proyecto revisa todos los textos y retraduce el juego en su totalidad con un elenco de voces de calidad profesional.
 
 **CRÉDITOS:**
-Retraducción de textos: IlDucci, 堕落王 (Wu)
-Reconstrucción y edición gráfica: IlDucci
-Ingeniería inversa: IlDucci, PacoChan, Nisto, GriffithVIII
+Retraducción de textos: IlDucci, 堕落王 (Wu)  
+Reconstrucción y edición gráfica: IlDucci  
+Ingeniería inversa: IlDucci, PacoChan, Nisto, GriffithVIII  
 Programación de herramientas: PacoChan
 
-Dirección de doblaje, edición sonora y mezcla: Dantezote
-Casting: Dantezote, Skads
-Guión y ajuste: Dantezote
-Transcripción de texto de las cinemáticas: Skads
-M+E de las cinemáticas: Skads, Dantezote
-Maquetación de los créditos: Dantezote, Skads
+Dirección de doblaje, edición sonora y mezcla: Dantezote  
+Casting: Dantezote, Skads  
+Guión y ajuste: Dantezote  
+Transcripción de texto de las cinemáticas: Skads  
+M+E de las cinemáticas: Skads, Dantezote  
+Maquetación de los créditos: Dantezote, Skads  
 Inserción y testeo: Dantezote
 
 Betatesting: Gross-Standards, IlDucci, Dantezote
 
 **REPARTO DE VOCES:**
-Claire: Sonia MADLR
-Steve: Dantezote
-Alfred: Fatter Madigan
-Alexia: GiniGini
-Narrador: Doblajes Mandril
-Chris: Skads
-Wesker: Neto
-Rodrigo: IlDucci
-Megafonía: La voz de Nicki
+Claire: Sonia MADLR  
+Steve: Dantezote  
+Alfred: Fatter Madigan  
+Alexia: GiniGini  
+Narrador: Doblajes Mandril  
+Chris: Skads  
+Wesker: Neto  
+Rodrigo: IlDucci  
+Megafonía: La voz de Nicki  
 Soldado de introducción: YitanDrowned
 
 **TEMA BERCEUSE:**
-Intérprete: Aida Deturck
+Intérprete: Aida Deturck  
 Letra: Dantezote, Luisma McFly
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
