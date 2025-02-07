@@ -78,7 +78,8 @@ Software por su ayuda con el formato de sonido de Sega Saturn.*
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
 **[PPF-O-Matic 3.0: Para aplicar archivos .ppf.](https://www.psx-place.com/resources/ppf-o-matic.507/)**  
-**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**
+**[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**  
+**[binmerge-gui (para separar una imagen BIN en sus pistas individuales, para Saturn)](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}**
 
 <h2 style="text-align: center;"><a href="/resident-evil-directors-cut/"><strong>VOLVER</strong></a></h2>
 

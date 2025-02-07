@@ -46,6 +46,14 @@ gallery:
 
 <h2 style="text-align: center;"><strong><a href="/resident-evil-2-dreamcast/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-2-dreamcast/descargar/">DESCARGAS</a> - <a href="/resident-evil-2-dreamcast/capturas/">CAPTURAS</a></strong></h2>
 
+#### Muestras del doblaje de 2025:
+
+{% include video id="YAafYGv5dqA" provider="youtube" %}
+
+{% include video id="4JgTKZlY-x8" provider="youtube" %}
+
+#### Capturas de la revisión de textos de 2013:
+
 {% include gallery %}
 
 <h2 style="text-align: center;"><a href="/resident-evil-2-dreamcast/"><strong>VOLVER</strong></a></h2>
