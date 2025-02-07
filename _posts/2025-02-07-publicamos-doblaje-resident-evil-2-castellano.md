@@ -1,7 +1,7 @@
 ---
 title: "Publicamos el doblaje de Resident Evil 2 al castellano"
 header:
-  overlay_image: /img/RE2-2025-Noti01.jpg
+  overlay_image: /img/headers/posts/RE2-2025-Noti01.jpg
 layout: single
 
 categories:
