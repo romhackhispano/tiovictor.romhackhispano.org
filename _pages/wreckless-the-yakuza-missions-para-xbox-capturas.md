@@ -3,6 +3,7 @@ title: "Capturas de Wreckless: The Yakuza Missions"
 permalink: /wreckless-the-yakuza-missions-para-xbox/capturas/
 header:
   overlay_image: /img/headers/pages/WrecklessHeader.jpg
+comments: false
 gallery:
  - url: /img/2015/02/Imagen1.jpg
    image_path: /img/2015/02/Imagen1.jpg

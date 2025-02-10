@@ -3,6 +3,7 @@ title: "Capturas de Star Wars Episodio I Racer"
 permalink: /star-wars-episodio-i-racer-para-nintendo-64/capturas/
 header:
   overlay_image: /img/headers/pages/SWRacerHeader.jpg
+comments: false
 gallery:
  - url: /img/2014/01/SWRacer64-Ronda2-Cap01.jpg
    image_path: /img/2014/01/SWRacer64-Ronda2-Cap01.jpg

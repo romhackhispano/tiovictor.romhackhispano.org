@@ -3,6 +3,7 @@ title: "Capturas de Echo Night Beyond"
 permalink: /echo-night-beyond/capturas/
 header:
   overlay_image: /img/headers/pages/EchoNightBeyondHeader.jpg
+comments: false
 gallery:
  - url: /img/2021/12/ENB_20211227_02.jpg
    image_path: /img/2021/12/ENB_20211227_02.jpg

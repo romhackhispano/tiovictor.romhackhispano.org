@@ -3,6 +3,7 @@ title: "Descargas de Resident Evil 2"
 permalink: /resident-evil-2-dreamcast/descargar/
 header:
   overlay_image: /img/headers/pages/ResidentEvil2Header.jpg
+comments: false
 ---
 
 <h2 style="text-align: center;"><strong><a href="/resident-evil-2-dreamcast/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-2-dreamcast/descargar/">DESCARGAS</a> - <a href="/resident-evil-2-dreamcast/capturas/">CAPTURAS</a></strong></h2>

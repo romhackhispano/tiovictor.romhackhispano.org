@@ -3,6 +3,7 @@ title: "Capturas de Ready 2 Rumble Boxing"
 permalink: /ready-2-rumble-1/capturas/
 header:
   overlay_image: /img/headers/pages/Ready2RumbleHeader.jpg
+comments: false
 gallery:
  - url: /img/2023/01/R2R_N64_20ESP_04.jpg
    image_path: /img/2023/01/R2R_N64_20ESP_04.jpg

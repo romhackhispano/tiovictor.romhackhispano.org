@@ -3,6 +3,7 @@ title: "Capturas de Resident Evil 2"
 permalink: /resident-evil-2-dreamcast/capturas/
 header:
   overlay_image: /img/headers/pages/ResidentEvil2Header.jpg
+comments: false
 gallery:
  - url: /img/2011/07/2016-01.jpg
    image_path: /img/2011/07/2016-01.jpg

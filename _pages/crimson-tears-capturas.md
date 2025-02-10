@@ -3,6 +3,7 @@ title: "Capturas de Crimson Tears"
 permalink: /crimson-tears/capturas/
 header:
   overlay_image: /img/headers/pages/CrimsonTearsHeader.jpg
+comments: false
 gallery:
  - url: /img/2021/12/CTEARS-20211227-01.jpg
    image_path: /img/2021/12/CTEARS-20211227-01.jpg

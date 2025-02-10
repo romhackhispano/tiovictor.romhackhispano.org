@@ -3,6 +3,7 @@ title: "Capturas de A.o.T. Wings of Freedom"
 permalink: /aot-wings-of-freedom/capturas/
 header:
   overlay_image: /img/headers/pages/AOTWingsOfFreedomHeader.jpg
+comments: false
 gallery:
  - url: /img/2021/12/AOT-20211230-01.jpg
    image_path: /img/2021/12/AOT-20211230-01.jpg

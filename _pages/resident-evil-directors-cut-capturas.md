@@ -3,6 +3,7 @@ title: "Capturas de Resident Evil: Director's Cut"
 permalink: /resident-evil-directors-cut/capturas/
 header:
   overlay_image: /img/headers/pages/ResidentEvil1Header.jpg
+comments: false
 gallery:
  - url: /img/2007/04/REDC40-01.jpg
    image_path: /img/2007/04/REDC40-01.jpg

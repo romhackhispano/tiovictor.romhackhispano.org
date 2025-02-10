@@ -3,6 +3,7 @@ title: "Capturas de Zone of The Enders 1"
 permalink: /zone-of-the-enders/capturas/
 header:
   overlay_image: /img/headers/pages/ZOE1Header.jpg
+comments: false
 gallery:
  - url: /img/2009/06/zoe01.jpg
    image_path: /img/2009/06/zoe01.jpg
