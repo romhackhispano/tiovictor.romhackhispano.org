@@ -44,7 +44,7 @@ Voz del sistema: Lola Álvarez<br>
 Robert Kendo: Antonio Llano<br>
 Narrador: Richard del Olmo<br>
 
-Voces adicionales: Nacho Ruiz-Cruces, Roberto Cuadrado, Víctor González, Adolfo Pastor, Salvi Garrido, José Meco, Pablo Adán<br>
+Voces adicionales: Nacho Ruiz-Cruces, Roberto Cuadrado, Víctor González, Adolfo Pastor, Salvi Garrido, José Meco, Pablo Adán, Henar Hernández<br>
 
 </center>
 
