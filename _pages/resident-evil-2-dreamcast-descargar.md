@@ -50,17 +50,18 @@ Voces adicionales: Nacho Ruiz-Cruces, Roberto Cuadrado, Víctor González, Adolf
 
  - *Herramientas de terceros:* MeganGrass (BioFAT/Bio Apps), Leo2236 (RDTExplorer), dakrk (manatools), 
 Sappharad (GDI Builder), japanese_cake (GDI Explorer), Derek Pascarella 
-(Universal Dreamcast Patcher), Laurent Alacoque (mpgtx), Lameguy64 
-(img2tim), Lameguy64 y el equipo de mkpsxiso, Michael Sabin (jpsxdec), BSV 
-(GameCube Rebuilder), Angus Johnson (Resource Hacker), Steve «Klarth» 
-Monaco (Atlas), RedComet (Cartographer), Kingcom y Barubary (TiledGGD), 
-SnowBro, Dr. MefistO y Mewster (TileMolester), Stefan Pettersson (Bitmap 
-Font Writer), el equipo de armips, Barubary (TiledGGD), SnowBro, Dr. 
-MefistO y Mewster (TileMolester), Stefan Pettersson (Bitmap Font Writer), 
-Halley's Comet Software y el equipo de vgmstream, jmarti856 y yonsaber 
-(AIFF2VAG), el equipo de FFMpeg, Stenzek (Duckstation).
+(Universal Dreamcast Patcher), Laurent Alacoque (mpgtx), adk/napalm 2001 
+(logotools), Lameguy64 (img2tim), Lameguy64 y el equipo de mkpsxiso, 
+Michael Sabin (jpsxdec), BSV (GameCube Rebuilder), DKDave (script para 
+.BIN de GameCube), Angus Johnson (Resource Hacker), Steve «Klarth» Monaco 
+(Atlas), RedComet (Cartographer), Kingcom y Barubary (TiledGGD), SnowBro, 
+Dr. MefistO y Mewster (TileMolester), Stefan Pettersson (Bitmap Font 
+Writer), el equipo de armips, Barubary (TiledGGD), SnowBro, Dr. MefistO y 
+Mewster (TileMolester), Stefan Pettersson (Bitmap Font Writer), Halley's 
+Comet Software y el equipo de vgmstream, jmarti856 y yonsaber (AIFF2VAG), el 
+equipo de FFMpeg, el equipo de ImageMagick, Stenzek (Duckstation).
 
-<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V2.0 2025):</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V2.01 2025):</h3>
 
 <center>
 <a href="https://www.mediafire.com/folder/rkpp9w14xyp4z/RE2_DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/lJ0nRQCL#MduF8MOHM2uHpug5xkxxEA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>

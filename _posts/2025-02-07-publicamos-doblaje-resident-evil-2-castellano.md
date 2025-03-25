@@ -16,8 +16,8 @@ Dreamcast hace diez años junto con SegaSaturno.**
 
 Antes de nada, dos cosas: la primera es que **este ha sido el proyecto más agotador hasta la fecha** por todas las versiones en las que hemos 
 estado trabajando: seis en total. **La segunda es que nos ha dado tiempo a cerrar un par de versiones más para el día de hoy: lanzamos parches 
-para las versiones PAL España de PlayStation, PAL europea de Dreamcast, ***y como extra, las versiones PAL europea de GameCube y la NTSC-U Dual 
-Shock Ver. norteamericana de PlayStation.***
+para las versiones PAL España de PlayStation, PAL europea de Dreamcast, __**y como extra, las versiones PAL europea de GameCube y la NTSC-U Dual 
+Shock Ver. norteamericana de PlayStation.**__
 
 **El parche para la versión de PC**, tanto la distribuida por GOG como el ejecutable original de las versiones de PC, **saldrá dentro de un par 
 de semanas. El parche para Classic ReBIRTH 2 también está en proceso.**

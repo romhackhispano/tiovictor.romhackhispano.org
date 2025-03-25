@@ -1,5 +1,5 @@
 ---
-title: Resident Evil 2 (Doblaje, v2.0 FINAL)
+title: Resident Evil 2 (Doblaje, v2.01 FINAL)
 permalink: /resident-evil-2-dreamcast/
 header:
   overlay_image: /img/headers/pages/ResidentEvil2Header.jpg
@@ -20,4 +20,5 @@ pensamos en qué hacer en el futuro. La respuesta era lógica: doblar Resident E
 
 Pero este proyecto sería mucho más complejo de lo que pensábamos, demasiado incluso, ya que nos 
 lanzamos a meter una traducción nuevamente revisada y el doblaje a multitud de versiones de distintas 
-consolas: PlayStation, Dreamcast, GameCube y PC, viendo la luz el 7 de febrero de 2025.
+consolas: PlayStation, Dreamcast y GameCube viendo la luz el 7 de febrero de 2025. La conversión para 
+las versiones de PC se publicaría el 25 de marzo.
