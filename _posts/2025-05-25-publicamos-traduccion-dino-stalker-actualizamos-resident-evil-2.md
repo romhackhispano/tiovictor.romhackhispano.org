@@ -50,7 +50,7 @@ Aquí tenéis unas capturitas del resultado:
 
 Aunque el parche solo está pensado para la versión europea, esta incluye selector de hercios, así que se puede jugar bien a 60 hz.
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/dino-stalker/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/dino-stalker-2/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/dino-stalker/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/dino-stalker/) (que estará en cuanto se acabe el bloqueo de Cloudflare en España a lo largo del día de hoy).**
 
 Por otro lado, tengo novedades sobre los proyectos de doblaje de los Resident Evil. Para empezar, **hemos publicado hoy una actualización de 
 importancia para el parche de Resident Evil 2 de la Dual Shock Ver. estadounidense que corrige un bug grave en el que el cronómetro no se 
