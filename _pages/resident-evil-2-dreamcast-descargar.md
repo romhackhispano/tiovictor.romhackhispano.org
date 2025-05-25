@@ -64,7 +64,7 @@ equipo de FFMpeg, el equipo de ImageMagick, Stenzek (Duckstation).
 <h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V2.01 2025):</h3>
 
 <center>
-<a href="https://www.mediafire.com/folder/rkpp9w14xyp4z/RE2_DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/lJ0nRQCL#MduF8MOHM2uHpug5xkxxEA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
+<a href="https://www.mediafire.com/folder/wf2mvdcw01g09/RE2DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/lJ0nRQCL#MduF8MOHM2uHpug5xkxxEA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
