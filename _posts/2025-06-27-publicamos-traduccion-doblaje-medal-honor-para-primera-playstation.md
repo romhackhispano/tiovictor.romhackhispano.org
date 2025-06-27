@@ -1,40 +1,56 @@
 ---
-title: "Publicamos la traducción de Dino Stalker y actualizamos Resident Evil 2"
+title: "Publicamos la traducción y doblaje de Medal of Honor para la primera PlayStation"
 header:
-  overlay_image: /img/headers/posts/HeaderDinoStalker01.jpg
+  overlay_image: /img/headers/posts/MOH1PSX_Noti01.jpg
 layout: single
 
 categories:
-- 'Dino Stalker'
+- 'Medal of Honor'
+- 'Resident Evil 3: Nemesis'
 tags:
-- 'Dino Stalker'
+- 'Medal of Honor'
+- 'Resident Evil 3: Nemesis'
 gallery:
- - url: /img/2025/05/DINOSTALKER_03.jpg
-   image_path: /img/2025/05/DINOSTALKER_03.jpg
- - url: /img/2025/05/DINOSTALKER_04.jpg
-   image_path: /img/2025/05/DINOSTALKER_04.jpg
- - url: /img/2025/05/DINOSTALKER_13.jpg
-   image_path: /img/2025/05/DINOSTALKER_13.jpg
- - url: /img/2025/05/DINOSTALKER_15.jpg
-   image_path: /img/2025/05/DINOSTALKER_15.jpg
- - url: /img/2025/05/DINOSTALKER_16.jpg
-   image_path: /img/2025/05/DINOSTALKER_16.jpg
- - url: /img/2025/05/DINOSTALKER_17.jpg
-   image_path: /img/2025/05/DINOSTALKER_17.jpg
- - url: /img/2025/05/DINOSTALKER_18.jpg
-   image_path: /img/2025/05/DINOSTALKER_18.jpg
- - url: /img/2025/05/DINOSTALKER_19.jpg
-   image_path: /img/2025/05/DINOSTALKER_19.jpg
- - url: /img/2025/05/DINOSTALKER_20.jpg
-   image_path: /img/2025/05/DINOSTALKER_20.jpg
- - url: /img/2025/05/DINOSTALKER_21.jpg
-   image_path: /img/2025/05/DINOSTALKER_21.jpg
- - url: /img/2025/05/DINOSTALKER_25.jpg
-   image_path: /img/2025/05/DINOSTALKER_25.jpg
- - url: /img/2025/05/DINOSTALKER_26.jpg
-   image_path: /img/2025/05/DINOSTALKER_26.jpg
+ - url: /img/2025/06/MOH1-20250625_01.jpg
+   image_path: /img/2025/06/MOH1-20250625_01.jpg
+ - url: /img/2025/06/MOH1-20250625_02.jpg
+   image_path: /img/2025/06/MOH1-20250625_02.jpg
+ - url: /img/2025/06/MOH1-20250625_04.jpg
+   image_path: /img/2025/06/MOH1-20250625_04.jpg
+ - url: /img/2025/06/MOH1-20250625_05.jpg
+   image_path: /img/2025/06/MOH1-20250625_05.jpg
+ - url: /img/2025/06/MOH1-20250625_06.jpg
+   image_path: /img/2025/06/MOH1-20250625_06.jpg
+ - url: /img/2025/06/MOH1-20250625_07.jpg
+   image_path: /img/2025/06/MOH1-20250625_07.jpg
+ - url: /img/2025/06/MOH1-20250625_08.jpg
+   image_path: /img/2025/06/MOH1-20250625_08.jpg
+ - url: /img/2025/06/MOH1-20250625_09.jpg
+   image_path: /img/2025/06/MOH1-20250625_09.jpg
+ - url: /img/2025/06/MOH1-20250625_10.jpg
+   image_path: /img/2025/06/MOH1-20250625_10.jpg
+ - url: /img/2025/06/MOHU-20250625_01.jpg
+   image_path: /img/2025/06/MOHU-20250625_01.jpg
+ - url: /img/2025/06/MOHU-20250625_02.jpg
+   image_path: /img/2025/06/MOHU-20250625_02.jpg
+ - url: /img/2025/06/MOHU-20250625_03.jpg
+   image_path: /img/2025/06/MOHU-20250625_03.jpg
+ - url: /img/2025/06/MOHU-20250625_04.jpg
+   image_path: /img/2025/06/MOHU-20250625_04.jpg
+ - url: /img/2025/06/MOHU-20250625_06.jpg
+   image_path: /img/2025/06/MOHU-20250625_06.jpg
+ - url: /img/2025/06/MOHU-20250625_07.jpg
+   image_path: /img/2025/06/MOHU-20250625_07.jpg
+ - url: /img/2025/06/MOHU-20250625_08.jpg
+   image_path: /img/2025/06/MOHU-20250625_08.jpg
+ - url: /img/2025/06/MOHU-20250625_09.jpg
+   image_path: /img/2025/06/MOHU-20250625_09.jpg
+ - url: /img/2025/06/MOHU-20250625_10.jpg
+   image_path: /img/2025/06/MOHU-20250625_10.jpg
 
 ---
+
+**PENDIENTE DE ESCRIBIR**
 
 ¡Buenas! Hoy por fin puedo publicar un proyecto que hice allá por 2023 para matar un rato... y que se ha estirado hasta hoy, así como daros noticias 
 sobre los doblajes de Resident Evil.
