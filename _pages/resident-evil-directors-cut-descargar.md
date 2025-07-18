@@ -20,7 +20,7 @@ comments: false
  - *Ingeniería inversa para PlayStation:* MasterLuc, PhOeNiX, IlDucci
  - *Testeo de Sega Saturn:* Wesker, Cerbero, Releon
 
-**CRÉDITOS DEL DOBLAJE EN CASTELLANO:**
+**CRÉDITOS DEL DOBLAJE AL CASTELLANO:**
  - *Dirección de doblaje, técnico de grabación y de mezclas, adaptador de 
  diálogos, testeo del doblaje:* Salvi Garrido  
  - *Asistencia de mezclas:* David Flores  
@@ -47,12 +47,12 @@ Michael Sabin (jpsxdec), Steve «Klarth» Monaco (Atlas), RedComet
 (Cartographer), Kingcom y el equipo de armips, Barubary (TiledGGD), SnowBro, 
 Dr. MefistO y Mewster (TileMolester), Stefan Pettersson (Bitmap Font 
 Writer), _Faster (RawToBmp), CUE (psx-mode2), MeganGrass (BioFAT/Bio Apps), 
-Leo2236 (RDTExplorer), Pat Mandin (Reevengi), Halley's Comet Software y el 
-equipo de vgmstream, jmarti856 y yonsaber (AIFF2VAG), Knight0fDragon (Sega 
-Saturn Patcher, kit de edición de CPK), Sewer56 (dlang-prs, prs-rs), el 
-equipo de FFMpeg, SuikazeRaider (CPKAudioMixer), los equipos de Mednafen y 
-de Mednaffe, los equipos de Yabause y Kronos, el equipo de SSF, Stenzek 
-(Duckstation).
+Leo2236 (RDTExplorer, File Editor), Pat Mandin (Reevengi), Halley's Comet 
+Software y el equipo de vgmstream, jmarti856 y yonsaber (AIFF2VAG), 
+Knight0fDragon (Sega Saturn Patcher, kit de edición de CPK), Sewer56 
+(dlang-prs, prs-rs), el equipo de FFMpeg, SuikazeRaider (CPKAudioMixer), los 
+equipos de Mednafen y de Mednaffe, los equipos de Yabause y Kronos, el 
+equipo de SSF, Stenzek (Duckstation), Gemini (Classic ReBIRTH).
 
 *Agradecimientos especiales: A PhOeNiX de SadNES City, Master_Luc, Pumuke Lee, Snake172002, Seryi, Fali, 
 Pokechar, Numaios, Monicapo, Wesker, Raskaipika y a los testers de la 
@@ -62,7 +62,12 @@ muchísimo).*
 *Agradecimientos de la versión 4.1 en adelante:
 A CUE, MeganGrass, a la comunidad de SegaXtreme por toda la información 
 concerniente a la versión de Sega Saturn y la comunidad de Halley's Comet 
-Software por su ayuda con el formato de sonido de Sega Saturn.*
+Software por su ayuda con el formato de sonido de Sega Saturn.
+A Gemini por su ayuda para dar soporte al sistema Classic ReBIRTH.
+Y un muy especial corte de mangas para todos aquellos cernícalos que resubís 
+nuestras traducciones y doblajes sin permiso y quitando los créditos del 
+juego (o dejándolos solo en vuestros vídeos, pero quitándolos del propio 
+juego). Sabemos quiénes sois.*
 
 <h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V3.6 FINAL 2010):</h3>
 

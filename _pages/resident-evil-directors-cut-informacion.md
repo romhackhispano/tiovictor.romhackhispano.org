@@ -14,8 +14,9 @@ comments: false
 2. [Cómo aplicar un parche .XDELTA](#punto2)
 3. [Instrucciones para aplicar el parche de traducción en PlayStation](#punto3)
 4. [Instrucciones para aplicar el parche de traducción en Sega Saturn](#punto4)
-5. [Instrucciones para copiar el juego traducido a un CD-R](#punto5)
-6. [Los ODE de Sega Saturn y problemas encontrados con Saroo](#punto6)
+5. [Instrucciones para aplicar el parche de traducción en PC](#punto5)
+6. [Instrucciones para copiar el juego traducido a un CD-R](#punto6)
+7. [Los ODE de Sega Saturn y problemas encontrados con Saroo](#punto7)
 
 ### Registro de revisiones<a name="punto1"></a>
 
@@ -128,6 +129,10 @@ editar todavía la versión NTSC-U de PSX. Otros cambios:
   - Restaurado el logo completo de Capcom en las versiones NTSC-U para 
     PlayStation.
   - Otros fallos menores corregidos.
+* 4.2c - Añadido soporte para las versiones para PC. Las versiones hotfix3 de 
+ GOG y la Classic ReBIRTH 1.1.3 han sido las referencias para el 
+ testeo. También se incluye soporte para la versión europea en CD.
+ No hay cambios en el resto de versiones.
 
 ### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
 
@@ -240,8 +245,56 @@ Si por cualquier motivo necesitas volver a unir los 2 archivos BIN en uno
 solo (por ejemplo, porque a algunos emuladores no les guste un .CUE con 
 varios .BIN), vuelve a ejecutar el programa binmerge-gui, pero esta vez 
 introduciendo los .CUE en la pestaña «Fusionar pistas».
+### Instrucciones para aplicar el parche de traducción en PC<a name="punto5"></a>
 
-### Instrucciones para copiar el juego traducido a un CD-R<a name="punto5"></a>
+La versión para PC se puede aplicar de dos maneras, según si utilizas el 
+juego original «puro» (es decir, las versiones originales en CD o el 
+reciente relanzamiento en GOG.com) o si juegas con el sistema Classic 
+ReBIRTH creado por Gemini.
+
+ - CÓMO APLICAR EL PARCHE A LA VERSIÓN EN CD/DE GOG.COM ORIGINAL
+   - Si tienes la versión para GOG, asegúrate de que has descargado la 
+     versión española y ten cuidado si vas a cambiar el idioma.
+   - Copia la carpeta «doblaje_esp» a la raíz de la carpeta con los datos 
+     del juego.
+   - Copia el archivo «winmm.dll» a la raíz de la carpeta con los datos del 
+     juego.
+   - Utiliza DeltaPatcher para aplicar los parches XDELTA correspondientes 
+     a los ejecutables que estés utilizando. RECOMENDAMOS ENCARECIDAMENTE 
+     UTILIZAR LA OPCIÓN «Backup original file».
+
+Estos son los ejecutables compatibles y sus respectivas sumas de comprobación, 
+o checksums:
+
+VERSIÓN CD EUROPEA 1.0
+```
+  CRC-32: 5ba1952e
+     MD5: af66da49daf757a97cbd7086d9a199de
+   SHA-1: 657ec5013fb4556c77693978bd525a149d335b6f
+```
+
+VERSIÓN GOG INGLESA 1.0 hotfix3
+```
+  CRC-32: 62cda2f2
+     MD5: 6809946a5145acd3adcb6c0f0e190e0e
+   SHA-1: 46622e03533ac212fefc27fcc565dcbf0d6ce9e5
+```
+
+ - CÓMO APLICAR EL PARCHE A LA VERSIÓN CLASSIC REBIRTH
+   - Asegúrate de haber seguido las instrucciones de instalación del Classic 
+     ReBIRTH al pie de la letra, sobre todo la de copiar el ejecutable de la 
+     versión 1.1.0 de SourceNext.
+   - Copia los contenidos de las carpetas «doblaje_esp» y «movie» a la raíz 
+     de la carpeta con los datos del juego, sobrescribiendo los archivos 
+     según sea necesario.
+   - Copia los archivos «winmm.dll» y «mod_spanishRECdub_crypto.7z» a la 
+     raíz de la carpeta con los datos del juego.
+
+Ejecuta el archivo Biohazard.exe modificado y, dentro del selector de mods 
+de Classic ReBIRTH, selecciona «Biohazard MediaKite: doblaje por Resident 
+Evil Castellano v4.2c».
+
+### Instrucciones para copiar el juego traducido a un CD-R<a name="punto6"></a>
 
 Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
 todavía utilicen CDs «quemados» o «tostados» (CD-R) para jugar con sus 
@@ -273,7 +326,7 @@ Si queréis informaros sobre los fabricantes de discos, qué marcas comprar o
 dónde comprarlas, os recomiendo que os informéis por ahí, ya que hay otras 
 personas que saben explicar la situación mejor que yo.
 
-### Los ODE de Sega Saturn y problemas encontrados con Saroo<a name="punto6"></a>
+### Los ODE de Sega Saturn y problemas encontrados con Saroo<a name="punto7"></a>
 
 **La versión para Sega Saturn ha sido probada extensivamente con los 
 siguientes métodos de carga:**
