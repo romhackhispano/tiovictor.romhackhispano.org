@@ -1,5 +1,5 @@
 ---
-title: Actualización de Shenmue I
+title: "Actualización de Shenmue I"
 layout: single
 categories:
 - General

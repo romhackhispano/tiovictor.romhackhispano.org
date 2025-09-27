@@ -1,5 +1,5 @@
 ---
-title: Información de la saga Rainbow Six
+title: "Información de la saga Rainbow Six"
 permalink: /saga-rainbow-six-para-pc/informacion/
 header:
   overlay_image: /img/headers/pages/RainbowSixHeader.jpg

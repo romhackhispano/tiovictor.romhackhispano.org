@@ -1,5 +1,5 @@
 ---
-title: Zone of The Enders será traducido
+title: "Zone of The Enders será traducido"
 header:
   overlay_image: /img/2009/06/ZOE1Noti09.jpg
 date: '2009-06-19 17:50:43 +0200'

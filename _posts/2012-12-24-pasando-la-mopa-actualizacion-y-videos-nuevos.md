@@ -1,5 +1,5 @@
 ---
-title: 'Pasando la mopa: Actualización y vídeos nuevos'
+title: "Pasando la mopa: Actualización y vídeos nuevos"
 header:
   overlay_image: /img/2012/12/ContractJACKNoti01.jpg
 layout: single

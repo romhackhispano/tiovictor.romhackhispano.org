@@ -1,5 +1,5 @@
 ---
-title: Descargas de Shenmue I
+title: "Descargas de Shenmue I"
 permalink: /shenmue/descargar/
 header:
   overlay_image: /img/headers/pages/Shenmue1Header.jpg

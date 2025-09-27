@@ -1,5 +1,5 @@
 ---
-title: Saga Rainbow Six para PC (V1.0)
+title: "Saga Rainbow Six para PC (V1.0)"
 permalink: /saga-rainbow-six-para-pc/
 header:
   overlay_image: /img/headers/pages/RainbowSixHeader.jpg

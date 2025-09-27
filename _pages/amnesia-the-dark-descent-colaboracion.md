@@ -1,5 +1,5 @@
 ---
-title: Amnesia The Dark Descent - Colaboración
+title: "Amnesia The Dark Descent - Colaboración"
 permalink: /amnesia-the-dark-descent-colaboracion/
 header:
   overlay_image: /img/headers/pages/AmnesiaHeader.jpg

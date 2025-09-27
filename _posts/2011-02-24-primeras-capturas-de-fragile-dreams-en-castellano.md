@@ -1,5 +1,5 @@
 ---
-title: Primeras capturas de Fragile Dreams en Castellano
+title: "Primeras capturas de Fragile Dreams en Castellano"
 header:
   overlay_image: /img/2011/02/FragileNoti06.jpg
 layout: single

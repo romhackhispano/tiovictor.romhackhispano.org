@@ -1,5 +1,5 @@
 ---
-title: Información de The 3rd Birthday
+title: "Información de The 3rd Birthday"
 permalink: /the-3rd-birthday/informacion/
 header:
   overlay_image: /img/headers/pages/The3rdBirthdayHeader.jpg

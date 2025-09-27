@@ -73,6 +73,11 @@ _**Utilidades necesarias para parchear tu copia de seguridad del juego**_
 **[Universal Dreamcast Patcher (para la versión de Dreamcast)](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases){:target="_blank"}**  
 **[binmerge-gui (para separar una imagen BIN en sus pistas individuales, para la Dual Shock Ver.)](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}**
 
+_**Tutoriales sobre cómo aplicar los parches**_  
+**[Cómo aplicar parches XDELTA](https://www.youtube.com/watch?v=KZkYtv9CT0s){:target="_blank"}**  
+**[Cómo aplicar parches DCP (Universal Dreamcast Patcher](https://www.youtube.com/watch?v=Y-kUZIm_EOU){:target="_blank"}**  
+**[Cómo aplicar parches XDELTA a discos con pistas de audio](https://www.youtube.com/watch?v=trQO-4Ng9Go){:target="_blank"}**
+
 <h2 style="text-align: center;"><a href="/resident-evil-2-dreamcast/"><strong>VOLVER</strong></a></h2>
 
 

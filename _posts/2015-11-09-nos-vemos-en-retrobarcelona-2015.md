@@ -1,5 +1,5 @@
 ---
-title: Nos vemos en RetroBarcelona 2015
+title: "Nos vemos en RetroBarcelona 2015"
 header:
   overlay_image: /img/2015/11/RetroBarcelona2015Noti01.jpg
 layout: single

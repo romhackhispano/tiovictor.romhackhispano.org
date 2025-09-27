@@ -1,5 +1,5 @@
 ---
-title: Digimon Rumble Arena - Colaboración
+title: "Digimon Rumble Arena - Colaboración"
 permalink: /digimon-rumble-arena-colaboracion/
 header:
   overlay_image: /img/headers/pages/DigimonRumbleArenaHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: Infiltración en RetroMadrid 2012
+title: "Infiltración en RetroMadrid 2012"
 header:
   overlay_image: /img/2012/05/RetroMadrid2012Noti.jpg
 layout: single

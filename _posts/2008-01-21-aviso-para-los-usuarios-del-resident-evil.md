@@ -1,5 +1,5 @@
 ---
-title: RE:DC actualizado a Beta 2
+title: "RE:DC actualizado a Beta 2"
 header:
   overlay_image: /img/2008/01/RE1Noti17.jpg
 date: '2008-01-21 11:52:02 +0100'

@@ -1,5 +1,5 @@
 ---
-title: Operation Winback (PS2, V1.0)
+title: "Operation Winback (PS2, V1.0)"
 permalink: /operation-winback/
 header:
   overlay_image: /img/headers/pages/OpWinbackHeader.jpg

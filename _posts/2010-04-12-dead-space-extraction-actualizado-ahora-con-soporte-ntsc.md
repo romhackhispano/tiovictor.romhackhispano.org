@@ -1,5 +1,5 @@
 ---
-title: Dead Space Extraction actualizado, ahora con soporte NTSC
+title: "Dead Space Extraction actualizado, ahora con soporte NTSC"
 header:
   overlay_image: /img/2010/04/DSENoti04.jpg
 date: '2010-04-12 14:10:59 +0200'

@@ -1,5 +1,5 @@
 ---
-title: Y ahora pasemos a algo... ¿completamente distinto?
+title: "Y ahora pasemos a algo... ¿completamente distinto?"
 header:
   overlay_image: /img/2012/03/Interrogacion.jpg
 layout: single

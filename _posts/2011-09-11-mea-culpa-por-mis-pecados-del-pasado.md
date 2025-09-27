@@ -1,5 +1,5 @@
 ---
-title: Mea culpa por mis pecados del pasado
+title: "Mea culpa por mis pecados del pasado"
 header:
   overlay_image: /img/2012/03/Interrogacion.jpg
 layout: single

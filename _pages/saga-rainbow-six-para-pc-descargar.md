@@ -1,5 +1,5 @@
 ---
-title: Descargas de la saga Rainbow Six
+title: "Descargas de la saga Rainbow Six"
 permalink: /saga-rainbow-six-para-pc/descargar/
 header:
   overlay_image: /img/headers/pages/RainbowSixHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: Actualización en Resident Evil PSOne
+title: "Actualización en Resident Evil PSOne"
 header:
   overlay_image: /img/2010/07/RE1Noti01.jpg
 date: '2010-07-09 15:39:35 +0200'

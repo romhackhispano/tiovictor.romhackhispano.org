@@ -1,5 +1,5 @@
 ---
-title: Aviso importante sobre Resident Evil
+title: "Aviso importante sobre Resident Evil"
 header:
   overlay_image: /img/2009/01/RE1Noti11.jpg
 date: '2009-01-21 14:04:11 +0100'

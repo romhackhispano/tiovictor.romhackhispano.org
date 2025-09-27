@@ -1,5 +1,5 @@
 ---
-title: Traducción de Shenmue... What's Shenmue publicada
+title: "Traducción de Shenmue... What's Shenmue publicada"
 header:
   overlay_image: /img/2014/09/WhatsShenmueNoti02.jpg
 layout: single

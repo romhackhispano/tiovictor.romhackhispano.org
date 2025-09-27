@@ -1,5 +1,5 @@
 ---
-title: Recta final para Shenmue y nota sobre RE2-DC
+title: "Recta final para Shenmue y nota sobre RE2-DC"
 header:
   overlay_image: /img/2012/03/RE2Noti06.jpg
 layout: single

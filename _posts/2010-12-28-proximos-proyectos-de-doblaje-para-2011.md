@@ -1,5 +1,5 @@
 ---
-title: Próximos proyectos de doblaje para 2011
+title: "Próximos proyectos de doblaje para 2011"
 header:
   overlay_image: /img/2010/12/ShenmueVSTimeCrisis.jpg
 date: '2010-12-28 00:35:38 +0100'

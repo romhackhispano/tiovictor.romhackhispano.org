@@ -1,5 +1,5 @@
 ---
-title: Otra más para el contador
+title: "Otra más para el contador"
 header:
   overlay_image: /img/2009/12/DSENoti12.jpg
 date: '2009-12-02 22:11:18 +0100'

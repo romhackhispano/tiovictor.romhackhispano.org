@@ -1,5 +1,5 @@
 ---
-title: Entrevistado en la revista de Dreamcast.es
+title: "Entrevistado en la revista de Dreamcast.es"
 header:
   overlay_image: /img/2015/10/RevistaDCEsNoti01.jpg
 layout: single

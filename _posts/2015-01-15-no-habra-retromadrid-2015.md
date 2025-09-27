@@ -1,5 +1,5 @@
 ---
-title: No habrá RetroMadrid 2015
+title: "No habrá RetroMadrid 2015"
 layout: single
 categories:
 - General

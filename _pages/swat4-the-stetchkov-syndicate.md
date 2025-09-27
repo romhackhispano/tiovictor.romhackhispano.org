@@ -1,5 +1,5 @@
 ---
-title: 'SWAT4: The Stetchkov Syndicate PC (V2.2 2012)'
+title: "SWAT4: The Stetchkov Syndicate PC (V2.2 2012)"
 permalink: /swat4-the-stetchkov-syndicate/
 header:
   overlay_image: /img/headers/pages/SWAT4XHeader.jpg

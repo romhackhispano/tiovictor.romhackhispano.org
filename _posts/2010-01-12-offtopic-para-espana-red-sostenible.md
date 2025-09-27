@@ -1,5 +1,5 @@
 ---
-title: 'Offtopic para España: Red SOStenible'
+title: "Offtopic para España: Red SOStenible"
 header:
   overlay_image: /img/2012/03/Interrogacion.jpg
 date: '2010-01-12 19:44:03 +0100'

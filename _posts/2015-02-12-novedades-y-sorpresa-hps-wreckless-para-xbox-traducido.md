@@ -1,5 +1,5 @@
 ---
-title: Novedades y ¡sorpresa! Wreckless para XBOX traducido
+title: "Novedades y ¡sorpresa! Wreckless para XBOX traducido"
 header:
   overlay_image: /img/2015/02/WrecklessNoti01.jpg
 layout: single

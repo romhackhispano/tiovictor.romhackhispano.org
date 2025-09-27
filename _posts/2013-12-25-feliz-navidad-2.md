@@ -1,5 +1,5 @@
 ---
-title: Feliz navidad
+title: "Feliz navidad"
 header:
   overlay_image: /img/2013/12/NautsNoti04.jpg
 layout: single

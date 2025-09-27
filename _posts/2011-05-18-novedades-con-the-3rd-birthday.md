@@ -1,5 +1,5 @@
 ---
-title: Novedades con The 3rd Birthday
+title: "Novedades con The 3rd Birthday"
 header:
   overlay_image: /img/2011/05/3rdBirthdayNoti04.jpg
 layout: single

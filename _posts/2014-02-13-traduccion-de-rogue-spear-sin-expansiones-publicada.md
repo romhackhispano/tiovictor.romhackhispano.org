@@ -1,5 +1,5 @@
 ---
-title: Traducción de Rogue Spear (sin expansiones) publicada
+title: "Traducción de Rogue Spear (sin expansiones) publicada"
 header:
   overlay_image: /img/2014/02/SagaRogueSpearNoti02.jpg
 layout: single

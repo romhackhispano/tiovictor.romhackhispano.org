@@ -1,5 +1,5 @@
 ---
-title: Fragile Dreams actualizado y planes de futuro
+title: "Fragile Dreams actualizado y planes de futuro"
 header:
   overlay_image: /img/2011/05/FragileNoti03.jpg
 layout: single

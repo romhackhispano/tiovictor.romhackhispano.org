@@ -1,5 +1,5 @@
 ---
-title: No estamos muertos...
+title: "No estamos muertos..."
 header:
   overlay_image: /img/2013/09/NautsNoti02.jpg
 layout: single

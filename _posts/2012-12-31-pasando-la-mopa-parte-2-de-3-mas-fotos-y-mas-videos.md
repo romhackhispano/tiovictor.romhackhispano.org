@@ -1,6 +1,5 @@
 ---
-title: 'Pasando la mopa, parte 2 de 3: Más fotos y más
-  vídeos'
+title: "Pasando la mopa, parte 2 de 3: Más fotos y más vídeos"
 header:
   overlay_image: /img/2012/12/DSENoti08.jpg
 layout: single

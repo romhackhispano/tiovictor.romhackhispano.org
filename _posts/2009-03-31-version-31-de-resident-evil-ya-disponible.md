@@ -1,5 +1,5 @@
 ---
-title: Versión 3.1 de Resident Evil ya disponible
+title: "Versión 3.1 de Resident Evil ya disponible"
 header:
   overlay_image: /img/2009/03/RE1Noti08.jpg
 date: '2009-03-31 10:54:23 +0200'

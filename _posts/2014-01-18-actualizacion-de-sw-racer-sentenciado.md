@@ -1,5 +1,5 @@
 ---
-title: 'Actualización de SW Racer: Sentenciado'
+title: "Actualización de SW Racer: Sentenciado"
 header:
   overlay_image: /img/2014/01/SWRacerNoti02.jpg
 layout: single

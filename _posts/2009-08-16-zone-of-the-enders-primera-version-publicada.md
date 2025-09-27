@@ -1,5 +1,5 @@
 ---
-title: 'Zone Of The Enders: Primera versión publicada'
+title: "Zone Of The Enders: Primera versión publicada"
 header:
   overlay_image: /img/2009/08/ZOE1Noti01.jpg
 date: '2009-08-16 23:51:19 +0200'

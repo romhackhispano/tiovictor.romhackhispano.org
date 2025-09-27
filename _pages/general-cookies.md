@@ -1,5 +1,5 @@
 ---
-title: Cookies
+title: "Cookies"
 permalink: /cookies/
 header:
   overlay_image: /img/banner-final-3.jpg

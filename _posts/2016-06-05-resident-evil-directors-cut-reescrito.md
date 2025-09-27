@@ -1,5 +1,5 @@
 ---
-title: Resident Evil Director's Cut reescrito
+title: "Resident Evil Director's Cut reescrito"
 header:
   overlay_image: /img/2016/06/RE1Noti33.jpg
 layout: single

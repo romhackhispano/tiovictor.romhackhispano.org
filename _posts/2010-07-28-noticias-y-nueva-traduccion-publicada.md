@@ -1,5 +1,5 @@
 ---
-title: Noticias y nueva traducción publicada
+title: "Noticias y nueva traducción publicada"
 header:
   overlay_image: /img/2010/07/AlienSwarmNoti03.jpg
 date: '2010-07-28 16:31:48 +0200'

@@ -1,5 +1,5 @@
 ---
-title: 'Información sobre Clock Tower'
+title: "Información sobre Clock Tower"
 permalink: /clock-tower/informacion/
 header:
   overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg

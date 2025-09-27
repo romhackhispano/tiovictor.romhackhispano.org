@@ -1,5 +1,5 @@
 ---
-title: Demostración de Shenmue 1
+title: "Demostración de Shenmue 1"
 header:
   overlay_image: /img/2012/06/Shen1Noti06.jpg
 date: '2010-03-05 21:06:35 +0100'

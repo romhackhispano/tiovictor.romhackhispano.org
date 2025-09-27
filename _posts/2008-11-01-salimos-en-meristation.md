@@ -1,5 +1,5 @@
 ---
-title: Salimos en MeriStation...
+title: "Salimos en MeriStation..."
 header:
   overlay_image: /img/2008/11/Meri01.jpg
 date: '2008-11-01 13:54:40 +0100'

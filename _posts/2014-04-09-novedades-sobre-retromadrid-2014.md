@@ -1,5 +1,5 @@
 ---
-title: Novedades sobre RetroMadrid 2014
+title: "Novedades sobre RetroMadrid 2014"
 header:
   overlay_image: /img/2014/04/RetroMadrid2014Noti01.jpg
 layout: single

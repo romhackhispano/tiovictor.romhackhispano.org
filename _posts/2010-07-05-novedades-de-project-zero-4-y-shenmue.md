@@ -1,5 +1,5 @@
 ---
-title: Novedades de Project Zero 4 y Shenmue
+title: "Novedades de Project Zero 4 y Shenmue"
 header:
   overlay_image: /img/2010/07/PZ4Noti07.jpg
 date: '2010-07-05 22:31:21 +0200'

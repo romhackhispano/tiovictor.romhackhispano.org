@@ -1,5 +1,5 @@
 ---
-title: Gameplay de Shenmue I ya disponible
+title: "Gameplay de Shenmue I ya disponible"
 header:
   overlay_image: /img/2013/06/Shen1Noti17.jpg
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: Información de Sin and Punishment
+title: "Información de Sin and Punishment"
 permalink: /sin-and-punishment-n64/informacion/
 header:
   overlay_image: /img/headers/pages/SinAndPunishmentN64Header.jpg

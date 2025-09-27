@@ -1,5 +1,5 @@
 ---
-title: 'Capturas de Resident Evil Survivor para PSX'
+title: "Capturas de Resident Evil Survivor para PSX"
 permalink: /resident-evil-survivor-psx/capturas/
 header:
   overlay_image: /img/headers/pages/ResidentEvilSurvivorHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Alone in the Dark: The New Nightmare DC (V1.0.2)'
+title: "Alone in the Dark: The New Nightmare DC (V1.0.2)"
 permalink: /alone-in-the-dark-dc/
 header:
   overlay_image: /img/headers/pages/AITD4DCHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Información sobre Shadow Watch'
+title: "Información sobre Shadow Watch"
 permalink: /shadow-watch/informacion/
 header:
   overlay_image: /img/headers/pages/ShadowWatchHeader.jpg

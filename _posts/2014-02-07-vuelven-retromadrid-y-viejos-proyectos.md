@@ -1,5 +1,5 @@
 ---
-title: Vuelven RetroMadrid y viejos proyectos
+title: "Vuelven RetroMadrid y viejos proyectos"
 header:
   overlay_image: /img/2014/02/SilentHillTWINENoti01.jpg
 layout: single

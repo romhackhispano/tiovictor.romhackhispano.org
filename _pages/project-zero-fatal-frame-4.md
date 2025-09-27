@@ -1,5 +1,5 @@
 ---
-title: Project Zero/Fatal Frame 4 - Colaboración
+title: "Project Zero/Fatal Frame 4 - Colaboración"
 permalink: /project-zero-fatal-frame-4/
 header:
   overlay_image: /img/headers/pages/ProjectZero4Header.jpg

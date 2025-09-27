@@ -1,5 +1,5 @@
 ---
-title: Ligero retraso
+title: "Ligero retraso"
 header:
   overlay_image: /img/2007/12/RE1Noti19.jpg
 date: '2007-12-25 22:11:12 +0100'

@@ -1,5 +1,5 @@
 ---
-title: Otra más de Resident Evil
+title: "Otra más de Resident Evil"
 header:
   overlay_image: /img/2007/04/RE1Noti28.jpg
 date: '2007-04-03 19:12:01 +0200'

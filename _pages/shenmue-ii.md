@@ -1,5 +1,5 @@
 ---
-title: Shenmue II (1.0.2)
+title: "Shenmue II (1.0.2)"
 permalink: /shenmue-ii/
 header:
   overlay_image: /img/headers/pages/Shemnue2Header.jpg

@@ -1,5 +1,5 @@
 ---
-title: Anuncio de la Versión en Castellano 2.1 de The World Ends With You
+title: "Anuncio de la Versión en Castellano 2.1 de The World Ends With You"
 header:
   overlay_image: /img/2012/06/TWEWYNoti04.jpg
 layout: single

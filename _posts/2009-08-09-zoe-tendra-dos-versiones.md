@@ -1,5 +1,5 @@
 ---
-title: ZOE tendrá dos versiones
+title: "ZOE tendrá dos versiones"
 header:
   overlay_image: /img/2009/08/ZOE1Noti05.jpg
 date: '2009-08-09 21:48:32 +0200'

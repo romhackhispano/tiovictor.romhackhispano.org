@@ -1,5 +1,5 @@
 ---
-title: Información de Time Crisis 1
+title: "Información de Time Crisis 1"
 permalink: /time-crisis-1/informacion/
 header:
   overlay_image: /img/headers/pages/TimeCrisisHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: Nos vemos en la Feria del Videojuego de Valladolid
+title: "Nos vemos en la Feria del Videojuego de Valladolid"
 header:
   overlay_image: /img/2015/03/RetroValladolid2015Noti1.jpg
 layout: single

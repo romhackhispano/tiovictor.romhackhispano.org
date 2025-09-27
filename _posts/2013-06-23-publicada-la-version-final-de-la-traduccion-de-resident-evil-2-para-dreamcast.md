@@ -1,6 +1,5 @@
 ---
-title: Publicada la versión final de la traducción de Resident
-  Evil 2 para Dreamcast
+title: "Publicada la versión final de la traducción de Resident Evil 2 para Dreamcast"
 header:
   overlay_image: /img/2013/06/RE2Noti16.jpg
 layout: single

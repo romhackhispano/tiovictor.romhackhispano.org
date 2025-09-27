@@ -1,5 +1,5 @@
 ---
-title: Parada temporal en Resident Evil
+title: "Parada temporal en Resident Evil"
 header:
   overlay_image: /img/2008/10/TWEWYNoti01.jpg
 date: '2008-10-19 10:18:50 +0200'

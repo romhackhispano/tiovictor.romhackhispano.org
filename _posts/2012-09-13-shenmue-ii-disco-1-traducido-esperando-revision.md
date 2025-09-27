@@ -1,5 +1,5 @@
 ---
-title: 'Shenmue II: Disco 1 traducido, esperando revisión'
+title: "Shenmue II: Disco 1 traducido, esperando revisión"
 header:
   overlay_image: /img/2012/09/Shen2Noti07.jpg
 layout: single

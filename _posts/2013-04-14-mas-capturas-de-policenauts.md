@@ -1,5 +1,5 @@
 ---
-title: Más capturas de Policenauts
+title: "Más capturas de Policenauts"
 header:
   overlay_image: /img/2013/04/NautsNoti03.jpg
 layout: single

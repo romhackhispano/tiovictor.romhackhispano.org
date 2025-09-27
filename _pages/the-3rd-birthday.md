@@ -1,5 +1,5 @@
 ---
-title: The 3rd Birthday para PSP (Colaboración, V1.5B)
+title: "The 3rd Birthday para PSP (Colaboración, V1.5B)"
 permalink: /the-3rd-birthday/
 header:
   overlay_image: /img/headers/pages/The3rdBirthdayHeader.jpg

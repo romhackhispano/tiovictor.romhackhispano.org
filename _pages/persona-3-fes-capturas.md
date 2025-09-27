@@ -1,5 +1,5 @@
 ---
-title: Capturas de Persona 3 FES
+title: "Capturas de Persona 3 FES"
 permalink: /persona-3-fes/capturas/
 header:
   overlay_image: /img/headers/pages/Persona3FESHeader.jpg

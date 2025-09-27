@@ -1,5 +1,5 @@
 ---
-title: Descargas de Time Crisis 1
+title: "Descargas de Time Crisis 1"
 permalink: /time-crisis-1/descargar/
 header:
   overlay_image: /img/headers/pages/TimeCrisisHeader.jpg

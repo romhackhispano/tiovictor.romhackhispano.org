@@ -1,5 +1,5 @@
 ---
-title: 'Shenmue II: Disco 2 traducido en un 32%'
+title: "Shenmue II: Disco 2 traducido en un 32%"
 header:
   overlay_image: /img/2012/10/Shen2Noti06.jpg
 layout: single

@@ -1,6 +1,5 @@
 ---
-title: Publicada la versión 1.0.2 de la traducción de Shenmue
-  I
+title: "Publicada la versión 1.0.2 de la traducción de Shenmue I"
 header:
   overlay_image: /img/2012/07/Shen1Noti09.jpg
 layout: single

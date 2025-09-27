@@ -1,5 +1,5 @@
 ---
-title: Nuevo foro de discusión y nuevo proyecto
+title: "Nuevo foro de discusión y nuevo proyecto"
 header:
   overlay_image: /img/2011/01/FragileNoti05.jpg
 layout: single

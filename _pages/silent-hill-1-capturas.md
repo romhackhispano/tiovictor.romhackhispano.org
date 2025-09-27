@@ -1,5 +1,5 @@
 ---
-title: Capturas de Silent Hill
+title: "Capturas de Silent Hill"
 permalink: /silent-hill-1/capturas/
 header:
   overlay_image: /img/headers/pages/SilentHillHeader.jpg

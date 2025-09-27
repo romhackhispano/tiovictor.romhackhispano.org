@@ -1,5 +1,5 @@
 ---
-title: Resident Evil 3.2.1b publicada
+title: "Resident Evil 3.2.1b publicada"
 header:
   overlay_image: /img/2009/06/RE1Noti04.jpg
 date: '2009-06-06 10:31:59 +0200'

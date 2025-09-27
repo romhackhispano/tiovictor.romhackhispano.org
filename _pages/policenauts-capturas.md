@@ -1,5 +1,5 @@
 ---
-title: Capturas de Policenauts
+title: "Capturas de Policenauts"
 permalink: /policenauts/capturas/
 header:
   overlay_image: /img/headers/pages/PolicenautsHeader.jpg

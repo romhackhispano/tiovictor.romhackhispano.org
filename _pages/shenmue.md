@@ -1,5 +1,5 @@
 ---
-title: Shenmue I (1.0.5b)
+title: "Shenmue I (1.0.5b)"
 permalink: /shenmue/
 header:
   overlay_image: /img/headers/pages/Shenmue1Header.jpg

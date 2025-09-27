@@ -1,5 +1,5 @@
 ---
-title: Capturas de Rogue Spear
+title: "Capturas de Rogue Spear"
 permalink: /saga-rainbow-six-para-pc/capturasrogue/
 header:
   overlay_image: /img/headers/pages/RainbowSixHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: Hablemos de Shenmue
+title: "Hablemos de Shenmue"
 header:
   overlay_image: /img/2011/12/Shen1Noti12.jpg
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: Silent Hill 1 actualizado
+title: "Silent Hill 1 actualizado"
 header:
   overlay_image: /img/2009/12/SilentHillNoti01.jpg
 date: '2009-12-26 21:21:12 +0100'

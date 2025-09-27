@@ -1,5 +1,5 @@
 ---
-title: Time Crisis 1 de PSOne (traducción y doblaje, V1.5)
+title: "Time Crisis 1 de PSOne (traducción y doblaje, V1.5)"
 permalink: /time-crisis-1/
 header:
   overlay_image: /img/headers/pages/TimeCrisisHeader.jpg

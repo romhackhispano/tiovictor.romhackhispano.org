@@ -1,5 +1,5 @@
 ---
-title: Estado de los proyectos
+title: "Estado de los proyectos"
 header:
   overlay_image: /img/2014/09/ResumenSept2014.jpg
 layout: single

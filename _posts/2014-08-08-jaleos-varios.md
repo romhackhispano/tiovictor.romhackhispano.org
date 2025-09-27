@@ -1,5 +1,5 @@
 ---
-title: Jaleos varios
+title: "Jaleos varios"
 header:
   overlay_image: /img/2014/08/SilentHillNoti07.jpg
 layout: single

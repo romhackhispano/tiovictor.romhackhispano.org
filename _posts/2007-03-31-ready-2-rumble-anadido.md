@@ -1,5 +1,5 @@
 ---
-title: Ready 2 Rumble añadido
+title: "Ready 2 Rumble añadido"
 header:
   overlay_image: /img/2007/03/R2RNoti1.jpg
 date: '2007-03-31 11:36:17 +0200'

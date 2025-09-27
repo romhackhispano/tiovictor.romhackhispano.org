@@ -1,5 +1,5 @@
 ---
-title: Novedades en Project Zero 4
+title: "Novedades en Project Zero 4"
 header:
   overlay_image: /img/2010/08/PZ4Noti02.jpg
 date: '2010-08-02 00:19:24 +0200'

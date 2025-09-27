@@ -1,5 +1,5 @@
 ---
-title: Dead Space Extraction - ahora con vídeo de demostración
+title: "Dead Space Extraction - ahora con vídeo de demostración"
 header:
   overlay_image: /img/2010/04/DSENoti01.jpg
 date: '2010-04-18 16:02:03 +0200'

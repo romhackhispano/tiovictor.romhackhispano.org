@@ -1,5 +1,5 @@
 ---
-title: Novedades en general
+title: "Novedades en general"
 header:
   overlay_image: /img/2010/08/Shen1Noti18.jpg
 date: '2010-08-19 16:55:08 +0200'

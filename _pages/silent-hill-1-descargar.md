@@ -1,5 +1,5 @@
 ---
-title: Descargas de Silent Hill
+title: "Descargas de Silent Hill"
 permalink: /silent-hill-1/descargar/
 header:
   overlay_image: /img/headers/pages/SilentHillHeader.jpg

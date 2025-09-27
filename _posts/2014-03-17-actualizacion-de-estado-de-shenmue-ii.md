@@ -1,5 +1,5 @@
 ---
-title: Actualización de estado de Shenmue II
+title: "Actualización de estado de Shenmue II"
 header:
   overlay_image: /img/2014/03/Shen2Noti11.jpg
 layout: single

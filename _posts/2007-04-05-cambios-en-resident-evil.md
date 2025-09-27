@@ -1,5 +1,5 @@
 ---
-title: Cambios en Resident Evil
+title: "Cambios en Resident Evil"
 header:
   overlay_image: /img/2007/04/RE1Noti27.jpg
 date: '2007-04-05 21:30:55 +0200'

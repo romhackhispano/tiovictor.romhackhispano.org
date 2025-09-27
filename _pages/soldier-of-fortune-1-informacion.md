@@ -1,5 +1,5 @@
 ---
-title: Información de Soldier of Fortune 1
+title: "Información de Soldier of Fortune 1"
 permalink: /soldier-of-fortune-1/informacion/
 header:
   overlay_image: /img/headers/pages/SoldierOfFortuneHeader.jpg

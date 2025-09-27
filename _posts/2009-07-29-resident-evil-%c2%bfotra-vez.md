@@ -1,5 +1,5 @@
 ---
-title: Resident Evil... ¿Otra vez?
+title: "Resident Evil... ¿Otra vez?"
 header:
   overlay_image: /img/2009/07/RE1Noti03.jpg
 date: '2009-07-29 23:10:35 +0200'

@@ -1,5 +1,5 @@
 ---
-title: Gameplay completo de What's Shenmue disponible
+title: "Gameplay completo de What's Shenmue disponible"
 header:
   overlay_image: /img/2014/10/WhatsShenmueNoti03.jpg
 layout: single

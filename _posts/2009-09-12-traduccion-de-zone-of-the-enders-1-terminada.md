@@ -1,5 +1,5 @@
 ---
-title: Traducción de Zone Of The Enders 1 terminada
+title: "Traducción de Zone Of The Enders 1 terminada"
 header:
   overlay_image: /img/2009/09/ZOE1Noti06.jpg
 date: '2009-09-12 10:46:08 +0200'

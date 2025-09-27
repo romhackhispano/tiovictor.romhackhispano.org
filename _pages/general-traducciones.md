@@ -13,6 +13,7 @@ comments: false
 [**CONTRACT J.A.C.K.** (VERSIÓN 1.5 2012)](/contract-jack/)  
 [**RESIDENT EVIL: DIRECTOR’S CUT** (DOBLAJE, V4.2c)](/resident-evil-directors-cut/)  
 [**RESIDENT EVIL 2** (DOBLAJE, V2.0)](/resident-evil-2-dreamcast/)  
+[**RESIDENT EVIL 3: NEMESIS** (DOBLAJE, V1.0)](/resident-evil-3-nemesis/)  
 [**SAGA RAINBOW SIX** (V1.0)](/saga-rainbow-six-para-pc/)  
 [**SHADOW WATCH** (V1.0)](/shadow-watch/)  
 [**SILENT HILL 2: DIRECTOR'S CUT** (REVISIÓN, V1.0.8)](/silent-hill-2-directors-cut/)  
@@ -37,6 +38,7 @@ comments: false
 [**READY 2 RUMBLE** (PSX, V1.0)](/ready-2-rumble-1/)  
 [**RESIDENT EVIL: DIRECTOR’S CUT** (PSX, DOBLAJE, V3.6 Y V4.2c)](/resident-evil-directors-cut/)  
 [**RESIDENT EVIL 2** (PSX, DOBLAJE, V2.0)](/resident-evil-2-dreamcast/)  
+[**RESIDENT EVIL 3: NEMESIS** (PSX, DOBLAJE, V1.0)](/resident-evil-3-nemesis/)  
 [**RESIDENT EVIL SURVIVOR** (PSX, V1.0.1)](/resident-evil-survivor-psx/)  
 [**SILENT HILL 1** (PSX, RETRADUCCIÓN, V2.1C)](/silent-hill-1/)  
 [**SILENT HILL 2: DIRECTOR'S CUT** (PS2, REVISIÓN, V1.0.8)](/silent-hill-2-directors-cut/)  
@@ -45,13 +47,15 @@ comments: false
 [**THE 3RD BIRTHDAY** (PSP, V1.5B)](/the-3rd-birthday/)  
 [**ZONE OF THE ENDERS 1** (PS2, 1.5 2024)](/zone-of-the-enders/)  
 
-# Nintendo: Super Nintendo, Nintendo 64, Wii, DS
+# Nintendo: Super Nintendo, Nintendo 64, GameCube, Wii, DS
 
 [**CLOCK TOWER** (SNES, V1.0)](/clock-tower/)  
 [**DEAD SPACE EXTRACTION** (WII, V1.1)](/dead-space-extraction/)  
 [**EL MUNDO NUNCA ES SUFICIENTE** (N64, V1.0.1)](/el-mundo-nunca-es-suficiente-n64/)  
 [**FRAGILE DREAMS: FAREWELL RUINS OF THE MOON** (WII, V1.1)](/fragile-dreams-farewell-ruins-of-the-moon/)  
 [**READY 2 RUMBLE** (N64, V2.0)](/ready-2-rumble-1/)  
+[**RESIDENT EVIL 2** (NGC, DOBLAJE, V2.0)](/resident-evil-2-dreamcast/)  
+[**RESIDENT EVIL 3: NEMESIS** (NGC, DOBLAJE, V1.0)](/resident-evil-3-nemesis/)  
 [**SIN AND PUNISHMENT** (N64, V1.0B)](/sin-and-punishment-n64/)  
 [**STAR WARS EPISODIO I RACER** (N64, 1.0.2 FINAL)](/star-wars-episodio-i-racer-para-nintendo-64/)  
 [**THE WORLD ENDS WITH YOU** (NDS, 2.0)](/the-world-ends-with-you-version-en-castellano-2-0/)  
@@ -62,6 +66,7 @@ comments: false
 [**POLICENAUTS** (SATURN, EN PROGRESO)](/policenauts/)  
 [**RESIDENT EVIL** (SATURN, DOBLAJE, V4.2c)](/resident-evil-directors-cut/)  
 [**RESIDENT EVIL 2** (DC, DOBLAJE, V2.0)](/resident-evil-2-dreamcast/)  
+[**RESIDENT EVIL 3: NEMESIS** (DC, DOBLAJE, V1.0)](/resident-evil-3-nemesis/)  
 [**SHENMUE I** (DC, V1.0.5B)](/shenmue/)  
 [**SHENMUE II** (DC, V1.0.2)](/shenmue-ii/)  
 [**SOLDIER OF FORTUNE 1** (DC, V1.0)](/soldier-of-fortune-1/)  

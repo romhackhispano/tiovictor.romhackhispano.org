@@ -1,5 +1,5 @@
 ---
-title: Sołtys (Traducción oficial, publicada)
+title: "Sołtys (Traducción oficial, publicada)"
 permalink: /soltys/
 header:
   overlay_image: /img/headers/pages/SoltysHeader.jpg

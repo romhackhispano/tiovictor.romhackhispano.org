@@ -1,5 +1,5 @@
 ---
-title: Dead Space Extraction PUBLICADA
+title: "Dead Space Extraction PUBLICADA"
 header:
   overlay_image: /img/2010/04/DSENoti10.jpg
 date: '2010-04-03 23:31:37 +0200'

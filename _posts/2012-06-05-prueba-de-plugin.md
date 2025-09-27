@@ -1,5 +1,5 @@
 ---
-title: La espera llega a su fin
+title: "La espera llega a su fin"
 header:
   overlay_image: /img/2012/06/Shen1Noti01.jpg
 layout: single

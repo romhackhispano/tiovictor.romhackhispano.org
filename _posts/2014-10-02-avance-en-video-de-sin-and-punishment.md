@@ -1,5 +1,5 @@
 ---
-title: Avance en vídeo de Sin and Punishment
+title: "Avance en vídeo de Sin and Punishment"
 header:
   overlay_image: /img/2014/10/EntradaSAP01.jpg
 layout: single

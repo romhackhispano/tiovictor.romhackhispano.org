@@ -1,5 +1,5 @@
 ---
-title: The 3rd Birthday a punto de caramelo...
+title: "The 3rd Birthday a punto de caramelo..."
 header:
   overlay_image: /img/2011/06/3rdBirthdayNoti03.jpg
 layout: single

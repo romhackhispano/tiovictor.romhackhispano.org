@@ -1,5 +1,5 @@
 ---
-title: Capturas de The 3rd Birthday
+title: "Capturas de The 3rd Birthday"
 permalink: /the-3rd-birthday/capturas/
 header:
   overlay_image: /img/headers/pages/The3rdBirthdayHeader.jpg

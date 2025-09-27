@@ -1,5 +1,5 @@
 ---
-title: La vida después de Project Zero 4...
+title: "La vida después de Project Zero 4..."
 header:
   overlay_image: /img/2010/09/RE2Noti09.jpg
 date: '2010-09-24 21:37:26 +0200'

@@ -1,5 +1,5 @@
 ---
-title: Todos sabemos qué viene hoy... ¡Time Crisis... DOS!
+title: "Todos sabemos qué viene hoy... ¡Time Crisis... DOS!"
 header:
   overlay_image: /img/2011/12/TC2Noti.jpg
 layout: single

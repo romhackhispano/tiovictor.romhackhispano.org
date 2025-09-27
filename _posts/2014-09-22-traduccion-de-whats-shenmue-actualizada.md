@@ -1,5 +1,5 @@
 ---
-title: Traducción de What's Shenmue actualizada
+title: "Traducción de What's Shenmue actualizada"
 header:
   overlay_image: /img/2014/09/WhatsShenmueNoti02.jpg
 layout: single

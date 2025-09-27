@@ -1,5 +1,5 @@
 ---
-title: Repaso general
+title: "Repaso general"
 layout: single
 categories:
 - General

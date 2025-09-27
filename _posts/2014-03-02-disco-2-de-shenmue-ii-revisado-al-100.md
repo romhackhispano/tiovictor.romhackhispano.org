@@ -1,5 +1,5 @@
 ---
-title: Disco 2 de Shenmue II revisado al 100%
+title: "Disco 2 de Shenmue II revisado al 100%"
 header:
   overlay_image: /img/2014/03/Shen2Noti10.jpg
 layout: single

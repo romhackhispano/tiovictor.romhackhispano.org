@@ -1,5 +1,5 @@
 ---
-title: Lo que mostramos en RetroMadrid 2013
+title: "Lo que mostramos en RetroMadrid 2013"
 header:
   overlay_image: /img/2013/03/RetroMadrid2013Noti03.jpg
 layout: single

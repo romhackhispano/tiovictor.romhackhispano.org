@@ -1,5 +1,5 @@
 ---
-title: Información de Operation Winback
+title: "Información de Operation Winback"
 permalink: /operation-winback/informacion/
 header:
   overlay_image: /img/headers/pages/OpWinbackHeader.jpg

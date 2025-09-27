@@ -1,5 +1,5 @@
 ---
-title: Descargas de The World Ends With You
+title: "Descargas de The World Ends With You"
 permalink: /the-world-ends-with-you-version-en-castellano-2-0/descargar/
 header:
   overlay_image: /img/headers/pages/TWEWYHeader.jpg

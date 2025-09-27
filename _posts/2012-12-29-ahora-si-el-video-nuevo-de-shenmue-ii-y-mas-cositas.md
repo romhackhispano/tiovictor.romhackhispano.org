@@ -1,6 +1,5 @@
 ---
-title: Ahora sí, el vídeo nuevo de Shenmue II y más
-  cositas
+title: "Ahora sí, el vídeo nuevo de Shenmue II y más cositas"
 header:
   overlay_image: /img/2013/04/Shen2Noti09.jpg
 layout: single

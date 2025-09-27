@@ -1,5 +1,5 @@
 ---
-title: Sobre Dead Space Extraction HD...
+title: "Sobre Dead Space Extraction HD..."
 header:
   overlay_image: /img/2011/01/DSENoti07.jpg
 layout: single

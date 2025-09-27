@@ -1,5 +1,5 @@
 ---
-title: Actualización de Resident Evil
+title: "Actualización de Resident Evil"
 header:
   overlay_image: /img/2007/03/RE1Noti32.jpg
 date: '2007-03-30 17:10:49 +0200'

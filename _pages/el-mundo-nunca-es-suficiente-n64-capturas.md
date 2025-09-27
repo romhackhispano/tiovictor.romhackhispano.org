@@ -1,5 +1,5 @@
 ---
-title: Capturas de El Mundo Nunca es Suficiente
+title: "Capturas de El Mundo Nunca es Suficiente"
 permalink: /el-mundo-nunca-es-suficiente-n64/capturas/
 header:
   overlay_image: /img/headers/pages/TWINEHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: Salimos en Hobby Consolas
+title: "Salimos en Hobby Consolas"
 header:
   overlay_image: /img/2014/02/HobbyConsolasMarzo2014Header.jpg
 layout: single

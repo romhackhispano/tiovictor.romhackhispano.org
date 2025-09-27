@@ -1,5 +1,5 @@
 ---
-title: Próximamente, en Tío Víctor...
+title: "Próximamente, en Tío Víctor..."
 header:
   overlay_image: /img/2015/12/NotiAITD401.jpg
 layout: single

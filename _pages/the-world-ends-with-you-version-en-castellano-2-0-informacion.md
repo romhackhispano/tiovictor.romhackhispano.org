@@ -1,5 +1,5 @@
 ---
-title: Información de The World Ends With You
+title: "Información de The World Ends With You"
 permalink: /the-world-ends-with-you-version-en-castellano-2-0/informacion/
 header:
   overlay_image: /img/headers/pages/TWEWYHeader.jpg

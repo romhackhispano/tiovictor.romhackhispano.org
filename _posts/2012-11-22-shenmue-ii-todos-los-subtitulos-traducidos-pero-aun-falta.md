@@ -1,6 +1,5 @@
 ---
-title: 'Shenmue II: TODOS los subtítulos TRADUCIDOS, pero aún
-  falta...'
+title: "Shenmue II: TODOS los subtítulos TRADUCIDOS, pero aún falta..."
 header:
   overlay_image: /img/2012/11/Shen2Noti02.jpg
 layout: single

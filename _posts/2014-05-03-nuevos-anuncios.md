@@ -1,5 +1,5 @@
 ---
-title: Nuevos anuncios
+title: "Nuevos anuncios"
 header:
   overlay_image: /img/2014/05/WhatsShenmueNoti01.jpg
 layout: single

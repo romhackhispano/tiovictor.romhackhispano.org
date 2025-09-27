@@ -1,5 +1,5 @@
 ---
-title: Información de El Mundo Nunca es Suficiente
+title: "Información de El Mundo Nunca es Suficiente"
 permalink: /el-mundo-nunca-es-suficiente-n64/informacion/
 header:
   overlay_image: /img/headers/pages/TWINEHeader.jpg

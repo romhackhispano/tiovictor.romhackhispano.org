@@ -1,5 +1,5 @@
 ---
-title: Traducción de Tom Clancy's Rainbow Six publicada y otra sorpresa
+title: "Traducción de Tom Clancy's Rainbow Six publicada y otra sorpresa"
 header:
   overlay_image: /img/2013/11/RainbowSixNoti01.jpg
 layout: single

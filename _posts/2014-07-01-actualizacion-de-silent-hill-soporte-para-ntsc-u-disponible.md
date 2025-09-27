@@ -1,5 +1,5 @@
 ---
-title: 'Actualización de Silent Hill: Soporte para NTSC-U disponible'
+title: "Actualización de Silent Hill: Soporte para NTSC-U disponible"
 header:
   overlay_image: /img/2014/07/SilentHillNoti06.jpg
 layout: single

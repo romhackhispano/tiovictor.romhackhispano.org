@@ -1,5 +1,5 @@
 ---
-title: Fragile Dreams publicada
+title: "Fragile Dreams publicada"
 header:
   overlay_image: /img/2011/03/FragileNoti02.jpg
 layout: single

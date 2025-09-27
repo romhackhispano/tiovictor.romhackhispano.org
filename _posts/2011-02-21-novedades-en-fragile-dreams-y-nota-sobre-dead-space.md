@@ -1,5 +1,5 @@
 ---
-title: Novedades en Fragile Dreams y nota sobre Dead Space
+title: "Novedades en Fragile Dreams y nota sobre Dead Space"
 header:
   overlay_image: /img/2011/02/FragileNoti09.jpg
 layout: single

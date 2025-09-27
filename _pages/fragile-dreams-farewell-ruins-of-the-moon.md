@@ -1,5 +1,5 @@
 ---
-title: 'Fragile Dreams: Farewell Ruins of the Moon (v1.1)'
+title: "Fragile Dreams: Farewell Ruins of the Moon (v1.1)"
 permalink: /fragile-dreams-farewell-ruins-of-the-moon/
 header:
   overlay_image: /img/headers/pages/FragileDreamsHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: Novedades varias
+title: "Novedades varias"
 header:
   overlay_image: /img/2010/02/PZ4Noti04.jpg
 date: '2010-02-14 19:27:00 +0100'

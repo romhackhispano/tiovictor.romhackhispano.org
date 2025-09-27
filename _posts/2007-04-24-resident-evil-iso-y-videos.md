@@ -1,5 +1,5 @@
 ---
-title: Resident Evil - ISO y Vídeos
+title: "Resident Evil - ISO y Vídeos"
 header:
   overlay_image: /img/2007/04/RE1Noti24.jpg
 date: '2007-04-24 13:26:02 +0200'

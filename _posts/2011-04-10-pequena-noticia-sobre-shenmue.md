@@ -1,5 +1,5 @@
 ---
-title: Pequeña noticia sobre Shenmue...
+title: "Pequeña noticia sobre Shenmue..."
 header:
   overlay_image: /img/2011/04/Shen1Noti13.jpg
 layout: single

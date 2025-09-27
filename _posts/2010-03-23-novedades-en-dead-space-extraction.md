@@ -1,5 +1,5 @@
 ---
-title: Novedades en Dead Space Extraction
+title: "Novedades en Dead Space Extraction"
 header:
   overlay_image: /img/2010/03/DSENoti02.jpg
 date: '2010-03-23 20:18:34 +0100'

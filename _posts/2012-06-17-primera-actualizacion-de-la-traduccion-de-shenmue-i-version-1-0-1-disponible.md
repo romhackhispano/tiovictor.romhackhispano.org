@@ -1,6 +1,5 @@
 ---
-title: 'Primera actualización de la traducción de Shenmue
-  I: Versión 1.0.1 disponible'
+title: "Primera actualización de la traducción de Shenmue I: Versión 1.0.1 disponible"
 header:
   overlay_image: /img/2012/06/Shen1Noti06.jpg
 layout: single

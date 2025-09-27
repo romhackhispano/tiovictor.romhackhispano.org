@@ -1,5 +1,5 @@
 ---
-title: Pasando la mopa, parte 3 de ¿3?
+title: "Pasando la mopa, parte 3 de ¿3?"
 header:
   overlay_image: /img/2013/01/SilentHillNoti02.jpg
 layout: single

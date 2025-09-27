@@ -1,5 +1,5 @@
 ---
-title: SegaSaturno muestra nuevas imágenes de Shenmue
+title: "SegaSaturno muestra nuevas imágenes de Shenmue"
 header:
   overlay_image: /img/2010/11/Shen1Noti14.jpg
 date: '2010-11-17 21:13:58 +0100'

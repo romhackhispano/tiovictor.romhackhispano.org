@@ -1,5 +1,5 @@
 ---
-title: Noticias de todo y visita a Retrobarcelona 2013
+title: "Noticias de todo y visita a Retrobarcelona 2013"
 header:
   overlay_image: /img/2013/10/RetroBarnaNoti.jpg
 layout: single

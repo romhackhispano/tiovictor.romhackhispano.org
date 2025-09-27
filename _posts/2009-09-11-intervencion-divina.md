@@ -1,5 +1,5 @@
 ---
-title: Intervención divina
+title: "Intervención divina"
 header:
   overlay_image: /img/2009/09/ZOE1Noti02.jpg
 date: '2009-09-11 20:36:20 +0200'

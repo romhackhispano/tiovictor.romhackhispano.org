@@ -1,5 +1,5 @@
 ---
-title: 'Actualización urgente: Shenmue I y Resident Evil 2 para Dreamcast'
+title: "Actualización urgente: Shenmue I y Resident Evil 2 para Dreamcast"
 header:
   overlay_image: /img/2013/07/Shen1Noti15.jpg
 layout: single

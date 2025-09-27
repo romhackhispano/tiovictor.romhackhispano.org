@@ -1,5 +1,5 @@
 ---
-title: Traducción de The Stetchkov Syndicate finalizada
+title: "Traducción de The Stetchkov Syndicate finalizada"
 header:
   overlay_image: /img/2009/01/SWAT4XNoti02.jpg
 date: '2009-01-20 15:32:50 +0100'

@@ -1,5 +1,5 @@
 ---
-title: Curiosa sorpresa...
+title: "Curiosa sorpresa..."
 header:
   overlay_image: /img/2012/03/Interrogacion.jpg
 date: '2010-10-25 11:39:28 +0200'

@@ -1,5 +1,5 @@
 ---
-title: Sigo de parranda
+title: "Sigo de parranda"
 header:
   overlay_image: /img/2012/03/Interrogacion.jpg
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: 'Descargas de Clock Tower'
+title: "Descargas de Clock Tower"
 permalink: /clock-tower/descargar/
 header:
   overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg

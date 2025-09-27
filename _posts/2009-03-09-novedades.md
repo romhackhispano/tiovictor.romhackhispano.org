@@ -1,5 +1,5 @@
 ---
-title: Novedades
+title: "Novedades"
 header:
   overlay_image: /img/2009/03/RE1Noti09.jpg
 date: '2009-03-09 12:39:58 +0100'

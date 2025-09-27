@@ -1,5 +1,5 @@
 ---
-title: Los problemas de RetroMadrid 2014...
+title: "Los problemas de RetroMadrid 2014..."
 header:
   overlay_image: /img/2014/04/RetroMadrid2014Noti02.jpg
 layout: single

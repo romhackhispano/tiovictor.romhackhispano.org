@@ -1,5 +1,5 @@
 ---
-title: Puesta al día y doblaje nuevo
+title: "Puesta al día y doblaje nuevo"
 header:
   overlay_image: /img/2016/04/NotiClockTower1-01.jpg
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: Resident Evil Survivor (PSX, V1.0.1)
+title: "Resident Evil Survivor (PSX, V1.0.1)"
 permalink: /resident-evil-survivor-psx/
 header:
   overlay_image: /img/headers/pages/ResidentEvilSurvivorHeader.jpg

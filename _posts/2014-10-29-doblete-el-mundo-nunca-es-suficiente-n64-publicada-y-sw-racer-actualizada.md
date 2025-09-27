@@ -1,5 +1,5 @@
 ---
-title: 'Doblete: El Mundo Nunca es Suficiente (N64) publicada y SW: Racer actualizada'
+title: "Doblete: El Mundo Nunca es Suficiente (N64) publicada y SW: Racer actualizada"
 header:
   overlay_image: /img/2014/10/TWINEHeaderNoti01.jpg
 layout: single

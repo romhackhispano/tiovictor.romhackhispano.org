@@ -1,5 +1,5 @@
 ---
-title: Ready 2 Rumble Boxing para N64 y PSOne (V1.0)
+title: "Ready 2 Rumble Boxing para N64 y PSOne (V1.0)"
 permalink: /ready-2-rumble-1/
 header:
   overlay_image: /img/headers/pages/Ready2RumbleHeader.jpg

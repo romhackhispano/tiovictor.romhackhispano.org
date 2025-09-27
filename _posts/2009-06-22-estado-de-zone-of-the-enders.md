@@ -1,5 +1,5 @@
 ---
-title: Estado de Zone of The Enders
+title: "Estado de Zone of The Enders"
 header:
   overlay_image: /img/2009/06/ZOE1Noti08.jpg
 date: '2009-06-22 11:55:28 +0200'

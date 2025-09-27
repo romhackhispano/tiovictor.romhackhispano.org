@@ -1,5 +1,5 @@
 ---
-title: 'Policenauts: Saturn va ganando terreno'
+title: "Policenauts: Saturn va ganando terreno"
 header:
   overlay_image: /img/2013/07/NautsNoti07.jpg
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: 2.4c ya disponible, próximos cambios
+title: "2.4c ya disponible, próximos cambios"
 header:
   overlay_image: /img/2008/07/RE1Noti13.jpg
 date: '2008-07-18 18:43:27 +0200'

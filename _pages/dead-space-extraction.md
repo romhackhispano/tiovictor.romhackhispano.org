@@ -1,5 +1,5 @@
 ---
-title: Dead Space Extraction (v1.1)
+title: "Dead Space Extraction (v1.1)"
 permalink: /dead-space-extraction/
 header:
   overlay_image: /img/headers/pages/DeadSpaceExtractionHeader.jpg

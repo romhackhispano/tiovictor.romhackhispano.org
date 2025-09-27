@@ -1,5 +1,5 @@
 ---
-title: Actualización de Alien Swarm (ACTUALIZACIÓN 2)
+title: "Actualización de Alien Swarm (ACTUALIZACIÓN 2)"
 header:
   overlay_image: /img/2010/07/AlienSwarmNoti04.jpg
 date: '2010-07-29 13:08:21 +0200'

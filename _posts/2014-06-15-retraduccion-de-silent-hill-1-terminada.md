@@ -1,5 +1,5 @@
 ---
-title: Retraducción de Silent Hill 1 terminada
+title: "Retraducción de Silent Hill 1 terminada"
 header:
   overlay_image: /img/2014/06/SilentHillNoti05.jpg
 layout: single

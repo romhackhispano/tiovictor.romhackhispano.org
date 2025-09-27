@@ -1,5 +1,5 @@
 ---
-title: Pasaba por aquí...
+title: "Pasaba por aquí..."
 header:
   overlay_image: /img/2010/05/DSENoti09.jpg
 date: '2010-05-08 15:21:10 +0200'

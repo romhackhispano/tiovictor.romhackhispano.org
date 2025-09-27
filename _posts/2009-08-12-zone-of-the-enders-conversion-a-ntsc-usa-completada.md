@@ -1,5 +1,5 @@
 ---
-title: 'Zone Of The Enders: Conversión a NTSC-USA completada'
+title: "Zone Of The Enders: Conversión a NTSC-USA completada"
 header:
   overlay_image: /img/2009/08/ZOE1Noti03.jpg
 date: '2009-08-12 22:32:19 +0200'

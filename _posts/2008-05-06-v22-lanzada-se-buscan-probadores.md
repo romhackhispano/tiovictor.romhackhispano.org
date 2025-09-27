@@ -1,5 +1,5 @@
 ---
-title: v2.2 lanzada, se buscan probadores
+title: "v2.2 lanzada, se buscan probadores"
 header:
   overlay_image: /img/2008/05/RE1Noti15.jpg
 date: '2008-05-06 16:06:54 +0200'

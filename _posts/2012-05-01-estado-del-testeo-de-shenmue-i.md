@@ -1,5 +1,5 @@
 ---
-title: Estado del testeo de Shenmue I
+title: "Estado del testeo de Shenmue I"
 header:
   overlay_image: /img/2012/05/Shen1Noti02.jpg
 layout: single

@@ -1,5 +1,5 @@
 ---
-title: Sin and Punishment N64 (V1.0b)
+title: "Sin and Punishment N64 (V1.0b)"
 permalink: /sin-and-punishment-n64/
 header:
   overlay_image: /img/headers/pages/SinAndPunishmentN64Header.jpg

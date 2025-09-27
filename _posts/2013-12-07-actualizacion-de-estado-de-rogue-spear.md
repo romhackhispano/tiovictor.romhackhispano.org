@@ -1,5 +1,5 @@
 ---
-title: Actualización de estado de Rogue Spear
+title: "Actualización de estado de Rogue Spear"
 header:
   overlay_image: /img/2013/12/SagaRogueSpearNoti01.jpg
 layout: single

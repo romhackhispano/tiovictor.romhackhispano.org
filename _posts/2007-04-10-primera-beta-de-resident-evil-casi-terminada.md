@@ -1,5 +1,5 @@
 ---
-title: Primera beta de Resident Evil casi terminada
+title: "Primera beta de Resident Evil casi terminada"
 header:
   overlay_image: /img/2007/04/RE1Noti30.jpg
 date: '2007-04-10 17:48:47 +0200'

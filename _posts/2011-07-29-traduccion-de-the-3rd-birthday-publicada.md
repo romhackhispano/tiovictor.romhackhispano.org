@@ -1,5 +1,5 @@
 ---
-title: Traducción de The 3rd Birthday publicada
+title: "Traducción de The 3rd Birthday publicada"
 header:
   overlay_image: /img/2011/07/3rdBirthdayNoti07.jpg
 layout: single

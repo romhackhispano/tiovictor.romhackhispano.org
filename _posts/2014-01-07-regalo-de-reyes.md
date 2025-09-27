@@ -1,5 +1,5 @@
 ---
-title: Regalo de Reyes
+title: "Regalo de Reyes"
 header:
   overlay_image: /img/2014/01/Shen2Noti05.jpg
 layout: single

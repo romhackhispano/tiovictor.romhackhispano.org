@@ -1,5 +1,5 @@
 ---
-title: Por fin hablamos de Policenauts
+title: "Por fin hablamos de Policenauts"
 header:
   overlay_image: /img/2013/02/NautsNoti01.jpg
 layout: single

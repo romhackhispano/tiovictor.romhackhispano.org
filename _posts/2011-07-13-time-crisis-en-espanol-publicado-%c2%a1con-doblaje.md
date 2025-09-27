@@ -1,5 +1,5 @@
 ---
-title: Time Crisis en Español publicado (¡Con doblaje!)
+title: "Time Crisis en Español publicado (¡Con doblaje!)"
 header:
   overlay_image: /img/2011/07/TC1Noti08.jpg
 layout: single

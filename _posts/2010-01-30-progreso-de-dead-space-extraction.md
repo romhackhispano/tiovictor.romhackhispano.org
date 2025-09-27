@@ -1,5 +1,5 @@
 ---
-title: Progreso de Dead Space Extraction
+title: "Progreso de Dead Space Extraction"
 header:
   overlay_image: /img/2010/01/DSENoti06.jpg
 date: '2010-01-30 01:15:11 +0100'

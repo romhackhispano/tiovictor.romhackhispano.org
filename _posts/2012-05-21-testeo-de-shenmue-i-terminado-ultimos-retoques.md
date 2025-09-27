@@ -1,5 +1,5 @@
 ---
-title: Testeo de Shenmue I terminado, últimos retoques
+title: "Testeo de Shenmue I terminado, últimos retoques"
 header:
   overlay_image: /img/2012/05/Shen1Noti04.jpg
 layout: single

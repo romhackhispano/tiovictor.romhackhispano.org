@@ -1,5 +1,5 @@
 ---
-title: Capturas de Sin and Punishment
+title: "Capturas de Sin and Punishment"
 permalink: /sin-and-punishment-n64/capturas-2/
 header:
   overlay_image: /img/headers/pages/SinAndPunishmentN64Header.jpg

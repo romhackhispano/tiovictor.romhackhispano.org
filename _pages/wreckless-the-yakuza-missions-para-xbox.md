@@ -1,5 +1,5 @@
 ---
-title: 'Wreckless: The Yakuza Missions para XBOX (V1.0)'
+title: "Wreckless: The Yakuza Missions para XBOX (V1.0)"
 permalink: /wreckless-the-yakuza-missions-para-xbox/
 header:
   overlay_image: /img/headers/pages/WrecklessHeader.jpg

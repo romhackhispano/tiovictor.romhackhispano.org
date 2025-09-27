@@ -1,5 +1,5 @@
 ---
-title: Avance de Shenmue, petición de ayuda
+title: "Avance de Shenmue, petición de ayuda"
 header:
   overlay_image: /img/2012/02/Shen1Noti05.jpg
 layout: single

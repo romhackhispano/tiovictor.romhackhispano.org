@@ -1,5 +1,5 @@
 ---
-title: What's Shenmue screenshots
+title: "What's Shenmue screenshots"
 permalink: /whats-shenmue-eng/screenshots/
 header:
   overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg

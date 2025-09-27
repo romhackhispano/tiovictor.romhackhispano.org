@@ -1,5 +1,5 @@
 ---
-title: Soldier of Fortune 1 (V1.0)
+title: "Soldier of Fortune 1 (V1.0)"
 permalink: /soldier-of-fortune-1/
 header:
   overlay_image: /img/headers/pages/SoldierOfFortuneHeader.jpg

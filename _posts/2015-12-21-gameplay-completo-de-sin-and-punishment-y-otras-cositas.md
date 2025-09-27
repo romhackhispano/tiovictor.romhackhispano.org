@@ -1,5 +1,5 @@
 ---
-title: Gameplay completo de Sin and Punishment y otras cositas
+title: "Gameplay completo de Sin and Punishment y otras cositas"
 header:
   overlay_image: /img/2015/12/EntradaSAP03-1.jpg
 layout: single

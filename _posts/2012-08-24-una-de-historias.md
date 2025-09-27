@@ -1,5 +1,5 @@
 ---
-title: Una de historias...
+title: "Una de historias..."
 header:
   overlay_image: /img/2013/04/NautsNoti03.jpg
 layout: single

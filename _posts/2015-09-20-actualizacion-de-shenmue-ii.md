@@ -1,5 +1,5 @@
 ---
-title: Actualización de Shenmue II y What's Shenmue
+title: "Actualización de Shenmue II y What's Shenmue"
 layout: single
 categories:
 - Shenmue II

@@ -1,5 +1,5 @@
 ---
-title: 'Shenmue II: Primeras capturas'
+title: "Shenmue II: Primeras capturas"
 header:
   overlay_image: /img/2012/12/Shen2Noti01.jpg
 layout: single

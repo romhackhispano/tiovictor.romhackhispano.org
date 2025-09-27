@@ -1,5 +1,5 @@
 ---
-title: The World Ends With You (Retraducido y doblado, 2.0)
+title: "The World Ends With You (Retraducido y doblado, 2.0)"
 permalink: /the-world-ends-with-you-version-en-castellano-2-0/
 header:
   overlay_image: /img/headers/pages/TWEWYHeader.jpg

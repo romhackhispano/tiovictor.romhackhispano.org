@@ -1,5 +1,5 @@
 ---
-title: Capturas de Rainbow Six
+title: "Capturas de Rainbow Six"
 permalink: /saga-rainbow-six-para-pc/capturasr6/
 header:
   overlay_image: /img/headers/pages/RainbowSixHeader.jpg

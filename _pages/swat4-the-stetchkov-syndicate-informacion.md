@@ -1,5 +1,5 @@
 ---
-title: 'Información de SWAT 4: The Stetchkov Syndicate'
+title: "Información de SWAT 4: The Stetchkov Syndicate"
 permalink: /swat4-the-stetchkov-syndicate/informacion/
 header:
   overlay_image: /img/headers/pages/SWAT4XHeader.jpg

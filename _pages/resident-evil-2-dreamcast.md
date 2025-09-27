@@ -1,5 +1,5 @@
 ---
-title: Resident Evil 2 (Doblaje, v2.01 FINAL)
+title: "Resident Evil 2 (Doblaje, v2.01 FINAL)"
 permalink: /resident-evil-2-dreamcast/
 header:
   overlay_image: /img/headers/pages/ResidentEvil2Header.jpg

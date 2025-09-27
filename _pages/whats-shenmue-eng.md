@@ -1,5 +1,5 @@
 ---
-title: What's Shenmue (1.0.4, English site)
+title: "What's Shenmue (1.0.4, English site)"
 permalink: /whats-shenmue-eng/
 header:
   overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: Offtopic variado...
+title: "Offtopic variado..."
 header:
   overlay_image: /img/2012/07/Shen1Noti07.jpg
 layout: single

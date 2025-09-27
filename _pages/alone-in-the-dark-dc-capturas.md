@@ -1,5 +1,5 @@
 ---
-title: Capturas de Alone In The Dark 4 para Dreamcast
+title: "Capturas de Alone In The Dark 4 para Dreamcast"
 permalink: /alone-in-the-dark-dc/capturas/
 header:
   overlay_image: /img/headers/pages/AITD4DCHeader.jpg

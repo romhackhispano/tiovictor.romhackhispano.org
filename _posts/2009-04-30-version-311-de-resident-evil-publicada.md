@@ -1,5 +1,5 @@
 ---
-title: Versión 3.1.1 de Resident Evil publicada
+title: "Versión 3.1.1 de Resident Evil publicada"
 header:
   overlay_image: /img/2009/04/RE1Noti07.jpg
 date: '2009-04-30 23:02:06 +0200'

@@ -1,5 +1,5 @@
 ---
-title: Comentarios en las traducciones añadidos
+title: "Comentarios en las traducciones añadidos"
 header:
   overlay_image: /img/2007/04/RE1Noti26.jpg
 date: '2007-04-09 21:08:57 +0200'

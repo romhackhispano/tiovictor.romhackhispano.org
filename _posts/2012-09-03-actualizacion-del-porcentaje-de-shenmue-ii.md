@@ -1,5 +1,5 @@
 ---
-title: Actualización del porcentaje de Shenmue II
+title: "Actualización del porcentaje de Shenmue II"
 header:
   overlay_image: /img/2012/09/Shen2Noti08.jpg
 layout: single

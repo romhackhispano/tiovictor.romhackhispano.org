@@ -1,5 +1,5 @@
 ---
-title: Y el ganador/perdedor de la inocentada es...
+title: "Y el ganador/perdedor de la inocentada es..."
 header:
   overlay_image: /img/2010/12/TC1Noti04.jpg
 date: '2010-12-29 00:04:05 +0100'

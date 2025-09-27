@@ -1,5 +1,5 @@
 ---
-title: Traducción de Shenmue I... ¡PUBLICADA!
+title: "Traducción de Shenmue I... ¡PUBLICADA!"
 header:
   overlay_image: /img/2012/06/Shen1Noti03.jpg
 layout: single

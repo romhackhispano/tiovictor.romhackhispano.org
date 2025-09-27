@@ -1,5 +1,5 @@
 ---
-title: 1.0 de Resident Evil lanzada
+title: "1.0 de Resident Evil lanzada"
 header:
   overlay_image: /img/2007/04/RE1Noti23.jpg
 date: '2007-04-27 16:17:55 +0200'

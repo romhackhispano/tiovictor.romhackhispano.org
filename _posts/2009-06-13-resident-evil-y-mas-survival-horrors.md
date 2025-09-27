@@ -1,5 +1,5 @@
 ---
-title: Resident Evil... y más Survival Horrors...
+title: "Resident Evil... y más Survival Horrors..."
 header:
   overlay_image: /img/2009/06/SilentHillNoti03.jpg
 date: '2009-06-13 13:18:51 +0200'

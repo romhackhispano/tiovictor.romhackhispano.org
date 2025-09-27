@@ -1,5 +1,5 @@
 ---
-title: Traducción de la saga Rogue Spear terminada
+title: "Traducción de la saga Rogue Spear terminada"
 header:
   overlay_image: /img/2014/05/SagaRogueSpearNoti03.jpg
 layout: single

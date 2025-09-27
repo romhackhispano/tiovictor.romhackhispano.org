@@ -1,5 +1,5 @@
 ---
-title: Información de Silent Hill
+title: "Información de Silent Hill"
 permalink: /silent-hill-1/informacion/
 header:
   overlay_image: /img/headers/pages/SilentHillHeader.jpg

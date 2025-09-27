@@ -1,5 +1,5 @@
 ---
-title: Primeras capturas de Policenauts
+title: "Primeras capturas de Policenauts"
 header:
   overlay_image: /img/2012/09/NautsNoti05.jpg
 layout: single

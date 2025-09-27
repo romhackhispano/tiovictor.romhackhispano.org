@@ -1,5 +1,5 @@
 ---
-title: 'Clock Tower para PSX (2.0) y SNES (1.0 BETA)'
+title: "Clock Tower para PSX (2.0) y SNES (1.0 BETA)"
 permalink: /clock-tower/
 header:
   overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg

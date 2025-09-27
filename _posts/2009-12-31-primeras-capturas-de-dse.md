@@ -1,5 +1,5 @@
 ---
-title: Primeras capturas de DSE
+title: "Primeras capturas de DSE"
 header:
   overlay_image: /img/2009/12/DSENoti11.jpg
 date: '2009-12-31 16:07:27 +0100'

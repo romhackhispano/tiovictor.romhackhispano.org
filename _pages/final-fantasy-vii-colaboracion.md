@@ -1,5 +1,5 @@
 ---
-title: Final Fantasy VII - Colaboración
+title: "Final Fantasy VII - Colaboración"
 permalink: /final-fantasy-vii-colaboracion/
 header:
   overlay_image: /img/headers/pages/FF7Header.jpg

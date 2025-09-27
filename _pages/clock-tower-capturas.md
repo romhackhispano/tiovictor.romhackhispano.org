@@ -1,5 +1,5 @@
 ---
-title: 'Capturas de Clock Tower'
+title: "Capturas de Clock Tower"
 permalink: /clock-tower/capturas/
 header:
   overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg

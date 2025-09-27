@@ -1,5 +1,5 @@
 ---
-title: Novedades en Alien Swarm
+title: "Novedades en Alien Swarm"
 header:
   overlay_image: /img/2010/10/AlienSwarmNoti02.jpg
 date: '2010-10-13 18:03:43 +0200'

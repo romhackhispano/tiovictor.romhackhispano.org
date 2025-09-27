@@ -1,5 +1,5 @@
 ---
-title: Resumen de las próximas semanas
+title: "Resumen de las próximas semanas"
 header:
   overlay_image: /img/2008/08/RE1Noti12.jpg
 date: '2008-08-12 13:33:22 +0200'

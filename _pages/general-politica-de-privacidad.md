@@ -1,5 +1,5 @@
 ---
-title: Política de privacidad
+title: "Política de privacidad"
 permalink: /politica-de-privacidad/
 header:
   overlay_image: /img/banner-final-3.jpg

@@ -1,5 +1,5 @@
 ---
-title: 'Información sobre Resident Evil Survivor para PSX'
+title: "Información sobre Resident Evil Survivor para PSX"
 permalink: /resident-evil-survivor-psx/informacion/
 header:
   overlay_image: /img/headers/pages/ResidentEvilSurvivorHeader.jpg

@@ -1,5 +1,5 @@
 ---
-title: Capturas de What's Shenmue
+title: "Capturas de What's Shenmue"
 permalink: /whats-shenmue-esp/capturas/
 header:
   overlay_image: /img/headers/pages/WhatsShenmueHeader.jpg

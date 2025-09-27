@@ -1,5 +1,5 @@
 ---
-title: Papando moscas... Nueva traducción publicada
+title: "Papando moscas... Nueva traducción publicada"
 header:
   overlay_image: /img/2014/01/SWRacerNoti01.jpg
 layout: single

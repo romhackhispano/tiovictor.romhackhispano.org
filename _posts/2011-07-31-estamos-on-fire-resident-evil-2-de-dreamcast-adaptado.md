@@ -1,5 +1,5 @@
 ---
-title: 'Estamos on fire: Resident Evil 2 de Dreamcast adaptado'
+title: "Estamos on fire: Resident Evil 2 de Dreamcast adaptado"
 header:
   overlay_image: /img/2011/07/RE2Noti17.jpg
 layout: single

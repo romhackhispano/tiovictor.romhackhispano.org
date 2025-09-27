@@ -1,5 +1,5 @@
 ---
-title: Fallo de las puertas corregido
+title: "Fallo de las puertas corregido"
 header:
   overlay_image: /img/2008/03/RE1Noti31.jpg
 date: '2008-03-24 17:36:18 +0100'

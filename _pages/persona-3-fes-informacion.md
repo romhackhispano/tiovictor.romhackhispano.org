@@ -1,5 +1,5 @@
 ---
-title: Información de Persona 3 FES
+title: "Información de Persona 3 FES"
 permalink: /persona-3-fes/informacion/
 header:
   overlay_image: /img/headers/pages/Persona3FESHeader.jpg

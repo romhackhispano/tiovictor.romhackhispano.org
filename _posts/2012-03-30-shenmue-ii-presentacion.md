@@ -1,5 +1,5 @@
 ---
-title: 'Shenmue II: Presentación'
+title: "Shenmue II: Presentación"
 header:
   overlay_image: /img/2014/01/Shen2Noti05.jpg
 layout: single

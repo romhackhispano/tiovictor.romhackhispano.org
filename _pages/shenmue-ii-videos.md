@@ -1,5 +1,5 @@
 ---
-title: Vídeos de Shenmue II
+title: "Vídeos de Shenmue II"
 permalink: /shenmue-ii/videos/
 header:
   overlay_image: /img/headers/pages/Shemnue2Header.jpg

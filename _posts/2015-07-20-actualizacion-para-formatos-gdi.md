@@ -1,5 +1,5 @@
 ---
-title: Actualización para formatos GDI
+title: "Actualización para formatos GDI"
 layout: single
 categories:
 - Resident Evil 2 Dreamcast

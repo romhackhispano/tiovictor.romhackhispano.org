@@ -1,5 +1,5 @@
 ---
-title: Arrancando
+title: "Arrancando"
 header:
   overlay_image: /img/2007/03/Cortina.jpg
 date: '2007-03-30 13:55:28 +0200'

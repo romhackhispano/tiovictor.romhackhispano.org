@@ -1,5 +1,5 @@
 ---
-title: Actualización brasileña de What's Shenmue
+title: "Actualización brasileña de What's Shenmue"
 header:
   overlay_image: /img/2016/03/WhatsShenmueNoti04.jpg
 layout: single

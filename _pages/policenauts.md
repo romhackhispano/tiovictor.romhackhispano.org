@@ -1,5 +1,5 @@
 ---
-title: Policenauts PSX y Saturn (En progreso)
+title: "Policenauts PSX y Saturn (En progreso)"
 permalink: /policenauts/
 header:
   overlay_image: /img/headers/pages/PolicenautsHeader.jpg

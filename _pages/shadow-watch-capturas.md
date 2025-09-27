@@ -1,5 +1,5 @@
 ---
-title: 'Capturas de Shadow Watch'
+title: "Capturas de Shadow Watch"
 permalink: /shadow-watch/capturas/
 header:
   overlay_image: /img/headers/pages/ShadowWatchHeader.jpg

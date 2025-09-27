@@ -1,5 +1,5 @@
 ---
-title: Información de Alone In The Dark 4 para Dreamcast
+title: "Información de Alone In The Dark 4 para Dreamcast"
 permalink: /alone-in-the-dark-dc/informacion/
 header:
   overlay_image: /img/headers/pages/AITD4DCHeader.jpg

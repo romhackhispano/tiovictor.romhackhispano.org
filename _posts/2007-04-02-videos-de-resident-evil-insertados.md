@@ -1,5 +1,5 @@
 ---
-title: Vídeos de Resident Evil insertados
+title: "Vídeos de Resident Evil insertados"
 header:
   overlay_image: /img/2007/04/RE1Noti29.jpg
 date: '2007-04-02 19:12:37 +0200'

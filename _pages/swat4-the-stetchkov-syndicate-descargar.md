@@ -1,5 +1,5 @@
 ---
-title: 'Descargas de SWAT 4: The Stetchkov Syndicate'
+title: "Descargas de SWAT 4: The Stetchkov Syndicate"
 permalink: /swat4-the-stetchkov-syndicate/descargar/
 header:
   overlay_image: /img/headers/pages/SWAT4XHeader.jpg

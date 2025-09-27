@@ -1,5 +1,5 @@
 ---
-title: Novedades en ZOE
+title: "Novedades en ZOE"
 header:
   overlay_image: /img/2009/07/ZOE1Noti07.jpg
 date: '2009-07-14 13:14:03 +0200'

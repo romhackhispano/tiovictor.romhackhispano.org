@@ -1,5 +1,5 @@
 ---
-title: Zone of The Enders 1 (1.5 2024)
+title: "Zone of The Enders 1 (1.5 2024)"
 permalink: /zone-of-the-enders/
 header:
   overlay_image: /img/headers/pages/ZOE1Header.jpg

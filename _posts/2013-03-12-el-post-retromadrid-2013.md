@@ -1,5 +1,5 @@
 ---
-title: El Post-RetroMadrid 2013
+title: "El Post-RetroMadrid 2013"
 header:
   overlay_image: /img/2013/03/RetroMadrid2013Noti02.jpg
 layout: single

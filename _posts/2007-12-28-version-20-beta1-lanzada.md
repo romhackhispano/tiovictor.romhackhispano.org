@@ -1,5 +1,5 @@
 ---
-title: Versión 2.0 BETA1b lanzada
+title: "Versión 2.0 BETA1b lanzada"
 header:
   overlay_image: /img/2007/12/RE1Noti18.jpg
 date: '2007-12-28 20:04:42 +0100'

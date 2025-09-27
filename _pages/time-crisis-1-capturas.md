@@ -1,5 +1,5 @@
 ---
-title: Capturas de Time Crisis 1
+title: "Capturas de Time Crisis 1"
 permalink: /time-crisis-1/capturas/
 header:
   overlay_image: /img/headers/pages/TimeCrisisHeader.jpg

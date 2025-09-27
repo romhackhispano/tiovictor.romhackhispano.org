@@ -1,6 +1,5 @@
 ---
-title: 'Y para cerrar el año... Nueva colaboración publicada:
-  GoldenEye 007 v2.0'
+title: "Y para cerrar el año... Nueva colaboración publicada: GoldenEye 007 v2.0"
 header:
   overlay_image: /img/2014/12/GoldenEyeNoti01.jpg
 layout: single

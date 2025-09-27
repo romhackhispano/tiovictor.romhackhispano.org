@@ -1,5 +1,5 @@
 ---
-title: 'La espera llega a su fin: Shenmue II publicado'
+title: "La espera llega a su fin: Shenmue II publicado"
 header:
   overlay_image: /img/2015/06/Shen2Noti12.jpg
 layout: single

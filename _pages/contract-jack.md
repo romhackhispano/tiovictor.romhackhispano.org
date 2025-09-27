@@ -1,5 +1,5 @@
 ---
-title: Contract J.A.C.K. PC (Versión 1.5 2012)
+title: "Contract J.A.C.K. PC (Versión 1.5 2012)"
 permalink: /contract-jack/
 header:
   overlay_image: /img/headers/pages/ContractJACKHeader.jpg

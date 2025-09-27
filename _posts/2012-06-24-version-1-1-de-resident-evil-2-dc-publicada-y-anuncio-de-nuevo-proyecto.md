@@ -1,6 +1,5 @@
 ---
-title: Versión 1.1 de Resident Evil 2 DC publicada y anuncio de nuevo
-  proyecto
+title: "Versión 1.1 de Resident Evil 2 DC publicada y anuncio de nuevo proyecto"
 header:
   overlay_image: /img/2012/06/NautsNoti09.jpg
 layout: single

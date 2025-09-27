@@ -1,5 +1,5 @@
 ---
-title: Un aperitivo de la revisión final de Shenmue I...
+title: "Un aperitivo de la revisión final de Shenmue I..."
 header:
   overlay_image: /img/2015/05/Shen1Noti20.jpg
 layout: single

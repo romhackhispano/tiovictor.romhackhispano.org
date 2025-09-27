@@ -1,5 +1,5 @@
 ---
-title: Repaso a las traducciones de DC
+title: "Repaso a las traducciones de DC"
 header:
   overlay_image: /img/2013/05/Shen1Noti11.jpg
 layout: single

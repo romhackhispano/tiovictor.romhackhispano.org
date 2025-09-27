@@ -1,5 +1,5 @@
 ---
-title: Shenmue I sigue avanzando
+title: "Shenmue I sigue avanzando"
 header:
   overlay_image: /img/2012/01/Shen1Noti08.jpg
 layout: single

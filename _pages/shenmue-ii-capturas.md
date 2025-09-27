@@ -1,5 +1,5 @@
 ---
-title: Capturas de Shenmue II
+title: "Capturas de Shenmue II"
 permalink: /shenmue-ii/capturas/
 header:
   overlay_image: /img/headers/pages/Shemnue2Header.jpg

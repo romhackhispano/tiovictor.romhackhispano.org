@@ -1,5 +1,5 @@
 ---
-title: Descensuras en Shenmue II
+title: "Descensuras en Shenmue II"
 permalink: /shenmue-ii/descensuras/
 header:
   overlay_image: /img/headers/pages/Shemnue2Header.jpg

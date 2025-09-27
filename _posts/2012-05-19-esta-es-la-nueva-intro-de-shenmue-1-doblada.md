@@ -1,5 +1,5 @@
 ---
-title: Esta es la nueva intro de Shenmue 1 doblada
+title: "Esta es la nueva intro de Shenmue 1 doblada"
 header:
   overlay_image: /img/2012/05/Shen1Noti19.jpg
 layout: single

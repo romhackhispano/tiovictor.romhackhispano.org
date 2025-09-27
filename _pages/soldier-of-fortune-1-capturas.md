@@ -1,5 +1,5 @@
 ---
-title: Capturas de Soldier of Fortune 1
+title: "Capturas de Soldier of Fortune 1"
 permalink: /soldier-of-fortune-1/capturas/
 header:
   overlay_image: /img/headers/pages/SoldierOfFortuneHeader.jpg

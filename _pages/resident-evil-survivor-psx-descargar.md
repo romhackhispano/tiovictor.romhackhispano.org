@@ -1,5 +1,5 @@
 ---
-title: 'Descargas de Resident Evil Survivor para PSX'
+title: "Descargas de Resident Evil Survivor para PSX"
 permalink: /resident-evil-survivor-psx/descargar/
 header:
   overlay_image: /img/headers/pages/ResidentEvilSurvivorHeader.jpg

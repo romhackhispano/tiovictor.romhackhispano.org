@@ -1,5 +1,5 @@
 ---
-title: Traducción de Project Zero 4 publicada
+title: "Traducción de Project Zero 4 publicada"
 header:
   overlay_image: /img/2010/08/PZ4Noti01.jpg
 date: '2010-08-28 17:10:00 +0200'

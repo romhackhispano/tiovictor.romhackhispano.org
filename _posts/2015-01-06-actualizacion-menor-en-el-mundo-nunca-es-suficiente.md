@@ -1,5 +1,5 @@
 ---
-title: Actualización menor en El Mundo Nunca Es Suficiente
+title: "Actualización menor en El Mundo Nunca Es Suficiente"
 layout: single
 categories:
 - El Mundo Nunca es Suficiente (Nintendo 64)

@@ -1,5 +1,5 @@
 ---
-title: Descargas de Sin and Punishment
+title: "Descargas de Sin and Punishment"
 permalink: /sin-and-punishment-n64/descargar/
 header:
   overlay_image: /img/headers/pages/SinAndPunishmentN64Header.jpg

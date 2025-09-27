@@ -1,5 +1,5 @@
 ---
-title: Primer vídeo ingame de Fragile Dreams en Castellano
+title: "Primer vídeo ingame de Fragile Dreams en Castellano"
 header:
   overlay_image: /img/2011/02/FragileNoti04.jpg
 layout: single
