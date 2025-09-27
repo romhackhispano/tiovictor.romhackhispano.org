@@ -16,8 +16,8 @@ comments: false
  - *Testeo:* Releón, Salvi Garrido, IlDucci
 
 **Créditos del doblaje al castellano:**
- - Dirección de doblaje, técnico de grabación y de mezclas, adaptador de diálogos, testeo del doblaje:* Salvi Garrido
- - Inserción del doblaje, preparación de materiales y de guion:* IlDucci
+ - *Dirección de doblaje, técnico de grabación y de mezclas, adaptador de diálogos, testeo del doblaje:* Salvi Garrido
+ - *Inserción del doblaje, preparación de materiales y de guion:* IlDucci
 
 <center>
 <b>Reparto de voces:</b><br>
