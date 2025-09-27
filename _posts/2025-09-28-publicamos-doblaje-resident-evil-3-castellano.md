@@ -54,3 +54,4 @@ Ya, para terminar, hemos tenido un cierre de semana movidito con Resident Evil 3
  de cómo fue el doblaje de Resident Evil 3 y nuestras perspectivas de futuro.
 
 Y eso es todo. Seguiremos informando.
+
