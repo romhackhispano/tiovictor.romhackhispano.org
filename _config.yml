@@ -17,6 +17,7 @@ minimal_mistakes_skin    : "tiovictor" # "default", "air", "aqua", "contrast", "
 
 # Site Settings
 locale                   : "es"
+rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Traducciones del Tío Victor"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
@@ -141,6 +142,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - minimal-mistakes-jekyll.gemspec
   - node_modules
   - package.json
   - package-lock.json
