@@ -11,7 +11,7 @@ _**CRÉDITOS:**_
 _Edición de gráficos, textos, investigación:_ IlDucci  
 _Revisión de la revisión_: Samquete, 堕落王 (Wu), Óscar73  
 _Programación de herramientas_: Infrid, D3fau4  
-_Testeo: Releon
+_Testeo: Releon  
 _Herramientas de terceros_: CUE y Snake128 (UMD-replace_x64), PacoChan 
 (AFSPacker), Bartłomiej «ikskoks» Duda (ImageHeat, ReverseBox), Kingcom y 
 todos los colaboradores de Armips, Dageron (Console Texture Explorer), 
