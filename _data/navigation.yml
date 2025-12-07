@@ -19,7 +19,7 @@ main:
           url: /crimson-tears/
         - title: "DEAD SPACE EXTRACTION (WII, V1.1)"
           url: /dead-space-extraction/
-        - title: "DINO STALKER (PS2, V1.0)"
+        - title: "DINO STALKER (PS2, V1.1)"
           url: /dino-stalker/
         - title: "ECHO NIGHT BEYOND (PS2, V1.0.1)"
           url: /echo-night-beyond/
@@ -63,6 +63,8 @@ main:
           url: /silent-hill-2-directors-cut/
         - title: "SILENT HILL 3 (PS2/PC, REVISIÓN, V1.0)"
           url: /silent-hill-3/
+        - title: "SILENT HILL 4 (PS2/PC/XBOX, REVISIÓN, V1.0)"
+          url: /silent-hill-4/
         - title: "SIN AND PUNISHMENT (N64, V1.0B)"
           url: /sin-and-punishment-n64/
         - title: "SOŁTYS (PC, V1.0)"

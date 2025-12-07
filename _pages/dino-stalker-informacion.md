@@ -65,6 +65,7 @@ poseedores del juego original.
 ### Registro de revisiones<a name="dinostalkerinfo_2"></a>
  * v1.0 - Primera versión de la traducción:
    - Se han traducido todos los textos, gráficos y vídeos.
+ * v1.1 - Corregido un fallo que bloquea el juego en el nivel 5, cuando aparece el triceratops en consola real.
 
 ### Cómo aplicar un parche .XDELTA<a name="dinostalkerinfo_3"></a>
 

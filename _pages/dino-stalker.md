@@ -1,5 +1,5 @@
 ---
-title: "Dino Stalker (PS2, V1.0)"
+title: "Dino Stalker (PS2, V1.1)"
 permalink: /dino-stalker/
 header:
   overlay_image: /img/headers/pages/DinoStalkerHeader.jpg

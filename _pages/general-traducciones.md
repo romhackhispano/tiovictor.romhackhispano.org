@@ -18,6 +18,7 @@ comments: false
 [**SHADOW WATCH** (V1.0)](/shadow-watch/)  
 [**SILENT HILL 2: DIRECTOR'S CUT** (REVISIÓN, V1.0.8)](/silent-hill-2-directors-cut/)  
 [**SILENT HILL 3** (REVISIÓN, V1.0)](/silent-hill-3/)  
+[**SILENT HILL 4: THE ROOM** (REVISIÓN, V1.0)](/silent-hill-4/)  
 [**SOŁTYS** (TRADUCCIÓN OFICIAL, V1.0)](/soltys/)  
 [**SOLDIER OF FORTUNE 1** (V1.0)](/soldier-of-fortune-1/)  
 [**SWAT4: THE STETCHKOV SYNDICATE** (V2.2 2012)](/swat4-the-stetchkov-syndicate/)  
@@ -28,7 +29,7 @@ comments: false
 [**A.O.T. WINGS OF FREEDOM** (PS3/PSVITA, V1.0)](/aot-wings-of-freedom/)  
 [**CLOCK TOWER: THE FIRST FEAR** (PSX, V2.0)](/clock-tower/)  
 [**CRIMSON TEARS** (PSX, V1.0)](/crimson-tears/)  
-[**DINO STALKER** (PS2, V1.0)](/dino-stalker/)  
+[**DINO STALKER** (PS2, V1.1)](/dino-stalker/)  
 [**ECHO NIGHT BEYOND** (PS2, V1.0.1)](/echo-night-beyond/)  
 [**FEAR EFFECT 2: RETRO HELIX** (PSX, V1.0)](/fear-effect-2-retro-helix/)  
 [**MEDAL OF HONOR Y UNDERGROUND** (PSX, DOBLAJE, V1.0)](/medal-of-honor-psx/)  
@@ -43,6 +44,7 @@ comments: false
 [**SILENT HILL 1** (PSX, RETRADUCCIÓN, V2.1C)](/silent-hill-1/)  
 [**SILENT HILL 2: DIRECTOR'S CUT** (PS2, REVISIÓN, V1.0.8)](/silent-hill-2-directors-cut/)  
 [**SILENT HILL 3** (PS2, REVISIÓN, V1.0)](/silent-hill-3/)  
+[**SILENT HILL 4: THE ROOM** (PS2, REVISIÓN, V1.0)](/silent-hill-4/)  
 [**TIME CRISIS 1** (PSX, V1.5)](/time-crisis-1/)  
 [**THE 3RD BIRTHDAY** (PSP, V1.5B)](/the-3rd-birthday/)  
 [**ZONE OF THE ENDERS 1** (PS2, 1.5 2024)](/zone-of-the-enders/)  
@@ -76,6 +78,7 @@ comments: false
 
 [**SHENMUE II** (V1.0.2)](/shenmue-ii/)  
 [**SILENT HILL 2: DIRECTOR'S CUT** (REVISIÓN, V1.0.8)](/silent-hill-2-directors-cut/)  
+[**SILENT HILL 4: THE ROOM** (REVISIÓN, V1.0)](/silent-hill-4/)  
 [**WRECKLESS: THE YAKUZA MISSIONS** (V1.0)](/wreckless-the-yakuza-missions-para-xbox/)  
 
 

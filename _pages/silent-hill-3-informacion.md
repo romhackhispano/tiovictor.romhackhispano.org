@@ -58,8 +58,7 @@ distribuida en forma de parche y para ser usada para los legitimos
 poseedores del juego original.
 
 ### Registro de revisiones
-v1.0
- - Primera versión de la traducción:
+ - v1.0: Primera versión de la traducción:
    - Se ha revisado toda la traducción española del juego.
    - Se ha retraducido la totalidad de los textos nuevos de la versión 
      para PC, hecha con traducción máquina de principios de los 2000.
@@ -129,9 +128,11 @@ parches correspondientes.
 Asegúrate de que has volcado tu disco correctamente. Estas son las posibles 
 sumas de comprobación, o checksums:
 
+```
   CRC-32: 121f94a6
      MD5: 3914c8a0cf593276a55c22db090650b5
    SHA-1: aecd86c7b15446e5061afb9ea58e3d04f3a2649a
+```
 
 ### Instrucciones para usar la traducción en una PlayStation 2
 
