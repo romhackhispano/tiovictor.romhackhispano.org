@@ -27,7 +27,7 @@ un cajón desde enero.
 <h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE RETRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/4hurl476fcm3k2u/SH4-REVISION-TTV-V1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/dQMkDRyD#5VTPtxQEs5QDcQX5Mz1pipDEF3Bidxuye0JFTSqqMqo" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/5zlo1i1xzmgthjc/SH4-REVISION-TTV-V1.01.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/gUFwXYYa#2O0tHquUQc0rJoCHuFNg848sB3u9PHCZVh0yTJrI-vo" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

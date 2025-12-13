@@ -40,6 +40,9 @@ tags:
 - 'Silent Hill 4: The Room'
 ---
 
+**EDIT 13/12/2025: he actualizado el parche de Silent Hill 4 para corregir un problema con la versión NTSC-U para XBOX. Si vais a jugar en dicha versión, 
+volved a descargar el parche, por favor.**
+
 ¡Buenas a todos! Hoy vengo con un par de anuncios rápidos.
 
 Por un lado, he actualizado el parche de Dino Stalker para corregir un error grave en el nivel 5, Tiranosaurio azabache, donde el juego se quedaría colgado 

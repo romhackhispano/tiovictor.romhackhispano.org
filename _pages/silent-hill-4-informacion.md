@@ -76,6 +76,10 @@ poseedores del juego original.
    - Se han cambiado textos para mantener la consistencia con las otras 
      retraducciones de Silent Hill 1, 2 y 3 de Traducciones del Tío 
      Víctor.
+ - v1.01 - Corregido un problema de compatibilidad con la versión NTSC-U de 
+   XBOX. Se ha replanteado el método de instalación para esa consola. 
+   Gracias a Prukogui por avisar del fallo y probar la solución.
+   Los parches para PC y PS2 no tienen cambios.
 
 ### Cómo aplicar un parche .XDELTA
 
@@ -141,8 +145,10 @@ europea como de la estadounidense, en el disco duro.
 
 Una vez tengas el juego copiado y listo para ejecutar, conecta tu XBOX a tu 
 PC mediante FTP (con FileZilla, por ejemplo) y sobrescribe los contenidos de 
-la carpeta data correspondiente del parche en la carpeta data de la carpeta 
-donde tengas el juego.
+la carpeta correspondiente a tu versión del juego (PAL o NTSC-U) con los de 
+la carpeta data de la carpeta donde tengas el juego. Asegúrate de que se han 
+sobrescrito los archivos, si no sale una ventana de advertencia de 
+sobrescritura, algo estás haciendo mal.
 
 Si por algún motivo quieres crear una imagen ISO traducida, haz una copia 
 de los datos del juego en tu PC y utiliza Qwix o exiso para generar la 
@@ -152,14 +158,8 @@ Asegúrate de borrar la caché de tu consola antes de empezar a jugar el
 parche por primera vez, ya que es posible que se hayan copiado los archivos 
 sin modificar en la caché de la consola. Sabrás si has instalado el parche 
 dentro del juego en la pantalla con el logo de Konami como en el menú de 
-Opciones, en la sección de idioma (donde ahora debería poner «Castellano»).
-
-Si quieres utilizar la traducción en la versión NTSC-U estadounidense, 
-tendrás que extraer los archivos mes a una carpeta aparte, renombrar su 
-última letra para que acabe en "e", en vez de en "s", y entonces 
-sobrescribir los archivos. Aparentemente, esta versión limita los idiomas 
-disponibles al inglés y al japonés, así que no se puede elegir el español 
-tan fácilmente (¡Gracias a David Mariano por el aviso!)
+Opciones, en el ajuste de idioma (el subtítulo ahora debería poner «español 
+de España»).
 
 ### Instrucciones para usar la traducción en una PlayStation 2
 
