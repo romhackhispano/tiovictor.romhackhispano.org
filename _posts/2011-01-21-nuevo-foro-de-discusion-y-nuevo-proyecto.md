@@ -4,12 +4,13 @@ header:
   overlay_image: /img/2011/01/FragileNoti05.jpg
 layout: single
 categories:
-- General
-- Fragile Dreams
+- 'General'
+- 'Shenmue'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 tags:
-- Shenmue
-- Shenmue I
-- Fragile Dreams Farewell Ruins of the Moon
+- 'General'
+- 'Shenmue'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 ---
 Bueno, con un mes de retraso, feliz navidad, próspero año nuevo, etcétera.
 

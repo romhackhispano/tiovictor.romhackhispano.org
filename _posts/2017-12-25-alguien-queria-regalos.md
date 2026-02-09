@@ -7,12 +7,12 @@ categories:
 - 'General'
 - 'The 3rd Birthday'
 - 'TraduSquare'
-- 'Persona 3'
+- 'Persona 3 FES'
 tags:
 - 'General'
 - 'The 3rd Birthday'
 - 'TraduSquare'
-- 'Persona 3'
+- 'Persona 3 FES'
 ---
 
 ¡Espero que hayáis pasado unas felices navidades! Buenas a todos. Hoy traigo un regalito y un anuncio... Empecemos por el anuncio.

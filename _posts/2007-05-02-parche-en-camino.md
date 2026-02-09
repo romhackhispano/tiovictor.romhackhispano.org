@@ -6,10 +6,11 @@ date: '2007-05-02 01:21:20 +0200'
 date_gmt: '2007-05-01 23:21:20 +0200'
 layout: single
 categories:
-- Colaboraciones
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, me alegro de ver los resultados que estamos cosechando por ahí en la red sobre ésta traducción.
 Ahora, también hemos descubierto bastantes fallos, y que hay gente a la que le falla la traducción

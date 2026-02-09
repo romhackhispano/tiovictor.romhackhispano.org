@@ -6,9 +6,9 @@ date: '2010-04-03 23:31:37 +0200'
 date_gmt: '2010-04-03 22:31:37 +0200'
 layout: single
 categories:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 ---
 Bien, señores, creo que el Team Extraction, el equipo que ha estado el último 
 medio año liado con esta traducción, ha podido por fin cumplir con su labor. 

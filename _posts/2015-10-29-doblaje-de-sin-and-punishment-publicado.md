@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2015/10/EntradaSAP02.jpg
 layout: single
 categories:
-- Sin and Punishment
+- 'Sin and Punishment: Successor of the Earth'
 tags:
-- Sin and Punishment
+- 'Sin and Punishment: Successor of the Earth'
 ---
 Caballeros, hoy publicamos el último proyecto de fandoblaje romhackeado en colaboración 
 con [Estudios G3S](http://www.estudiosg3s.com/): Sin and Punishment: Successor of the 

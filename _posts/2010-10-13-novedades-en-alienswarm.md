@@ -6,9 +6,9 @@ date: '2010-10-13 18:03:43 +0200'
 date_gmt: '2010-10-13 17:03:43 +0200'
 layout: single
 categories:
-- Alien Swarm
+- 'Alien Swarm'
 tags:
-- Alien Swarm
+- 'Alien Swarm'
 ---
 Hola, sigo bastante ocupado liado con los proyectos, pero he pasado un segundo 
 por Alien Swarm para pulir las faltas que hay, y actualizar los textos con los 

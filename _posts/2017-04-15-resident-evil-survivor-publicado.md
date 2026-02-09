@@ -6,13 +6,13 @@ layout: single
 categories:
 - 'Resident Evil Survivor'
 - 'Shadow Watch'
-- 'Persona 3'
+- 'Persona 3 FES'
 - 'Pilotwings 64'
 - 'Operation Winback'
 tags:
 - 'Resident Evil Survivor'
 - 'Shadow Watch'
-- 'Persona 3'
+- 'Persona 3 FES'
 - 'Pilotwings 64'
 - 'Operation Winback'
 ---

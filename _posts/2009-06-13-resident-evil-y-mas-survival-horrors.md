@@ -6,11 +6,11 @@ date: '2009-06-13 13:18:51 +0200'
 date_gmt: '2009-06-13 12:18:51 +0200'
 layout: single
 categories:
-- Resident Evil
-- Silent Hill de PSOne
+- 'Resident Evil: Director''s Cut'
+- 'Silent Hill 1'
 tags:
-- Resident Evil
-- Silent Hill
+- 'Resident Evil: Director''s Cut'
+- 'Silent Hill 1'
 ---
 Bueno, aquí va otra versión de Resident Evil, la 3.3. Tiene un par de bugs 
 corregidos y revisados, y ya debería de ser la versión definitiva.

@@ -4,10 +4,11 @@ header:
   overlay_image: /img/2011/01/DSENoti07.jpg
 layout: single
 categories:
-- General
-- Dead Space Extraction
+- 'General'
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'General'
+- 'Dead Space Extraction'
 ---
 Este post va a tener un contenido más bloguero que de otra cosa.
 

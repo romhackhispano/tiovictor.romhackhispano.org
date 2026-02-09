@@ -6,9 +6,9 @@ date: '2009-02-27 18:30:39 +0100'
 date_gmt: '2009-02-27 17:30:39 +0100'
 layout: single
 categories:
-- SWAT 4 The Stetchkov Syndicate
+- 'SWAT 4: The Stetchkov Syndicate'
 tags:
-- SWAT 4 The Stetchkov Syndicate
+- 'SWAT 4: The Stetchkov Syndicate'
 ---
 Bueno, he estado bastante liado en las últimas semanas, ya que he estado 
 empezando a buscar trabajo.

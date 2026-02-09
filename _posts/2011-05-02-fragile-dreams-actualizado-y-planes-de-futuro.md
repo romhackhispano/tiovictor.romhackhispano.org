@@ -4,16 +4,15 @@ header:
   overlay_image: /img/2011/05/FragileNoti03.jpg
 layout: single
 categories:
-- Time Crisis
-- The 3rd Birthday
-- Shenmue
-- Fragile Dreams
+- 'Time Crisis'
+- 'The 3rd Birthday'
+- 'Shenmue'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 tags:
-- Shenmue
-- Shenmue I
-- Fragile Dreams Farewell Ruins of the Moon
-- Time Crisis
-- The 3rd Birthday
+- 'Time Crisis'
+- 'The 3rd Birthday'
+- 'Shenmue'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 ---
 Buenas a todos, os presentamos el parche 1.1 de la fantraducción de 
 Fragile Dreams: Farewell Ruins of the Moon para Wii. Este parche arregla 

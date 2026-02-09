@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2014/01/Shen2Noti05.jpg
 layout: single
 categories:
-- Shenmue
-- Shenmue II
+- 'Shenmue'
+- 'Shenmue II'
 tags:
-- Shenmue II
-- Shenmue
+- 'Shenmue'
+- 'Shenmue II'
 ---
 Bueno, por fin encuentro un ratito para hablar del proyecto Shenmue II.
 

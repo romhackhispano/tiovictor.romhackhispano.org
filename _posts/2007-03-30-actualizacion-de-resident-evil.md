@@ -6,10 +6,11 @@ date: '2007-03-30 17:10:49 +0200'
 date_gmt: '2007-03-30 15:10:49 +0200'
 layout: single
 categories:
-- Colaboraciones
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 ---
 
 Bueno, hoy he conseguido terminar con el fichero que contiene los documentos del juego, el Archivo.

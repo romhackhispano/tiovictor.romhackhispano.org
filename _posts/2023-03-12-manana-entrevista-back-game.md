@@ -6,8 +6,10 @@ layout: single
 
 categories:
 - 'General'
+- 'Entrevistas'
 tags:
 - 'General'
+- 'Entrevistas'
 ---
 **¡Noticia urgente!** No, por desgracia no es el lanzamiento de ningún parche, lo siento... Ha sido una cosa que no se ha podido confirmar 
 hasta el último momento.

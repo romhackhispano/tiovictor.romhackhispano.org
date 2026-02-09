@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2011/05/TC1Noti07.jpg
 layout: single
 categories:
-- Time Crisis
+- 'Time Crisis'
 tags:
-- Time Crisis
+- 'Time Crisis'
 ---
 Bueno, esta es una de las sorpresas que me iba guardando para las 
 próximas semanas, no es la sorpresa que mencioné antes, eso si. 

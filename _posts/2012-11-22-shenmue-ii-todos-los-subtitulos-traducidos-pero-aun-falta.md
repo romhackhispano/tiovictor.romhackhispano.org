@@ -4,11 +4,9 @@ header:
   overlay_image: /img/2012/11/Shen2Noti02.jpg
 layout: single
 categories:
-- Shenmue
-- Shenmue II
+- 'Shenmue II'
 tags:
-- Shenmue II
-- Shenmue
+- 'Shenmue II'
 ---
 Escribo esta noticia con una sensación... más de "¿Qué coño acabo de hacer?" 
 que de "Misión cumplida".

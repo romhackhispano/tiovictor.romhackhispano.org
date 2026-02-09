@@ -4,9 +4,11 @@ header:
   overlay_image: /img/2014/12/GoldenEyeNoti01.jpg
 layout: single
 categories:
-- Colaboraciones
+- 'Colaboraciones'
+- 'GoldenEye'
 tags:
-- GoldenEye
+- 'Colaboraciones'
+- 'GoldenEye'
 gallery:
  - url: /img/2014/12/Project64-2014-12-30-22-43-38-548.jpg
    image_path: /img/2014/12/Project64-2014-12-30-22-43-38-548.jpg

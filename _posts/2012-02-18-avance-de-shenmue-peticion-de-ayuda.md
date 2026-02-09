@@ -4,10 +4,9 @@ header:
   overlay_image: /img/2012/02/Shen1Noti05.jpg
 layout: single
 categories:
-- Shenmue
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Shenmue'
 ---
 ¡Hola! Hoy paso brevemente para actualizar el porcentaje de la revisión del 
 Free Quest:

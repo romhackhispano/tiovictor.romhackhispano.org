@@ -6,12 +6,15 @@ date: '2010-05-08 15:21:10 +0200'
 date_gmt: '2010-05-08 14:21:10 +0200'
 layout: single
 categories:
-- General
-- Project Zero 4
-- Shenmue
-- Dead Space Extraction
+- 'General'
+- 'Project Zero 4'
+- 'Shenmue'
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'General'
+- 'Project Zero 4'
+- 'Shenmue'
+- 'Dead Space Extraction'
 ---
 Hola buenas, va siendo hora de que diga qué ando haciendo ahora... sigo con 
 Shenmue y Fatal Frame 4, y también me han pedido ayuda en un proyecto que de 

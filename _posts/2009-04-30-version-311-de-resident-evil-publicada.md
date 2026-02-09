@@ -6,9 +6,9 @@ date: '2009-04-30 23:02:06 +0200'
 date_gmt: '2009-04-30 22:02:06 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Aquí os dejo el tardío (para variar) parche de la traducción, a ver si arregla 
 el fallo al aplicar el parche sobre una imagen ISO. No hay cambios en la traducción en sí.

@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2013/06/RE2Noti16.jpg
 layout: single
 categories:
-- Resident Evil 2 Dreamcast
+- 'Resident Evil 2'
 tags:
-- Resident Evil 2
+- 'Resident Evil 2'
 ---
 <center><img alt="Resident Evil 2 para Dreamcast - Versión 1.5 
 FINAL" src="/img/2013/06/15Final-01.png" width="300" height="225" /></center>

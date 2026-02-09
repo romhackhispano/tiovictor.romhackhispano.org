@@ -4,11 +4,17 @@ header:
   overlay_image: /img/2014/04/RetroMadrid2014Noti01.jpg
 layout: single
 categories:
-- General
-- Personal
+- 'General'
+- 'Personal'
+- 'RetroMadrid'
+- 'RetroMadrid 2014'
+- 'Ferias retro'
 tags:
-- Retromadrid
-- Ferias Retro
+- 'General'
+- 'Personal'
+- 'RetroMadrid'
+- 'RetroMadrid 2014'
+- 'Ferias retro'
 ---
 Como ya dije hace unas noticias, Traducciones del Tío Víctor estará en la próxima 
 RetroMadrid 2014. Ya solo quedan dos semanas y media para estar allí, pero hay varias 

@@ -4,20 +4,21 @@ header:
   overlay_image: /img/2014/09/ResumenSept2014.jpg
 layout: single
 categories:
-- General
-- Shenmue
-- Shenmue II
-- Policenauts
-- El Mundo Nunca es Suficiente (Nintendo 64)
-- Shadow Watch
-- Sin and Punishment
+- 'General'
+- 'Shenmue'
+- 'Shenmue II'
+- 'Policenauts'
+- 'El Mundo Nunca Es Suficiente'
+- 'Shadow Watch'
+- 'Sin and Punishment: Successor of the Earth'
 tags:
-- Policenauts
-- Shenmue II
-- Shenmue
-- Shadow Watch
-- The World Is Not Enough
-- Sin and Punishment
+- 'General'
+- 'Shenmue'
+- 'Shenmue II'
+- 'Policenauts'
+- 'El Mundo Nunca Es Suficiente'
+- 'Shadow Watch'
+- 'Sin and Punishment: Successor of the Earth'
 ---
 Como dije, aquí tenéis la actualización global de las traducciones en las que estoy 
 participando.

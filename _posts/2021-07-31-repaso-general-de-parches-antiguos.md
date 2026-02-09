@@ -5,8 +5,28 @@ header:
 layout: single
 categories:
 - 'General'
+- 'Ready 2 Rumble'
+- 'Clock Tower: The First Fear'
+- 'Fear Effect 2: Retro Helix'
+- 'Operation Winback'
+- 'Resident Evil: Director''s Cut'
+- 'Resident Evil Survivor'
+- 'Silent Hill 1'
+- 'The 3rd Birthday'
+- 'Time Crisis'
+- 'Zone of the Enders'
 tags:
 - 'General'
+- 'Ready 2 Rumble'
+- 'Clock Tower: The First Fear'
+- 'Fear Effect 2: Retro Helix'
+- 'Operation Winback'
+- 'Resident Evil: Director''s Cut'
+- 'Resident Evil Survivor'
+- 'Silent Hill 1'
+- 'The 3rd Birthday'
+- 'Time Crisis'
+- 'Zone of the Enders'
 ---
 
 ¡Buenas! Mientras seguimos avanzando con la conversión de la fantraducción de Persona 3 FES a la versión NTSC-U estadounidense, un usuario 

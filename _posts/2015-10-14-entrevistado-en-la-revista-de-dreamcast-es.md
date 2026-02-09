@@ -4,17 +4,19 @@ header:
   overlay_image: /img/2015/10/RevistaDCEsNoti01.jpg
 layout: single
 categories:
-- General
-- Personal
-- Shenmue
-- Shenmue II
-- Alone in the Dark IV DC
+- 'General'
+- 'Personal'
+- 'Shenmue'
+- 'Shenmue II'
+- 'Alone in the Dark IV DC'
+- 'Entrevistas'
 tags:
-- General
-- Shenmue II
-- Shenmue
-- Shenmue I
-- Alone in the Dark IV DC
+- 'General'
+- 'Personal'
+- 'Shenmue'
+- 'Shenmue II'
+- 'Alone in the Dark IV DC'
+- 'Entrevistas'
 ---
 Acaba de salir un nuevo volumen (Ya van tres) de la revista oficial de Dreamcast.es, 
 nuestros compañeros más habituales en la escena de Dreamcast.

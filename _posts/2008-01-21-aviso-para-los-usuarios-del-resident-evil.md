@@ -6,9 +6,9 @@ date: '2008-01-21 11:52:02 +0100'
 date_gmt: '2008-01-21 10:52:02 +0100'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Ya son varios los comentarios acerca de cuelgues en consolas originales. Vosotros, 
 los usuarios, me habéis dicho que era por los vídeos alterados. Voy a proceder a 

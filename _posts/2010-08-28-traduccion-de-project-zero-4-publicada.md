@@ -6,10 +6,11 @@ date: '2010-08-28 17:10:00 +0200'
 date_gmt: '2010-08-28 16:10:00 +0200'
 layout: single
 categories:
-- Colaboraciones
-- Project Zero 4
+- 'Colaboraciones'
+- 'Project Zero 4'
 tags:
-- Project Zero 4
+- 'Colaboraciones'
+- 'Project Zero 4'
 ---
 Señores, Benja-Kumo, jefe del proyecto de traducción de Project Zero / Fatal 
 Frame 4 al Castellano, ha publicado por fin la traducción, tras siete meses de 

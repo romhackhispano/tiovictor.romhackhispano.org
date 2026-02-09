@@ -5,8 +5,12 @@ header:
 layout: single
 categories:
 - 'Soldier of Fortune 1'
+- 'Ferias retro'
+- 'RetroBarcelona'
 tags:
 - 'Soldier of Fortune 1'
+- 'Ferias retro'
+- 'RetroBarcelona'
 gallery:
  - url: /img/2016/10/SoF-DC-20161002-01.jpg
    image_path: /img/2016/10/SoF-DC-20161002-01.jpg

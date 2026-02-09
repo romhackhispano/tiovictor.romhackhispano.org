@@ -6,9 +6,9 @@ date: '2009-07-29 23:10:35 +0200'
 date_gmt: '2009-07-29 22:10:35 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Un último bug. Una última versión. La 3.4. Parecía que la Biblioteca estaba tan 
 encantada como la de los Cazafantasmas. Me dicen que es el único que quedaba, 

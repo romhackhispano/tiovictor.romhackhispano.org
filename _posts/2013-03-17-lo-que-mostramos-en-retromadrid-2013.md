@@ -4,16 +4,23 @@ header:
   overlay_image: /img/2013/03/RetroMadrid2013Noti03.jpg
 layout: single
 categories:
-- General
-- Colaboraciones
-- Shenmue II
-- Policenauts
+- 'General'
+- 'Colaboraciones'
+- 'Policenauts'
+- 'Shenmue II'
+- 'Shenmue'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2013'
 tags:
-- Retromadrid
-- Policenauts
-- Shenmue II
-- Shenmue
-- RetroMadrid 2013
+- 'General'
+- 'Colaboraciones'
+- 'Policenauts'
+- 'Shenmue II'
+- 'Shenmue'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2013'
 ---
 Para evitar a los que se han perdido la edición del otro día, aquí os dejo 
 (Después del salto) los vídeos de lo que mostramos en los stands de 

@@ -6,18 +6,20 @@ layout: single
 
 categories:
 - 'Zone of the Enders'
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 - 'Silent Hill 3'
+- 'Silent Hill 4: The Room'
 - 'Policenauts'
 - 'Soltys'
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 tags:
 - 'Zone of the Enders'
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 - 'Silent Hill 3'
+- 'Silent Hill 4: The Room'
 - 'Policenauts'
 - 'Soltys'
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 ---
 
 ¡Buenas a todos!

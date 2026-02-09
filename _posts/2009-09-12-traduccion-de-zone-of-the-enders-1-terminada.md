@@ -6,9 +6,9 @@ date: '2009-09-12 10:46:08 +0200'
 date_gmt: '2009-09-12 09:46:08 +0200'
 layout: single
 categories:
-- Zone of the Enders
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
+- 'Zone of the Enders'
 ---
 Tras la aparición de los punteros del menú de VR de anoche, procedí a editarlos 
 en ambas versiones del juego, y toda la VR funciona correctamente y en Castellano. 

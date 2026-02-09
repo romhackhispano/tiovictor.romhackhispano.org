@@ -6,11 +6,11 @@ layout: single
 categories:
 - 'Persona 3 FES'
 - 'Forbidden Siren 2'
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 tags:
 - 'Persona 3 FES'
 - 'Forbidden Siren 2'
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 ---
 
 ¡Buenas a todos! Tras unos últimos meses especialmente ajetreados y puñeteros por mi parte, por fin puedo dar señales de vida.

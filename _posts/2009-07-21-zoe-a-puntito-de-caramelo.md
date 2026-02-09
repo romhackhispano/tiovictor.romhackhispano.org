@@ -6,9 +6,9 @@ date: '2009-07-21 15:48:49 +0200'
 date_gmt: '2009-07-21 14:48:49 +0200'
 layout: single
 categories:
-- Zone of the Enders
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
+- 'Zone of the Enders'
 ---
 Bueno, gracias ante todo a la amabilidad y el tiempo que ha dedicado el señor 
 Barracuda, de los foros de ElOtroLado, que se ha currado la herramienta para 

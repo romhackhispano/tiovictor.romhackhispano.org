@@ -6,10 +6,11 @@ date: '2010-07-29 13:08:21 +0200'
 date_gmt: '2010-07-29 12:08:21 +0200'
 layout: single
 categories:
-- General
-- Alien Swarm
+- 'General'
+- 'Alien Swarm'
 tags:
-- Alien Swarm
+- 'General'
+- 'Alien Swarm'
 ---
 Hoy he actualizado la traducción de Alien Swarm a la versión 1.1. 
 Los principales cambios son los siguientes:

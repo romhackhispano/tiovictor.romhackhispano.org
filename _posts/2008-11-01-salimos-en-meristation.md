@@ -6,11 +6,11 @@ date: '2008-11-01 13:54:40 +0100'
 date_gmt: '2008-11-01 12:54:40 +0100'
 layout: single
 categories:
-- General
-- Resident Evil
+- 'General'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
-- General
+- 'Personal'
+- 'Resident Evil: Director''s Cut'
 ---
 [Aunque de forma muy efímera.](http://www.meristation.com/pc/reportaje/regreso-al-pasado-los-padres-del-survival-horror/1602515?p=3) 
 Si algo está haciendo la sección "Regreso al Pasado" (Ya que no somos los primeros, 

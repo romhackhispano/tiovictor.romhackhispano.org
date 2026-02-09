@@ -10,8 +10,8 @@ comments: false
 _**CRÉDITOS DE LA VERSIÓN 2.0:**_
 
 **DOBLAJE DEL JUEGO:**  
-_- Traducción, ajuste e inserción de las voces:_ VGF/IlDucci.  
-_- Posproducción del sonido:_ Snack_and_larry
+ - _Traducción, ajuste e inserción de las voces:_ VGF/IlDucci.  
+ - _Posproducción del sonido:_ Snack_and_larry
 
 **REPARTO DE VOCES:**  
 _NEKU SAKURABA:_             Germani  
@@ -32,22 +32,22 @@ _AGRADECIMIENTOS DEL DOBLAJE:_ A Game Over, el primer programa satírico sobre
 videojuegos, InGameVG, A.M., A.L., E.G., M.J.V., J.R.
 
 **CRÉDITOS DE LA TRADUCCIÓN DEL JUEGO:**  
-_- Dirección del proyecto, revisión de gráficos, textos:_ VGF/IlDucci  
-_- Programación principal:_ Barracuda, CUE, Serede  
-_- Ayudas de programación:_ Yann (Francia), Mentz (Italia)  
-_- Edición de gráficos adicional:_ Wastor, Siman, Serede, Mewster  
-_- Revisión adicional de textos:_ Auron, xulikotony  
-_- AGRADECIMIENTOS:_ LoveEmu, Kingcom, y sobre todo al TWEWYTeam, pues sin ellos 
+ - _Dirección del proyecto, revisión de gráficos, textos:_ VGF/IlDucci  
+ - _Programación principal:_ Barracuda, CUE, Serede  
+ - _Ayudas de programación:_ Yann (Francia), Mentz (Italia)  
+ - _Edición de gráficos adicional:_ Wastor, Siman, Serede, Mewster  
+ - _Revisión adicional de textos:_ Auron, xulikotony  
+ - _AGRADECIMIENTOS:_ LoveEmu, Kingcom, y sobre todo al TWEWYTeam, pues sin ellos 
 el sueño original nunca se habría hecho realidad.
 
 **CRÉDITOS DE LA VERSIÓN 1.0 (2008):**  
-_Idea original y representante:_ Rigle  
-_Programa para traducción:_ macacoloko  
-_Programa para parchear:_ Serede  
-_Traducción:_ Rigle, macacoloko, meiou, Lamateporunyogur, Serede, VGF/IlDucci, Nisio, 
+ - _Idea original y representante:_ Rigle  
+ - _Programa para traducción:_ macacoloko  
+ - _Programa para parchear:_ Serede  
+ - _Traducción:_ Rigle, macacoloko, meiou, Lamateporunyogur, Serede, VGF/IlDucci, Nisio, 
 highfredo, kot7k, Dahk, Tyranitar 100, Darkneyra  
-_Editores de Tiles:_ Wastor, Rigle y Serede  
-_Página Web:_ Serede, Darkneyra
+ - _Editores de Tiles:_ Wastor, Rigle y Serede  
+ - _Página Web:_ Serede, Darkneyra
 
 <h3 style="text-align: center;">VERSIÓN 2.0 DEL PARCHE DE TRADUCCIÓN:</h3>
 

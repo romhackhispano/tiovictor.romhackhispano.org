@@ -2,12 +2,17 @@
 title: "Repaso general"
 layout: single
 categories:
-- General
-- Shenmue II
-- Policenauts
-- Silent Hill de PSOne
-- Sin and Punishment
-tags: []
+- 'General'
+- 'Shenmue II'
+- 'Policenauts'
+- 'Silent Hill 1'
+- 'Sin and Punishment: Successor of the Earth'
+tags:
+- 'General'
+- 'Shenmue II'
+- 'Policenauts'
+- 'Silent Hill 1'
+- 'Sin and Punishment: Successor of the Earth'
 ---
 Aprovecho la caída y recuperación del servidor para hacer un breve resumen de las novedades 
 que hay:

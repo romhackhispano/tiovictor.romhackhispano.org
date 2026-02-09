@@ -4,17 +4,19 @@ header:
   overlay_image: /img/2013/04/NautsNoti03.jpg
 layout: single
 categories:
-- General
-- Resident Evil 2 Dreamcast
-- The World Ends With You
-- Shenmue II
-- Policenauts
+- 'General'
+- 'Resident Evil 2'
+- 'The World Ends With You'
+- 'Shenmue'
+- 'Shenmue II'
+- 'Policenauts'
 tags:
-- General
-- The World Ends With You
-- Policenauts
-- Shenmue II
-- Shenmue
+- 'General'
+- 'Resident Evil 2'
+- 'The World Ends With You'
+- 'Shenmue'
+- 'Shenmue II'
+- 'Policenauts'
 ---
 Para variar, llego tarde a mis propias actualizaciones... En fin, vamos 
 al tema.

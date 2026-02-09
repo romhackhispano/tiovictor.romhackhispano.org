@@ -4,12 +4,11 @@ header:
   overlay_image: /img/2013/09/NautsNoti02.jpg
 layout: single
 categories:
-- Shenmue II
-- Policenauts
+- 'Shenmue II'
+- 'Policenauts'
 tags:
-- Policenauts
-- Shenmue II
-- Shenmue
+- 'Policenauts'
+- 'Shenmue II'
 ---
 Pero un poco de parranda sí.
 

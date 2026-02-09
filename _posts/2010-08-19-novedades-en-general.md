@@ -6,14 +6,13 @@ date: '2010-08-19 16:55:08 +0200'
 date_gmt: '2010-08-19 15:55:08 +0200'
 layout: single
 categories:
-- Project Zero 4
-- Resident Evil 2 Dreamcast
-- Shenmue
+- 'Project Zero 4'
+- 'Resident Evil 2'
+- 'Shenmue'
 tags:
-- Project Zero 4
-- Shenmue
-- Shenmue I
-- Resident Evil 2
+- 'Project Zero 4'
+- 'Resident Evil 2'
+- 'Shenmue'
 ---
 Bueno, hoy vengo a comentaros las novedades que hay en general de los proyectos.
 

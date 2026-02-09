@@ -5,10 +5,10 @@ header:
 layout: single
 categories:
 - 'Persona 3 FES'
-- 'Ace Combat 3: Electrosphere'
+- 'Ace Combat 3: electrosfera'
 tags:
 - 'Persona 3 FES'
-- 'Ace Combat 3: Electrosphere'
+- 'Ace Combat 3: electrosfera'
 ---
 
 Buenas a todos, espero que hayáis pasado unas felices fiestas, que los Reyes o Papá Noel hayan sido buenos con vosotros 

@@ -4,13 +4,13 @@ header:
   overlay_image: /img/2013/05/Shen1Noti11.jpg
 layout: single
 categories:
-- Resident Evil 2 Dreamcast
-- Shenmue
-- Shenmue II
+- 'Resident Evil 2'
+- 'Shenmue'
+- 'Shenmue II'
 tags:
-- Shenmue
-- Shenmue I
-- Resident Evil 2
+- 'Resident Evil 2'
+- 'Shenmue'
+- 'Shenmue II'
 ---
 Bueno, este mes ha pasado para mí volando. Aparte de la larga revisión de textos 
 de Shenmue 2, llevada a cabo por gente ajena, han tenido lugar varias novedades 

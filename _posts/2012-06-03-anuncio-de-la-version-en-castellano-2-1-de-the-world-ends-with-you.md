@@ -4,12 +4,11 @@ header:
   overlay_image: /img/2012/06/TWEWYNoti04.jpg
 layout: single
 categories:
-- The World Ends With You
-- Shenmue
+- 'The World Ends With You'
+- 'Shenmue'
 tags:
-- The World Ends With You
-- Shenmue
-- Shenmue I
+- 'The World Ends With You'
+- 'Shenmue'
 ---
 Quiero hacer un anuncio importante, al menos para los que no os guste el 
 doblaje en Español o en Inglés: El señor Mentz, del equipo de traducción 

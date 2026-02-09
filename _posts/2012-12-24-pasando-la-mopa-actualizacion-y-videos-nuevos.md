@@ -4,21 +4,21 @@ header:
   overlay_image: /img/2012/12/ContractJACKNoti01.jpg
 layout: single
 categories:
-- Alien Swarm
-- Time Crisis
-- Resident Evil 2 Dreamcast
-- Dead Space Extraction
-- Contract J.A.C.K.
-- Zone of the Enders
-- Ready 2 Rumble
+- 'Alien Swarm'
+- 'Time Crisis'
+- 'Resident Evil 2'
+- 'Dead Space Extraction'
+- 'Contract J.A.C.K.'
+- 'Zone of the Enders'
+- 'Ready 2 Rumble'
 tags:
-- Zone of The Enders
-- Dead Space Extraction
-- Resident Evil 2
-- Contract J.A.C.K.
-- Ready 2 Rumble
-- Alien Swarm
-- Time Crisis
+- 'Alien Swarm'
+- 'Time Crisis'
+- 'Resident Evil 2'
+- 'Dead Space Extraction'
+- 'Contract J.A.C.K.'
+- 'Zone of the Enders'
+- 'Ready 2 Rumble'
 ---
 Bueno, últimamente ciertas páginas de la web estaban algo... dejadas de lado. 
 Capturas que daban el error 404, páginas con apenas información... Así que he 

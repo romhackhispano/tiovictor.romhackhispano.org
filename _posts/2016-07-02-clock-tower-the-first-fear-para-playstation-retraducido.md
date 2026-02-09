@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2016/07/NotiClockTower1-02.jpg
 layout: single
 categories:
-- 'Clock Tower The First Fear'
+- 'Clock Tower: The First Fear'
 tags:
-- 'Clock Tower The First Fear'
+- 'Clock Tower: The First Fear'
 gallery:
  - url: /img/2016/07/CTTTF20_V2_01.jpg
    image_path: /img/2016/07/CTTTF20_V2_01.jpg

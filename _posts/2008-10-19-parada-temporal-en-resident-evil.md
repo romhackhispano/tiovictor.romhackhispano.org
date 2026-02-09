@@ -6,11 +6,11 @@ date: '2008-10-19 10:18:50 +0200'
 date_gmt: '2008-10-19 09:18:50 +0200'
 layout: single
 categories:
-- Resident Evil
-- The World Ends With You
+- 'Resident Evil: Director''s Cut'
+- 'The World Ends With You'
 tags:
-- Resident Evil
-- The World Ends With You
+- 'Resident Evil: Director''s Cut'
+- 'The World Ends With You'
 ---
 Muy buenas, a pesar de que dije que iba a revisar otra vez Resident Evil, al final 
 no pude. Fui atraído por <a href="http://www.elotrolado.net/hilo_proyecto-traduccion-al-espanol-del-the-world-ends-with-you_1002815">la traducción de The World Ends With You para Nintendo DS</a>, 

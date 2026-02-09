@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2014/03/Shen2Noti10.jpg
 layout: single
 categories:
-- Shenmue II
+- 'Shenmue II'
 tags:
-- Shenmue II
+- 'Shenmue II'
 ---
 Pues sí. Otro disco menos, ya solo queda uno que revisar sobre papel antes de 
 proceder al testeo y conversión a XBOX.

@@ -6,16 +6,15 @@ date: '2010-07-28 16:31:48 +0200'
 date_gmt: '2010-07-28 15:31:48 +0200'
 layout: single
 categories:
-- Alien Swarm
-- Project Zero 4
-- Resident Evil 2 Dreamcast
-- Shenmue
+- 'Alien Swarm'
+- 'Project Zero 4'
+- 'Resident Evil 2'
+- 'Shenmue'
 tags:
-- Project Zero 4
-- Shenmue
-- Shenmue I
-- Resident Evil 2
-- Alien Swarm
+- 'Alien Swarm'
+- 'Project Zero 4'
+- 'Resident Evil 2'
+- 'Shenmue'
 ---
 Bueno, vengo a informaros de que he hecho una traducción un tanto exprés 
 de Alien Swarm, juego de PC gratuito que ha sido publicado recientemente en 

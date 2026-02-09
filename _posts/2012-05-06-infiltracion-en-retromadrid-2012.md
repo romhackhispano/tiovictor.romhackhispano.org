@@ -4,14 +4,19 @@ header:
   overlay_image: /img/2012/05/RetroMadrid2012Noti.jpg
 layout: single
 categories:
-- General
-- Resident Evil 2 Dreamcast
-- Shenmue
+- 'General'
+- 'Resident Evil 2'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2012'
+- 'Shenmue'
 tags:
-- Retromadrid
-- Shenmue
-- Shenmue I
-- RetroMadrid 2012
+- 'General'
+- 'Resident Evil 2'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2012'
+- 'Shenmue'
 ---
 Andaba pensando en la forma de poner nuevas capturas de pantalla de 
 Shenmue 1. Pero claro, estoy testeando en consola, no es tan fácil... Así 

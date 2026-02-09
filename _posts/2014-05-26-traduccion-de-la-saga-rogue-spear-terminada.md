@@ -4,12 +4,11 @@ header:
   overlay_image: /img/2014/05/SagaRogueSpearNoti03.jpg
 layout: single
 categories:
-- Saga Rainbow Six PC
-- Sin and Punishment
+- 'Saga Rainbow Six'
+- 'Sin and Punishment: Successor of the Earth'
 tags:
-- Saga Rainbow Six
-- Rogue Spear
-- Sin and Punishment
+- 'Saga Rainbow Six'
+- 'Sin and Punishment: Successor of the Earth'
 ---
 Y a buenas horas...
 

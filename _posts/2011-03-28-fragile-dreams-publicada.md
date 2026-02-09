@@ -4,11 +4,13 @@ header:
   overlay_image: /img/2011/03/FragileNoti02.jpg
 layout: single
 categories:
-- General
-- Colaboraciones
-- Fragile Dreams
+- 'General'
+- 'Colaboraciones'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 tags:
-- Fragile Dreams Farewell Ruins of the Moon
+- 'General'
+- 'Colaboraciones'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 ---
 Bueno, tras varios gritos, carreras y prisas, os traemos por adelantado la 
 primera versión completa de la fantraducción de Fragile Dreams: Farewell 

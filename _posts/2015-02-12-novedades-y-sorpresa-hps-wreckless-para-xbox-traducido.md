@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2015/02/WrecklessNoti01.jpg
 layout: single
 categories:
-- General
-- 'Wreckless, The Yakuza Missions'
+- 'General'
+- 'Wreckless: The Yakuza Missions'
 tags:
-- General
-- 'Wreckless, The Yakuza Missions'
+- 'General'
+- 'Wreckless: The Yakuza Missions'
 gallery:
  - url: /img/2015/02/Imagen1.jpg
    image_path: /img/2015/02/Imagen1.jpg

@@ -6,9 +6,9 @@ date: '2009-06-22 11:55:28 +0200'
 date_gmt: '2009-06-22 10:55:28 +0200'
 layout: single
 categories:
-- Zone of the Enders
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
+- 'Zone of the Enders'
 ---
 Bueno, os comento como llevo la traducción. Todos los textos traducibles están 
 traducidos a la espera de su testeo.

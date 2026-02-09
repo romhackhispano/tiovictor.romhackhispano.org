@@ -4,13 +4,13 @@ header:
   overlay_image: /img/2011/07/RE2Noti17.jpg
 layout: single
 categories:
-- General
-- Resident Evil 2 Dreamcast
-- Fragile Dreams
+- 'General'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
+- 'Resident Evil 2'
 tags:
-- General
-- Fragile Dreams Farewell Ruins of the Moon
-- Resident Evil 2
+- 'General'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
+- 'Resident Evil 2'
 ---
 Justo a los cuatro días de sacar el The 3rd Birthday, qué casualidad, 
 me informan de que ya está disponible un proyecto que tiene más años que 

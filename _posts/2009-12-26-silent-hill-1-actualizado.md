@@ -6,9 +6,9 @@ date: '2009-12-26 21:21:12 +0100'
 date_gmt: '2009-12-26 20:21:12 +0100'
 layout: single
 categories:
-- Silent Hill de PSOne
+- 'Silent Hill 1'
 tags:
-- Silent Hill
+- 'Silent Hill 1'
 ---
 Debido a que parece ser que se volvió a hacer mal el PPF del Silent Hill, 
 he actualizado el PPF. Si no os daba problemas la 1.0, no os molestéis en bajarlo.

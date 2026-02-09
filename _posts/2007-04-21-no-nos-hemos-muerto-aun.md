@@ -6,10 +6,11 @@ date: '2007-04-21 10:22:21 +0200'
 date_gmt: '2007-04-21 08:22:21 +0200'
 layout: single
 categories:
-- Colaboraciones
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, pues tengo una buena noticia y una mala noticia. La buena es que 
 seguimos probando el juego (Tenemos que pasárnoslo mínimo unas 6 veces o más, 

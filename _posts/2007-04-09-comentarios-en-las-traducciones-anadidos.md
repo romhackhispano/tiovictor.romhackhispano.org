@@ -6,11 +6,11 @@ date: '2007-04-09 21:08:57 +0200'
 date_gmt: '2007-04-09 19:08:57 +0200'
 layout: single
 categories:
-- General
-- Resident Evil
+- 'General'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
-- General
+- 'General'
+- 'Resident Evil: Director''s Cut'
 ---
 Buenas, otro error que había en la plantilla del blog era que no se podían 
 hacer comentarios en las páginas sobre mis traducciones para juegos, pero ya 

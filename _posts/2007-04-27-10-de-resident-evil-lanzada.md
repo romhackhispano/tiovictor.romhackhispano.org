@@ -6,10 +6,11 @@ date: '2007-04-27 16:17:55 +0200'
 date_gmt: '2007-04-27 14:17:55 +0200'
 layout: single
 categories:
-- Colaboraciones
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 ---
 Señores, señoras, ¡detengan las rotativas! La gran noticia, como decía el pobre
 Elliot Carver, es que ya hemos publicado la primera versión de nuestra traducción

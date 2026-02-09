@@ -4,12 +4,11 @@ header:
   overlay_image: /img/2012/03/RE2Noti06.jpg
 layout: single
 categories:
-- Resident Evil 2 Dreamcast
-- Shenmue
+- 'Resident Evil 2'
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
-- Resident Evil 2
+- 'Resident Evil 2'
+- 'Shenmue'
 ---
 Bueno, hoy es un gran día. Hoy hemos terminado la revisión sobre papel 
 de Shenmue 1, y estamos listos para entrar a testearlo.

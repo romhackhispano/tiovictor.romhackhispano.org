@@ -4,20 +4,19 @@ header:
   overlay_image: /img/2014/05/WhatsShenmueNoti01.jpg
 layout: single
 categories:
-- Colaboraciones
-- Shenmue II
-- Saga Rainbow Six PC
-- Shadow Watch
-- Sin and Punishment
-- What's Shenmue Español
+- 'Colaboraciones'
+- 'Shenmue II'
+- 'Saga Rainbow Six'
+- 'Shadow Watch'
+- 'Sin and Punishment: Successor of the Earth'
+- 'What''s Shenmue'
 tags:
-- Shenmue II
-- Saga Rainbow Six
-- Rogue Spear
-- Shadow Watch
-- Colaboraciones
-- What's Shenmue
-- Sin and Punishment
+- 'Colaboraciones'
+- 'Shenmue II'
+- 'Saga Rainbow Six'
+- 'Shadow Watch'
+- 'Sin and Punishment: Successor of the Earth'
+- 'What''s Shenmue'
 ---
 Bueno, señores, como bien dije en la feria y en otras partes, hoy toca anunciar 
 varias cosas. Iré una por una.

@@ -4,14 +4,15 @@ header:
   overlay_image: /img/2012/09/Shen2Noti08.jpg
 layout: single
 categories:
-- General
-- The World Ends With You
-- Shenmue II
+- 'General'
+- 'The World Ends With You'
+- 'Shenmue'
+- 'Shenmue II'
 tags:
-- General
-- The World Ends With You
-- Shenmue II
-- Shenmue
+- 'General'
+- 'The World Ends With You'
+- 'Shenmue'
+- 'Shenmue II'
 ---
 Noticias breves: La más importante, el HUMANS del disco 1 va por el 64,5% 
 traducido.

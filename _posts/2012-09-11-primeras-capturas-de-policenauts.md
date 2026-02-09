@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2012/09/NautsNoti05.jpg
 layout: single
 categories:
-- Policenauts
+- 'Policenauts'
 tags:
-- Policenauts
+- 'Policenauts'
 gallery:
  - url: /img/2012/09/slps_002-15_11092012_001432_0209.jpg
    image_path: /img/2012/09/slps_002-15_11092012_001432_0209.jpg

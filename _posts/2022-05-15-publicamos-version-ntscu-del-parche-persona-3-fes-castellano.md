@@ -7,15 +7,15 @@ layout: single
 categories:
 - 'Persona 3 FES'
 - 'A.o.T: Wings of Freedom'
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 - 'Policenauts'
-- 'Echo Night Beyond'
+- 'Echo Night: Beyond'
 tags:
 - 'Persona 3 FES'
 - 'A.o.T: Wings of Freedom'
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 - 'Policenauts'
-- 'Echo Night Beyond'
+- 'Echo Night: Beyond'
 ---
 
 **EDIT 17/05/2022: He actualizado el parche para corregir un defecto visual en la versión NTSC-U (no es necesario redescargar el parcheador, pero sí volver 

@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2015/05/Shen1Noti20.jpg
 layout: single
 categories:
-- Shenmue
+- 'Shenmue'
 tags:
-- Shenmue
+- 'Shenmue'
 gallery:
  - url: /img/2011/11/demul-2015-05-07-18-47-44-23.jpg
    image_path: /img/2011/11/demul-2015-05-07-18-47-44-23.jpg

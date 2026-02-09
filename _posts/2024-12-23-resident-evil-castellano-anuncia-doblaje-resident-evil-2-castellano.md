@@ -6,8 +6,10 @@ layout: single
 
 categories:
 - 'Resident Evil 2'
+- 'Entrevistas'
 tags:
 - 'Resident Evil 2'
+- 'Entrevistas'
 ---
 
 ¡Buenas a todos! Disculpad el retraso, pero he tenido una semana de locos.

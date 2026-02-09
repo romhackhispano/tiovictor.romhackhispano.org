@@ -6,12 +6,12 @@ layout: single
 
 categories:
 - 'Ready 2 Rumble'
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 - 'Policenauts'
 - 'A.o.T: Wings of Freedom'
 tags:
 - 'Ready 2 Rumble'
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 - 'Policenauts'
 - 'A.o.T: Wings of Freedom'
 ---

@@ -6,11 +6,11 @@ layout: single
 categories:
 - 'Persona 3 FES'
 - 'Policenauts'
-- 'Ace Combat 3: Electrosphere'
+- 'Ace Combat 3: electrosfera'
 tags:
 - 'Persona 3 FES'
 - 'Policenauts'
-- 'Ace Combat 3: Electrosphere'
+- 'Ace Combat 3: electrosfera'
 ---
 
 Buenas, hoy vengo con más noticias breves.

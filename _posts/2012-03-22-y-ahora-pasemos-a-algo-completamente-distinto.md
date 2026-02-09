@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2012/03/Interrogacion.jpg
 layout: single
 categories:
-- Shenmue
-- Shenmue II
+- 'Shenmue'
+- 'Shenmue II'
 tags:
-- Shenmue II
-- Shenmue
+- 'Shenmue'
+- 'Shenmue II'
 ---
 Lo que váis a ver ahora es por un lado uno de los proyectos que ando 
 cocinando, y por otro un experimento mío.

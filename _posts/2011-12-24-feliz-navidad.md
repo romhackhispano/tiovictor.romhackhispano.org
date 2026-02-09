@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2011/12/Shen1Noti10.jpg
 layout: single
 categories:
-- Colaboraciones
-- Shenmue
+- 'Colaboraciones'
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Colaboraciones'
+- 'Shenmue'
 ---
 Hola a todos, hoy Papá Noel se ha pasado directamente por la web para dejaros 
 un aperitivo:

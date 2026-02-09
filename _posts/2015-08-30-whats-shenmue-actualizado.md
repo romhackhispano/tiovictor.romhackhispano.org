@@ -2,13 +2,13 @@
 title: "What's Shenmue actualizado"
 layout: single
 categories:
-- Policenauts
-- Sin and Punishment
-- What's Shenmue Español
+- 'Policenauts'
+- 'Sin and Punishment: Successor of the Earth'
+- 'What''s Shenmue'
 tags:
-- Policenauts
-- What's Shenmue
-- Sin and Punishment
+- 'Policenauts'
+- 'Sin and Punishment: Successor of the Earth'
+- 'What''s Shenmue'
 ---
 Bueno, aprovecho el comienzo del nuevo curso lectivo para comentar algunos cambios y la 
 situación actual.

@@ -4,13 +4,13 @@ header:
   overlay_image: /img/2012/12/Shen2Noti01.jpg
 layout: single
 categories:
-- Shenmue
-- Shenmue II
-- Policenauts
+- 'Shenmue'
+- 'Shenmue II'
+- 'Policenauts'
 tags:
-- Policenauts
-- Shenmue II
-- Shenmue
+- 'Shenmue'
+- 'Shenmue II'
+- 'Policenauts'
 gallery:
  - url: /img/2012/03/S2-20121207-10.jpg
    image_path: /img/2012/03/S2-20121207-10.jpg

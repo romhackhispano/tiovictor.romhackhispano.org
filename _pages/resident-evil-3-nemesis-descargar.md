@@ -8,14 +8,14 @@ comments: false
 
 <h2 style="text-align: center;"><strong><a href="/resident-evil-3-nemesis/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-3-nemesis/descargar/">DESCARGAS</a> - <a href="/resident-evil-3-nemesis/capturas/">CAPTURAS</a></strong></h2>
 
-**Créditos de la revisión de la traducción:**
+**Créditos de la revisión de la traducción:**  
  - *Jefe de proyecto de traducción e inserción, edición gráfica, de vídeo y sonido:* IlDucci
  - *Revisión de textos adicional:* 堕落王 (Wu)
  - *Ingeniería inversa adicional:* dakrk, SolidSnake11, GriffithVIII, D3fau4
  - *Herramientas dedicadas, ingeniería inversa:* Pleonex, D3fau4
  - *Testeo:* Releón, Salvi Garrido, IlDucci
 
-**Créditos del doblaje al castellano:**
+**Créditos del doblaje al castellano:**  
  - *Dirección de doblaje, técnico de grabación y de mezclas, adaptador de diálogos, testeo del doblaje:* Salvi Garrido
  - *Inserción del doblaje, preparación de materiales y de guion:* IlDucci
 

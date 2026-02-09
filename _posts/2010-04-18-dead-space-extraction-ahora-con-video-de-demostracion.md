@@ -6,9 +6,9 @@ date: '2010-04-18 16:02:03 +0200'
 date_gmt: '2010-04-18 15:02:03 +0200'
 layout: single
 categories:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 ---
 Os dejo aquí un pequeño vídeo que hemos grabado de la traducción al Castellano de Dead Space Extraction. Ya iba siendo hora de cambiar aquel vídeo de hace tanto tiempo.
 

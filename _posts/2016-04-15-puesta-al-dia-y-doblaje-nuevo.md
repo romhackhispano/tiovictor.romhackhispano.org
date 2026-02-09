@@ -4,18 +4,19 @@ header:
   overlay_image: /img/2016/04/NotiClockTower1-01.jpg
 layout: single
 categories:
-- Colaboraciones
-- Shadow Watch
-- Alone in the Dark IV DC
-- Clock Tower The First Fear
-- Resident Evil Survivor
-- Broken Sword 2.5
+- 'Colaboraciones'
+- 'Shadow Watch'
+- 'Alone in the Dark IV DC'
+- 'Clock Tower: The First Fear'
+- 'Resident Evil Survivor'
+- 'Broken Sword 2.5'
 tags:
-- Shadow Watch
-- Alone in the Dark IV DC
-- Clock Tower The First Fear
-- Resident Evil Survivor
-- Broken Sword 2.5
+- 'Colaboraciones'
+- 'Shadow Watch'
+- 'Alone in the Dark IV DC'
+- 'Clock Tower: The First Fear'
+- 'Resident Evil Survivor'
+- 'Broken Sword 2.5'
 ---
 Buenas a todos, es hora de ir comentando los avances que ha habido en los últimos cuatro 
 meses, que no son pocos. Hoy traigo avances de Alone In The Dark 4 para Dreamcast, Clock 

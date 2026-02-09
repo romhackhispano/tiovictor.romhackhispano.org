@@ -4,9 +4,9 @@ header:
   overlay_image: /img/NotiEnBlancoV2.jpg
 layout: single
 categories:
-- Alone in the Dark IV DC
+- 'Alone in the Dark IV DC'
 tags:
-- Alone in the Dark IV DC
+- 'Alone in the Dark IV DC'
 ---
 
 Me confirman varias personas que el parche de traducción no es compatible con los clones chinos del GDEMU.

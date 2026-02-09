@@ -4,10 +4,9 @@ header:
   overlay_image: /img/2012/05/Shen1Noti04.jpg
 layout: single
 categories:
-- Shenmue
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Shenmue'
 ---
 La revisión de textos de Shenmue ha concluido. Por fin.
 

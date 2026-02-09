@@ -6,9 +6,9 @@ date: '2009-08-09 21:48:32 +0200'
 date_gmt: '2009-08-09 20:48:32 +0200'
 layout: single
 categories:
-- Zone of the Enders
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
+- 'Zone of the Enders'
 ---
 Tras analizar por petición la versión NTSC, creo que me será posible adaptar 
 la traducción en la versión PAL hacia la versión NTSC-USA. Así que, probablemente, 

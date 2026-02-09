@@ -4,36 +4,35 @@ header:
   overlay_image: /img/2015/12/NotiAITD401.jpg
 layout: single
 categories:
-- General
-- Colaboraciones
-- Resident Evil
-- Resident Evil 2 Dreamcast
-- Shenmue
-- Shenmue II
-- Policenauts
-- Shadow Watch
-- Alone in the Dark IV DC
-- Clock Tower The First Fear
-- Operation Winback
-- Pilotwings 64
-- Resident Evil Survivor
-- Soldier of Fortune I
+- 'General'
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
+- 'Resident Evil 2'
+- 'Shenmue'
+- 'Shenmue II'
+- 'Policenauts'
+- 'Shadow Watch'
+- 'Alone in the Dark IV DC'
+- 'Clock Tower: The First Fear'
+- 'Operation Winback'
+- 'Pilotwings 64'
+- 'Resident Evil Survivor'
+- 'Soldier of Fortune 1'
 tags:
-- Resident Evil
-- General
-- Policenauts
-- Shenmue II
-- Shenmue
-- Shenmue I
-- Resident Evil 2
-- Shadow Watch
-- Colaboraciones
-- Alone in the Dark IV DC
-- Clock Tower The First Fear
-- Operation Winback
-- Pilotwings 64
-- Resident Evil Survivor
-- Soldier of Fortune I
+- 'General'
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
+- 'Resident Evil 2'
+- 'Shenmue'
+- 'Shenmue II'
+- 'Policenauts'
+- 'Shadow Watch'
+- 'Alone in the Dark IV DC'
+- 'Clock Tower: The First Fear'
+- 'Operation Winback'
+- 'Pilotwings 64'
+- 'Resident Evil Survivor'
+- 'Soldier of Fortune 1'
 gallery:
  - url: /img/2015/10/AITD4DC-01.jpg
    image_path: /img/2015/10/AITD4DC-01.jpg

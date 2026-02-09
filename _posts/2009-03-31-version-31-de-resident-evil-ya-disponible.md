@@ -6,9 +6,9 @@ date: '2009-03-31 10:54:23 +0200'
 date_gmt: '2009-03-31 09:54:23 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Buenas a todos, he ido arreglando poco a poco los variados fallos tanto de juego 
 como de ortografía en Resident Evil. Esta versión corrige bastantes fallos ortográficos 

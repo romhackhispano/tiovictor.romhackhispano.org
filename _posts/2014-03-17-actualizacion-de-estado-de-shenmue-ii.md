@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2014/03/Shen2Noti11.jpg
 layout: single
 categories:
-- Shenmue II
+- 'Shenmue II'
 tags:
-- Shenmue II
+- 'Shenmue II'
 ---
 **_Estado de la traducción de Shenmue II:_**  
 **Gráficos:** 80% (Mapas, gráficos de los menús)  

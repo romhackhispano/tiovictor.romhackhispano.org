@@ -6,9 +6,9 @@ date: '2010-04-12 14:10:59 +0200'
 date_gmt: '2010-04-12 13:10:59 +0200'
 layout: single
 categories:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 ---
 Sí, hamijos latinoamericanos, ahora el parche de traducción de Dead Space 
 Extraction soporta las versiones NTSC y PAL del juego a la vez. Por fin

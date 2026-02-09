@@ -4,7 +4,7 @@ permalink: /shadow-watch/
 header:
   overlay_image: /img/headers/pages/ShadowWatchHeader.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="/shadow-watch/informacion/">INFORMACIÓN</a> - <a href="/shadow-watch/capturas/">CAPTURAS</a> - <a href="/shadow-watch/descargar/">DESCARGAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/shadow-watch/informacion/">INFORMACIÓN</a> - <a href="/shadow-watch/descargar/">DESCARGAS</a> - <a href="/shadow-watch/capturas/">CAPTURAS</a></strong></h2>
 
 <center><img src="/img/2017/06/MenuPrincipal.jpg" alt="Shadow Watch para PC" /></center>
 

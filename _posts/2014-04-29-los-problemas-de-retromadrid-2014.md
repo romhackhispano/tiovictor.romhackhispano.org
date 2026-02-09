@@ -4,8 +4,15 @@ header:
   overlay_image: /img/2014/04/RetroMadrid2014Noti02.jpg
 layout: single
 categories:
-- General
-tags: []
+- 'General'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2014'
+tags:
+- 'General'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2014'
 ---
 Quería haber comentado esto ayer, como dije por Twitter, pero al final gran parte 
 de los implicados han dicho prácticamente lo que iba a decir.

@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2016/03/WhatsShenmueNoti04.jpg
 layout: single
 categories:
-- What's Shenmue Español
-- Resident Evil Survivor
+- 'What''s Shenmue'
+- 'Resident Evil Survivor'
 tags:
-- What's Shenmue
-- Resident Evil Survivor
+- 'What''s Shenmue'
+- 'Resident Evil Survivor'
 ---
 Saludos a todos, hoy os traigo una actualización del parche de What's Shenmue. 
 Aparte de unos retoques menores en las texturas de todos los idiomas, la principal 

@@ -5,11 +5,13 @@ header:
 layout: single
 
 categories:
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 - 'Policenauts'
+- 'Entrevistas'
 tags:
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 - 'Policenauts'
+- 'Entrevistas'
 ---
 
 ¡Buenas a todos!

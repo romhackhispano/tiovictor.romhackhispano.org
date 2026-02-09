@@ -5,9 +5,9 @@ header:
 layout: single
 
 categories:
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 tags:
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 ---
 
 ¡Buenas a todos! **Acabamos de subir una actualización menor de los parches de traducción y doblaje de Resident Evil para PSX y Sega Saturn con una 

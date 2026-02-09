@@ -6,11 +6,11 @@ date: '2009-09-18 11:08:13 +0200'
 date_gmt: '2009-09-18 10:08:13 +0200'
 layout: single
 categories:
-- The World Ends With You
-- Zone of the Enders
+- 'The World Ends With You'
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
-- The World Ends With You
+- 'The World Ends With You'
+- 'Zone of the Enders'
 ---
 Bueno, tras la aparente conclusión del proyecto Zone Of The Enders, del cual 
 nadie me ha dicho nada todavía (salvo algunas noticias); el caso es que algunos 

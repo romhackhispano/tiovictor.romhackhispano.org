@@ -4,10 +4,11 @@ header:
   overlay_image: /img/2011/12/TC2Noti.jpg
 layout: single
 categories:
-- Colaboraciones
-- Time Crisis
+- 'Colaboraciones'
+- 'Time Crisis'
 tags:
-- Time Crisis
+- 'Colaboraciones'
+- 'Time Crisis'
 ---
 Hagamos un poco de memoria. Se publica en junio-julio de 2011 la traducción 
 con doblaje incluído de Time Crisis 1, para PlayStation One.

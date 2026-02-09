@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2015/06/Shen2Noti12.jpg
 layout: single
 categories:
-- Shenmue
-- Shenmue II
+- 'Shenmue'
+- 'Shenmue II'
 tags:
-- Shenmue II
-- Shenmue
+- 'Shenmue'
+- 'Shenmue II'
 ---
 <h1 style="text-align: center;"><a href="http://tiovictor.romhackhispano.org/shenmue-ii/">PÁGINA DEL PROYECTO</a></h1>
 

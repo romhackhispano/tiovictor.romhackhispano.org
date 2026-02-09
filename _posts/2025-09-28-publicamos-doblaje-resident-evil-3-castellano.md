@@ -6,8 +6,10 @@ layout: single
 
 categories:
 - 'Resident Evil 3: Nemesis'
+- 'Entrevistas'
 tags:
 - 'Resident Evil 3: Nemesis'
+- 'Entrevistas'
 ---
 
 ¡Buenas a todos! Por fin **Resident Evil Castellano y Traducciones del Tío Víctor cerramos la saga de fandubs de la trilogía original de Resident Evil 

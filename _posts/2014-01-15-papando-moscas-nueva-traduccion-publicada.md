@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2014/01/SWRacerNoti01.jpg
 layout: single
 categories:
-- Star Wars Episodio I Racer
+- 'Star Wars Episodio I: Racer'
 tags:
-- Star Wars Episodio I Racer
+- 'Star Wars Episodio I: Racer'
 gallery:
  - url: /img/2014/01/SWRacer64-Ronda2-Cap01.jpg
    image_path: /img/2014/01/SWRacer64-Ronda2-Cap01.jpg

@@ -4,16 +4,17 @@ header:
   overlay_image: /img/2015/03/RetroValladolid2015Noti1.jpg
 layout: single
 categories:
-- General
-- Shenmue II
-- Policenauts
-- Sin and Punishment
+- 'General'
+- 'Shenmue II'
+- 'Policenauts'
+- 'Ferias retro'
+- 'Sin and Punishment: Successor of the Earth'
 tags:
-- General
-- Policenauts
-- Shenmue II
-- Ferias Retro
-- Sin and Punishment
+- 'General'
+- 'Policenauts'
+- 'Shenmue II'
+- 'Ferias retro'
+- 'Sin and Punishment: Successor of the Earth'
 ---
 Buenas, antes de empezar a hablar del próximo evento, una actualización breve de estado:
 

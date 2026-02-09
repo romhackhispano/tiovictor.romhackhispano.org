@@ -5,12 +5,12 @@ header:
 layout: single
 categories:
 - 'Persona 3 FES'
-- 'Ace Combat 3: Electrosphere'
+- 'Ace Combat 3: electrosfera'
 - 'Policenauts'
 - 'Broken Sword 2.5'
 tags:
 - 'Persona 3 FES'
-- 'Ace Combat 3: Electrosphere'
+- 'Ace Combat 3: electrosfera'
 - 'Policenauts'
 - 'Broken Sword 2.5'
 ---

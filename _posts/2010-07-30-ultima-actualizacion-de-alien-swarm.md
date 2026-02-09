@@ -6,9 +6,9 @@ date: '2010-07-30 13:33:27 +0200'
 date_gmt: '2010-07-30 12:33:27 +0200'
 layout: single
 categories:
-- Alien Swarm
+- 'Alien Swarm'
 tags:
-- Alien Swarm
+- 'Alien Swarm'
 ---
 Hoy he liberado la versión 1.4 de Alien Swarm, en la que me he cargado 
 prácticamente uno de mis vicios, ponerle tilde a los "éstos" y "ésos". 

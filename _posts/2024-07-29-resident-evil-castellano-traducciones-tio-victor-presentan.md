@@ -5,9 +5,9 @@ header:
 layout: single
 
 categories:
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 tags:
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 ---
 
 ¡Buenas a todos!

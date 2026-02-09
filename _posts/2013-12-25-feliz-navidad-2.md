@@ -4,12 +4,11 @@ header:
   overlay_image: /img/2013/12/NautsNoti04.jpg
 layout: single
 categories:
-- Shenmue II
-- Policenauts
+- 'Shenmue II'
+- 'Policenauts'
 tags:
-- Policenauts
-- Shenmue II
-- Shenmue
+- 'Shenmue II'
+- 'Policenauts'
 ---
 
 {% include video id="vVXRSn8QciA" provider="youtube" %}

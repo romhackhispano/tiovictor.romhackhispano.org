@@ -6,9 +6,9 @@ date: '2009-09-11 20:36:20 +0200'
 date_gmt: '2009-09-11 19:36:20 +0200'
 layout: single
 categories:
-- Zone of the Enders
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
+- 'Zone of the Enders'
 ---
 Está claro que hay días en los que no se da pié con bola y hay días que parece que 
 estás guiado por una intervención divina. He encontrado los malditos punteros de los 

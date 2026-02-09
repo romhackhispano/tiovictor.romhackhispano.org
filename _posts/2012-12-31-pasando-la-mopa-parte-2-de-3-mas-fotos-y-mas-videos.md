@@ -4,16 +4,21 @@ header:
   overlay_image: /img/2012/12/DSENoti08.jpg
 layout: single
 categories:
-- Resident Evil
-- Time Crisis
-- The World Ends With You
-- Shenmue II
-- Dead Space Extraction
-- Ready 2 Rumble
-- SWAT 4 The Stetchkov Syndicate
+- 'Resident Evil: Director''s Cut'
+- 'Time Crisis'
+- 'The World Ends With You'
+- 'Shenmue II'
+- 'Dead Space Extraction'
+- 'Ready 2 Rumble'
+- 'SWAT 4: The Stetchkov Syndicate'
 tags:
-- Dead Space Extraction
-- SWAT 4 The Stetchkov Syndicate
+- 'Resident Evil: Director''s Cut'
+- 'Time Crisis'
+- 'The World Ends With You'
+- 'Shenmue II'
+- 'Dead Space Extraction'
+- 'Ready 2 Rumble'
+- 'SWAT 4: The Stetchkov Syndicate'
 ---
 Aprovecho para comentar ahora que se nos va 2012 más cambios de las antiguas 
 traducciones que hay publicadas.

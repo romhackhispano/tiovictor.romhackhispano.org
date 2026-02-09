@@ -4,14 +4,19 @@ header:
   overlay_image: /img/2013/11/RainbowSixNoti01.jpg
 layout: single
 categories:
-- General
-- Saga Rainbow Six PC
+- 'General'
+- 'Saga Rainbow Six'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroBarcelona'
+- 'RetroBarcelona 2013'
 tags:
-- Retrobarcelona
-- Retromadrid
-- Saga Rainbow Six
-- Rogue Spear
-- RetroBarcelona 2013
+- 'General'
+- 'Saga Rainbow Six'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroBarcelona'
+- 'RetroBarcelona 2013'
 ---
 Antes de nada, quiero **daros las gracias a todos los que os habéis pasado en este 
 RetroBarcelona 2013** por el stand de Dreamcast.es/SegaSaturno, tanto si era para ver 

@@ -5,8 +5,10 @@ header:
 layout: single
 categories:
 - 'General'
+- 'Time Crisis'
 tags:
 - 'General'
+- 'Time Crisis'
 ---
 
 Buenas de nuevo. Tras ver que la actualización del parche de Time Crisis 1 seguía sin funcionar, y gracias al chivatazo del usuario MaxDamage, 

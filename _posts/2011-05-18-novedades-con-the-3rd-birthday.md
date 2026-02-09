@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2011/05/3rdBirthdayNoti04.jpg
 layout: single
 categories:
-- Time Crisis
-- The 3rd Birthday
+- 'Time Crisis'
+- 'The 3rd Birthday'
 tags:
-- Time Crisis
-- The 3rd Birthday
+- 'Time Crisis'
+- 'The 3rd Birthday'
 ---
 En [Chrono Traducciones](http://chronocrossesp.esforos.com/iquest-que-tal-traducir-parasite-eve-3-the-3rd-birthday-t1130)
  se ha actualizado el post del progreso de la traducción de The 3rd 

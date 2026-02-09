@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2016/06/NotiAITD402.jpg
 layout: single
 categories:
-- Alone in the Dark IV DC
+- 'Alone in the Dark IV DC'
 tags:
-- Alone in the Dark IV DC
+- 'Alone in the Dark IV DC'
 ---
 ¡Buenas a todos! Hoy ponemos punto y final a otro largo y enrevesado proyecto. 
 Hoy publicamos la primera versión jugable del parche de traducción de Alone In The Dark: 

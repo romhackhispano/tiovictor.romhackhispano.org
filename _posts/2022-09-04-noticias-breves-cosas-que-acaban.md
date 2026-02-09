@@ -5,14 +5,14 @@ header:
 layout: single
 
 categories:
-- 'Ace Combat 3'
-- 'Echo Night Beyond'
+- 'Ace Combat 3: electrosfera'
+- 'Echo Night: Beyond'
 - 'Crimson Tears'
 - 'A.o.T: Wings of Freedom'
 - 'Resident Evil: Code Veronica'
 tags:
-- 'Ace Combat 3'
-- 'Echo Night Beyond'
+- 'Ace Combat 3: electrosfera'
+- 'Echo Night: Beyond'
 - 'Crimson Tears'
 - 'A.o.T: Wings of Freedom'
 - 'Resident Evil: Code Veronica'

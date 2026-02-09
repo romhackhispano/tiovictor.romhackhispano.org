@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2011/07/TC1Noti08.jpg
 layout: single
 categories:
-- Time Crisis
+- 'Time Crisis'
 tags:
-- Time Crisis
+- 'Time Crisis'
 ---
 Bueno, pues la primera traducción en salir tenía que ser en la que estoy 
 colaborando en Chrono Traducciones, The 3rd Birthday para PSP, pero ha tenido 

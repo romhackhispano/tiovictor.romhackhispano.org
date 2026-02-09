@@ -6,13 +6,13 @@ date: '2010-12-29 00:04:05 +0100'
 date_gmt: '2010-12-28 23:04:05 +0100'
 layout: single
 categories:
-- Time Crisis
-- The World Ends With You
-- Shenmue
+- 'Time Crisis'
+- 'The World Ends With You'
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
-- Time Crisis
+- 'Time Crisis'
+- 'The World Ends With You'
+- 'Shenmue'
 ---
 Bueno, es hora de desvelar el proyecto de doblaje real y el falso, 
 pues ambos juegos serán traducidos:

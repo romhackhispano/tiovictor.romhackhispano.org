@@ -4,13 +4,13 @@ header:
   overlay_image: /img/2013/04/Shen2Noti09.jpg
 layout: single
 categories:
-- Resident Evil 2 Dreamcast
-- Shenmue
-- Shenmue II
+- 'Resident Evil 2'
+- 'Shenmue'
+- 'Shenmue II'
 tags:
-- Shenmue II
-- Shenmue
-- Resident Evil 2
+- 'Resident Evil 2'
+- 'Shenmue'
+- 'Shenmue II'
 gallery:
  - url: /img/2012/03/S2-20121229-01.jpg
    image_path: /img/2012/03/S2-20121229-01.jpg

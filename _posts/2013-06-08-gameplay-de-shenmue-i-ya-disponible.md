@@ -4,12 +4,11 @@ header:
   overlay_image: /img/2013/06/Shen1Noti17.jpg
 layout: single
 categories:
-- General
-- Shenmue
+- 'General'
+- 'Shenmue'
 tags:
-- General
-- Shenmue
-- Shenmue I
+- 'General'
+- 'Shenmue'
 ---
 <a href="http://www.youtube.com/playlist?list=PLiNIM6nrnm3wKI37MHz37jujbVbarU8K-" target="_blank"><center><img src="/img/2013/06/S1.jpg" width="300" height="225" /></center>
 

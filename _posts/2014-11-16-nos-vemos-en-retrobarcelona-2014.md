@@ -4,8 +4,13 @@ header:
   overlay_image: /img/2014/11/RetroBarcelona2014Noti01.jpg
 layout: single
 categories:
-- General
-tags: []
+- 'General'
+- 'Ferias retro'
+- 'RetroBarcelona'
+tags:
+- 'General'
+- 'Ferias retro'
+- 'RetroBarcelona'
 gallery:
  - url: /img/2014/11/ShenmueII-20141116-1.jpg
    image_path: /img/2014/11/ShenmueII-20141116-1.jpg

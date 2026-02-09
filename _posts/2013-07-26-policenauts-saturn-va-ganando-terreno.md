@@ -4,10 +4,11 @@ header:
   overlay_image: /img/2013/07/NautsNoti07.jpg
 layout: single
 categories:
-- Colaboraciones
-- Policenauts
+- 'Colaboraciones'
+- 'Policenauts'
 tags:
-- Policenauts
+- 'Colaboraciones'
+- 'Policenauts'
 ---
 Este mes, la noticia le toca a Policenauts. Aunque el progreso en la versión 
 de PlayStation ha sido lento (Este mes hemos dejado zanjados todos los diálogos 

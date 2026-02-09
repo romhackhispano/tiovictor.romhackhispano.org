@@ -5,7 +5,7 @@ header:
   overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg
 comments: false
 ---
-<h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/capturas/">CAPTURAS</a> - <a href="/clock-tower/descargar/">DESCARGAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/descargar/">DESCARGAS</a> - <a href="/clock-tower/capturas/">CAPTURAS</a></strong></h2>
 
 _**CRÉDITOS DE LA VERSIÓN PARA PLAYSTATION:**_
 

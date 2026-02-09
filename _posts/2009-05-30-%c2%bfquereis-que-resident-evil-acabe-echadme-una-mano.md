@@ -6,9 +6,9 @@ date: '2009-05-30 15:38:39 +0200'
 date_gmt: '2009-05-30 14:38:39 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Hola, escribo este post por dos razones básicas: La primera es para demostrar 
 que no estaba muerto, y la segunda, que me gustaría pediros a vosotros los 

@@ -4,10 +4,9 @@ header:
   overlay_image: /img/2012/07/Shen1Noti09.jpg
 layout: single
 categories:
-- Shenmue
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Shenmue'
 ---
 Saludos a todos, hoy sacamos una nueva revisión menor de la traducción de Shenmue I; 
 la versión BETA 1.0.2.

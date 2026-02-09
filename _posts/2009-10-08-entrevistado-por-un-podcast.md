@@ -6,13 +6,15 @@ date: '2009-10-08 10:20:54 +0200'
 date_gmt: '2009-10-08 09:20:54 +0200'
 layout: single
 categories:
-- General
-- The World Ends With You
-- Policenauts
+- 'General'
+- 'The World Ends With You'
+- 'Policenauts'
+- 'Entrevistas'
 tags:
-- General
-- The World Ends With You
-- Policenauts
+- 'General'
+- 'The World Ends With You'
+- 'Policenauts'
+- 'Entrevistas'
 ---
 Bueno, hoy vengo a comentaros que hará un par de semanas fui entrevistado 
 por el videopodcast mexicano InGameVG, junto con Artemio Urbina, uno de los 

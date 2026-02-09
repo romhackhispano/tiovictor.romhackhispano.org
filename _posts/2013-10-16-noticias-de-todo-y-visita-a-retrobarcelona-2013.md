@@ -4,20 +4,25 @@ header:
   overlay_image: /img/2013/10/RetroBarnaNoti.jpg
 layout: single
 categories:
-- Shenmue II
-- Policenauts
-- Saga Rainbow Six PC
-- Shadow Watch
+- 'Policenauts'
+- 'Shenmue II'
+- 'Shenmue'
+- 'Saga Rainbow Six'
+- 'Shadow Watch'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroBarcelona'
+- 'RetroBarcelona 2013'
 tags:
-- Retrobarcelona
-- Retromadrid
-- Policenauts
-- Shenmue II
-- Shenmue
-- Saga Rainbow Six
-- Rogue Spear
-- RetroBarcelona 2013
-- Shadow Watch
+- 'Policenauts'
+- 'Shenmue II'
+- 'Shenmue'
+- 'Saga Rainbow Six'
+- 'Shadow Watch'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroBarcelona'
+- 'RetroBarcelona 2013'
 ---
 Bueno, hoy sí que tengo MUCHO que contar. Pero mucho. Vamos por partes, empezando 
 con lo conocido:

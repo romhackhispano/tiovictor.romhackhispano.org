@@ -6,9 +6,9 @@ date: '2010-01-30 01:15:11 +0100'
 date_gmt: '2010-01-30 00:15:11 +0100'
 layout: single
 categories:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 ---
 Bueno, las últimas novedades sobre Dead Space son que los trabajos de inserción, 
 que se está currando íntegramente TBG (Maldito sea el día en el que no se hizo 

@@ -6,9 +6,9 @@ date: '2010-01-12 19:44:03 +0100'
 date_gmt: '2010-01-12 18:44:03 +0100'
 layout: single
 categories:
-- General
+- 'General'
 tags:
-- General
+- 'General'
 ---
 Seguro que muchos de los que os paséis por aquí que séais de España 
 estaréis hasta las pelotas de tanto lo que está pasando con la ley de 

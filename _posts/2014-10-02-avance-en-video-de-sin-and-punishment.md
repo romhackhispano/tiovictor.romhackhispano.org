@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2014/10/EntradaSAP01.jpg
 layout: single
 categories:
-- Sin and Punishment
+- 'Sin and Punishment: Successor of the Earth'
 tags:
-- Sin and Punishment
+- 'Sin and Punishment: Successor of the Earth'
 ---
 Como comenté hace dos noticias, aquí tenéis el aperitivo visible (Y, sobre todo, audible) 
 del proyecto de traducción y doblaje de **Sin and Punishment: Successor of the Earth** para 

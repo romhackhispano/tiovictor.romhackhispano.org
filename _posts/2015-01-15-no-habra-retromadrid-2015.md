@@ -2,9 +2,13 @@
 title: "No habrá RetroMadrid 2015"
 layout: single
 categories:
-- General
+- 'General'
+- 'Ferias retro'
+- 'RetroMadrid'
 tags:
-- Retromadrid
+- 'General'
+- 'Ferias retro'
+- 'RetroMadrid'
 ---
 La AUIC, la asociación que organizaba los eventos de RetroMadrid, [ha anunciado 
 oficialmente](http://www.retromadrid.org/comunicado-oficial-retromadrid-2016/) que este 

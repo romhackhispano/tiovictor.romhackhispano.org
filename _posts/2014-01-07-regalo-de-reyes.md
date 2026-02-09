@@ -4,10 +4,9 @@ header:
   overlay_image: /img/2014/01/Shen2Noti05.jpg
 layout: single
 categories:
-- Shenmue II
+- 'Shenmue II'
 tags:
-- Shenmue II
-- Shenmue
+- 'Shenmue II'
 ---
 Que me dicen los Reyes Magos que os diga esto:
 

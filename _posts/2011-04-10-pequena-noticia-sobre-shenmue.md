@@ -4,10 +4,9 @@ header:
   overlay_image: /img/2011/04/Shen1Noti13.jpg
 layout: single
 categories:
-- Shenmue
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Shenmue'
 ---
 Me he estado esperando a que se publicara la noticia en la página donde se 
 inició este proyecto para anunciarlo aquí. El pasado sábado tuvo lugar en 

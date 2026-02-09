@@ -6,10 +6,11 @@ date: '2007-04-05 21:30:55 +0200'
 date_gmt: '2007-04-05 19:30:55 +0200'
 layout: single
 categories:
-- Colaboraciones
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, me informan (y he comprobado) de que la mitad de las carpetas de 
 stages del Resident Evil tienen una cantidad bastante menor de texto a tocar 

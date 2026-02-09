@@ -6,9 +6,11 @@ layout: single
 categories:
 - 'General'
 - 'Shenmue'
+- 'Entrevistas'
 tags:
 - 'General'
 - 'Shenmue'
+- 'Entrevistas'
 ---
 
 Buenas a todos. Esta noticia va a ser más personal de lo habitual, quería comentaros cuál es mi punto de vista acerca 

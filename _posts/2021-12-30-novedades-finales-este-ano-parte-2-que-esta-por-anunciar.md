@@ -117,12 +117,12 @@ gallery3:
    image_path: /img/2021/12/AOT-20211230-17.jpg
 
 categories:
-- 'Echo Night Beyond'
+- 'Echo Night: Beyond'
 - 'Crimson Tears'
 - 'A.o.T: Wings of Freedom'
 - 'Resident Evil: Code Veronica'
 tags:
-- 'Echo Night Beyond'
+- 'Echo Night: Beyond'
 - 'Crimson Tears'
 - 'A.o.T: Wings of Freedom'
 - 'Resident Evil: Code Veronica'

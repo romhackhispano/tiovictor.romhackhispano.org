@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2011/06/3rdBirthdayNoti02.jpg
 layout: single
 categories:
-- The 3rd Birthday
+- 'The 3rd Birthday'
 tags:
-- The 3rd Birthday
+- 'The 3rd Birthday'
 ---
 Ya le queda poco al 3rd Birthday...
 

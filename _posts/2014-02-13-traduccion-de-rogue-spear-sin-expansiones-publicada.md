@@ -4,10 +4,9 @@ header:
   overlay_image: /img/2014/02/SagaRogueSpearNoti02.jpg
 layout: single
 categories:
-- Saga Rainbow Six PC
+- 'Saga Rainbow Six'
 tags:
-- Saga Rainbow Six
-- Rogue Spear
+- 'Saga Rainbow Six'
 ---
 En vista de que la traducción de las expansiones de Rogue Spear va para largo 
 (Con tantos proyectos entre medias), le he dedicado unas horas al juego base 

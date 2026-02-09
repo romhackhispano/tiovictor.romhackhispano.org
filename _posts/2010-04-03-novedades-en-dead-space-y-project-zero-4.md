@@ -6,9 +6,9 @@ date: '2010-04-03 20:21:08 +0200'
 date_gmt: '2010-04-03 19:21:08 +0200'
 layout: single
 categories:
-- Project Zero 4
+- 'Project Zero 4'
 tags:
-- Project Zero 4
+- 'Project Zero 4'
 ---
 Bueno, va siendo hora de dar señales de vida...
 

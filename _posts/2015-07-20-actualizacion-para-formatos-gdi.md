@@ -2,14 +2,13 @@
 title: "Actualización para formatos GDI"
 layout: single
 categories:
-- Resident Evil 2 Dreamcast
-- Shenmue
-- What's Shenmue Español
+- 'Resident Evil 2'
+- 'Shenmue'
+- 'What''s Shenmue'
 tags:
-- Shenmue
-- Shenmue I
-- Resident Evil 2
-- What's Shenmue
+- 'Resident Evil 2'
+- 'Shenmue'
+- 'What''s Shenmue'
 ---
 Buenas a todos, estos días PacoChan y yo hemos estado actualizando las traducciones para 
 Dreamcast que aún no se podían exportar a formato GDI:

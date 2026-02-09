@@ -6,9 +6,9 @@ date: '2010-01-20 22:18:15 +0100'
 date_gmt: '2010-01-20 21:18:15 +0100'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Gracias a la inestimable ayuda de Alberto (Alu), he publicado un nuevo parche 
 con dos correcciones, una menor y una media: la primera está en el pasillo que 

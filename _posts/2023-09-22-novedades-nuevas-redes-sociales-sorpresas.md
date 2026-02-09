@@ -7,12 +7,12 @@ layout: single
 categories:
 - 'Policenauts'
 - 'Prisoner of Ice'
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 - 'General'
 tags:
 - 'Policenauts'
 - 'Prisoner of Ice'
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 - 'General'
 ---
 

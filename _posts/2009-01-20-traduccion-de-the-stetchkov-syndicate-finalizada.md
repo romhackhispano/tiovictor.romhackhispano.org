@@ -6,11 +6,11 @@ date: '2009-01-20 15:32:50 +0100'
 date_gmt: '2009-01-20 14:32:50 +0100'
 layout: single
 categories:
-- Resident Evil
-- SWAT 4 The Stetchkov Syndicate
+- 'Resident Evil: Director''s Cut'
+- 'SWAT 4: The Stetchkov Syndicate'
 tags:
-- Resident Evil
-- SWAT 4 The Stetchkov Syndicate
+- 'Resident Evil: Director''s Cut'
+- 'SWAT 4: The Stetchkov Syndicate'
 ---
 Bueno, lo primero de todo, feliz año, algo tardío, lo siento. He estado liado con varias 
 cosas y por azares del destino, he pensado en rematar las cosas que tenía a medias.

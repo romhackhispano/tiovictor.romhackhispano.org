@@ -21,7 +21,7 @@ SoX, el equipo de FFMpeg, el equipo de ImageMagick, Kingcom y el equipo
 de armips, Steve «Klarth» Monaco (Atlas), RedComet (Cartographer), 
 Stenzek (Duckstation).
 
-_**Créditos del doblaje al castellano:**_
+_**Créditos del doblaje al castellano:**_  
 __Dirección de doblaje, grabación y de mezclas:__ IlDucci  
 __Asesoría de acentos:__ Max Schübel  
 __Revisión de mezcla:__ Salvi Garrido
@@ -33,8 +33,8 @@ Coronel Hargrove: Paco Nieto<br>
 Manon Batiste: Henar Hernández<br>
 Alemán narrador: Max Schübel<br>
 
-Voces adicionales: Salvi Garrido, David Flores, Germán Mozo, Carlos Lorenzo, Víctor González, Enrique Carmena<br>
-</center>
+Voces adicionales: Salvi Garrido, David Flores, Germán Mozo, Carlos Lorenzo, Víctor González, Enrique Carmena
+</center><br>
 
 __Agradecimientos:__ A AegisTranslator por ponerme en contacto con Max y por su ayuda 
 lingüística, a ConanCimmerio por seguir al pie del cañón, a danke y a 

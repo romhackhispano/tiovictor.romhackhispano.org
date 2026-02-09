@@ -5,9 +5,9 @@ header:
 layout: single
 
 categories:
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 tags:
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 ---
 Señoras y señores, por fin Traducciones del Tío Víctor y Load Word Team **estamos listos para dar fecha al lanzamiento del parche de traducción al inglés y castellano de Ace Combat 3: electrosfera.**
 

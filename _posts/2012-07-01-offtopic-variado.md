@@ -4,14 +4,13 @@ header:
   overlay_image: /img/2012/07/Shen1Noti07.jpg
 layout: single
 categories:
-- General
-- Colaboraciones
-- Shenmue
-- Shenmue II
+- 'General'
+- 'Colaboraciones'
+- 'Shenmue'
 tags:
-- General
-- Shenmue
-- Shenmue I
+- 'General'
+- 'Colaboraciones'
+- 'Shenmue'
 ---
 
 Antes de nada, un aviso para todos aquellos que, por unos u otros motivos, 

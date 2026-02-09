@@ -2,11 +2,11 @@
 title: "Actualización de Shenmue II y What's Shenmue"
 layout: single
 categories:
-- Shenmue II
-- What's Shenmue Español
+- 'Shenmue II'
+- 'What''s Shenmue'
 tags:
-- Shenmue II
-- What's Shenmue
+- 'Shenmue II'
+- 'What''s Shenmue'
 ---
 Buenas, aquí os dejo una nueva actualización de los parches de traducción de Shenmue II. 
 Este parche es vital para todo aquel que quiera jugar en CDs de 99min, ya que corrige el 

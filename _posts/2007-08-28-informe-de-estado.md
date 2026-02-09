@@ -6,9 +6,9 @@ date: '2007-08-28 13:48:12 +0200'
 date_gmt: '2007-08-28 11:48:12 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Creo que ya va siendo hora de demostrar que no nos hemos olvidado de este sitio. A decir verdad,
 como a la mayoría de los traductores/romhackers, nos gusta trabajar en silencio e informar 

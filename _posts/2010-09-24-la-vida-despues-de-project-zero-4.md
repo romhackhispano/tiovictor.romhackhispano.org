@@ -6,12 +6,15 @@ date: '2010-09-24 21:37:26 +0200'
 date_gmt: '2010-09-24 20:37:26 +0200'
 layout: single
 categories:
-- Project Zero 4
-- Resident Evil 2 Dreamcast
-- The World Ends With You
+- 'Project Zero 4'
+- 'Resident Evil 2'
+- 'The World Ends With You'
+- 'Silent Hill 1'
 tags:
-- Silent Hill
-- Resident Evil 2
+- 'Project Zero 4'
+- 'Resident Evil 2'
+- 'The World Ends With You'
+- 'Silent Hill 1'
 ---
 Bueno, va siendo hora de dar señales de vida. Aunque este mes he estado liado 
 con TWEWY y con RE2, los progresos han ido lentos.

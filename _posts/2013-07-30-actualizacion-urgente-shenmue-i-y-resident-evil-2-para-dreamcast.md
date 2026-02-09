@@ -4,12 +4,11 @@ header:
   overlay_image: /img/2013/07/Shen1Noti15.jpg
 layout: single
 categories:
-- Resident Evil 2 Dreamcast
-- Shenmue
+- 'Resident Evil 2'
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
-- Resident Evil 2
+- 'Resident Evil 2'
+- 'Shenmue'
 ---
 Hemos descubierto recientemente que el sistema para reordenar los archivos 
 dentro de las imágenes generadas por el Parcheador de PacoChan nunca funcionaron 

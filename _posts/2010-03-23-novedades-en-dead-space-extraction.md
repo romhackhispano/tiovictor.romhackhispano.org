@@ -6,9 +6,9 @@ date: '2010-03-23 20:18:34 +0100'
 date_gmt: '2010-03-23 19:18:34 +0100'
 layout: single
 categories:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 ---
 Hola, hoy tengo dos novedades en la traducción de Dead Space Extraction: 
 la primera es que seguimos limpiando bugs de texto, que nos quedan unos 

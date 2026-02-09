@@ -6,9 +6,9 @@ date: '2009-12-31 16:07:27 +0100'
 date_gmt: '2009-12-31 15:07:27 +0100'
 layout: single
 categories:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 ---
 Aquí os traigo las primeras imágenes capturadas por TBG de la traducción de Dead Space Extraction:
 

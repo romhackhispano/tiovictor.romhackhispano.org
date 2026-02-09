@@ -4,15 +4,25 @@ header:
   overlay_image: /img/2014/02/SilentHillTWINENoti01.jpg
 layout: single
 categories:
-- General
-- Personal
+- 'General'
+- 'Personal'
+- 'Silent Hill 1'
+- 'Shenmue'
+- 'Shenmue II'
+- 'El Mundo Nunca Es Suficiente'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2014'
 tags:
-- Silent Hill
-- Shenmue II
-- Shenmue
-- El Mundo Nunca Es Suficiente
-- Ferias Retro
-- The World Is Not Enough
+- 'General'
+- 'Personal'
+- 'Silent Hill 1'
+- 'Shenmue'
+- 'Shenmue II'
+- 'El Mundo Nunca Es Suficiente'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2014'
 ---
 Sí, vuelve [la feria retro por excelencia](http://www.retromadrid.org/) 
 de la capital de España, este año tendrá lugar  los días 26 y 27 de abril, 

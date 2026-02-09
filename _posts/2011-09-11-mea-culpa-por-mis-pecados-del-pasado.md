@@ -4,12 +4,13 @@ header:
   overlay_image: /img/2012/03/Interrogacion.jpg
 layout: single
 categories:
-- General
-- Personal
-- Fragile Dreams
+- 'General'
+- 'Personal'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 tags:
-- General
-- Fragile Dreams Farewell Ruins of the Moon
+- 'General'
+- 'Personal'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 ---
 (Sí, ya sé que esto estaba en el post del Resident Evil 2, pero creo que se merece 
 un post propio, para mi vergüenza y oprobio)

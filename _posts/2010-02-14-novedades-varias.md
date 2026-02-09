@@ -6,19 +6,17 @@ date: '2010-02-14 19:27:00 +0100'
 date_gmt: '2010-02-14 18:27:00 +0100'
 layout: single
 categories:
-- Project Zero 4
-- Resident Evil 2 Dreamcast
-- The World Ends With You
-- Shenmue
-- Dead Space Extraction
+- 'Project Zero 4'
+- 'Resident Evil 2'
+- 'The World Ends With You'
+- 'Shenmue'
+- 'Dead Space Extraction'
 tags:
-- Resident Evil
-- Dead Space Extraction
-- Project Zero 4
-- The World Ends With You
-- Shenmue
-- Shenmue I
-- Resident Evil 2
+- 'Project Zero 4'
+- 'Resident Evil 2'
+- 'The World Ends With You'
+- 'Shenmue'
+- 'Dead Space Extraction'
 ---
 Bueno, creo que ya va siendo hora de comentar exactamente todos los fregaos 
 en los que estoy metido actualmente. Que son unos cuántos.

@@ -4,10 +4,9 @@ header:
   overlay_image: /img/2012/06/Shen1Noti06.jpg
 layout: single
 categories:
-- Shenmue
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Shenmue'
 ---
 Apenas ha pasado una semana y ya tenemos que actualizar el parche 
 de traducción de Shenmue I a la versión 1.0.1.

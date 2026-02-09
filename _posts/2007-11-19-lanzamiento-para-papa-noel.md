@@ -6,12 +6,13 @@ date: '2007-11-19 15:33:09 +0100'
 date_gmt: '2007-11-19 13:33:09 +0100'
 layout: single
 categories:
-- General
-- Resident Evil
-- Contract J.A.C.K.
+- 'General'
+- 'Resident Evil: Director''s Cut'
+- 'Contract J.A.C.K.'
 tags:
-- Resident Evil
-- Contract J.A.C.K.
+- 'General'
+- 'Resident Evil: Director''s Cut'
+- 'Contract J.A.C.K.'
 ---
 Para empezar, los trabajos realizados para mejorar la traducción siguen adelante 
 y están muy avanzados, probablemente acaben a finales de mes, para luego iniciar 

@@ -6,10 +6,11 @@ date: '2007-03-30 13:55:28 +0200'
 date_gmt: '2007-03-30 11:55:28 +0200'
 layout: single
 categories:
-- General
-- Resident Evil
+- 'General'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'General'
+- 'Resident Evil: Director''s Cut'
 ---
 
 Buenas, después de dejar abandonada una web que nunca salió debidamente a la luz, vuelvo a intentarlo.

@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2013/11/EnObrasNoti.jpg
 layout: single
 categories:
-- General
+- 'General'
 tags:
-- General
+- 'General'
 ---
 El blog está teniendo problemas con las descargas (Varias de ellas no funcionan 
 correctamente). En cuanto resuelva el problema lo notificaré.

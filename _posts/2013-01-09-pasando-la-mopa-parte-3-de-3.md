@@ -4,18 +4,19 @@ header:
   overlay_image: /img/2013/01/SilentHillNoti02.jpg
 layout: single
 categories:
-- Resident Evil
-- Time Crisis
-- Policenauts
-- Ready 2 Rumble
-- Silent Hill de PSOne
-- El Mundo Nunca es Suficiente (Nintendo 64)
+- 'Resident Evil: Director''s Cut'
+- 'Time Crisis'
+- 'Policenauts'
+- 'Ready 2 Rumble'
+- 'Silent Hill 1'
+- 'El Mundo Nunca Es Suficiente'
 tags:
-- Resident Evil
-- Silent Hill
-- Ready 2 Rumble
-- Time Crisis
-- El Mundo Nunca Es Suficiente
+- 'Resident Evil: Director''s Cut'
+- 'Time Crisis'
+- 'Policenauts'
+- 'Ready 2 Rumble'
+- 'Silent Hill 1'
+- 'El Mundo Nunca Es Suficiente'
 ---
 ¿Qué tal los reyes? Bueno, por nuestra parte decir que la revisión de Shenmue 2 
 sigue su curso, que recientemente le hemos dado otro empuje al Policenauts, y que 

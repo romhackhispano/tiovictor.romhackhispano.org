@@ -4,15 +4,13 @@ header:
   overlay_image: /img/2013/12/SagaRogueSpearNoti01.jpg
 layout: single
 categories:
-- General
-- Shenmue II
-- Saga Rainbow Six PC
+- 'General'
+- 'Shenmue II'
+- 'Saga Rainbow Six'
 tags:
-- General
-- Shenmue II
-- Shenmue
-- Saga Rainbow Six
-- Rogue Spear
+- 'General'
+- 'Shenmue II'
+- 'Saga Rainbow Six'
 ---
 - Rogue Spear, Black Thorn, Covert Ops Essentials y Classic Missions están traducidos 
 al 100% y en proceso de revisión. Solo faltan las líneas de Urban Operations y 

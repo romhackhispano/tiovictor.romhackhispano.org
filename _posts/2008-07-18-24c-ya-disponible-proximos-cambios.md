@@ -6,9 +6,9 @@ date: '2008-07-18 18:43:27 +0200'
 date_gmt: '2008-07-18 17:43:27 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 
 Bueno, me he dedicado a hacer una copia de todos los textos del juego,

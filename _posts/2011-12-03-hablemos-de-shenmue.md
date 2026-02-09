@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2011/12/Shen1Noti12.jpg
 layout: single
 categories:
-- Colaboraciones
-- Shenmue
+- 'Colaboraciones'
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Colaboraciones'
+- 'Shenmue'
 ---
 Bueno, ahora que TWEWY ha tenido su ración de publicidad (¡2500 visualizaciones 
 del vídeo, muchísimas gracias!), pero pocas descargas (A los piratas les importa 

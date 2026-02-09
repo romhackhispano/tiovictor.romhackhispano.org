@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2014/08/SilentHillNoti07.jpg
 layout: single
 categories:
-- Personal
-- Silent Hill de PSOne
+- 'Personal'
+- 'Silent Hill 1'
 tags:
-- Silent Hill
-- Personal
+- 'Personal'
+- 'Silent Hill 1'
 ---
 Antes de nada, quiero comentar lo que ha sido el terremoto en la escena del romhack de 
 este año: el caso del Final Fantasy Type-0. No quiero dar mi opinión o comentar nada más 

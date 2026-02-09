@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2011/11/TWEWYNoti03.jpg
 layout: single
 categories:
-- The World Ends With You
+- 'The World Ends With You'
 tags:
-- The World Ends With You
+- 'The World Ends With You'
 ---
 Bueno, más de dos mesecitos sin publicar nada, ya iba siendo hora de publicar 
 alguna noticia. Este silencio ha tenido una razón, y es que me he dedicado a 

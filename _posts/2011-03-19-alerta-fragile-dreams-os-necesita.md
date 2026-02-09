@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2011/03/FragileNoti01.jpg
 layout: single
 categories:
-- Fragile Dreams
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 tags:
-- Fragile Dreams Farewell Ruins of the Moon
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 ---
 Lamento tener que dar estas malas noticias, pero la situación es bastante 
 preocupante. Tenemos pruebas más que suficientes para creer que hay alguien 

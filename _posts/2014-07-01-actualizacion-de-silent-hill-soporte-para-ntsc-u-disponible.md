@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2014/07/SilentHillNoti06.jpg
 layout: single
 categories:
-- Silent Hill de PSOne
+- 'Silent Hill 1'
 tags:
-- Silent Hill
+- 'Silent Hill 1'
 ---
 Recuerdo haber dicho en su día que convertir la traducción de Silent Hill a la versión 
 NTSC-U era imposible. Y lo seguía siendo en su día por dos factores:

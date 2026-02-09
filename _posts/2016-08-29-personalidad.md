@@ -4,9 +4,9 @@ header:
   overlay_image: /img/NotiEnBlancoV2.jpg
 layout: single
 categories:
-- 'Persona 3'
+- 'Persona 3 FES'
 tags:
-- 'Persona 3'
+- 'Persona 3 FES'
 gallery:
  - url: /img/2016/08/P3FES-20160829-01.jpg
    image_path: /img/2016/08/P3FES-20160829-01.jpg

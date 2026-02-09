@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2013/11/EnObrasNoti.jpg
 layout: single
 categories:
-- General
+- 'General'
 tags:
-- General
+- 'General'
 ---
 Estamos de reformas. Como veis, he cambiado el aspecto por uno más "modenno", y 
 aún estamos haciendo retoques y aprovechándolo al máximo. También estoy arreglando 

@@ -4,16 +4,21 @@ header:
   overlay_image: /img/2013/02/NautsNoti01.jpg
 layout: single
 categories:
-- General
-- Shenmue
-- Shenmue II
-- Policenauts
+- 'General'
+- 'Policenauts'
+- 'Shenmue II'
+- 'Shenmue'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2013'
 tags:
-- Retromadrid
-- Policenauts
-- Shenmue II
-- Shenmue
-- RetroMadrid 2013
+- 'General'
+- 'Policenauts'
+- 'Shenmue II'
+- 'Shenmue'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2013'
 ---
 Pero antes, un inciso sobre Shenmue y otras cosas: La revisión de Shenmue II 
 ha frenado su curso, se sigue haciendo pero a un ritmo más despacio. Yo he 

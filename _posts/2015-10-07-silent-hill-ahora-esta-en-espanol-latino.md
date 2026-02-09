@@ -5,9 +5,13 @@ header:
   overlay_image: /img/2015/10/SilentHillNoti09.jpg
 layout: single
 categories:
-- Silent Hill de PSOne
+- 'Silent Hill 1'
+- 'Ferias retro'
+- 'RetroBarcelona'
 tags:
-- Silent Hill
+- 'Silent Hill 1'
+- 'Ferias retro'
+- 'RetroBarcelona'
 ---
 ¡Muy chidas noches! En el menú del día os traemos una actualización del parche de 
 Silent Hill... Con una nueva versión. Aparte de los clásicos retoques al parche en 

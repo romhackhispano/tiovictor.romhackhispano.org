@@ -6,9 +6,9 @@ date: '2010-10-25 11:39:28 +0200'
 date_gmt: '2010-10-25 10:39:28 +0200'
 layout: single
 categories:
-- General
+- 'General'
 tags:
-- General
+- 'General'
 ---
 Pero no es la sorpresa que os guardo de la anterior noticia, sino 
 una que me han endosado a mí.

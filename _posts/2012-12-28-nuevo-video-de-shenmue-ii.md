@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2012/12/Inocentada.jpg
 layout: single
 categories:
-- Shenmue
-- Shenmue II
+- 'Shenmue'
+- 'Shenmue II'
 tags:
-- Shenmue II
-- Shenmue
+- 'Shenmue'
+- 'Shenmue II'
 ---
 <span style="color: #ff0000;">**<em>(EDIT 29 de diciembre: ¡Inocente, inocente!)</em>**</span> Vídeo 
 perpetrado por IlDucci, TheFireRed y Gadesx.

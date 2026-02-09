@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2014/06/SilentHillNoti05.jpg
 layout: single
 categories:
-- Silent Hill de PSOne
+- 'Silent Hill 1'
 tags:
-- Silent Hill
+- 'Silent Hill 1'
 gallery:
  - url: /img/2009/06/SHv20-01.jpg
    image_path: /img/2009/06/SHv20-01.jpg

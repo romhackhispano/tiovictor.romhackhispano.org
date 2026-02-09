@@ -6,9 +6,9 @@ date: '2007-12-28 20:04:42 +0100'
 date_gmt: '2007-12-28 19:04:42 +0100'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, han sido necesarios nueve meses, pero ya están arreglados todos los punteros.
 Ahora los textos del juego tendrán una mejor presentación. Además, se ha revisado la

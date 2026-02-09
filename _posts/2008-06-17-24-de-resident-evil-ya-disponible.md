@@ -6,9 +6,9 @@ date: '2008-06-17 20:21:40 +0200'
 date_gmt: '2008-06-17 19:21:40 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, aquí vengo con otra actualización de la traducción de Resident Evil: Director's Cut.
 Me he saltado un número porque se me olvidó sacar la 2.3, debido a que andaba buscando un fallo que no encontré.

@@ -6,12 +6,11 @@ date: '2009-11-20 11:23:37 +0100'
 date_gmt: '2009-11-20 10:23:37 +0100'
 layout: single
 categories:
-- The World Ends With You
-- Shenmue
+- 'The World Ends With You'
+- 'Shenmue'
 tags:
-- The World Ends With You
-- Shenmue
-- Shenmue I
+- 'The World Ends With You'
+- 'Shenmue'
 ---
 Bueno, quería comentar por aquí exactamente cuáles son los proyectos en los 
 que estoy trabajando. Por un lado, estoy terminando la traducción de textos 

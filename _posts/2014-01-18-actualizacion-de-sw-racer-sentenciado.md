@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2014/01/SWRacerNoti02.jpg
 layout: single
 categories:
-- Star Wars Episodio I Racer
+- 'Star Wars Episodio I: Racer'
 tags:
-- Star Wars Episodio I Racer
+- 'Star Wars Episodio I: Racer'
 ---
 Saqué esta traducción con cierta prisa por lo que ha demostrado ser una 
 estupidez. Ahora con algo de tiempo y la mágica mano del todopoderoso PacoChan, 

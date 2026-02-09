@@ -4,10 +4,11 @@ header:
   overlay_image: /img/2011/07/TC1Noti01.jpg
 layout: single
 categories:
-- General
-- Time Crisis
+- 'General'
+- 'Time Crisis'
 tags:
-- Time Crisis
+- 'General'
+- 'Time Crisis'
 ---
 Bueno, pues tras hablarlo con el reparto de voces, y viendo que hay pocas 
 descargas del parche en sí, he decidido colgar en YouTube dos gameplays con 

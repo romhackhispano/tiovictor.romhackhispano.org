@@ -4,12 +4,19 @@ header:
   overlay_image: /img/2013/03/RetroMadrid2013Noti01.jpg
 layout: single
 categories:
-- General
-- Shenmue II
-- Policenauts
+- 'General'
+- 'Shenmue II'
+- 'Policenauts'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2013'
 tags:
-- Retromadrid
-- RetroMadrid 2013
+- 'General'
+- 'Shenmue II'
+- 'Policenauts'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2013'
 ---
 Solo pasaba para decir dos cosas: La primera, las traducciones de Shenmue II 
 y Policenauts siguen avanzando, aunque ahora mismo es el Nauts el que ha avanzado 

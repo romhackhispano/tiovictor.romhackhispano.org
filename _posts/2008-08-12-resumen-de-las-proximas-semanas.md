@@ -6,9 +6,9 @@ date: '2008-08-12 13:33:22 +0200'
 date_gmt: '2008-08-12 12:33:22 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Lo primero, lamento haber tardado más de lo que dije en informar de las novedades. 
 Lo segundo, he pedido a Pokechar y Monicapo de Fortaleza Romhack que revisaran el 

@@ -6,12 +6,15 @@ date: '2007-04-02 19:12:37 +0200'
 date_gmt: '2007-04-02 17:12:37 +0200'
 layout: single
 categories:
-- Personal
-- Colaboraciones
-- Resident Evil
-- SWAT 4 The Stetchkov Syndicate
+- 'Personal'
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
+- 'SWAT 4: The Stetchkov Syndicate'
 tags:
-- Resident Evil
+- 'Personal'
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
+- 'SWAT 4: The Stetchkov Syndicate'
 ---
 Bueno, hoy he terminado el trabajo de los vídeos. He anulado la textura de subtítulos 
 original de la versión francesa, y he insertado otras tres FMV que necesitaban cambios 

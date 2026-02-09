@@ -4,13 +4,13 @@ header:
   overlay_image: /img/2012/03/Interrogacion.jpg
 layout: single
 categories:
-- The World Ends With You
-- Shenmue
+- 'General'
+- 'The World Ends With You'
+- 'Shenmue'
 tags:
-- General
-- The World Ends With You
-- Shenmue
-- Shenmue I
+- 'General'
+- 'The World Ends With You'
+- 'Shenmue'
 ---
 Actualizaciones breves hoy. No me he ido de vacaciones precisamente en lo que 
 son las fantraducciones, llevo desde el final del 3rd Birthday haciendo una 

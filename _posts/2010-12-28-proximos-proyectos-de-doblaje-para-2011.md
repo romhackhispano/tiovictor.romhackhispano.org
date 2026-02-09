@@ -6,14 +6,13 @@ date: '2010-12-28 00:35:38 +0100'
 date_gmt: '2010-12-27 23:35:38 +0100'
 layout: single
 categories:
-- Time Crisis
-- The World Ends With You
-- Shenmue
+- 'Time Crisis'
+- 'The World Ends With You'
+- 'Shenmue'
 tags:
-- The World Ends With You
-- Shenmue
-- Shenmue I
-- Time Crisis
+- 'Time Crisis'
+- 'The World Ends With You'
+- 'Shenmue'
 ---
 Señores, lamento tener que volver a hacer un anuncio en estas fechas 
 (Debería haber aprendido tras lo de Resident Evil 2 por parte de Ryo 

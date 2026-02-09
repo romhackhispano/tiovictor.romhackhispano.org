@@ -4,10 +4,11 @@ header:
   overlay_image: /img/2011/07/3rdBirthdayNoti07.jpg
 layout: single
 categories:
-- Colaboraciones
-- The 3rd Birthday
+- 'Colaboraciones'
+- 'The 3rd Birthday'
 tags:
-- The 3rd Birthday
+- 'Colaboraciones'
+- 'The 3rd Birthday'
 ---
 Hoy, por ser un día como otro cualquiera, el equipo de traducción 
 de The 3rd Birthday ha publicado la primera versión del parche en Castellano.

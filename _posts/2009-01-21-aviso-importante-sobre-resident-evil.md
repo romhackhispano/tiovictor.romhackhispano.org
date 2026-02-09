@@ -6,9 +6,9 @@ date: '2009-01-21 14:04:11 +0100'
 date_gmt: '2009-01-21 13:04:11 +0100'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, lo primero, quiero comentar que ya he encontrado tiempo para volver con 
 Resident Evil y lo estoy empleando en hacer esas correcciones de fallos y de sincronia 

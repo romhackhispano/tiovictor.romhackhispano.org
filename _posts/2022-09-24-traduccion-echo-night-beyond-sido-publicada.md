@@ -5,9 +5,9 @@ header:
 layout: single
 
 categories:
-- 'Echo Night Beyond'
+- 'Echo Night: Beyond'
 tags:
-- 'Echo Night Beyond'
+- 'Echo Night: Beyond'
 ---
 
 ¡Buenas a todos! Tras una temporadita en la que se me ha acumulado el trabajo (culpa mía), hoy puedo ofreceros 

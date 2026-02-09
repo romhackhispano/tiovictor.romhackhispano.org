@@ -45,10 +45,10 @@ gallery:
 
 categories:
 - 'Silent Hill 3'
-- 'Silent Hill 4 The Room'
+- 'Silent Hill 4: The Room'
 tags:
 - 'Silent Hill 3'
-- 'Silent Hill 4 The Room'
+- 'Silent Hill 4: The Room'
 ---
 
 ¡Buenas a todos! **Hoy publicamos el parche de revisión de los textos en castellano de Silent Hill 3, tanto para la versión europea de PlayStation 2 

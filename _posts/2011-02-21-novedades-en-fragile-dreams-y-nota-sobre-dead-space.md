@@ -4,12 +4,13 @@ header:
   overlay_image: /img/2011/02/FragileNoti09.jpg
 layout: single
 categories:
-- General
-- Fragile Dreams
-- Dead Space Extraction
+- 'General'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
-- Fragile Dreams Farewell Ruins of the Moon
+- 'General'
+- 'Fragile Dreams: Farewell Ruins of the Moon'
+- 'Dead Space Extraction'
 ---
 Bueno, ayer un viejo conocido de Project Zero 4 me mostró su intención de redactar 
 un artículo sobre el último proyecto que se está llevando aquí, Fragile Dreams, 

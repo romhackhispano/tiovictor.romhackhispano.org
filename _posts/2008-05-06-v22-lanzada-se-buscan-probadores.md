@@ -6,9 +6,9 @@ date: '2008-05-06 16:06:54 +0200'
 date_gmt: '2008-05-06 15:06:54 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, lo primero de todo: He corregido unos cuantos errores ortográficos y un fallo 
 en los subtítulos de una escena, gracias a la información de Numaios.

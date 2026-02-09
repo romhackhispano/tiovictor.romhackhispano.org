@@ -6,12 +6,11 @@ date: '2009-12-20 15:13:26 +0100'
 date_gmt: '2009-12-20 14:13:26 +0100'
 layout: single
 categories:
-- Shenmue
-- Dead Space Extraction
+- 'Shenmue'
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
-- Shenmue
-- Shenmue I
+- 'Shenmue'
+- 'Dead Space Extraction'
 ---
 Parece ser que la última versión de WordPress no vino lo suficientemente fina 
 como para funcionar, de ahí que estos dos últimos días los que hayáis intentado 

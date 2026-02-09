@@ -2,13 +2,13 @@
 title: "Felices fiestas"
 layout: single
 categories:
-- General
-- Shenmue II
-- Sin and Punishment
+- 'General'
+- 'Shenmue II'
+- 'Sin and Punishment: Successor of the Earth'
 tags:
-- General
-- Shenmue II
-- Sin and Punishment
+- 'General'
+- 'Shenmue II'
+- 'Sin and Punishment: Successor of the Earth'
 ---
 Buenas a todos, esta actualización llega con retraso debido a diversos problemas personales.
 

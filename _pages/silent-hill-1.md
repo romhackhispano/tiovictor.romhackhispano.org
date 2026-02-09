@@ -9,6 +9,9 @@ header:
 Revisión/retraducción completa al castellano y al español latino de Silent Hill para 
 PlayStation 1, disponible para las ediciones PAL europea y NTSC-U estadounidense.
 
+En 2026 se desarrolló un doblaje solo en castellano producido por Reviviendo en Castellano 
+(antigua Resident Evil Castellano).
+
 <center><img src="/img/2009/06/SHv20-22.jpg"></center>
 
 Detalles del proyecto v2.0:  

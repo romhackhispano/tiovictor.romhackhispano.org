@@ -6,14 +6,13 @@ date: '2010-07-05 22:31:21 +0200'
 date_gmt: '2010-07-05 21:31:21 +0200'
 layout: single
 categories:
-- Project Zero 4
-- Resident Evil 2 Dreamcast
-- Shenmue
+- 'Project Zero 4'
+- 'Shenmue'
+- 'Resident Evil 2'
 tags:
-- Project Zero 4
-- Shenmue II
-- Shenmue
-- Resident Evil 2
+- 'Project Zero 4'
+- 'Shenmue'
+- 'Resident Evil 2'
 ---
 Bueno, vengo a dar mi parte masomenos mensual. El equipo del proyecto de Fatal 
 Frame/Project Zero 4, del cual soy parte menor, ha anunciado la fecha en la que 

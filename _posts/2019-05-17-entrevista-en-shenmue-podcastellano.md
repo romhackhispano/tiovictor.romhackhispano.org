@@ -6,9 +6,11 @@ layout: single
 categories:
 - 'General'
 - 'Shenmue'
+- 'Entrevistas'
 tags:
 - 'General'
 - 'Shenmue'
+- 'Entrevistas'
 ---
 
 Una noticia breve de última hora: Durante el último MAGIC Mónaco, en el que estuve con la gente de SEGASaturno, su webmaster, Ryo Suzuki, aprovechó 

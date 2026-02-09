@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2014/09/WhatsShenmueNoti02.jpg
 layout: single
 categories:
-- Shenmue
-- What's Shenmue Español
+- 'Shenmue'
+- 'What''s Shenmue'
 tags:
-- Shenmue
-- What's Shenmue
+- 'Shenmue'
+- 'What''s Shenmue'
 ---
 Ya sé que estáis esperando la traducción de Shenmue II como agua de mayo, solo puedo 
 decir que el testeo está tocando el disco 1 y poco más, pero hoy vengo a publicar otro 

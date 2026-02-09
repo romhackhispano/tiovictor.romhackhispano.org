@@ -6,9 +6,9 @@ date: '2009-06-19 17:50:43 +0200'
 date_gmt: '2009-06-19 16:50:43 +0200'
 layout: single
 categories:
-- Zone of the Enders
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
+- 'Zone of the Enders'
 ---
 Os muestro mi nuevo proyecto de traducción: Zone Of The Enders 1, para PlayStation 2.
 

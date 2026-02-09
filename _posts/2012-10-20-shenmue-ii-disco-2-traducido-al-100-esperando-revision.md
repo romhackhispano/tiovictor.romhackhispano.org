@@ -4,11 +4,9 @@ header:
   overlay_image: /img/2012/10/Shen2Noti04.jpg
 layout: single
 categories:
-- Shenmue
-- Shenmue II
+- 'Shenmue II'
 tags:
-- Shenmue II
-- Shenmue
+- 'Shenmue II'
 ---
 Anoche terminamos de traducir todos los textos de los NPC del disco 2, 
 con lo que este disco ya está traducido y esperando su revisión en texto 

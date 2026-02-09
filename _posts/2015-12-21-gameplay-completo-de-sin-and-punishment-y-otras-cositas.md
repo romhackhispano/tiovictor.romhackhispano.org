@@ -4,10 +4,11 @@ header:
   overlay_image: /img/2015/12/EntradaSAP03-1.jpg
 layout: single
 categories:
-- General
-- Sin and Punishment
+- 'General'
+- 'Sin and Punishment: Successor of the Earth'
 tags:
-- Sin and Punishment
+- 'General'
+- 'Sin and Punishment: Successor of the Earth'
 ---
 
 Hola a todos.

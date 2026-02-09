@@ -4,13 +4,13 @@ header:
   overlay_image: /img/2014/10/TWINEHeaderNoti01.jpg
 layout: single
 categories:
-- Shenmue II
-- El Mundo Nunca es Suficiente (Nintendo 64)
-- Star Wars Episodio I Racer
+- 'Shenmue II'
+- 'El Mundo Nunca Es Suficiente'
+- 'Star Wars Episodio I: Racer'
 tags:
-- Shenmue II
-- El Mundo Nunca Es Suficiente
-- Star Wars Episodio I Racer
+- 'Shenmue II'
+- 'El Mundo Nunca Es Suficiente'
+- 'Star Wars Episodio I: Racer'
 gallery:
  - url: /img/2007/04/TWINE-ESP-20-01.jpg
    image_path: /img/2007/04/TWINE-ESP-20-01.jpg

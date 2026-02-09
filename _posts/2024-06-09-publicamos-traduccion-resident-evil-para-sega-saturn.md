@@ -18,9 +18,9 @@ gallery:
    image_path: /img/2024/06/REDC_SAT_202406_09.jpg
 
 categories:
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 tags:
-- 'Resident Evil'
+- 'Resident Evil: Director''s Cut'
 ---
 
 ¡Buenas a todos! **Hoy, Traducciones del Tío Víctor, en colaboración con Delta Island, publicamos el parche de traducción al castellano de 

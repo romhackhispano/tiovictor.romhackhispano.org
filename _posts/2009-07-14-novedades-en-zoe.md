@@ -6,9 +6,9 @@ date: '2009-07-14 13:14:03 +0200'
 date_gmt: '2009-07-14 12:14:03 +0200'
 layout: single
 categories:
-- Zone of the Enders
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
+- 'Zone of the Enders'
 ---
 Bueno, supongo que otra vez he sido víctima de mis propias palabras. Resulta que 
 al final este juego no era tan fácil de editar y me colé en varios archivos. 

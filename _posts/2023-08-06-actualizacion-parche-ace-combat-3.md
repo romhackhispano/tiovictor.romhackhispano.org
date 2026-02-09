@@ -5,9 +5,9 @@ header:
 layout: single
 
 categories:
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 tags:
-- 'Ace Combat 3'
+- 'Ace Combat 3: electrosfera'
 ---
 
 ¡Buenas tardes a todos!

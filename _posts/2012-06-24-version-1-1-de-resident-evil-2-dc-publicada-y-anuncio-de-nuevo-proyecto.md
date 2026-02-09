@@ -4,11 +4,11 @@ header:
   overlay_image: /img/2012/06/NautsNoti09.jpg
 layout: single
 categories:
-- Resident Evil 2 Dreamcast
-- Policenauts
+- 'Resident Evil 2'
+- 'Policenauts'
 tags:
-- Policenauts
-- Resident Evil 2
+- 'Resident Evil 2'
+- 'Policenauts'
 ---
 Saludos a todos, esta semana me estaba guardando una revisión de Resident 
 Evil 2 para Dreamcast que lleva terminada varios meses, pero hasta la 

@@ -6,9 +6,9 @@ date: '2009-06-06 10:31:59 +0200'
 date_gmt: '2009-06-06 09:31:59 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Parece ser que el fallo del PPF-O-Matic congelado va a estar incordiando cada vez 
 que saque parche. He repetido el proceso de creación del parche, a ver si ahora no da 

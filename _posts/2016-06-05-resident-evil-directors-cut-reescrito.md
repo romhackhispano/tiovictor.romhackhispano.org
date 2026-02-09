@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2016/06/RE1Noti33.jpg
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 gallery:
  - url: /img/2007/04/REDC40-01.jpg
    image_path: /img/2007/04/REDC40-01.jpg

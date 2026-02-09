@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2011/02/FragileNoti04.jpg
 layout: single
 categories:
-- Fragile Dreams
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 tags:
-- Fragile Dreams Farewell Ruins of the Moon
+- 'Fragile Dreams: Farewell Ruins of the Moon'
 ---
 
 Bueno, para terminar este frenesí de imágenes de Fragile Dreams traducido al 

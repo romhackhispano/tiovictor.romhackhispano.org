@@ -6,9 +6,9 @@ date: '2009-08-16 23:51:19 +0200'
 date_gmt: '2009-08-16 22:51:19 +0200'
 layout: single
 categories:
-- Zone of the Enders
+- 'Zone of the Enders'
 tags:
-- Zone of The Enders
+- 'Zone of the Enders'
 ---
 Me llena de orgullo y satisfacción... venga, va, que el chiste es viejo. 
 Hoy libero la primera versión de la traducción de Zone of the Enders, ya que 

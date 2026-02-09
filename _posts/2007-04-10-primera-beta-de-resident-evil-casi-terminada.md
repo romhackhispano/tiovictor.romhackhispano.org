@@ -6,10 +6,11 @@ date: '2007-04-10 17:48:47 +0200'
 date_gmt: '2007-04-10 15:48:47 +0200'
 layout: single
 categories:
-- Colaboraciones
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, hoy mismo hemos terminado de traducir los últimos STAGEs, lo que 
 concluye la inserción de texto al juego. Ahora, sólo quedan unos últimos 

@@ -6,11 +6,11 @@ layout: single
 categories:
 - 'General'
 - 'Operation Winback'
-- 'Clock Tower'
+- 'Clock Tower: The First Fear'
 tags:
 - 'General'
 - 'Operation Winback'
-- 'Clock Tower'
+- 'Clock Tower: The First Fear'
 ---
 
 Hoy traigo un doblete de lanzamientos que espero que me den más tiempo para centrarme en mis proyectos más grandes.

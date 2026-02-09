@@ -6,7 +6,8 @@ header:
 comments: false
 ---
 
-<h2 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="/alone-in-the-dark-dc/capturas/">CAPTURAS</a> - <a href="/alone-in-the-dark-dc/descargar/">DESCARGAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="/alone-in-the-dark-dc/descargar/">DESCARGAS</a> - <a href="/alone-in-the-dark-dc/capturas/">CAPTURAS</a></strong></h2>
+
 ***CRÉDITOS DEL PROYECTO:***
 
 Indiket: Instigador principal, programador de herramientas  

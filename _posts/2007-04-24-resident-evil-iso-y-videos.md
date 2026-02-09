@@ -6,10 +6,11 @@ date: '2007-04-24 13:26:02 +0200'
 date_gmt: '2007-04-24 11:26:02 +0200'
 layout: single
 categories:
-- Colaboraciones
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Colaboraciones'
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, tras varias peticiones de gente y tras hablar con el que lleva el hosting,
 puedo (a menos que Capcom quiera cortarme los lacasones) poner enlaces directos a la ISO.

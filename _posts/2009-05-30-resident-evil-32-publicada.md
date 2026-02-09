@@ -6,9 +6,9 @@ date: '2009-05-30 23:08:55 +0200'
 date_gmt: '2009-05-30 22:08:55 +0200'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, hoy publico otra versión del parche, esta vez ya deberían estar corregidos 
 todos los fallos ortográficos y de juego que raskaipika (Alberto) ha listado.

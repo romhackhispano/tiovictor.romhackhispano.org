@@ -4,10 +4,6 @@ header:
   overlay_image: /img/headers/posts/HeaderAceCombat3-03.jpg
 layout: single
 
-categories:
-- 'Ace Combat 3'
-tags:
-- 'Ace Combat 3'
 gallery:
  - url: /img/2023/05/AC3-20230222-02.jpg
    image_path: /img/2023/05/AC3-20230222-02.jpg
@@ -69,6 +65,11 @@ gallery:
    image_path: /img/2023/05/AC3-20230222-36.jpg
  - url: /img/2023/05/AC3-20230222-37.jpg
    image_path: /img/2023/05/AC3-20230222-37.jpg
+
+categories:
+- 'Ace Combat 3: electrosfera'
+tags:
+- 'Ace Combat 3: electrosfera'
 ---
 
 Saludos a todos. **Hoy Traducciones del Tío Víctor publica en colaboración con Load Word Team** y tras cinco años de desarrollo **el parche de traducción aficionada de Ace Combat 3: electrosfera**, tanto una nueva versión en inglés como la primera versión en castellano.

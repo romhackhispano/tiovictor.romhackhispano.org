@@ -4,7 +4,7 @@ permalink: /clock-tower/
 header:
   overlay_image: /img/headers/pages/ClockTowerFirstFearHeader.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/capturas/">CAPTURAS</a> - <a href="/clock-tower/descargar/">DESCARGAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/descargar/">DESCARGAS</a> - <a href="/clock-tower/capturas/">CAPTURAS</a></strong></h2>
 
 <p style="text-align: center;"><img src="/img/2016/07/SLPS_009.17_08052016_220436_0693.jpg" /><img src="/img/2017/12/ClockTowerESP-TITULO.png" /></p>
 <br>

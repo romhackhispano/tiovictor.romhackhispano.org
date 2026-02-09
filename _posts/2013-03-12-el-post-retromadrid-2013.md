@@ -4,14 +4,23 @@ header:
   overlay_image: /img/2013/03/RetroMadrid2013Noti02.jpg
 layout: single
 categories:
-- General
-- Shenmue II
+- 'General'
+- 'Policenauts'
+- 'Shenmue II'
+- 'Shenmue'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2013'
+- 'Entrevistas'
 tags:
-- Retromadrid
-- Policenauts
-- Shenmue II
-- Shenmue
-- RetroMadrid 2013
+- 'General'
+- 'Policenauts'
+- 'Shenmue II'
+- 'Shenmue'
+- 'Ferias retro'
+- 'RetroMadrid'
+- 'RetroMadrid 2013'
+- 'Entrevistas'
 ---
 Bueno, en vista de que los vídeos que quería subir tienen algunas complicaciones, 
 voy a resumir lo que quiero publicar en unos días:

@@ -6,9 +6,9 @@ date: '2008-03-24 17:36:18 +0100'
 date_gmt: '2008-03-24 16:36:18 +0100'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Para más sorna, ahora mismo creo haber resuelto el fallo que impedía abrir aquellas puertas 
 que se tenían que desbloquear por parte del jugador, como la de la habitación del libro de 

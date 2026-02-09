@@ -6,9 +6,9 @@ date: '2009-03-09 12:39:58 +0100'
 date_gmt: '2009-03-09 11:39:58 +0100'
 layout: single
 categories:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 tags:
-- Resident Evil
+- 'Resident Evil: Director''s Cut'
 ---
 Bueno, he ido arreglando algunos fallos de la traducción de Resident Evil Director's 
 Cut, tengo una larga lista, y seguiré con ellos en los próximos días. Gracias a todos 

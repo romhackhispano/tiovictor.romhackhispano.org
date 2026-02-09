@@ -4,10 +4,9 @@ header:
   overlay_image: /img/2012/01/Shen1Noti08.jpg
 layout: single
 categories:
-- Shenmue
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Shenmue'
 ---
 Va siendo hora de mentar un poco el estado actual de Shenmue, ya que se me 
 ha olvidado felicitaros el año nuevo, y lo siento.

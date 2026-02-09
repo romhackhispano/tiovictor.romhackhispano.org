@@ -4,10 +4,11 @@ header:
   overlay_image: /img/2014/02/HobbyConsolasMarzo2014Header.jpg
 layout: single
 categories:
-- General
-- Personal
+- 'General'
+- 'Personal'
 tags:
-- General
+- 'General'
+- 'Personal'
 ---
 Ayer salió un nuevo número de la revista Hobby Consolas, un número un tanto especial: 
 Dedican un reportaje de seis páginas a la escena del romhacking en España y el resto 

@@ -6,9 +6,9 @@ date: '2009-12-02 22:11:18 +0100'
 date_gmt: '2009-12-02 21:11:18 +0100'
 layout: single
 categories:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 tags:
-- Dead Space Extraction
+- 'Dead Space Extraction'
 ---
 Bueno, parece ser que al final se me han juntado más trabajos. Otro de los 
 jaleos en los que me he metido es la traducción de Dead Space Extraction, 

@@ -2,8 +2,11 @@
 title: "Actualización de Shenmue I"
 layout: single
 categories:
-- General
-tags: []
+- 'General'
+- 'Shenmue'
+tags:
+- 'General'
+- 'Shenmue'
 ---
 Hemos actualizado el parche de Shenmue I, corrigiendo los dos nuevos errores que han aparecido 
 en la v1.0.4.

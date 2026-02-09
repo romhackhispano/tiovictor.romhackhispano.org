@@ -49,7 +49,8 @@ gallery2:
  - url: /img/2017/12/CT-SNES-ESP-13.jpg
    image_path: /img/2017/12/CT-SNES-ESP-13.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/capturas/">CAPTURAS</a> - <a href="/clock-tower/descargar/">DESCARGAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/clock-tower/informacion/">INFORMACIÓN</a> - <a href="/clock-tower/descargar/">DESCARGAS</a> - <a href="/clock-tower/capturas/">CAPTURAS</a></strong></h2>
+
 Capturas de la versión 2.0 para PlayStation:
 {% include gallery %}
 

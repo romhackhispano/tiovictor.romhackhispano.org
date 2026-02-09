@@ -4,11 +4,13 @@ header:
   overlay_image: /img/2012/06/Shen1Noti03.jpg
 layout: single
 categories:
-- Colaboraciones
-- Shenmue
+- 'Colaboraciones'
+- 'Shenmue'
+- 'Entrevistas'
 tags:
-- Shenmue
-- Shenmue I
+- 'Colaboraciones'
+- 'Shenmue'
+- 'Entrevistas'
 ---
 No pensé que fuera a llegar este día, pero ha llegado. Por fin podemos 
 publicar la primera versión de la traducción al Español de Shenmue I para 

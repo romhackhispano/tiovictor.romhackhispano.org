@@ -22,7 +22,7 @@ gallery:
  - url: /img/2017/06/08.jpg
    image_path: /img/2017/06/08.jpg
 ---
-<h2 style="text-align: center;"><strong><a href="/shadow-watch/informacion/">INFORMACIÓN</a> - <a href="/shadow-watch/capturas/">CAPTURAS</a> - <a href="/shadow-watch/descargar/">DESCARGAS</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="/shadow-watch/informacion/">INFORMACIÓN</a> - <a href="/shadow-watch/descargar/">DESCARGAS</a> - <a href="/shadow-watch/capturas/">CAPTURAS</a></strong></h2>
 
 {% include gallery %}
 <h2 style="text-align: center;"><strong><a href="/shadow-watch/">VOLVER</a></strong></h2>

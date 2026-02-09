@@ -4,9 +4,9 @@ header:
   overlay_image: /img/2014/10/WhatsShenmueNoti03.jpg
 layout: single
 categories:
-- What's Shenmue Español
+- 'What''s Shenmue'
 tags:
-- What's Shenmue
+- 'What''s Shenmue'
 ---
 Bueno, como noticia adelantada (El parte mensual tendrá lugar el próximo jueves), 
 aquí os dejo una partida con el What's Shenmue traducido al castellano, jugado de 

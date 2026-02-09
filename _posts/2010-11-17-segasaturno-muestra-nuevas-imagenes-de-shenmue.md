@@ -6,10 +6,9 @@ date: '2010-11-17 21:13:58 +0100'
 date_gmt: '2010-11-17 20:13:58 +0100'
 layout: single
 categories:
-- Shenmue
+- 'Shenmue'
 tags:
-- Shenmue
-- Shenmue I
+- 'Shenmue'
 ---
 Bueno, para aquellos que me preguntáis por Shenmue... pues parece que Ryo 
 ha sacado una nueva hornada de screenshots del disco 1, del FREE. Él se ha 

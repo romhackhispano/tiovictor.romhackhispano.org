@@ -6,10 +6,11 @@ date: '2010-02-05 14:30:03 +0100'
 date_gmt: '2010-02-05 13:30:03 +0100'
 layout: single
 categories:
-- Dead Space Extraction
+- 'Resident Evil: Director''s Cut'
+- 'Dead Space Extraction'
 tags:
-- Resident Evil
-- Dead Space Extraction
+- 'Resident Evil: Director''s Cut'
+- 'Dead Space Extraction'
 ---
 Me informa TBG, que es quien está insertando los contenidos de Dead Space 
 Extraction, que la inserción está aproximándose a su fin, con un 90% de contenidos 
