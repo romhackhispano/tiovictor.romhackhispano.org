@@ -53,7 +53,7 @@ será solo esto lo que retrase esta versión.
 
 Para ir cerrando, hemos tenido varias entrevistas y eventos en la última semana:
  - El pasado jueves 12, Daniel Quesada mostró en exclusiva una selección de escenas del parche de doblaje de Silent Hill 
- **[en el canal de YouTube de la revista Hobby Consolas](ENLACE PENDIENTE){:target="_blank"}.** De nuevo, mil gracias a Daniel Quesada por acogernos.
+ **[en el canal de YouTube de la revista Hobby Consolas](https://www.youtube.com/watch?v=bDxjI0PwH9U){:target="_blank"}.** De nuevo, mil gracias a Daniel Quesada por acogernos.
  - El lunes 9 **[fui invitado como contertulio por el equipo de Back to the Game](https://www.youtube.com/watch?v=1Jw-jEXDwMU){:target="_blank"}** con motivo de que 
  su juego de la semana fue Sin and Punishment: Successor of the Earth, donde también di un pequeño aperitivo sobre el proyecto de Silent Hill.
  
