@@ -62,8 +62,12 @@ muchísimo).*
 *Agradecimientos de la versión 4.1 en adelante:
 A CUE, MeganGrass, a la comunidad de SegaXtreme por toda la información 
 concerniente a la versión de Sega Saturn y la comunidad de Halley's Comet 
-Software por su ayuda con el formato de sonido de Sega Saturn.
-A Gemini por su ayuda para dar soporte al sistema Classic ReBIRTH.
+Software por su ayuda con el formato de sonido de Sega Saturn.  
+A Gemini por su ayuda para dar soporte al sistema Classic ReBIRTH.  
+También queremos dar las gracias a Daniel Quesada de Hobby Consolas, a 
+Francisco Beltrán de Resident Evil Survival Horror y a Darth Khalos de 
+Jugones y Mazmorras, así como a sus respectivos compañeros de equipos, por 
+todo el apoyo que nos han dado.  
 Y un muy especial corte de mangas para todos aquellos cernícalos que resubís 
 nuestras traducciones y doblajes sin permiso y quitando los créditos del 
 juego (o dejándolos solo en vuestros vídeos, pero quitándolos del propio 

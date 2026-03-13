@@ -61,6 +61,34 @@ Mewster (TileMolester), Stefan Pettersson (Bitmap Font Writer), Halley's
 Comet Software y el equipo de vgmstream, jmarti856 y yonsaber (AIFF2VAG), el 
 equipo de FFMpeg, el equipo de ImageMagick, Stenzek (Duckstation).
 
+**Agradecimientos de las versiones previas a la 2.0:**
+ - Virgin España, quien fue el responsable de la traducción oficial de 
+   Resident Evil 2. Mi parte en este proyecto es solo de adaptación y 
+   corrección.
+ - A TuxTheWise, por adaptar su release a la versión 1.0 y por ser la base 
+   que he usado para replicarla.
+ - A Pat Mandin, MeganGrass y la gente de los foros de ResidentEvil123 por 
+   BIOFAT y por la información sobre el juego.
+ - A FamilyGuy por su ayuda técnica sobre el sistema de GDIs y CDIs.
+ - A Phoenix (SadNES City) por sus conocimientos sobre los Resident Evil.
+ - A Sizious, Jörg Schilling, DC-SWAT y aquellos que habéis sufrido el 
+   parcheador de Shenmue 1 por permitirnos crear este sistema.
+ - A Releon por todo su apoyo.
+ - A Sappharad por el formato de salida GDI.
+ - A Pleonex por su ayuda en descubrir qué fallaba en el formato ADT.
+
+**Agradecimientos desde la versión 2.0 en adelante:**
+ - A VincentNL, Derek Pascarella y las comunidades de Dreamcast-talk y Naomi
+   MOD por su inestimable ayuda para cerrar la versión de Dreamcast.
+ - A Gemini y a Accandon por su ayuda para dar soporte al sistema Classic 
+   ReBIRTH.
+ - A Nakufox y a TrueFaiterMan por su asesoramiento con la reconstrucción de 
+   las texturas en HD.
+ - También queremos dar las gracias a Daniel Quesada de Hobby Consolas, a 
+   Francisco Beltrán de Resident Evil Survival Horror y a Darth Khalos de 
+   Jugones y Mazmorras, así como a sus respectivos compañeros de equipos, 
+   por todo el apoyo que nos han dado.
+
 <h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V2.01 2025):</h3>
 
 <center>

@@ -54,7 +54,15 @@ gallery:
 ---
 <h2 style="text-align: center;"><strong><a href="/silent-hill-1/informacion/">INFORMACIÓN</a> - <a href="/silent-hill-1/descargar/">DESCARGAS</a> - <a href="/silent-hill-1/capturas/">CAPTURAS</a></strong></h2>
 
-(Nota: las capturas han sido tomadas de la versión 2.0 en castellano)
+#### Muestras del doblaje fan de 2026 (v2.5):
+
+{% include video id="Ld9q4HFv-2w" provider="youtube" %}
+
+{% include video id="nCQzkPsqCXI" provider="youtube" %}
+
+{% include video id="IOJSq_m-Ai4" provider="youtube" %}
+
+#### Capturas de la revisión de textos de 2009 (v2.0, solo en castellano):
 
 {% include gallery %}
 
