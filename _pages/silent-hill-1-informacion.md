@@ -130,7 +130,7 @@ Si quieres informarte sobre los fabricantes de discos, qué marcas comprar o
 dónde comprarlas, tendrás que buscar esa información en otra parte, ya que 
 hay otras personas que saben explicar la situación mejor que yo.
 
-### Consejos para usar la modificación en emuladores<a name="punto6"></a>
+### Consejos para usar la modificación en emuladores<a name="punto5"></a>
 
 Durante los testeos de 2025 y 2026 con motivo del proyecto de doblaje, 
 **descubrimos que Silent Hill es un juego un tanto... exquisito a la hora de 
