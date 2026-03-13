@@ -10,6 +10,9 @@ tags:
 - 'Silent Hill 1'
 ---
 
+**EDIT 13/03/2026 19:40: ¡Aviso! Quienes os hayáis bajado el parche en las dos primeras horas posteriores al lanzamiento, por favor, volved a descargarlo. 
+Hemos subido una versión prefinal por error que dará fallo al guardar partida. Lamentamos las molestias.**
+
 ¡Muy buenas a todos! **En esta especial fecha, Reviviendo en Castellano (antigua Resident Evil Castellano) y Traducciones del Tío Víctor os presentamos 
 un nuevo parche de doblaje no oficial para el primer Silent Hill 1 de PlayStation, así como actualizaciones menores para los parches de subtitulación.**
 
