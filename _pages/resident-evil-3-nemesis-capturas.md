@@ -25,6 +25,17 @@ gallery:
    image_path: /img/2025/09/RE3-20250914-09.jpg
  - url: /img/2025/09/RE3-20250914-10.jpg
    image_path: /img/2025/09/RE3-20250914-10.jpg
+gallery2:
+ - url: /img/2026/05/RE3_HD_20260505_01_V2.jpg
+   image_path: /img/2026/05/RE3_HD_20260505_01_V2.jpg
+ - url: /img/2026/05/RE3_HD_20260505_02_V2.jpg
+   image_path: /img/2026/05/RE3_HD_20260505_02_V2.jpg
+ - url: /img/2026/05/RE3_HD_20260505_03_V2.jpg
+   image_path: /img/2026/05/RE3_HD_20260505_03_V2.jpg
+ - url: /img/2026/05/RE3_HD_20260505_04_V2.jpg
+   image_path: /img/2026/05/RE3_HD_20260505_04_V2.jpg
+ - url: /img/2026/05/RE3_HD_20260505_05_V2.jpg
+   image_path: /img/2026/05/RE3_HD_20260505_05_V2.jpg
 ---
 
 <h2 style="text-align: center;"><strong><a href="/resident-evil-3-nemesis/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-3-nemesis/descargar/">DESCARGAS</a> - <a href="/resident-evil-3-nemesis/capturas/">CAPTURAS</a></strong></h2>
@@ -36,6 +47,12 @@ gallery:
 {% include video id="PEfkR30QJpY" provider="youtube" %}
 
 {% include video id="00mfUDfF_wM" provider="youtube" %}
+
+#### Capturas del pack de texturas HD de 2026:
+
+(Capturas hechas con la versión de GameCube y el emulador Dolphin. No se han puesto otros assets escalados en HD 
+para distinguir nuestros cambios)
+{% include gallery id="gallery2" %}
 
 #### Capturas de la revisión de textos:
 

@@ -16,7 +16,8 @@ comments: false
 4. [Instrucciones para aplicar el parche de traducción en Dreamcast](#punto4)
 5. [Instrucciones para aplicar el parche de traducción en GameCube](#punto5)
 6. [Instrucciones para aplicar el parche de traducción en PC](#punto6)
-7. [Instrucciones para copiar el juego traducido a un CD-R](#punto7)
+7. [Instrucciones para aplicar los paquetes de texturas HD traducidas](#punto7)
+8. [Instrucciones para copiar el juego traducido a un CD-R](#punto8)
 
 ### Registro de revisiones<a name="punto1"></a>
 
@@ -92,10 +93,32 @@ Castellano y nueva revisión de textos:
      seguir el procedimiento de separación de pistas para aplicar el 
      parche.
    - Otras correcciones menores de textos.
+* 2.1 - Corrección de un fallo grave en la versión NTSC-U para PlayStation:
+   - Corregido un fallo en el que, jugando con Hunk y Tofu, no se 
+     mostraba el cronómetro durante la partida y luego, en la pantalla de 
+     resultados, el tiempo transcurrido siempre es de 9:99:99.
+* 2.2 - Correcciones menores y añadido de texturas HD:
+   - Actualizados los parches para los ejecutables de la versión PC GOG 
+     para aplicar los cambios al último hotfix, la versión 1.0hotfix4.
+   - Añadida la textura con el código secreto que faltaba en las 
+     versiones para PC.
+   - Corregidas unas texturas a las que les faltaban los bordes que 
+     aparecen al desbloquear objetos tras pasarse el juego en todas las 
+     versiones.
+   - Corregido el fallo por el que no se mostraban bien las páginas del 
+     documento Archivos de novato en la versión Sourcenext.
+   - Se han incluido packs de texturas en castellano para los mods de 
+     texturas HD, totalmente hechas de cero, compatibles con Classic 
+     ReBiRTH (mod de teamx/Seamless HD/cualquier otro mod HD futuro) como 
+     con la versión para GameCube con el emulador Dolphin.
+   - Recuperada la versión con subtítulos en español y voces en inglés 
+     para Dreamcast. Los textos incorporan parte de los cambios hechos 
+     en la versión doblada.
+   - Reescritas las instrucciones para aplicar el parche en Dreamcast 
+     por estar incompletas (por un lado) y por actualización del programa 
+     Universal Dreamcast Patcher (por el otro).
 
 ### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
-
-Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
 **Necesitarás el archivo original a modificar, el archivo xdelta 
 correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**)**.**
@@ -199,7 +222,8 @@ Si necesitas ayuda, busca tutoriales sobre el uso de estos programas en
 Internet.
 
 Asegúrate de que has volcado tu disco correctamente. Estas son las versiones 
-compatibles y sus respectivas sumas de comprobación, o checksums:
+compatibles y sus respectivas sumas de comprobación, o checksums, de los 
+discos en formato GDI (no se corresponderán con el formato ReDump):
 
 GDI 1 (LEON) DE LA VERSIÓN PAL EUROPEA:
 ```
@@ -245,17 +269,29 @@ MD5 de track06: 71d9302bce0d6e6892f1b78db0e787ee
 parche correspondiente con Universal Dreamcast Patcher.**
 
 Una vez confirmes que tienes tu copia de seguridad en orden, es hora de 
-descargar el Universal Dreamcast Patcher de Derek Pascarella (puedes conseguirlo en **[su página web](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases/)**).
+descargar el Universal Dreamcast Patcher de Derek Pascarella (puedes conseguirlo en **[su página web](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases/)**). 
+Las siguientes instrucciones se corresponden con la versión 2.0.
 
 El programa es muy sencillo:
- - Pulsa en «Select GDI or CUE» (Seleccionar GDI o CUE).
- - Selecciona la copia de seguridad de uno de tus discos.
- - Pulsa en «Select Patch» (Seleccionar parche).
- - Selecciona el parche en formato XXX que corresponda al disco que hayas 
+ - Selecciona el «Apply Patch» (Aplicar parche) de la parte superior de la 
+   ventana.
+ - Pulsa en el primer botón «Browse» (Buscar), al lado del cuadro de texto 
+   que dice «Source disc image» (Imagen de disco original).
+ - Selecciona la copia de seguridad del disco que quieras parchear.
+ - Pulsa en el segundo botón «Browse» (Buscar), al lado del cuadro de texto 
+   que dice «DCP patch file» (Archivo de parche DCP).
+ - Selecciona el parche en formato DCP que corresponda al disco que hayas 
    seleccionado.
- - El programa aplicará automáticamente el parche. Si todo va bien, 
-   aparecerá el mensaje «XXXXXXX», indicando que ya se ha creado una copia 
-   parcheada de tu imagen de disco.
+ - Pulsa en el tercer botón «Browse» (Buscar), al lado del cuadro de texto 
+   que dice «Patched disc image output folder» (Carpeta de salida de la 
+   imagen de disco parcheada).
+ - Selecciona la carpeta donde quieras que se guarde la imagen GDI 
+   modificada.
+ - Haz clic en el botón «Apply patch» (Aplicar parche) de la parte inferior 
+   de la ventana para empezar el proceso de parcheado.
+ - Si todo va bien, aparecerá una ventana con el texto «Patch applied 
+   successfully», indicando que ya se ha creado una copia parcheada de tu 
+   imagen de disco.
 
 **NOTA IMPORTANTE: En el momento de redactar este archivo de texto,** ya hay 
 varios emuladores capaces de ejecutar el juego perfectamente, pero **los 
@@ -318,17 +354,17 @@ VERSIÓN CD ESPAÑOLA 1.0
    SHA-1: 5e0ccea2685e9c3abf11cd09e6159ec0171cdb21
 ```
 
-VERSIÓN GOG ESPAÑOLA 1.0 hotfix 2
+VERSIÓN GOG ESPAÑOLA 1.0 hotfix 4
 ```
   Nombre: LeonS.exe
-  CRC-32: 72c4736d
-     MD5: 62b78f41f8f41d04a5f36f87f8591889
-   SHA-1: 5fc34093c998114f5972d8f9a29f3cf8dda6d8fb
+  CRC-32: 5ba4e93e
+     MD5: ebeef13ca572b92157f72167df7f4b8f
+   SHA-1: 95c95bd3d1824569411c7d31dd110fd4cd90bf77
 
   Nombre: ClaireS.exe
-  CRC-32: ae44da59
-     MD5: 5ce6313ae2e66ea6b8c77cef8d50de7c
-   SHA-1: 5805df2f18adb2792ccf192e697836afbe0f494b
+  CRC-32: c960f9da
+     MD5: 112bf690f70e66bfe72b47426c42101e
+   SHA-1: e9a1359608ef0032e2c4e168a7d7b4c223bd827e
 ```
 
 #### CÓMO APLICAR EL PARCHE A LA VERSIÓN CLASSIC REBIRTH
@@ -364,7 +400,31 @@ por un lado y el archivo «winmm.dll» por otro, pero no podrás jugar a
 nuestra revisión de los textos y podrían aparecer subtítulos que no estén 
 sincronizados con el doblaje.
 
-### Instrucciones para copiar el juego traducido a un CD-R<a name="punto7"></a>
+### Instrucciones para aplicar los paquetes de texturas HD traducidas<a name="punto7"></a>
+
+**PARA CLASSIC REBIRTH:**  
+Para utilizar el paquete de texturas HD complementario en la versión Classic 
+ReBIRTH, solo tienes que copiar la carpeta «hires» a la raíz de la carpeta 
+donde tengas instalado el juego con Classic ReBIRTH.
+
+AVISO IMPORTANTE: se sobrescribirán algunas texturas. No podemos hacer nada 
+para distinguir las texturas del nuestro parche, así que guarda una copia de 
+seguridad de las texturas hires si lo necesitas.
+
+**PARA DOLPHIN:**  
+Para utilizar el paquete de texturas complementario en la versión para 
+GameCube mediante el emulador Dolphin, tienes que copiar la carpeta Textures 
+a la carpeta que tengas asignada como «ruta de carga» (Load Path en inglés) 
+dentro del emulador.
+
+Puedes ver cuál es tu ruta de carga si vas a Configuración -> Rutas -> Ruta 
+de carga (Settings -> Paths -> Load Path).
+
+Si ves que no se aplican algunas texturas, es posible que tengas otro pack 
+de texturas HD interfiriendo con el nuestro y tendrás que quitar o el pack o 
+las texturas afectadas.
+
+### Instrucciones para copiar el juego traducido a un CD-R<a name="punto8"></a>
 
 **Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
 todavía utilicen CDs «quemados» o «tostados» (CD-R) para jugar con sus 

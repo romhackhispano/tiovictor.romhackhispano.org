@@ -15,8 +15,9 @@ comments: false
 3. [Instrucciones para aplicar el parche de traducción en PlayStation](#punto3)
 4. [Instrucciones para aplicar el parche de traducción en Dreamcast](#punto4)
 5. [Instrucciones para aplicar el parche de traducción en GameCube](#punto5)
-6. [Instrucciones para aplicar el parche de traducción en PC (próximamente)](#punto6)
-7. [Consejos para usar la modificación en consola real](#punto7)
+6. [Instrucciones para aplicar el parche de traducción en PC](#punto6)
+7. [Instrucciones para aplicar los paquetes de texturas HD traducidas](#punto7)
+8. [Consejos para usar la modificación en consola real](#punto8)
 
 ### Registro de revisiones<a name="punto1"></a>
 
@@ -25,10 +26,27 @@ comments: false
    - Incluye un doblaje fan al castellano dirigido por R.E.C. (Resident 
    Evil Castellano). No habrá parches con solo textos.
    - Se ha convertido la traducción a la versión NTSC-U de PlayStation 1.
+* 1.1 - Lanzamiento del parche en PC GOG y correcciones menores:
+   - Se ha publicado el parche en las versiones de PC. Son compatibles 
+   la versión original española en CD y la versión española del 
+   relanzamiento de GOG en su versión 1.0hotfix4. La versión para 
+   Classic ReBIRTH sigue en desarrollo.
+   - Se ha incluido el pack de texturas en castellano para los mods de 
+   texturas HD, totalmente hechas de cero, compatibles con la versión 
+   de GameCube y el emulador Dolphin. El pack correspondiente para la 
+   versión Classic ReBIRTH/teamx saldrá junto con el parche de doblaje 
+   para esa versión.
+   - Se ha corregido el texto incompleto al desbloquear atuendos en la 
+   versión PAL España para PlayStation. Gracias a Daretaku por el aviso.
+   - Unificada la expresión «cierre sencillo» en relación a los cierres 
+   que se pueden abrir con la ganzúa.
+   - Corregidas varias erratas menores y traducciones raras en los 
+   textos. Gracias a xulikotony por los avisos.
+   - Reescritas las instrucciones para aplicar el parche en Dreamcast 
+   por estar incompletas (por un lado) y por actualización del programa 
+   Universal Dreamcast Patcher (por el otro).
 
 ### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
-
-Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
 **Necesitarás el archivo original a modificar, el archivo xdelta 
 correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**)**.**
@@ -88,7 +106,8 @@ Si necesitas ayuda, busca tutoriales sobre el uso de estos programas en
 Internet.
 
 Asegúrate de que has volcado tu disco correctamente. Estas son las sumas de 
-comprobación, o checksums:
+comprobación, o checksums, del disco en formato GDI (no se corresponderán 
+con el formato ReDump):
 
 GDI DE LA VERSIÓN PAL EUROPEA (T-7021D):
 ```
@@ -105,17 +124,29 @@ MD5 de track03: 612b527af3fd5cb69280235c38179a3d
 ```
 
 **Una vez confirmes que tienes tu copia de seguridad en orden, es hora de 
-descargar el Universal Dreamcast Patcher de Derek Pascarella** (puedes conseguirlo en **[su página web](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases/)**)**.**
+descargar el Universal Dreamcast Patcher de Derek Pascarella** (puedes conseguirlo en **[su página web](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases/)**)**.** 
+Las siguientes instrucciones se corresponden con la versión 2.0.
 
 El programa es muy sencillo:
- - Pulsa en «Select GDI or CUE» (Seleccionar GDI o CUE).
- - Selecciona la copia de seguridad de uno de tus discos.
- - Pulsa en «Select Patch» (Seleccionar parche).
- - Selecciona el parche en formato XXX que corresponda al disco que hayas 
+ - Selecciona el «Apply Patch» (Aplicar parche) de la parte superior de la 
+   ventana.
+ - Pulsa en el primer botón «Browse» (Buscar), al lado del cuadro de texto 
+   que dice «Source disc image» (Imagen de disco original).
+ - Selecciona la copia de seguridad del disco que quieras parchear.
+ - Pulsa en el segundo botón «Browse» (Buscar), al lado del cuadro de texto 
+   que dice «DCP patch file» (Archivo de parche DCP).
+ - Selecciona el parche en formato DCP que corresponda al disco que hayas 
    seleccionado.
- - El programa aplicará automáticamente el parche. Si todo va bien, 
-   aparecerá el mensaje «XXXXXXX», indicando que ya se ha creado una copia 
-   parcheada de tu imagen de disco.
+ - Pulsa en el tercer botón «Browse» (Buscar), al lado del cuadro de texto 
+   que dice «Patched disc image output folder» (Carpeta de salida de la 
+   imagen de disco parcheada).
+ - Selecciona la carpeta donde quieras que se guarde la imagen GDI 
+   modificada.
+ - Haz clic en el botón «Apply patch» (Aplicar parche) de la parte inferior 
+   de la ventana para empezar el proceso de parcheado.
+ - Si todo va bien, aparecerá una ventana con el texto «Patch applied 
+   successfully», indicando que ya se ha creado una copia parcheada de tu 
+   imagen de disco.
 
 ### Instrucciones para aplicar el parche de traducción en GameCube<a name="punto5"></a>
 
@@ -137,7 +168,7 @@ DISCO DE LA VERSIÓN EUROPEA DE GAMECUBE (CÓDIGO GLEP):
 **Una vez hayas comprobado que tu disco sea el correcto, podrás aplicar el 
 parche correspondiente siguiendo las instrucciones del punto 3.**
 
-### Instrucciones para aplicar el parche de traducción en PC (próximamente)<a name="punto6"></a>
+### Instrucciones para aplicar el parche de traducción en PC<a name="punto6"></a>
 
 **La versión para PC se puede aplicar de dos maneras, según si utilizas el 
 juego original «puro» (es decir, las versiones originales en CD o el 
@@ -153,8 +184,8 @@ ReBIRTH creado por Gemini.**
      a los ejecutables que estés utilizando. RECOMENDAMOS ENCARECIDAMENTE 
      UTILIZAR LA OPCIÓN «Backup original file».
 
-Estos son los ejecutables compatibles y sus respectivas sumas de comprobación, 
-o checksums:
+Estos son los ejecutables compatibles y sus respectivas sumas de 
+comprobación, o checksums:
 
 VERSIÓN CD ESPAÑOLA 1.0
 ```
@@ -169,17 +200,17 @@ VERSIÓN CD ESPAÑOLA 1.0
    SHA-1: f86082b6b9b4406a69a5352951c9890b98f473b9
 ```
 
-VERSIÓN GOG ESPAÑOLA 1.0 hotfix 3
+VERSIÓN GOG ESPAÑOLA 1.0 hotfix 4
 ```
   Nombre: ResidentEvil3.exe
-  CRC-32: 4b17a022
-     MD5: 2405edec89a66f86dfb126ad895f12f7
-   SHA-1: c3512d1bd51fbd96097dc6b5a5ebcd8c31c9ae55
+  CRC-32: e3982f7d
+     MD5: 63d620d67a5a8e13b5bcc40a9c45d324
+   SHA-1: d0c12920aaada59c475728032ae49bc1aa536f88
 
   Nombre: RE3_MERCE.exe
-  CRC-32: 541f18cf
-     MD5: 51d96ca9899a2e223cf45129fe4380a0
-   SHA-1: 1606c3c13e753588550f7e42f4f862490ec93dd6
+  CRC-32: ace2fa0c
+     MD5: d04b88807a834f69145507e1a02999ec
+   SHA-1: cfda37fe5f7787e4cff85abd801440d3be034b7b
 ```
 
 #### CÓMO APLICAR EL PARCHE A LA VERSIÓN CLASSIC REBIRTH
@@ -190,14 +221,38 @@ VERSIÓN GOG ESPAÑOLA 1.0 hotfix 3
      «winmm.dll» y «mod_spanishRECdub_crypto.7z» a la carpeta del juego, 
      sobrescribiendo los archivos cuando sea necesario.
 
-Ejecuta la aplicación "BIOHAZARD(R) 3 PC.exe" y, dentro del selector de mods 
+Ejecuta la aplicación «BIOHAZARD(R) 3 PC.exe» y, dentro del selector de mods 
 de Classic ReBIRTH, selecciona «Biohazard 3 SourceNext: doblaje por Resident 
 Evil Castellano v1.0».
 
 Si deseas utilizar el doblaje con otros mods, será necesario que dicho mod 
 pueda cargar otros mods con el selector de Classic ReBIRTH.
 
-### Consejos para usar la modificación en consola real<a name="punto7"></a>
+### Instrucciones para aplicar los paquetes de texturas HD traducidas<a name="punto7"></a>
+
+**PARA CLASSIC REBIRTH:**  
+Para utilizar el paquete de texturas HD complementario en la versión Classic 
+ReBIRTH, solo tienes que copiar la carpeta «hires» a la raíz de la carpeta 
+donde tengas instalado el juego con Classic ReBIRTH.
+
+AVISO IMPORTANTE: se sobrescribirán algunas texturas. No podemos hacer nada 
+para distinguir las texturas del nuestro parche, así que guarda una copia de 
+seguridad de las texturas hires si lo necesitas.
+
+**PARA DOLPHIN:**  
+Para utilizar el paquete de texturas complementario en la versión para 
+GameCube mediante el emulador Dolphin, tienes que copiar la carpeta Textures 
+a la carpeta que tengas asignada como «ruta de carga» (Load Path en inglés) 
+dentro del emulador.
+
+Puedes ver cuál es tu ruta de carga si vas a Configuración -> Rutas -> Ruta 
+de carga (Settings -> Paths -> Load Path).
+
+Si ves que no se aplican algunas texturas, es posible que tengas otro pack 
+de texturas HD interfiriendo con el nuestro y tendrás que quitar o el pack o 
+las texturas afectadas.
+
+### Consejos para usar la modificación en consola real<a name="punto8"></a>
 
 **Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
 todavía utilicen discos «quemados» o «tostados» (CD-R, DVD-R...) para jugar 

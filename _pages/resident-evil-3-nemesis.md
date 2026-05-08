@@ -1,5 +1,5 @@
 ---
-title: "Resident Evil 3: Nemesis (Doblaje, v1.0)"
+title: "Resident Evil 3: Nemesis (Doblaje, v1.1)"
 permalink: /resident-evil-3-nemesis/
 header:
   overlay_image: /img/headers/pages/ResidentEvil3Header.jpg

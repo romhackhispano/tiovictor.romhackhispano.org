@@ -12,8 +12,8 @@ comments: false
  - *Programación de herramientas:* GameZelda, CUE, MeganGrass, PacoChan, Pleonex,
 Pat Mandin, FamilyGuy, Sizious, DC-SWAT  
  - *Revisión de textos:* IlDucci, Releon, Wesker  
-Con la colaboración de TuxTheWise, Indiket, Ryo Suzuki, los foros de Resident 
-Evil 1, 2 y 3 y FamilyGuy.
+Con la colaboración de TuxTheWise, Indiket, Ryo Suzuki, los foros de 
+Resident Evil 1, 2 y 3 y FamilyGuy.
 
 **Créditos a partir de la versión 2.0:**
  - *Jefe de proyecto de traducción e inserción, edición gráfica, de vídeo y 
@@ -84,10 +84,20 @@ equipo de FFMpeg, el equipo de ImageMagick, Stenzek (Duckstation).
    ReBIRTH.
  - A Nakufox y a TrueFaiterMan por su asesoramiento con la reconstrucción de 
    las texturas en HD.
+ - A los equipos de teamx y del emulador Dolphin por sus sistemas de 
+   texturas en HD, al proyecto Seamless HD por inspirarme con su estructura 
+   de carpetas para Dolphin y a bserv por inspirarme en dos detallitos 
+   menores de sus texturas en HD.
+ - A CrazyOwl por encontrar la forma de poder editar los textos de la 
+   biblioteca de la comisaría en Dreamcast.
  - También queremos dar las gracias a Daniel Quesada de Hobby Consolas, a 
    Francisco Beltrán de Resident Evil Survival Horror y a Darth Khalos de 
    Jugones y Mazmorras, así como a sus respectivos compañeros de equipos, 
    por todo el apoyo que nos han dado.
+ - Y un muy especial corte de mangas para todos aquellos cernícalos que 
+   resubís nuestras traducciones y doblajes sin permiso y quitando los 
+   créditos del juego (o dejándolos solo en vuestros vídeos, pero 
+   quitándolos del propio juego). Sabemos quiénes sois.
 
 <h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V2.01 2025):</h3>
 

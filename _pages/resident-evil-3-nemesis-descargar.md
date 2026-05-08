@@ -56,13 +56,24 @@ Dolphin, Gemini (Classic ReBIRTH).
 
  - *Agradecimientos:*
    - A TraduSquare por su comprensión.
-   - A Releón por aguantarme a lo largo de todo este verano con el testeo. Eres un grande.
-   - A los redactores de la revista Hobby Consolas allá por el 2000, gracias por vuestra guía completa.
+   - A Releón por aguantarme a lo largo de todo este verano con el testeo. 
+     Eres un grande.
+   - A los redactores de la revista Hobby Consolas allá por el 2000, gracias 
+     por vuestra guía completa.
    - A Metal Gear España por su ayuda para contactar con actores de Barcelona.
+   - A Nakufox y a TrueFaiterMan por su asesoramiento con la reconstrucción de 
+     las texturas en HD.
+   - A JuanLuGames de DoblajeSpain y a Manu de Voice Emotions por su ayuda con 
+     los vídeos de PC y por su apoyo personal.
+   - A Gemini por su ayuda para dar soporte al sistema Classic ReBIRTH.
+   - A los equipos de teamx y del emulador Dolphin por sus sistemas de 
+     texturas en HD, al proyecto Seamless HD por inspirarme con su estructura 
+     de carpetas para Dolphin y a bserv por inspirarme en dos detallitos 
+     menores de sus texturas en HD.
    - También queremos dar las gracias a Daniel Quesada de Hobby Consolas, a 
      Francisco Beltrán de Resident Evil Survival Horror y a Darth Khalos de 
-     Jugones y Mazmorras, así como a sus respectivos compañeros de equipos, por 
-     todo el apoyo que nos han dado.
+     Jugones y Mazmorras, así como a sus respectivos compañeros de equipos, 
+     por todo el apoyo que nos han dado.
 
 <h3 style="text-align: center;">PARCHE DE RETRADUCCIÓN Y DOBLAJE (V1.0):</h3>
 
