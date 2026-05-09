@@ -178,8 +178,26 @@ ReBIRTH creado por Gemini.**
 #### CÓMO APLICAR EL PARCHE A LA VERSIÓN EN CD/DE GOG.COM ORIGINAL
    - Si tienes la versión para GOG, asegúrate de que has descargado la 
      versión española y ten cuidado si vas a cambiar el idioma.
-   - Copia la carpeta «doblaje_esp» y el archivo «winmm.dll» a la raíz de la 
-     carpeta del juego.
+   - Si no tienes las carpetas DATA, DATA_A, DATA_AJ, DATA_AS, DATA_S y ROOM 
+     extraídas, sigue los siguientes pasos. Si no, salta al último paso.
+   - Descárgate la herramienta RE3ROFSExtractor [de esta página web](https://classicremodification.com/doku.php?id=re3_tools).
+   - Dentro del archivo comprimido encontrarás los archivos rerofs.exe y 
+     rerofs.bat. Copia estos dos archivos a la raíz del juego y ejecuta el 
+     archivo .bat.
+   - Abre el archivo bio3.ini con el Bloc de notas. Verás al principio del 
+     todo una serie de líneas que contienen lo siguiente:  
+     `Rofs1=.\rofs1.dat`  
+     `Rofs2=.\rofs2.dat`  
+     `Rofs3=.\rofs3.dat`  
+     Y así hasta el Rofs15 o Rofs16. Tienes que editar todas esas líneas 
+     para quitar el nombre de archivo de la derecha, dejándolas así:  
+     `Rofs1=.\`  
+     `Rofs2=.\`  
+     `Rofs3=.\`  
+   - Una vez hayas terminado estos preparativos, copia la carpeta 
+     «doblaje_esp» y el archivo «winmm.dll» a la raíz de la carpeta del 
+     juego. No mezcles los archivos de «doblaje_esp» con los de las carpetas 
+     que se han generado en la raíz del juego.
    - Utiliza DeltaPatcher para aplicar los parches XDELTA correspondientes 
      a los ejecutables que estés utilizando. RECOMENDAMOS ENCARECIDAMENTE 
      UTILIZAR LA OPCIÓN «Backup original file».
@@ -217,9 +235,28 @@ VERSIÓN GOG ESPAÑOLA 1.0 hotfix 4
    - Asegúrate de haber seguido las instrucciones de instalación del Classic 
      ReBIRTH al pie de la letra, sobre todo la de copiar el ejecutable de la 
      versión 1.1.0 de SourceNext.
-   - Copia las carpetas «doblaje_esp» y «Zmovie», así como los archivos 
-     «winmm.dll» y «mod_spanishRECdub_crypto.7z» a la carpeta del juego, 
-     sobrescribiendo los archivos cuando sea necesario.
+   - Si no tienes las carpetas DATA, DATA_A, DATA_AJ, DATA_J y ROOM 
+     extraídas, sigue los siguientes pasos. Si no, salta al último paso.
+   - Descárgate la herramienta RE3ROFSExtractor [de esta página web](https://classicremodification.com/doku.php?id=re3_tools).
+   - Dentro del archivo comprimido encontrarás los archivos rerofs.exe y 
+     rerofs.bat. Copia estos dos archivos a la raíz del juego y ejecuta el 
+     archivo .bat.
+   - Abre el archivo bio3.ini con el Bloc de notas. Verás al principio del 
+     todo una serie de líneas que contienen lo siguiente:  
+     `Rofs1=.\rofs1.dat`  
+     `Rofs2=.\rofs2.dat`  
+     `Rofs3=.\rofs3.dat`  
+     Y así hasta el Rofs15 o Rofs16. Tienes que editar todas esas líneas 
+     para quitar el nombre de archivo de la derecha, dejándolas así:  
+     `Rofs1=.\`  
+     `Rofs2=.\`  
+     `Rofs3=.\`  
+   - Una vez hayas terminado estos preparativos, copia las carpetas 
+     «doblaje_esp» y «Zmovie», así como los archivos «winmm.dll» y 
+     «mod_spanishRECdub_crypto.7z» a la carpeta del juego, sobrescribiendo 
+     los archivos cuando sea necesario. No mezcles los archivos de 
+     «doblaje_esp» con los de las carpetas que se han generado en la raíz 
+     del juego.
 
 Ejecuta la aplicación «BIOHAZARD(R) 3 PC.exe» y, dentro del selector de mods 
 de Classic ReBIRTH, selecciona «Biohazard 3 SourceNext: doblaje por Resident 
