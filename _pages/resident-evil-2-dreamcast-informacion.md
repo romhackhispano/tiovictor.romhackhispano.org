@@ -16,10 +16,12 @@ comments: false
 4. [Instrucciones para aplicar el parche de traducción en Dreamcast](#punto4)
 5. [Instrucciones para aplicar el parche de traducción en GameCube](#punto5)
 6. [Instrucciones para aplicar el parche de traducción en PC](#punto6)
-7. [Instrucciones para aplicar los paquetes de texturas HD traducidas](#punto7)
-8. [Instrucciones para copiar el juego traducido a un CD-R](#punto8)
+7. [Instrucciones para aplicar el parche de traducción en Nintendo 64](#punto7)
+8. [Instrucciones para aplicar los paquetes de texturas HD traducidas](#punto8)
+9. [Instrucciones para copiar el juego traducido a un CD-R](#punto9)
 
-### Registro de revisiones<a name="punto1"></a>
+<a name="punto1"></a>
+### Registro de revisiones
 
 * 1.0 - Primera versión. El menú principal y el de opciones están totalmente 
 desplazados, recortados, machacados. Se está investigando cómo 
@@ -117,8 +119,15 @@ Castellano y nueva revisión de textos:
    - Reescritas las instrucciones para aplicar el parche en Dreamcast 
      por estar incompletas (por un lado) y por actualización del programa 
      Universal Dreamcast Patcher (por el otro).
+* 2.3 - Añadido de la versión subtitulada para Nintendo 64 y corrección de 
+fallos en Dreamcast subtitulada:
+   - Corregidas las duraciones de los subtítulos en la versión 
+     subtitulada para Dreamcast.
+   - Revisados los textos de los subtítulos en las versiones subtituladas 
+     para Dreamcast y Nintendo 64, tomando algunos elementos del doblaje.
 
-### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
+<a name="punto2"></a>
+### Cómo aplicar un parche .XDELTA
 
 **Necesitarás el archivo original a modificar, el archivo xdelta 
 correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**)**.**
@@ -138,7 +147,8 @@ Es posible que los antivirus interfieran con el programa de parcheado
 durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
 programa.
 
-### Instrucciones para aplicar el parche de traducción en PlayStation<a name="punto3"></a>
+<a name="punto3"></a>
+### Instrucciones para aplicar el parche de traducción en PlayStation
 
 **Los parches para PlayStation requieren varios pasos.**
 
@@ -211,7 +221,8 @@ solo** (por ejemplo, porque a algunos emuladores no les guste un .CUE con
 varios .BIN), **vuelve a ejecutar el programa binmerge-gui, pero esta vez 
 introduciendo los .CUE en la pestaña «Fusionar pistas».**
 
-### Instrucciones para aplicar el parche de traducción en Dreamcast<a name="punto4"></a>
+<a name="punto4"></a>
+### Instrucciones para aplicar el parche de traducción en Dreamcast
 
 **Necesitarás extraer las imágenes de ambos GD-ROM de Resident Evil 2 en 
 formato .GDI (método TOSEC) o .BIN/.CUE (método Redump).**
@@ -293,13 +304,8 @@ El programa es muy sencillo:
    successfully», indicando que ya se ha creado una copia parcheada de tu 
    imagen de disco.
 
-**NOTA IMPORTANTE: En el momento de redactar este archivo de texto,** ya hay 
-varios emuladores capaces de ejecutar el juego perfectamente, pero **los 
-emuladores más antiguos darán problemas.** Por ejemplo, Demul 0.5.7 es capaz 
-de ejecutar el juego, pero formateará todas las Visual Memory que haya 
-seleccionadas.
-
-### Instrucciones para aplicar el parche de traducción en GameCube<a name="punto5"></a>
+<a name="punto5"></a>
+### Instrucciones para aplicar el parche de traducción en GameCube
 
 **Necesitarás extraer la imagen del miniDVD de la versión PAL europea de 
 Resident Evil 2 en formato .ISO** (código de juego GHAP). Si necesitas ayuda, 
@@ -319,7 +325,8 @@ DISCO DE LA VERSIÓN EUROPEA DE GAMECUBE (CÓDIGO GHAP):
 **Una vez hayas comprobado que tu disco sea el correcto, podrás aplicar el 
 parche correspondiente siguiendo las instrucciones del punto 3.**
 
-### Instrucciones para aplicar el parche de traducción en PC<a name="punto6"></a>
+<a name="punto6"></a>
+### Instrucciones para aplicar el parche de traducción en PC
 
 **La versión para PC se puede aplicar de dos maneras, según si utilizas el 
 juego original «puro» (es decir, las versiones originales en CD o el 
@@ -400,7 +407,27 @@ por un lado y el archivo «winmm.dll» por otro, pero no podrás jugar a
 nuestra revisión de los textos y podrían aparecer subtítulos que no estén 
 sincronizados con el doblaje.
 
-### Instrucciones para aplicar los paquetes de texturas HD traducidas<a name="punto7"></a>
+<a name="punto7"></a>
+### Instrucciones para aplicar el parche de traducción en Nintendo 64
+
+El parche de subtitulación de Nintendo 64 solo se puede aplicar a la versión 
+PAL europea del juego. **Necesitarás tu copia de seguridad de la ROM en 
+formato Z64, es decir, sin «byte-swapping».**
+
+Estas son las respectivas sumas de comprobación, o checksums:
+
+```
+  CRC-32: 7c8ee011
+     MD5: b04f298721223a22e1150cebc712ee6a
+   SHA-1: d54561791bc41f1b743f8abe769a6e8cbf435326
+```
+
+Si tienes tu ROM en cualquier otro formato, deberás convertirla a Z64 sin 
+«byte-swapping». Aplica el parche XDELTA correspondiente a la versión de 
+Nintendo 64 siguiendo los pasos del punto 3.
+
+<a name="punto8"></a>
+### Instrucciones para aplicar los paquetes de texturas HD traducidas
 
 **PARA CLASSIC REBIRTH:**  
 Para utilizar el paquete de texturas HD complementario en la versión Classic 
@@ -424,7 +451,8 @@ Si ves que no se aplican algunas texturas, es posible que tengas otro pack
 de texturas HD interfiriendo con el nuestro y tendrás que quitar o el pack o 
 las texturas afectadas.
 
-### Instrucciones para copiar el juego traducido a un CD-R<a name="punto8"></a>
+<a name="punto9"></a>
+### Instrucciones para copiar el juego traducido a un CD-R
 
 **Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
 todavía utilicen CDs «quemados» o «tostados» (CD-R) para jugar con sus 

@@ -15,7 +15,8 @@ comments: false
 4. [Consejos para usar la modificación en consola real](#punto4)
 5. [Consejos para usar la modificación en emuladores](#punto5)
 
-### Registro de revisiones<a name="punto1"></a>
+<a name="punto1"></a>
+### Registro de revisiones
 
 - 1.0 - Primera versión, se han sustituido todos los textos de los Consejos al morir y algunas 
 imágenes que estaban sólo en Inglés en el original. Corregidas las líneas genéricas del juego 
@@ -51,7 +52,8 @@ quieran jugar sin este doblaje, incluyendo los siguientes cambios:
    - Se ha reescrito el archivo Léeme para adaptarlo al formato actual 
      de Traducciones del Tío Víctor.
 
-### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
+<a name="punto2"></a>
+### Cómo aplicar un parche .XDELTA
 
 **Necesitarás el archivo original a modificar, el archivo xdelta 
 correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**)**.**
@@ -71,7 +73,8 @@ Es posible que los antivirus interfieran con el programa de parcheado
 durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
 programa.
 
-### Instrucciones para aplicar el parche de traducción en PlayStation<a name="punto3"></a>
+<a name="punto3"></a>
+### Instrucciones para aplicar el parche de traducción en PlayStation
 **Necesitarás extraer la imagen del CD de o bien la versión PAL de Silent Hill 
 en formato .BIN/.CUE** (código de juego SLES-01514), **o bien la versión 
 norteamericana** (código de juego SLUS-00707)**.** Para ello te hará falta un 
@@ -98,7 +101,8 @@ CRC-32: 1d4a3ff7
 Una vez hayas comprobado qué versión tienes del juego, podrás aplicar los 
 parches correspondientes siguiendo las instrucciones del punto *Cómo aplicar un parche XDELTA*.
 
-### Consejos para usar la modificación en consola real<a name="punto4"></a>
+<a name="punto4"></a>
+### Consejos para usar la modificación en consola real
 
 **Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
 todavía utilicen discos «quemados» o «tostados» (CD-R, DVD-R...) para jugar 
@@ -130,7 +134,8 @@ Si quieres informarte sobre los fabricantes de discos, qué marcas comprar o
 dónde comprarlas, tendrás que buscar esa información en otra parte, ya que 
 hay otras personas que saben explicar la situación mejor que yo.
 
-### Consejos para usar la modificación en emuladores<a name="punto5"></a>
+<a name="punto5"></a>
+### Consejos para usar la modificación en emuladores
 
 Durante los testeos de 2025 y 2026 con motivo del proyecto de doblaje, 
 **descubrimos que Silent Hill es un juego un tanto... exquisito a la hora de 

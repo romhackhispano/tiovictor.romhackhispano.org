@@ -18,7 +18,8 @@ comments: false
 6. [Instrucciones para copiar el juego traducido a un CD-R](#punto6)
 7. [Los ODE de Sega Saturn y problemas encontrados con Saroo](#punto7)
 
-### Registro de revisiones<a name="punto1"></a>
+<a name="punto1"></a>
+### Registro de revisiones
 
 * 1.0 - Primera versión, todos los textos, documentos y imágenes del juego 
  traducidos, problemas con los espacios identificados.
@@ -134,7 +135,8 @@ editar todavía la versión NTSC-U de PSX. Otros cambios:
  testeo. También se incluye soporte para la versión europea en CD.
  No hay cambios en el resto de versiones.
 
-### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
+<a name="punto2"></a>
+### Cómo aplicar un parche .XDELTA
 
 Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
@@ -156,7 +158,8 @@ Es posible que los antivirus interfieran con el programa de parcheado
 durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
 programa.
 
-### Instrucciones para aplicar el parche de traducción en PlayStation<a name="punto3"></a>
+<a name="punto3"></a>
+### Instrucciones para aplicar el parche de traducción en PlayStation
 
 Necesitarás extraer la imagen del CD de Resident Evil: Director's Cut en una 
 de las tres versiones compatibles en formato .BIN/.CUE. Para ello te hará 
@@ -191,7 +194,8 @@ CRC-32: a973b63a
  SHA-1: d926cec7ac6a1665cc00039ab92dee6a6bebe824
 ```
 
-### Instrucciones para aplicar el parche de traducción en Sega Saturn<a name="punto4"></a>
+<a name="punto4"></a>
+### Instrucciones para aplicar el parche de traducción en Sega Saturn
 
 Necesitarás extraer la imagen del CD de Resident Evil, ya sea en su versión 
 PAL europea (código de juego MK-81092) como en su versión NTSC-U 
@@ -245,7 +249,9 @@ Si por cualquier motivo necesitas volver a unir los 2 archivos BIN en uno
 solo (por ejemplo, porque a algunos emuladores no les guste un .CUE con 
 varios .BIN), vuelve a ejecutar el programa binmerge-gui, pero esta vez 
 introduciendo los .CUE en la pestaña «Fusionar pistas».
-### Instrucciones para aplicar el parche de traducción en PC<a name="punto5"></a>
+
+<a name="punto5"></a>
+### Instrucciones para aplicar el parche de traducción en PC
 
 La versión para PC se puede aplicar de dos maneras, según si utilizas el 
 juego original «puro» (es decir, las versiones originales en CD o el 
@@ -294,7 +300,8 @@ Ejecuta el archivo Biohazard.exe modificado y, dentro del selector de mods
 de Classic ReBIRTH, selecciona «Biohazard MediaKite: doblaje por Resident 
 Evil Castellano v4.2c».
 
-### Instrucciones para copiar el juego traducido a un CD-R<a name="punto6"></a>
+<a name="punto6"></a>
+### Instrucciones para copiar el juego traducido a un CD-R
 
 Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
 todavía utilicen CDs «quemados» o «tostados» (CD-R) para jugar con sus 
@@ -326,7 +333,8 @@ Si queréis informaros sobre los fabricantes de discos, qué marcas comprar o
 dónde comprarlas, os recomiendo que os informéis por ahí, ya que hay otras 
 personas que saben explicar la situación mejor que yo.
 
-### Los ODE de Sega Saturn y problemas encontrados con Saroo<a name="punto7"></a>
+<a name="punto7"></a>
+### Los ODE de Sega Saturn y problemas encontrados con Saroo
 
 **La versión para Sega Saturn ha sido probada extensivamente con los 
 siguientes métodos de carga:**

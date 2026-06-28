@@ -19,7 +19,8 @@ comments: false
 7. [Instrucciones para aplicar los paquetes de texturas HD traducidas](#punto7)
 8. [Consejos para usar la modificación en consola real](#punto8)
 
-### Registro de revisiones<a name="punto1"></a>
+<a name="punto1"></a>
+### Registro de revisiones
 
 * 1.0 - Primera versión del parche:
    - Se han revisado todos los textos del juego.
@@ -46,7 +47,8 @@ comments: false
    por estar incompletas (por un lado) y por actualización del programa 
    Universal Dreamcast Patcher (por el otro).
 
-### Cómo aplicar un parche .XDELTA<a name="punto2"></a>
+<a name="punto2"></a>
+### Cómo aplicar un parche .XDELTA
 
 **Necesitarás el archivo original a modificar, el archivo xdelta 
 correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**)**.**
@@ -66,7 +68,8 @@ Es posible que los antivirus interfieran con el programa de parcheado
 durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
 programa.
 
-### Instrucciones para aplicar el parche de traducción en PlayStation<a name="punto3"></a>
+<a name="punto3"></a>
+### Instrucciones para aplicar el parche de traducción en PlayStation
 
 **Necesitarás extraer la imagen del CD de o bien la versión PAL España de 
 Resident Evil 3 en formato .BIN/.CUE (código de juego SLES-02532), o bien 
@@ -94,7 +97,8 @@ CD DE LA VERSIÓN NTSC-U (SLUS-00923):
 **Una vez hayas comprobado qué versión tienes del juego, podrás aplicar los 
 parches correspondientes siguiendo las instrucciones del punto 3.**
 
-### Instrucciones para aplicar el parche de traducción en Dreamcast<a name="punto4"></a>
+<a name="punto4"></a>
+### Instrucciones para aplicar el parche de traducción en Dreamcast
 
 **Necesitarás extraer la imagen del GD-ROM de la versión Resident Evil 3 PAL 
 española/francesa (código de juego T-7021D) en formato .GDI (método TOSEC) o 
@@ -148,7 +152,8 @@ El programa es muy sencillo:
    successfully», indicando que ya se ha creado una copia parcheada de tu 
    imagen de disco.
 
-### Instrucciones para aplicar el parche de traducción en GameCube<a name="punto5"></a>
+<a name="punto5"></a>
+### Instrucciones para aplicar el parche de traducción en GameCube
 
 **Necesitarás extraer la imagen del miniDVD de la versión PAL europea de 
 Resident Evil 3 en formato .ISO (código de juego GLEP).** Si necesitas ayuda, 
@@ -168,7 +173,8 @@ DISCO DE LA VERSIÓN EUROPEA DE GAMECUBE (CÓDIGO GLEP):
 **Una vez hayas comprobado que tu disco sea el correcto, podrás aplicar el 
 parche correspondiente siguiendo las instrucciones del punto 3.**
 
-### Instrucciones para aplicar el parche de traducción en PC<a name="punto6"></a>
+<a name="punto6"></a>
+### Instrucciones para aplicar el parche de traducción en PC
 
 **La versión para PC se puede aplicar de dos maneras, según si utilizas el 
 juego original «puro» (es decir, las versiones originales en CD o el 
@@ -265,7 +271,8 @@ Evil Castellano v1.0».
 Si deseas utilizar el doblaje con otros mods, será necesario que dicho mod 
 pueda cargar otros mods con el selector de Classic ReBIRTH.
 
-### Instrucciones para aplicar los paquetes de texturas HD traducidas<a name="punto7"></a>
+<a name="punto7"></a>
+### Instrucciones para aplicar los paquetes de texturas HD traducidas
 
 **PARA CLASSIC REBIRTH:**  
 Para utilizar el paquete de texturas HD complementario en la versión Classic 
@@ -289,7 +296,8 @@ Si ves que no se aplican algunas texturas, es posible que tengas otro pack
 de texturas HD interfiriendo con el nuestro y tendrás que quitar o el pack o 
 las texturas afectadas.
 
-### Consejos para usar la modificación en consola real<a name="punto8"></a>
+<a name="punto8"></a>
+### Consejos para usar la modificación en consola real
 
 **Estas instrucciones son para aquellas personas que, ya en la década de 2020, 
 todavía utilicen discos «quemados» o «tostados» (CD-R, DVD-R...) para jugar 

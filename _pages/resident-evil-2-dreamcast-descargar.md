@@ -21,7 +21,10 @@ sonido:* IlDucci
  - *Ingeniería inversa adicional:* dakrk, SolidSnake11, Derek Pascarella (ateam)  
  - *Herramientas dedicadas, ingeniería inversa:* GameZelda, PacoChan, Pleonex, 
 Megaflan, D3fau4  
- - *Testeo y revisión de textos:* Salvi Garrido, Releon, tony_sonico
+ - *Herramientas e ingeniería inversa adicionales para Nintendo 64:* Zoinkity, 
+DeadSubz, Infrid  
+ - *Testeo y revisión de textos:* Salvi Garrido, Releon, tony_sonico  
+ - *Testeo de la versión de Nintendo 64:* TheMarkusBoy
 
 **Créditos del doblaje al castellano:**
  - *Dirección de doblaje, técnico de grabación y de mezclas, adaptador de 
