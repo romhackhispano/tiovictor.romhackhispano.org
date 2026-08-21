@@ -43,14 +43,14 @@ de Leon y a la oficina de los STARS en el disco de Claire.
 subtítulos, eliminando su costumbre de desaparecer antes de tiempo. 
 El parcheador de PacoChan ahora reconocerá e identificará las imágenes 
 que se introducen para parchear.
-* 1.5B- Corregido un defecto por el cual el ordenado de archivos no funcionaba.
+* 1.5B - Corregido un defecto por el cual el ordenado de archivos no funcionaba.
 Este defecto podía provocar lecturas de disco más lentas en consola.
-* 1.5C- Añadido soporte para exportar imágenes en formato GDI. La traducción 
+* 1.5C - Añadido soporte para exportar imágenes en formato GDI. La traducción 
 no ha tenido cambios, así que mantiene su número de versión anterior.
-* 1.5D- Añadida una verificación adicional a la hora de generar imágenes en 
+* 1.5D - Añadida una verificación adicional a la hora de generar imágenes en 
 formato MDS/MDF para asegurar que su tamaño sea apto para discos de 80 
 minutos. Gracias a PepperStyles por descubrir el defecto.
-*2.0 - Doblaje al castellano realizado en 2024 por el equipo de Resident Evil 
+* 2.0 - Doblaje al castellano realizado en 2024 por el equipo de Resident Evil 
 Castellano y nueva revisión de textos:
    - Solo se incluye la versión doblada a partir de ahora por motivos 
      logísticos.
