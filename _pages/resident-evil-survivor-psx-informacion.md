@@ -7,14 +7,23 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/resident-evil-survivor-psx/informacion/">INFORMACIÓN</a> - <a href="/resident-evil-survivor-psx/capturas/">CAPTURAS</a> - <a href="/resident-evil-survivor-psx/descargar/">DESCARGAS</a></strong></h2>
 
-### REGISTRO DE REVISIONES
+# Índice
+
+1. [Registro de revisiones](#punto1)
+2. [Como aplicar el parche de traducción](#punto2)
+3. [Como copiar el juego para usarlo en una PlayStation 1/2](#punto3)
+4. [Solución de problemas](#punto4)
+
+<a name="punto1"></a>
+### Registro de revisiones
  - 1.0 - Primera versión:
    - Todo el juego está traducido al castellano.
    - Los subtítulos de las escenas ingame han sido expandidos y resincronizados con las voces en la medida de lo posible.
  - 1.0.1 - Corrección menor:
    - Corregido el fallo de los créditos del juego en consola real.
 
-### COMO APLICAR EL PARCHE DE TRADUCCIÓN
+<a name="punto2"></a>
+### Como aplicar el parche de traducción
 
 AVISO: El parche está pensado para ser aplicado a una copia de seguridad 
 de tu juego original _**que tenga el parche anticopia de PSX Killer**_. ¡El parche 
@@ -26,8 +35,8 @@ es la suma de comprobación (checksums) de la imagen original del juego en
 formato .BIN:
 
 ```
-CRC-32: 6c39155c  
-   MD5: aed5be337dc9e46d9cc93ed458277fbc  
+CRC-32: 6c39155c
+   MD5: aed5be337dc9e46d9cc93ed458277fbc
  SHA-1: 833d8a18b6f7963755ac4e4eb12fe70a106af0cf  
 ```
 
@@ -68,7 +77,8 @@ las imagenes del juego ya parcheado. La traducción está hecha para ser
 distribuida en forma de parche y para ser usada para los legitimos 
 poseedores del juego original.
 
-### COMO COPIAR EL JUEGO PARA USARLO EN UNA PLAYSTATION 1/2
+<a name="punto3"></a>
+### Como copiar el juego para usarlo en una PlayStation 1/2
 
 Por lo general, puedes utilizar cualquier programa de grabación de discos 
 (Recomendamos ImgBurn o Alcohol 120%), siempre y cuando grabes a la 
@@ -88,7 +98,8 @@ Si queréis informaros sobre los fabricantes de discos, qué marcas comprar o
 dónde comprarlas, os recomiendo que os informéis por ahí, ya que hay otras 
 personas que saben explicar la situación mejor que yo.
 
-### SOLUCIÓN DE PROBLEMAS
+<a name="punto4"></a>
+### Solución de problemas
  - xdelta o xdeltaUI dan el error "Checksum Mismatch":
    - Probablemente, no has aplicado el parche anticopia de PSX Killer al 
      juego, o puede que hayas seleccionado un Source File (archivo de 

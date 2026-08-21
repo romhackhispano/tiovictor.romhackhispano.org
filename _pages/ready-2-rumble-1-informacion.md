@@ -8,6 +8,14 @@ comments: false
 
 <h2 style="text-align: center;"><strong><a href="/ready-2-rumble-1/informacion/">INFORMACIÓN</a> - <a href="/ready-2-rumble-1/descargar/">DESCARGAS</a> - <a href="/ready-2-rumble-1/capturas/">CAPTURAS</a></strong></h2>
 
+# Índice
+
+1. [Información general del proyecto](#punto1)
+2. [Registro de revisiones](#punto2)
+3. [Información de interés del manual del juego](#punto3)
+4. [Instrucciones para aplicar el parche de traducción](#punto4)
+
+<a name="punto1"></a>
 ### Información general del proyecto
 
 Hace mucho tiempo, **allá por el Año de Nuestro Señor 2007**, cuando yo era un 
@@ -49,6 +57,7 @@ las imágenes del juego ya parcheado.** La traducción está hecha para ser
 distribuida en forma de parche y para ser usada para los legítimos 
 poseedores del juego original.
 
+<a name="punto2"></a>
 ### Registro de revisiones
 
 * v1.0 - Primera versión de la traducción publicada en 2007.
@@ -56,6 +65,7 @@ poseedores del juego original.
   - Se han insertado todos los caracteres acentuados que eran necesarios.
   - Se han traducido los textos con libertad total de espacio.
 
+<a name="punto3"></a>
 ### Información de interés del manual del juego
 
 **CONTROLES POR DEFECTO EN COMBATES:**
@@ -107,17 +117,21 @@ CONSEJOS SOBRE EL JUEGO:
  - Pulsa el botón C ◄ y mueve el Panel de Control o el Stick de Control 
    hacia arriba, abajo, izquierda o derecha para elegir un esquinero.
 
+<a name="punto4"></a>
 ### Instrucciones para aplicar el parche de traducción
 
 **Es necesario tener la aplicación XDelta (la opción más fácil es utilizar 
-su interfaz XDeltaUI) y una copia de la ROM "Ready 2 Rumble Boxing (Europe) 
-(En,Fr,De)" en formato .z64 (sin «byteswapping»).**
+su interfaz XDeltaUI) y una copia de la ROM `Ready 2 Rumble Boxing (Europe) 
+(En,Fr,De)` en formato .z64 (sin «byteswapping»).**
 
 **Estos son los datos de verificación de la ROM original necesaria para que 
 funcione el parche:**
+
+```
 CRC-32: a69df7b3
    MD5: adc95ae01855fa305b13f8b22427e597
  SHA-1: e18477d858c623a834f24dc2717d0ef340e63364
+```
 
 Si la ROM es correcta, podrás aplicar el parche sobre la misma y guardar la 
 ROM nueva en otro archivo.

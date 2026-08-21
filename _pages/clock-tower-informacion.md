@@ -54,9 +54,11 @@ incluido y la aplicación Lunar IPS (**[puedes conseguirla pulsando aquí](https
 Esta es la suma de comprobación (checksum) de la ROM original del juego en 
 formato .SMC:
 
-CRC-32: ec246b7e  
-   MD5: f921fac3bbd70be88ea02576e9d7fe2f  
+```
+CRC-32: ec246b7e
+   MD5: f921fac3bbd70be88ea02576e9d7fe2f
  SHA-1: 672935366f6393d6161ef853d2152b3f076e6935
+```
 
  - Abre el programa Lunar IPS.exe.  
  - Haz clic en "Apply IPS Patch".  

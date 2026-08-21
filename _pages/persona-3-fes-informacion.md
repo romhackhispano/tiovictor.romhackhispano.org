@@ -99,8 +99,10 @@ Asegúrate de que has volcado tu disco correctamente. **Estos son los checksum
 md5 de la imágenes ISO del juego según ReDump (y confirmados con mis propios 
 discos):**
 
-NTSC-U: 4B16317A11F3089090748B7ECA2ACBAF  
+```
+NTSC-U: 4B16317A11F3089090748B7ECA2ACBAF
 PAL: A06EED816FDF750245E0E5DD49C3F1FE
+```
 
 Cuando ya tengas tu copia de seguridad hecha, podrás aplicar el parche 
 mediante el parcheador personalizado, por cortesía de Darkmet y TraduSquare.

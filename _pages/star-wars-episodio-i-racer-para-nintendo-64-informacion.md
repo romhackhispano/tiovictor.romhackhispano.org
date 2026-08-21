@@ -8,6 +8,13 @@ comments: false
 
 <h2 style="text-align: center;"><strong><a href="/star-wars-episodio-i-racer-para-nintendo-64/informacion/">INFORMACIÓN</a> - <a href="/star-wars-episodio-i-racer-para-nintendo-64/descargar/">DESCARGAS</a> - <a href="/star-wars-episodio-i-racer-para-nintendo-64/capturas/">CAPTURAS</a></strong></h2>
 
+# Índice
+
+1. [Registro de revisiones](#punto1)
+2. [Cómo aplicar el parche de traducción](#punto2)
+3. [Cómo jugar en los emuladores 1964 y Project 64](#punto3)
+
+<a name="punto1"></a>
 ### Registro de revisiones
 
 * 1.0 BETA: Primera versión
@@ -28,14 +35,16 @@ comments: false
   motores, ya no se salen de la pantalla.
   - Retoques menores adicionales.
 
-### Cómo aplicar el parche de traducción:
+<a name="punto2"></a>
+### Cómo aplicar el parche de traducción
 
 Es necesario tener XDelta (para hacerlo más fácil utilizar XDeltaUI también)
-y una copia de la ROM "Star Wars Episode I - Racer (E) (M3) [!].v64",
+y una copia de la ROM `Star Wars Episode I - Racer (E) (M3) [!].v64`,
 en formato .v64 (Byte Swapped).
 
 Estos son los datos de la ROM original que debes tener para que funcione el
 parche:
+
 ```
 CRC1: 53ED2DC4
 CRC2: 06258002
@@ -43,13 +52,13 @@ CRC2: 06258002
 CRC32: EDE47E8A
 MD5: DE98F1BCEB2C317BB0A9743282CE2C2E
 SHA-1: D4968CE06B93705ED40FF4433279F587F62E3C26
-
 ```
 
 Si la ROM es correcta, aplica el parche sobre la misma y guarda la ROM nueva
 en otro archivo.
 
-### Cómo jugar en los emuladores 1964 y Project 64:
+<a name="punto3"></a>
+### Cómo jugar en los emuladores 1964 y Project 64
 
 **Los emuladores 1964 y Project64 no guardarán los datos de partidas guardadas 
 si no se configura la ROM antes de jugar.**

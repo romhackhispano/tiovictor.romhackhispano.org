@@ -7,6 +7,17 @@ comments: false
 ---
 <h2 style="text-align: center;"><strong><a href="/silent-hill-2-directors-cut/informacion/">INFORMACIÓN</a> - <a href="/silent-hill-2-directors-cut/descargar/">DESCARGAS</a> - <a href="/silent-hill-2-directors-cut/capturas/">CAPTURAS</a></strong></h2>
 
+# Índice
+
+1. [Historia del proyecto](#punto1)
+2. [Diferencias entre la versión «neutra» (ESN) y la «castellana» (ESP)](#punto2)
+3. [Registro de revisiones](#punto3)
+4. [Instrucciones para aplicar el parche de traducción en PC](#punto4)
+5. [Instrucciones para aplicar el parche de traducción en XBOX](#punto5)
+6. [Instrucciones para aplicar el parche de traducción en PlayStation 2](#punto6)
+7. [Instrucciones para usar la traducción en una PlayStation 2](#punto7)
+
+<a name="punto1"></a>
 ### Historia del proyecto
 
 Silent Hill 2 ha sido una de las espinitas que me quería quitar desde hace 
@@ -51,6 +62,7 @@ las imagenes del juego ya parcheado. La traducción está hecha para ser
 distribuida en forma de parche y para ser usada para los legitimos 
 poseedores del juego original.
 
+<a name="punto2"></a>
 ### Diferencias entre la versión «neutra» (ESN) y la «castellana» (ESP)
 
 La revisión se ha dividido en dos versiones:
@@ -72,6 +84,7 @@ inglés)...
 
 Aplícate la traducción que más se adapte a tus gustos.
 
+<a name="punto3"></a>
 ### Registro de revisiones
 - v1.0: Primera versión de la traducción  
   - Se ha revisado toda la traducción española del juego.  
@@ -97,6 +110,7 @@ Aplícate la traducción que más se adapte a tus gustos.
          Edition. Las versiones para PS2 y XBOX, al no tener cambios, se 
          mantienen en la versión 1.0.5.
 
+<a name="punto4"></a>
 ### Instrucciones para aplicar el parche de traducción en PC
 
 Recomendamos utilizar este parche de traducción junto con el mod Enhanced 
@@ -117,6 +131,7 @@ parche en su modificación, pero solo permiten un idioma, así que si te has
 descargado la Enhanced Edition a partir de enero de 2020, tendrá instalada 
 de serie la traducción "neutra".
 
+<a name="punto5"></a>
 ### Instrucciones para aplicar el parche de traducción en XBOX
 
 Para poder jugar al juego con la nueva traducción, primero necesitarás 
@@ -140,11 +155,12 @@ sobrescribir los archivos. Aparentemente, esta versión limita los idiomas
 disponibles al inglés y al japonés, así que no se puede elegir el español 
 tan fácilmente (¡Gracias a David Mariano por el aviso!)
 
+<a name="punto6"></a>
 ### Instrucciones para aplicar el parche de traducción en PlayStation 2
 
 Necesitarás extraer la imagen del DVD de Silent Hill 2: Director's Cut, ya 
-sea en su versión PAL europea (código de juego SLES-51156) o en su versión 
-NTSC-U norteamericana (código de juego SLUS-20228) en formato .ISO.
+sea en su versión PAL europea (código de juego `SLES-51156`) o en su versión 
+NTSC-U norteamericana (código de juego `SLUS-20228`) en formato .ISO.
 
 Una vez la hayas extraído, podrás aplicar el parche con la revisión que 
 más te interese utilizando la aplicación xdelta (O xdeltaUI si no te gustan 
@@ -153,8 +169,10 @@ las ventanas de línea de comandos).
 Asegúrate de que has volcado tu disco correctamente. Estos son los checksum 
 de mis imágenes:
 
-PAL: 3257e3fb22866061cf8f4f881f5e4b70
+```
+PAL: 3257e3fb22866061cf8f4f881f5e4b70  
 NTSC-U: 37a90d79dea1d60b90b54b371c34c53a
+```
 
 Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
@@ -180,6 +198,7 @@ Es posible que los antivirus interfieran con el programa de parcheado
 durante su funcionamiento, pero NO DEBES DESACTIVARLOS mientras utilizas el 
 programa.
 
+<a name="punto7"></a>
 ### Instrucciones para usar la traducción en una PlayStation 2
 
 Por lo general, puedes utilizar cualquier programa de grabación de discos 

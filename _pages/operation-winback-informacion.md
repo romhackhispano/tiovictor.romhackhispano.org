@@ -23,8 +23,8 @@ Esta es la suma de comprobación (checksum) de la imagen original del juego
 en formato .BIN/.CUE (un solo archivo .BIN):
 
 ```
-CRC-32: effc32fe  
-   MD5: 8d9834690804ffe3ac99196cd122b05d  
+CRC-32: effc32fe
+   MD5: 8d9834690804ffe3ac99196cd122b05d
  SHA-1: 1dd8b5ab7f07a8bac957f30314e0911841424312  
 ```
 

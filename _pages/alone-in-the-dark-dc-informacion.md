@@ -8,7 +8,16 @@ comments: false
 
 <h2 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/informacion/">INFORMACIÓN</a> - <a href="/alone-in-the-dark-dc/descargar/">DESCARGAS</a> - <a href="/alone-in-the-dark-dc/capturas/">CAPTURAS</a></strong></h2>
 
-### REGISTRO DE VERSIONES
+# Índice
+
+1. [Registro de versiones](#punto1)
+2. [Como conseguir los archivos del doblaje](#punto2)
+3. [Como aplicar el parche de traducción](#punto3)
+4. [Como copiar el juego para usarlo en una Dreamcast](#punto4)
+5. [Solución de problemas](#punto5)
+
+<a name="punto1"></a>
+### Registro de versiones
 
 * 1.0 - Primera versión, juego traducido y doblable al 100%.
   - Se han adaptado todos los textos posibles de la traducción original, corrigiendo erratas 
@@ -45,7 +54,8 @@ sin provocar una gran pérdida visual.
 programa adxencd.exe no esté dañado durante el arranque del 
 parcheador.
 
-### CÓMO CONSEGUIR LOS ARCHIVOS DEL DOBLAJE
+<a name="punto2"></a>
+### Como conseguir los archivos del doblaje
 Debido a que el juego no tiene subtítulos, se ha optado por hacer que **el 
 parcheador obligue a tener en las carpetas Audio y Video los archivos con el 
 doblaje en castellano.** Este parcheador reconoce los audios de las versiones 
@@ -54,7 +64,7 @@ por complicaciones a la hora de identificar los audios).
 
 A continuación indicaré los archivos necesarios según la versión que tengas más a mano.
 
-#### VERSIÓN DE PC
+#### Versión de PC
 
 * NOTA: Si no queréis reinstalar el juego, podéis obtener los archivos mencionados directamente 
 de los discos indicados.  
@@ -64,13 +74,14 @@ Audio que hay junto al Parcheador.
 C808_052, C813_061 y EXTRO (Disco 3) deben ir en la carpeta Video (Sin acento) que hay en el 
 parcheador.
 
-#### VERSIÓN DE PLAYSTATION 2 (Recomendada por su mayor calidad)
+#### Versión de PlayStation 2 (Recomendada por su mayor calidad)
 
 * Los archivos SPANISH.FAT y SPANISH.NOB de la carpeta NOB (Audio).  
 * Los archivos A111_122.SPA, A112_167.SPA, INTRO.SPA), A825_165.SPA, C808_052.SPA, C813_061.SPA 
 y EXTRO.SPA de la carpeta MOVIES30\MULTI (Video).
 
-### COMO APLICAR EL PARCHE DE TRADUCCIÓN
+<a name="punto3"></a>
+### Como aplicar el parche de traducción
 
 El parche está pensado para ser aplicado a una copia de seguridad de tu juego
 original. Sabemos que en el caso de la Dreamcast no es fácil que un usuario
@@ -123,7 +134,8 @@ imágenes ya parcheadas. La traducción está hecha para ser distribuida en
 forma de parche y para ser usada para los legitimos poseedores del juego 
 original.
 
-### CÓMO COPIAR EL JUEGO PARA USARLO EN UNA DREAMCAST
+<a name="punto4"></a>
+### Como copiar el juego para usarlo en una Dreamcast
 
 Es importante tener la última versión disponible del programa Alcohol 120%. 
 Durante nuestras pruebas hemos utilizado la versión 1.9.8.
@@ -143,7 +155,8 @@ Las imágenes GDI no son compatibles con ningún formato de CDs.
 Si quieres jugar el juego en tu consola real mediante discos CD-R, debes 
 seleccionar la opción "NRG (para consola real)".
 
-### SOLUCIÓN DE PROBLEMAS
+<a name="punto5"></a>
+### Solución de problemas
 
 * El parcheador muestra un código desconocido y no crea bien las imágenes: 
      * En muchos casos el problema se resuelve al utilizar el parcheador en 

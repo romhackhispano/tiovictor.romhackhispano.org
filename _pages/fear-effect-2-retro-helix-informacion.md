@@ -15,25 +15,25 @@ Estas son las sumas de comprobación («checksums») de las imágenes originales
 del juego en formato .BIN/.CUE:
 
 ```
-Disco 1:  
-CRC-32: 68cf6a8f  
-   MD5: 275454acfb70abc01624cbdfb921513a  
- SHA-1: af046283511c22fd0c8f4e1f8f95bdae94e4a3a2  
+Disco 1:
+CRC-32: 68cf6a8f
+   MD5: 275454acfb70abc01624cbdfb921513a
+ SHA-1: af046283511c22fd0c8f4e1f8f95bdae94e4a3a2
 
-Disco 2:  
-CRC-32: ef1b962a  
-   MD5: 285a97a2ef185396e36f4c85c590e5fd  
- SHA-1: 4ec6a634998df2212ee61b11c8f9eff5015a33f4  
+Disco 2:
+CRC-32: ef1b962a
+   MD5: 285a97a2ef185396e36f4c85c590e5fd
+ SHA-1: 4ec6a634998df2212ee61b11c8f9eff5015a33f4
 
-Disco 3:  
-CRC-32: 4d7a4b68  
-   MD5: cc33757ca398c125c05e41ae1a14f94b  
- SHA-1: 6c160f59b838647d417a81c5f8d6ea6966c78755  
+Disco 3:
+CRC-32: 4d7a4b68
+   MD5: cc33757ca398c125c05e41ae1a14f94b
+ SHA-1: 6c160f59b838647d417a81c5f8d6ea6966c78755
 
-Disco 4:  
-CRC-32: bb558f10  
-   MD5: 621509654d86221b5d7945d142abc486  
- SHA-1: 29c5d2fb79c75f28baafa80681d91d24148344dd  
+Disco 4:
+CRC-32: bb558f10
+   MD5: 621509654d86221b5d7945d142abc486
+ SHA-1: 29c5d2fb79c75f28baafa80681d91d24148344dd
 ```
 
 Una vez las hayas extraído, podrás aplicar el parche de traducción de cada 

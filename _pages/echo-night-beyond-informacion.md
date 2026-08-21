@@ -117,8 +117,10 @@ Asegúrate de que has volcado tu disco correctamente. **Estos son los checksum
 md5 de la imágenes ISO del juego según ReDump (y confirmados con mis propios 
 discos):**
 
-NTSC-U: 5FD2469655F96358BA162A4D1732331B  
+```
+NTSC-U: 5FD2469655F96358BA162A4D1732331B
 PAL: BBCAC9A67EC2F052E53EC5559D9F8C13
+```
 
 Cómo aplicar un archivo .XDELTA con Delta Patcher:
 

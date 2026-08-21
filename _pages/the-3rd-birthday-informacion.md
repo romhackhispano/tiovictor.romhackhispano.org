@@ -20,8 +20,8 @@ Esta es la suma de comprobación (checksum) de la imagen original del juego
 en formato .ISO:
 
 ```
-CRC-32: 80ba851c  
-   MD5: d7c2309da1fb349b8dfce11f1b6c90a7  
+CRC-32: 80ba851c
+   MD5: d7c2309da1fb349b8dfce11f1b6c90a7
  SHA-1: 6112aa5d52c018c894a0d29be70018e2af1d63eb
 ```
 

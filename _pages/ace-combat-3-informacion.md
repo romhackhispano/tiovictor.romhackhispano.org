@@ -107,17 +107,19 @@ comandos) para aplicar los parches correspondientes.
 Estas son las posibles sumas de las ediciones (obtenidas gracias a la base 
 de datos de Redump.org):
 
+```
 VERSIÓN 1:
-MD5 DEL CD 1: 30f7dce98b6901290cb26c9baf27268f
+MD5 DEL CD 1: 30f7dce98b6901290cb26c9baf27268f  
 MD5 DEL CD 2: 50760963ae8a26ea0188b165f05b33a1
 
 VERSIÓN 2:
-MD5 DEL CD 1: 86fd694677098d26909086895404f571
+MD5 DEL CD 1: 86fd694677098d26909086895404f571  
 MD5 DEL CD 2: c3909981452f1506290121b2763beb24
 
 VERSIÓN 3:
-MD5 DEL CD 1: 1294b780cb5da2136608bb8e5c2c08a0
+MD5 DEL CD 1: 1294b780cb5da2136608bb8e5c2c08a0  
 MD5 DEL CD 2: 50760963ae8a26ea0188b165f05b33a1
+```
 
 **¡¡¡IMPORTANTE!!!**
 
@@ -198,9 +200,11 @@ Patcher para aplicar el parche del AppenDisc.
 Esta es la suma de comprobación de la pista 01 de mi copia original del 
 juego en formato .BIN:
 
+```
 CRC-32: d6636cac
    MD5: 61064e44fb37ec75ad25a4b7d6a14916
  SHA-1: 168761ee81417fde52845faf7d8ec1141c26c97d
+```
 
 ¡Ya está! Ahora podrás hacer uso del AppenDisc traducido al castellano, 
 tanto en emulador como en consolas modificadas para permitir la carga de 
