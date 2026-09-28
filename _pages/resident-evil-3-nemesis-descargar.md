@@ -78,7 +78,7 @@ Dolphin, Gemini (Classic ReBIRTH).
 <h3 style="text-align: center;">PARCHE DE RETRADUCCIÓN Y DOBLAJE (V1.0):</h3>
 
 <center>
-<a href="https://www.mediafire.com/folder/ztbaswimeb1ft/RE3_DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/scF2HYzA#gWX9i4r30g0VgSHr_-aeyA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
+<a href="https://www.mediafire.com/folder/rqn7rlbekm590/RE3DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/scF2HYzA#gWX9i4r30g0VgSHr_-aeyA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

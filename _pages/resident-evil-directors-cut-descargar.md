@@ -82,7 +82,7 @@ juego). Sabemos quiénes sois.*
 <h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE DEL JUEGO (V4.2b 2024 PARA PSX Y SATURN):</h3>
 
 <center>
-<a href="https://www.mediafire.com/folder/9rh9895tjhs01/REDC" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/hcdVmQLR#rTq2AVpd8NHbsfOgEk_8OA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
+<a href="https://www.mediafire.com/folder/5frfpffnsvg9i/REDC_DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/hcdVmQLR#rTq2AVpd8NHbsfOgEk_8OA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
