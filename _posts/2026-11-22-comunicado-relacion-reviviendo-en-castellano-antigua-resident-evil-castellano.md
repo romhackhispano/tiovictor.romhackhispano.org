@@ -10,9 +10,9 @@ tags:
 - 'General'
 ---
 
-**Creemos que alguien está intentando destruir todo lo que llevamos haciendo estos años con Resident Evil Castellano/Reviviendo en Castellano.
+**Creemos que alguien está intentando destruir todo lo que llevamos haciendo estos años con Resident Evil Castellano/Reviviendo en Castellano.**
 
-Se me ocurren motivos para pensar que Traducciones del Tío Víctor también podría correr peligro.**
+**Se me ocurren motivos para pensar que Traducciones del Tío Víctor también podría correr peligro.**
 
 Se nos ocurren motivos y tenemos a varios sospechosos, pero aquello de "no tengo pruebas, pero tampoco dudas" hace más mal que bien en los tiempos que corren.
 
