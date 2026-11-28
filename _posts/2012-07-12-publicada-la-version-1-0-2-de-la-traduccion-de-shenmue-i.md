@@ -11,7 +11,7 @@ tags:
 Saludos a todos, hoy sacamos una nueva revisión menor de la traducción de Shenmue I; 
 la versión BETA 1.0.2.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/shenmue/descargar/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/shenmue/descargar/">Ir a la página de descargas</a></strong></h2>
 
 Esta es la lista de mejoras:
 

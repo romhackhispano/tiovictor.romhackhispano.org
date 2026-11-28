@@ -56,7 +56,8 @@ quieran jugar sin este doblaje, incluyendo los siguientes cambios:
 ### Cómo aplicar un parche .XDELTA
 
 **Necesitarás el archivo original a modificar, el archivo xdelta 
-correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**)**.**
+correspondiente y la aplicación Delta Patcher** (puedes conseguirla en 
+**[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/){:target="_blank"}**)**.**
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 

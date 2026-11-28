@@ -15,7 +15,7 @@ Solo paso a comentar que después de cuatro meses (¡lo siento!), ya se pueden v
 ya se pueden volver a leer y escribir comentarios a través de Disqus. Siento muchísimo las molestias. Dad las gracias a los (CENSURADO) 
 de Google por cambiar todo el sistema de analíticas.
 
-Por cierto, este sábado a las 18:00 (hora española) **[se estrenará el primer TraduSquare Direct](https://www.youtube.com/watch?v=c94ItlL4YL4)** 
+Por cierto, este sábado a las 18:00 (hora española) **[se estrenará el primer TraduSquare Direct](https://www.youtube.com/watch?v=c94ItlL4YL4){:target="_blank"}** 
 de este año, con un montón de tráilers y gameplays de varios proyectos de fantraducción en progreso. Esta vez no hay ningún vídeo de ninguno de mis 
 proyectos, pero que no os quepa duda: como decís los jóvenes de hoy en día, «se vienen cositas».
 

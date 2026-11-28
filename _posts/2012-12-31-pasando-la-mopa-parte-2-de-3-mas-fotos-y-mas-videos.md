@@ -28,8 +28,8 @@ definición (Tomadas con el emulador Dolphin). Comentar de nuevo que por aquí
 tengo los códigos fuentes de las herramientas, si alguien tiene los santos 
 huevos de portearlas para PS3 y hacer el testeo, la conversión estará servida.  
 - **SWAT 4: The Stetchkov Syndicate**: 
-<a href="http://tiovictor.romhackhispano.org/swat4-the-stetchkov-syndicate/" target="_blank">Se 
-ha publicado una nueva versión</a> del parche que corrige el problema de los 
+[Se ha publicado una nueva versión](https://tiovictor.romhackhispano.org/swat4-the-stetchkov-syndicate/) 
+del parche que corrige el problema de los 
 caracteres acentuados en las mayúsculas y revisa los textos (Eliminación de tildes 
 innecesarias). También he puesto nuevas capturas y publicado un nuevo vídeo que 
 podréis ver tras el salto.

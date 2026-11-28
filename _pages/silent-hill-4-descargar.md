@@ -24,10 +24,10 @@ cuando hacíamos la traducción del Ace Combat 3 a mirar los Silent Hill, y a
 Danuffo por recordarme que tenía esta revisión de la traducción guardada en 
 un cajón desde enero.
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE RETRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE RETRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/5zlo1i1xzmgthjc/SH4-REVISION-TTV-V1.01.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/gUFwXYYa#2O0tHquUQc0rJoCHuFNg848sB3u9PHCZVh0yTJrI-vo" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/5zlo1i1xzmgthjc/SH4-REVISION-TTV-V1.01.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/gUFwXYYa#2O0tHquUQc0rJoCHuFNg848sB3u9PHCZVh0yTJrI-vo" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/silent-hill-4-the-room/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

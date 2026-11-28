@@ -40,10 +40,10 @@ _Maquetación:_ IlDucci
 Fotos de la Tierra cortesía de la NASA.  
 Diseños del juego ilustrados por Senji Mitsumachi. Utilizado bajo permiso.
 
-<h3 style="text-align: center;">VERSIÓN 1.0b DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE:</h3>
 
 <center>
-<a href="https://mega.nz/#!dU1W1ZZT!R03dUYRdihG7SWohq0wD_-4sT-SS-9bD8J4EYboMxkc" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="http://www.mediafire.com/download/nedfd0084twazp6/SinAndPunishmentCastellano10b.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a>
+<a href="https://mega.nz/#!dU1W1ZZT!R03dUYRdihG7SWohq0wD_-4sT-SS-9bD8J4EYboMxkc" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="http://www.mediafire.com/download/nedfd0084twazp6/SinAndPunishmentCastellano10b.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://tradusquare.es/proyectos/sin-and-punishment/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 Para que el parche funcione, es necesario tener una copia en formato en formato 

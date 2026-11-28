@@ -21,11 +21,12 @@ estado de mis traducciones, pero es hora de dar un repasito general por todo lo
 que ha pasado este nuevo proyecto.
 
 Para empezar, no empezó siendo mío pero he acabado llevándolo yo. Allá por 2008, 
-Ryo Suzuki, administrador de <a title="SegaSaturno, web de referencia de Sega en 
-Español" href="http://www.segasaturno.com" target="_blank">SegaSaturno.com</a>, 
+Ryo Suzuki, administrador de 
+<a title="SegaSaturno, web de referencia de Sega en Español" href="http://www.segasaturno.com" target="_blank">SegaSaturno.com</a>, 
 comenzó la versión definitiva de la traducción al Castellano (Recordemos que hace 
 diez años salió una, pero hecha de forma casera; esta se ha hecho con las herramientas 
-del grupo francés <a href="http://shenmuesubs.sourceforge.net/" target="_blank">ShenmueSubs</a> 
+del grupo francés 
+[ShenmueSubs](http://shenmuesubs.sourceforge.net/){:target="_blank"} 
 de Shenmue I, que dan bastante poder sobre el juego)
 
 Cuando le conocí, creo que a finales de 2009, le ofrecí mi ayuda y me pasó lo que 
@@ -65,7 +66,7 @@ ejecutable del juego (El diario de Ryo y tal, eso irá para el final).**
 Yo calculo que para navidades podría estar todo ya traducido, a la espera de que estas 
 personas externas puedan darle el repaso final. De momento ya debo darle las gracias a 
 Pacochan por adaptar el trabajo de Ryo sobre el FREE del disco 1 a un formato más manejable; 
-y a Indiket y Neoblast de <a href="http://www.dreamcast.es">Dreamcast.es</a> por su más que 
+y a Indiket y Neoblast de [Dreamcast.es](http://www.dreamcast.es){:target="_blank"} por su más que 
 valiosa ayuda en más de un aspecto.
 
 Y me guardo una sorpresilla para el final; intentaré dejarlo críptico (Esto va por quien yo 

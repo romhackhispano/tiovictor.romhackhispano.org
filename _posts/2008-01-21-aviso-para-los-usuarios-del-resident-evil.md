@@ -23,6 +23,6 @@ y los subtítulos están en el PPF). Estoy usando el sistema que Capcom utilizó
 subtitular los vídeos, que de momento tiene problemas de sincronización. Si alguien 
 tiene conocimientos de desensamblador de PSOne que hable ahora o calle para siempre.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/resident-evil-directors-cut/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/resident-evil-directors-cut/">Ir a la página de descargas</a></strong></h2>
 
 Si la traducción no te da problemas, no te molestes en bajarte esto.

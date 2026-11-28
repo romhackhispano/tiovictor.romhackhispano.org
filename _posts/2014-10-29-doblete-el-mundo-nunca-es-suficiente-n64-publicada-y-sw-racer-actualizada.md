@@ -55,8 +55,7 @@ para que pueda ejecutarse en consolas PAL y NTSC sin más ajustes.
 En este proyecto, desde su reinicio en enero de 2014, han participado **PacoChan, 
 Zoinkity, SkyBladeCloud y un servidor.**
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/el-mundo-nunca-es-suficiente-n64/descargar/">Ir 
-a la página de descargas de El Mundo Nunca Es Suficiente</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/el-mundo-nunca-es-suficiente-n64/descargar/">Ir a la página de descargas de El Mundo Nunca Es Suficiente</a></strong></h2>
 
 Tenéis una colección de fotos tras el salto, y la información detallada en el léeme 
 del archivo.
@@ -65,8 +64,7 @@ El segundo proyecto, el que recibe una actualización, es Star Wars Episodio I: 
 al que le hacían falta unos retoques menores en los textos relacionados con la temperatura 
 de los motores.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/star-wars-episodio-i-racer-para-nintendo-64/">Ir 
-a la página de descargas de Star Wars: Racer</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/star-wars-episodio-i-racer-para-nintendo-64/">Ir a la página de descargas de Star Wars: Racer</a></strong></h2>
 
 <!--more-->
 

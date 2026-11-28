@@ -25,7 +25,7 @@ Entre sus contenidos veréis un resumen extenso de todo lo ocurrido con Shenmue 
 momento, varios análisis de juegos de la era de Dreamcast y de la nueva hornada indie... 
 Y una entrevistilla que he tenido el honor de cubrir.
 
-<h1 style="text-align: center;"><a href="http://www.dreamcast.es/news.php?readmore=758" target="_blank">Podéis 
-ver la revista en este enlace.</a></h1>  
+<h1 style="text-align: center;"><a href="http://www.dreamcast.es/news.php?readmore=758" target="_blank">Podéis ver la revista en este enlace.</a></h1>
+
 En la revista aprovecho para anunciar, en exclusiva, un nuevo proyecto que lleva cocinándose 
 desde marzo de este año. Si queréis saber cuál es, tendréis que echar un vistazo...

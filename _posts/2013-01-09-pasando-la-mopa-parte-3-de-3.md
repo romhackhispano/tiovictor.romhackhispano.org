@@ -27,7 +27,7 @@ he aprovechado estos días para hacer casi lo que dije. Vayamos por partes.
 xdelta. La versión que actualmente tengo de la traducción tenía dos niveles más 
 traducidos, así que he subido el número de versión y el porcentaje de trabajo hecho.  
 - **Silent Hill:** Esta es la versión que más se ha beneficiado de la revisión. 
-**[Se ha publicado la primera versión final,](http://tiovictor.romhackhispano.org/silent-hill-1)** 
+**[Se ha publicado la primera versión final,](https://tiovictor.romhackhispano.org/silent-hill-1)** 
 que tiene todos los textos en Español revisados (Pero en estado BETA ya que no me 
 ha dado tiempo a testear en profundidad).
 
@@ -43,8 +43,8 @@ Se han quedado en tierra para una revisión más relajada:
 - **Time Crisis 1**: Aún tengo que arreglar un bug al pasarte el juego menor (BIN 
 en vez de poner FIN), y revisar la compatibilidad con las imágenes ISO _bien_ volcadas.  
 - **Resident Evil: Director's Cut:** He aprovechado que Ryo Suzuki de SegaSaturno [ha 
-sacado un parche para convertir una copia NTSC-USA en PAL 
-FR](http://www.segasaturno.com/portal/adaptacion-parche-castellano-redc-para-usarlo-con-el-usa-vf8-vt6558.html) para mirar algunas cosas... Y quiero mirar más, pero ya tranquilamente y con herramientas 
+sacado un parche para convertir una copia NTSC-USA en PAL FR](http://www.segasaturno.com/portal/adaptacion-parche-castellano-redc-para-usarlo-con-el-usa-vf8-vt6558.html){:target="_blank"} 
+para mirar algunas cosas... Y quiero mirar más, pero ya tranquilamente y con herramientas 
 (Llevo años editando el juego sin las herramientas necesarias, creo que ya va 
 siendo hora).
 

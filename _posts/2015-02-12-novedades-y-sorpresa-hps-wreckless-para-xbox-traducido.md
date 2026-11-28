@@ -38,7 +38,7 @@ Os presento una traducción hecha en dos semanas (Tenía muy poco texto), Wreckl
 The Yakuza Missions para XBOX 1. Es un juego de conducción bastante pequeñito pero muy, 
 muy peleón.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/wreckless-the-yakuza-missions-para-xbox/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/wreckless-the-yakuza-missions-para-xbox/">Ir a la página de descargas</a></strong></h2>
 
 **EDIT 21/02/2015:** Ya tenemos capturas, por cortesía de Chinot e Isopure.
 

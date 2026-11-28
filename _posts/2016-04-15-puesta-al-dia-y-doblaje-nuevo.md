@@ -36,7 +36,7 @@ para aquellos que quieran jugar a la traducción en consola.
 **Clock Tower: The First Fear para PlayStation:** Pensé que iba a paralizar este proyecto, 
 pero finalmente he logrado contactar con Arcraith y he recibido el material para traducir el 
 juego. Así que ya sólo depende de mí que Clock Tower pase a ser un proyecto revisado por un 
-servidor de ustedes, aunque basado en la traducción inicial por [R41D3R](http://www.romhacking.net/community/3640/). 
+servidor de ustedes, aunque basado en la traducción inicial por [R41D3R](http://www.romhacking.net/community/3640/){:target="_blank"}. 
 No tiene mucho texto pero sí siete finales, así que procuraré darle brío. Puede que hasta 
 intente convertirla a Super Nintendo, visto el desastre que existe ahora mismo...
 
@@ -51,7 +51,7 @@ papeletas.
 pero la parte de textos ha tenido varias correcciones.
 
 **Shadow Watch:** Este es otro proyecto que ha tenido un buen impulso. Gracias a la gente de 
-[**Deep Dive Translations**](http://deepdivetranslations.altervista.org/) tenemos una 
+[**Deep Dive Translations**](http://deepdivetranslations.altervista.org/){:target="_blank"} tenemos una 
 herramienta para editar en masa los textos de los contactos. Esta traducción ya depende única 
 y exclusivamente de un servidor. También he terminado de reconstruir el manual del juego en 
 formato PDF, ya que según lo que he investigado, Shadow Watch no se publicó oficialmente en 
@@ -61,7 +61,7 @@ España, así que manual al canto.
 
 Para acabar por mi parte, quiero anunciar oficialmente un proyecto en el que llevo trabajando 
 desde septiembre y que no será un proyecto oficial de Traducciones del Tío Víctor, pero sí será 
-un proyecto oficial del juego en sí: [**Broken Sword 2.5**](http://brokensword25.com/).
+un proyecto oficial del juego en sí: [**Broken Sword 2.5**](http://brokensword25.com/){:target="_blank"}.
 
 Broken Sword 2.5 es una aventura gráfica hecha por unos fans alemanes de la saga que vio la luz 
 en 2008, con el beneplácito sus creadores originales, Revolution Software. El juego fue traducido 
@@ -86,10 +86,10 @@ Para terminar quiero hacer referencia a un proyecto en el que he estado ayudando
 me toca la fibra sensible porque, ¡por fin! ¡Por fin! ¡Hay más gente organizando fandoblajes metidos 
 en romhacks!
 
-La gente de [**Digimon Rumble Arena Versión Latino**](https://www.facebook.com/DigimonRumbleArenaVersionLatino), 
+La gente de [**Digimon Rumble Arena Versión Latino**](https://www.facebook.com/DigimonRumbleArenaVersionLatino){:target="_blank"}, 
 aunque el nombre diga lo contrario, están realizando un doblaje tanto a español latino como a castellano 
 de dicho juego (El primero, no el segundo) para PlayStation One. El doblaje en castellano corre a cargo 
-de [**Estudios G3S**](http://www.estudiosg3s.com/), a quienes recordaréis por el doblaje de 
+de [**Estudios G3S**](http://www.estudiosg3s.com/){:target="_blank"}, a quienes recordaréis por el doblaje de 
 Sin and Punishment y que están tratando de conseguir una imitación lo más parecida al doblaje oficial de 
 Arait Multimedia (Chema, te echamos de menos...)
 

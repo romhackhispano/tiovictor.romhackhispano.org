@@ -20,10 +20,10 @@ Utiliza herramientas de Mat.
 
 _Recuerda: **Debes aplicar el parche antipiratería de PSX Killer antes de aplicar la traducción**._
 
-<h3 style="text-align: center;">VERSIÓN 1.0.1 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/t0d253kgzy5txst/RESURV-ESP-PALENG-V101.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/dVM2AbBS#m_4l9c-5hLAorQoXe25W2Fj9w83NJiRStefciqTcB7c" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/t0d253kgzy5txst/RESURV-ESP-PALENG-V101.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/dVM2AbBS#m_4l9c-5hLAorQoXe25W2Fj9w83NJiRStefciqTcB7c" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/resident-evil-survivor/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

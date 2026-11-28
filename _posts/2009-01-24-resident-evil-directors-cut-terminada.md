@@ -29,7 +29,7 @@ la traducción (Aunque es especulación, es posible), así que he rehecho el par
 Este parche debería funcionar tanto en la ISO antigua de MondEmul (Formato .BIN/.CUE) como 
 en la versión actual (.IMG/.CCD)
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/resident-evil-directors-cut/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/resident-evil-directors-cut/">Ir a la página de descargas</a></strong></h2>
 
 Disfrutadlo, y como siempre, si se me ha escapado algo, podéis comunicármelo a través 
 de este blog.

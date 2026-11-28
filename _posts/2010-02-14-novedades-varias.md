@@ -24,7 +24,7 @@ en los que estoy metido actualmente. Que son unos cuántos.
 Para empezar, me he metido como revisor y testeador en el proyecto de 
 traducción al Castellano de **Project Zero 4 (O Fatal Frame 4): Mask of the 
 Lunar Eclipse**, para Wii. Dado que mi papel es bastante secundario, podéis 
-seguir éste proyecto en su página web, [ProjectSAE](http://www.projectsae.es/). 
+seguir éste proyecto en su página web, [ProjectSAE](http://www.projectsae.es/){:target="_blank"}. 
 Actualmente los trabajos de revisión están muy avanzados y se están empezando 
 a probar las inserciones.
 
@@ -32,7 +32,7 @@ Más detrás del salto.
 
 <!--more-->
 
-Luego, en colaboración con la gente de [SegaSaturno](http://www.segasaturno.com/), 
+Luego, en colaboración con la gente de [SegaSaturno](http://www.segasaturno.com/){:target="_blank"}, 
 he concurrido en dos proyectos: **traducir Shenmue 1 y adaptar la traducción 
 oficial al Castellano de Resident Evil 2; ambos para Dreamcast.**
 

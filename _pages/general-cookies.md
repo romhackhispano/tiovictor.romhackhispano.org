@@ -16,13 +16,13 @@ Una cookie es un fichero que se descarga en su ordenador al acceder a determinad
 
 Esta página web utiliza los siguientes tipos de cookies:
 
-**__Cookies de análisis__**: Son aquéllas que bien tratadas por nosotros o por terceros, nos permiten cuantificar el número de usuarios y así realizar la medición y análisis estadístico de la utilización que hacen los usuarios del servicio ofertado. Para ello se analiza su navegación en nuestra página web con el fin de mejorar la oferta de productos o servicios que le ofrecemos.
+***Cookies de análisis***: Son aquéllas que bien tratadas por nosotros o por terceros, nos permiten cuantificar el número de usuarios y así realizar la medición y análisis estadístico de la utilización que hacen los usuarios del servicio ofertado. Para ello se analiza su navegación en nuestra página web con el fin de mejorar la oferta de productos o servicios que le ofrecemos.
 
-**__Cookies técnicas__**: Son aquellas que permiten al usuario la navegación a través del área restringida y la utilización de sus diferentes funciones, como por ejemplo, llevar a cambio el proceso de compra de un artículo.
+***Cookies técnicas***: Son aquellas que permiten al usuario la navegación a través del área restringida y la utilización de sus diferentes funciones, como por ejemplo, llevar a cambio el proceso de compra de un artículo.
 
-**__Cookies de personalización__**: Son aquellas que permiten al usuario acceder al servicio con algunas características de carácter general predefinidas en función de una serie de criterios en el terminal del usuario como por ejemplo serian el idioma o el tipo de navegador a través del cual se conecta al servicio.
+***Cookies de personalización***: Son aquellas que permiten al usuario acceder al servicio con algunas características de carácter general predefinidas en función de una serie de criterios en el terminal del usuario como por ejemplo serian el idioma o el tipo de navegador a través del cual se conecta al servicio.
 
-**__Cookies publicitarias__**: Son aquellas que, bien tratadas por esta web o por terceros, permiten gestionar de la forma más eficaz posible la oferta de los espacios publicitarios que hay en la página web, adecuando el contenido del anuncio al contenido del servicio solicitado o al uso que realice de nuestra página web. Para ello podemos analizar sus hábitos de navegación en Internet y podemos mostrarle publicidad relacionada con su perfil de navegación.
+***Cookies publicitarias***: Son aquellas que, bien tratadas por esta web o por terceros, permiten gestionar de la forma más eficaz posible la oferta de los espacios publicitarios que hay en la página web, adecuando el contenido del anuncio al contenido del servicio solicitado o al uso que realice de nuestra página web. Para ello podemos analizar sus hábitos de navegación en Internet y podemos mostrarle publicidad relacionada con su perfil de navegación.
 
 # Desactivar las cookies.
 
@@ -32,13 +32,13 @@ En la mayoría de los navegadores web se ofrece la posibilidad de permitir, bloq
 
 A continuación puede acceder a la configuración de los navegadores webs más frecuentes para aceptar, instalar o desactivar las cookies:
 
-[Configurar cookies en Google Chrome](https://support.google.com/chrome/answer/95647?hl=es)
+[Configurar cookies en Google Chrome](https://support.google.com/chrome/answer/95647?hl=es){:target="_blank"}
 
-[Configurar cookies en Microsoft Internet Explorer](http://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9)
+[Configurar cookies en Microsoft Internet Explorer](http://windows.microsoft.com/es-es/windows7/how-to-manage-cookies-in-internet-explorer-9){:target="_blank"}
 
-[Configurar cookies en Mozilla Firefox](https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-sitios-web-rastrear-preferencias?redirectlocale=es&redirectslug=habilitar-y-deshabilitar-cookies-que-los-sitios-we)
+[Configurar cookies en Mozilla Firefox](https://support.mozilla.org/es/kb/habilitar-y-deshabilitar-cookies-sitios-web-rastrear-preferencias?redirectlocale=es&redirectslug=habilitar-y-deshabilitar-cookies-que-los-sitios-we){:target="_blank"}
 
-[Configurar cookies en Safari (Apple)](https://support.apple.com/es-es/HT201265)
+[Configurar cookies en Safari (Apple)](https://support.apple.com/es-es/HT201265){:target="_blank"}
 
 # Cookies de terceros.
 

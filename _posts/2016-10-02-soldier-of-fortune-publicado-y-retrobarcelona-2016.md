@@ -63,25 +63,17 @@ para frenar a la piratería, pero ya iba siendo hora de resolver parte del dilem
 
 {% include gallery %}
 
-<h1 style="text-align: center;"><strong>VERSIÓN PARA DREAMCAST</strong></h1>
-
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/dfb8hczbqmmy4dm/SoldierOfFortuneDC-V10.7z">MEDIAFIRE</a> - <a href="
-https://mega.nz/#!dQsy1IbA!GAhiN4XWzxATwqT02jpSegRNqodBa3Az-RZv2sIDBcI">MEGA</a></strong></h1>
-
-<h1 style="text-align: center;"><strong>VERSIÓN PARA PC</strong></h1>
-
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/file/dymrq0fdy3fpcd3/SoldierOfFortunePC-V10.7z">MEDIAFIRE</a> - <a href="
-https://mega.nz/#!gRNFFBCZ!ikvJdDWDhf-MI2lk8lsIMDfahXx6ul9qzyi8_CXoNxo">MEGA</a></strong></h1>
+**Podéis acceder a los enlaces de los parches de Soldier of Fortune [en su página de proyecto](https://tiovictor.romhackhispano.org/soldier-of-fortune/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/soldier-of-fortune/){:target="_blank"}.**
 
 Sigamos rápidamente: Sé que queda menos de una semana para su inicio, pero no he podido confirmar mi asistencia 
-hasta el último momento. <strong>Traducciones del Tío Víctor estará en <a href="http://www.retrobarcelona.org/informacion/">RetroBarcelona 2016</a></strong>, 
+hasta el último momento. <strong>Traducciones del Tío Víctor estará en [RetroBarcelona 2016](http://www.retrobarcelona.org/informacion/){:target="_blank"}, 
 compartiendo las últimas versiones de las traducciones más conocidas entre los aficionados al videojuego moderno 
 y retro, porque este año tiene lugar dentro del **Barcelona Games World**, en la Fira de Montjuic.
 
 Como siempre, Traducciones del Tío Víctor compatirá stand con la buena gente de SegaSaturno y Dreamcast.es en el 
 puesto de **SegaClassics**, aunque esta vez **no acudiremos el viernes**. Podréis contar con la plana mayor del 
 grupo el sábado y el domingo. A los que si que podréis ver durante toda la BGW será a los compañeros de 
-<a href="http://videojuegosporalimentos.org/"><strong>Videojuegos por Alimentos</strong></a>, que como cada año, 
+[Videojuegos por Alimentos](http://videojuegosporalimentos.org/){:target="_blank"}, que como cada año, 
 necesitarán de vuestra ayuda para dar de comer a los que más lo necesitan. Recordad, si queréis llevar comida para 
 intercambiarla por juegos, que sea imperecedera, por favor.
 
@@ -101,9 +93,9 @@ En el frente de programación vuelve un viejo conocido, **TBG**, que participó 
 Extraction. Ahora se está enfrentando al resto de formatos de archivo del juego.
 
 Por la parte de traducción, he organizado un «comité de sabios» para arrancar con el glosario de términos de 
-Persona 3. Está compuesto por <a href="http://aegis.romhackhispano.org/"><strong>TheFireRed</strong></a>, **Orden** (El principal responsable de la traducción de los 
-<a href="http://www.romhacking.net/community/1869/">dos primeros Shin Megami Tensei para Super Nintendo</a>)
-y <a href="https://twitter.com/Dragoonglue"><strong>Dragoonglue</strong></a> (Experto en la saga, localizaciones y censuras).
+Persona 3. Está compuesto por [TheFireRed](http://aegis.romhackhispano.org/){:target="_blank"}, **Orden** (El principal responsable de la traducción de los 
+[dos primeros Shin Megami Tensei para Super Nintendo](http://www.romhacking.net/community/1869/){:target="_blank"})
+y [Dragoonglue](https://twitter.com/Dragoonglue){:target="_blank"} (Experto en la saga, localizaciones y censuras).
 
 Para todos los que os habéis presentado, tranquilos, cuando cerremos el glosario iremos contactando con vosotros 
 de uno en uno, aunque probablemente sólo haya sitio para unos pocos.
@@ -126,12 +118,12 @@ a alguien capaz de debuggear en sus respectivas consolas para cerrar unos últim
 falta, la parte de textos está terminada y testeada.
 
 **Resident Evil Director's Cut**: ¿A que pensábais que estaba acabado y sentenciado? Yo lo pienso. Simplemente, 
-quiero hacer una menciones: A <a href="http://gadesxscene.blogspot.com.es/"><strong>Gadesx</strong></a> por su Resident Evil 
+quiero hacer una menciones: A [Gadesx](http://gadesxscene.blogspot.com.es/){:target="_blank"} por su Resident Evil 
 Demake, un demake a los 8 bits del primer juego que está bastante bien, y que utiliza la versión 3.6 de la 
 traducción que conocéis de nuestro proyecto. Y me estoy guardando una sorpresita que anunciaré a su debido 
 momento...
 
-**Shadow Watch**: <a href="http://traduccionesxt.blogspot.com.es/"><strong>Xulikotony</strong></a> me está 
+**Shadow Watch**: [Xulikotony](http://traduccionesxt.blogspot.com.es/){:target="_blank"} me está 
 ayudando con la revisión y traducción de textos. Es un proyecto largo, pero espero poder terminarlo cuanto 
 antes para poder dedicar mi tiempo a Policenauts y a Persona 3.
 

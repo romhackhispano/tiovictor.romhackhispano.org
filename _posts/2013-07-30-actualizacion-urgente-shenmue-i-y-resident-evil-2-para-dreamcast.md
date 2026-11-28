@@ -23,5 +23,5 @@ textos de Guardar/Cargar en Inglés han sido traducidos, para aquellos que no te
 el idioma Español en la BIOS. El resto de textos siguen como están: Si tienes el 
 idioma Español seleccionado, mejor.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/">Ir a la página de descargas de Resident Evil 2</a></strong></h2>
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/shenmue/descargar/">Ir a la página de descargas de Shenmue I</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/">Ir a la página de descargas de Resident Evil 2</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/shenmue/descargar/">Ir a la página de descargas de Shenmue I</a></strong></h2>

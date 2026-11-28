@@ -21,8 +21,6 @@ Con esto, subo el número de la versión a versión 2.1.
 
 El archivo del arreglo rápido es compatible con las partidas guardadas de la versión 2.0 y superior.
 
-Necesitaréis esto para insertar el archivo del arreglo:
-
-<a href="http://www.geocities.com/cdmage/">CDMage. Necesitarás la versión 1.02.1.</a>
+Necesitaréis esto para insertar el archivo del arreglo: [CDMage. Necesitarás la versión 1.02.1.](https://www.psx-place.com/resources/cdmage.1647/){:target="_blank"}
 
 Los jugadores de PSP tendrán que recuperar su Imagen BIN/CUE, insertar el archivo, y volver a pasar a EBOOT.

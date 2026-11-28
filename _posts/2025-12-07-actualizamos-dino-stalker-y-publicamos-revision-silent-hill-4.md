@@ -57,7 +57,7 @@ Aquí os dejo las capturas con ejemplos de los cambios:
 
 {% include gallery layout="half" %}
 
-**Podéis acceder a los enlaces de los parches de Silent Hill 4 [en la página del proyecto](https://tiovictor.romhackhispano.org/silent-hill-4/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/silent-hill-4-the-room/).**
+**Podéis acceder a los enlaces de los parches de Silent Hill 4 [en la página del proyecto](https://tiovictor.romhackhispano.org/silent-hill-4/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/silent-hill-4-the-room/){:target="_blank"}.**
 
 Estoy preparando una nueva revisión del parche de doblaje de Resident Evil 2 para corregir algunos fallos que se han ido arreglando, pero no sé lo que tardaré 
 en publicarlo. Todavía sigo esperando a que se arregle lo necesario para poder publicar el doblaje de Resident Evil 3 en las versiones de PC, y también tengo 

@@ -23,10 +23,10 @@ por dedicarme su valioso tiempo con Ace Combat 3 a mirarme este juego, a
 Retroductor por toda su ayuda, y a PolyMega y la gente de Town of Silent 
 Hill por su ayuda y por el trabajo del Enhanced Edition.
 
-<h3 style="text-align: center;">VERSIÓN 1.0.8 DEL PARCHE DE RETRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE RETRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/swr4k4hpunu64cv/SH2DC-REVISION-TTV-V1.0.8.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/1Y0iTZAT#kSLKtJPRP6RKShr-Uc_AUF6l1CWcMJyUG57CeQTP1YQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/file_premium/qxr975pylu8zo4c/SH2DC-REVISION-TTV-V1.0.8.7z/file" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
+<a href="https://www.mediafire.com/file/swr4k4hpunu64cv/SH2DC-REVISION-TTV-V1.0.8.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/1Y0iTZAT#kSLKtJPRP6RKShr-Uc_AUF6l1CWcMJyUG57CeQTP1YQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/silent-hill-2-directors-cut/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

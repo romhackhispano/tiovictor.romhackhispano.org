@@ -43,8 +43,6 @@ adxencd.exe. No sé si habrá una actualización adicional que lo arregle.
 **EDICIÓN 16:40:** PacoChan ha actualizado el parcheador para incluir una comprobación del estado del programa adxencd.exe.
 Subimos de versión a 1.0.2.
 
-<center><h1><b><i>Descargar versión 1.0.2 del parcheador:</i></b></h1></center>
-
-<h1 style="text-align: center;"><strong><a href="https://www.mediafire.com/file/glno8e4enmadrbe/AloneInTheDark4Espa%F1olDreamcast102.7z/file">MEDIAFIRE</a> - <a href="https://mega.nz/#!IJlkiQaY!LJgIMMhaPaGfK5_OwplBfUk6cdgHv6CviKXLEDDk-08">MEGA</a></strong></h1>
+**Podéis acceder a los enlaces de los parches de Alone In The Dark: The New Nightmare [en su página de proyecto](https://tiovictor.romhackhispano.org/alone-in-the-dark-dc/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/aitd-nightmare/){:target="_blank"}.**
 
 Seguiremos informando.

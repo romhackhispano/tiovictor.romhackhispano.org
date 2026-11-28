@@ -42,10 +42,10 @@ LouLille de la comunidad romhack.ing por ayudarme con ciertas palabritas
 checas, a DFactor por sus subtítulos de Underground y a Salvi Garrido por 
 todo el apoyo que me ha dado.
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file_premium/3umj3ncpbwl4bzz/MOHPSX_TRADUESP_TTV_1_0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/AZshBKSY#SEtEREWM9dH1npCQyCJCsaAC14iQaTJrLpnl456dBIM" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file_premium/3umj3ncpbwl4bzz/MOHPSX_TRADUESP_TTV_1_0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/AZshBKSY#SEtEREWM9dH1npCQyCJCsaAC14iQaTJrLpnl456dBIM" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/medal-of-honor-y-underground/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

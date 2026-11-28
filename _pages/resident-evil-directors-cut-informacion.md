@@ -141,7 +141,8 @@ editar todavía la versión NTSC-U de PSX. Otros cambios:
 Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
 Necesitarás el archivo original a modificar, el archivo xdelta 
-correspondiente y la aplicación Delta Patcher (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**).
+correspondiente y la aplicación Delta Patcher (puedes conseguirla en 
+**[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/){:target="_blank"}**).
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 
@@ -214,7 +215,7 @@ bastante antiguo como para haber sacado las 2 pistas del juego en archivos
 
 Para extraer las pistas, recomiendo utilizar el programa binmerge-gui, una 
 versión del programa de putnam con una interfaz más fácil de usar gracias a 
-Infrid. Puedes descargarte el programa también en **[su página web](https://github.com/loadwordteam/binmerge-gui)**.
+Infrid. Puedes descargarte el programa también en **[su página web](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}**.
  - Abre el programa binmerge-gui y selecciona la pestaña «Separar pistas».
  - Haz clic en «Buscar .CUE original» y selecciona el archivo .CUE de tu 
    copia de seguridad del disco.

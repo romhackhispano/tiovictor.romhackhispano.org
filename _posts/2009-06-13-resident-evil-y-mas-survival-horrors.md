@@ -36,6 +36,6 @@ complicadas de reinsertar.
 En fin, sin más zarandajas, aquí tenéis la primera versión de la corrección de Silent Hill 
 (En breve crearé su página y un subforo para que déis ideas)
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir a la página de descargas</a></strong></h2>
 
 Espero que os guste, aunque esté en una etapa muy temprana.

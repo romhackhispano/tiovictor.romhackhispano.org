@@ -17,10 +17,10 @@ floating points), el equipo de VGMToolbox, CUE y Snake128
 Steve «Klarth» Monaco (Atlas), RedComet (Cartographer), Dageron (Console 
 Texture Explorer), Barubary (TiledGGD), todos los colaboradores de PCSX2.
 
-<h3 style="text-align: center;">VERSIÓN 1.1 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/cmnqcvk9g5jnl4l/DINOSTALKER_TRADUESP_TTV_1.1.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/xBVGGTCJ#jr54qU4K7UKOOTCwPtPrQSyLxtPMBMYakyQ8WZbzPds" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/cmnqcvk9g5jnl4l/DINOSTALKER_TRADUESP_TTV_1.1.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/xBVGGTCJ#jr54qU4K7UKOOTCwPtPrQSyLxtPMBMYakyQ8WZbzPds" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/dino-stalker/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

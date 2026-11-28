@@ -15,7 +15,7 @@ tags:
 Bueno, quería comentar por aquí exactamente cuáles son los proyectos en los 
 que estoy trabajando. Por un lado, estoy terminando la traducción de textos 
 y voces de The World Ends With You, que saldrá para 2010 probablemente, y por 
-el otro estoy ayudando a la gente de [SegaSaturno](http://www.segasaturno.com) 
+el otro estoy ayudando a la gente de [SegaSaturno](http://www.segasaturno.com){:target="_blank"} 
 con su retraducción de Shenmue 1 (Y puede que del 2 si se tercia).
 
 Pronto tendréis noticias mías.

@@ -15,10 +15,10 @@ comments: false
 
 *Utiliza herramientas de Klarth, RedComet, Vash, PacoChan y CUE.*
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/5n4e0owmvoodbq3/CTEARS-ESP-TIOVICTOR-V1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/MQMAEIqL#gS-E2_lXlM6hytBzP2w5YoQ7LQ-9TZx_IoexrmZjZxA" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/5n4e0owmvoodbq3/CTEARS-ESP-TIOVICTOR-V1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/MQMAEIqL#gS-E2_lXlM6hytBzP2w5YoQ7LQ-9TZx_IoexrmZjZxA" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/crimson-tears/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

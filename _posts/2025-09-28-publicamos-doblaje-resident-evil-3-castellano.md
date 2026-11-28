@@ -21,7 +21,7 @@ Para este lanzamiento inicial, **publicamos parches de retraducción y doblaje p
 de Dreamcast y PAL europea para GameCube. Las versiones para PC están siendo desarrolladas**, pero están dando problemas, para variar, así que 
 **se publicarán más tarde, en cuanto estén listas.**
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-3-nemesis/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-3-nemesis/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-3-nemesis/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-3-nemesis/){:target="_blank"}.**
 
 Os recordamos que tenemos varios videotutoriales sobre cómo aplicar los parches **[en el canal de YouTube de Resident Evil Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO/videos){:target="_blank"}**.
 

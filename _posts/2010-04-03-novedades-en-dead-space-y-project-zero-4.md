@@ -17,4 +17,4 @@ En cuanto al proyecto que di como secundario, el de la traducción de
 jefe, Benja, que **ha colgado varias capturas del progreso del juego** en 
 su página web que ya puedo hacer públicas. Como nota, comentar que todas 
 esas capturas son de mi televisor ;). Podéis seguir su progreso en 
-[esta página web]. (http://www.projectsae.es/sae.php)
+[esta página web](http://www.projectsae.es/sae.php){:target="_blank"}.

@@ -51,7 +51,7 @@ Esta es la lista final de cambios de esta revisión:
      parche.
    - Otras correcciones menores de textos.
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/).** **O, si queréis saber más sobre cómo se llevó a cabo, seguir leyendo.**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/){:target="_blank"}.** **O, si queréis saber más sobre cómo se llevó a cabo, seguir leyendo.**
 
 Ya para terminar, **ahora mismo estamos trabajando en la conversión de nuestro doblaje de Resident Evil 1 a las versiones para PC**. 
 Nuestra intención es la misma que con Resident Evil 2, que haya un parche para las versiones en CD/GOG por un lado y otro para la 

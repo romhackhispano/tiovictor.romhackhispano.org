@@ -15,10 +15,10 @@ _Herramientas de terceros:_ CUE, Snake128 (UMD-replace_x64), PacoChan (AFS
    Packer), Kingcom y todos los colaboradores de Armips, Dageron (Console 
    Texture Explorer), Barubary (TiledGGD), todos los colaboradores de PCSX2.
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/a34tbgko8e8gp5i/WINBACK2-TRADUESP-TTV-1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/VJU3VYSI#-zg9tzpy_-jDBmKXcOWFStUCprzvE4VcRJ49omJPdDw" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/file_premium/855gp8nws0iwmul/WINBACK2-TRADUESP-TTV-1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
+<a href="https://www.mediafire.com/file/a34tbgko8e8gp5i/WINBACK2-TRADUESP-TTV-1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/VJU3VYSI#-zg9tzpy_-jDBmKXcOWFStUCprzvE4VcRJ49omJPdDw" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/operation-winback-2-project-poseidon/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

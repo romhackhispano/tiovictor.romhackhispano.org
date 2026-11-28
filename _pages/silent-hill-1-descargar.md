@@ -58,7 +58,7 @@ Francisco Beltrán de Resident Evil Survival Horror y a Darth Khalos de
 Jugones y Mazmorras, así como a sus respectivos compañeros de equipos, por 
 todo el apoyo que nos han dado.*
 
-<h3 style="text-align: center;">VERSIÓN 2.5 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHES DE TRADUCCIÓN CON Y SIN DOBLAJE:</h3>
 
 <center>
 <a href="https://mega.nz/folder/lIdVVQKC#F8HvhJF6rAnWsPSi4e40Rg" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/folder/61cmp415divhy/SH1_DOB" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a>

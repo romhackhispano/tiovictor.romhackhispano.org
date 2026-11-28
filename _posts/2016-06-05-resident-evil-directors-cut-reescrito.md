@@ -60,8 +60,7 @@ porque en este caso no seré yo quien dirija el doblaje.
 
 Si queréis leer una nueva vuelta de tuerca al primer Resident Evil, os aconsejo que probéis el parche.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/026swg0b4prpzw3/REDC-V40.7z">Mediafire</a> 
-- <a href="https://mega.nz/#!URUDhIZQ!OOreSOXDSE9Vp6KI6iZ_vnRZyXm3wUdCDvJmUEMnuAE">MEGA</a></strong></h1>
+**Podéis acceder a los enlaces de los parches de Resident Evil [en su página de proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/){:target="_blank"}.**
 
 Y ahora unas fotitos:
 

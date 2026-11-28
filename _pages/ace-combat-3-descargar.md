@@ -32,17 +32,17 @@ G4Vi, y spicyjpeg (MKPSXISO), Dashman (layer merger), CUE (psx-mode2),
 putnam (binmerge).
 
 *Recursos en línea:*  
- - [acacac](https://w.atwiki.jp/acacac/): transcripciones de los diálogos en 
+ - [acacac](https://w.atwiki.jp/acacac/){:target="_blank"}: transcripciones de los diálogos en 
    japonés. La mayoría de los textos del juego han sido recopilados aquí, lo 
    que nos ha ayudado en gran medida.
- - [SlyCooperFan1](https://acecombat.fandom.com/wiki/Acepedia): junto con otros 
+ - [SlyCooperFan1](https://acecombat.wiki.gg/){:target="_blank"}: junto con otros 
    fans que han mantenido y actualizado todo tipo de información relacionada 
    con Ace Combat 3.
 
-<h3 style="text-align: center;">VERSIÓN 1.1 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/3fxc1bqd89q7djy/AC3electrosfera-V1.1-Castellano-TraduccionesDelTioVictor.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/pZd3yA7b#uXOb4kWLh19AnebP7SpSMYonXhkTGeArzKZ1yAoy-d8" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/3fxc1bqd89q7djy/AC3electrosfera-V1.1-Castellano-TraduccionesDelTioVictor.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/pZd3yA7b#uXOb4kWLh19AnebP7SpSMYonXhkTGeArzKZ1yAoy-d8" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/ace-combat-3/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

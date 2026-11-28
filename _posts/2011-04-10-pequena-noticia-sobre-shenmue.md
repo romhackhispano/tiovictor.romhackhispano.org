@@ -18,6 +18,6 @@ Pues bien, varios de los asistentes tuvieron el privilegio de jugar a una
 versión beta del primer disco de Shenmue 1 traducido al Castellano, en su 
 estado actual. (Recordemos que a un 70-75%)
 
-Para saber más, [os enlazo a la noticia en SegaSaturno.com.](http://www.segasaturno.com/portal/shenmue-en-castellano-en-retroencounter-madrid-vf12-vt5410.html)
+Para saber más, [os enlazo a la noticia en SegaSaturno.com.](http://www.segasaturno.com/portal/shenmue-en-castellano-en-retroencounter-madrid-vf12-vt5410.html){:target="_blank"}
 
 (Editaré este post en cuanto Dreamcast.es haga su reseña)

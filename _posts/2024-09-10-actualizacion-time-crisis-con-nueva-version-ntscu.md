@@ -31,9 +31,9 @@ del debido. Esta es la lista de cambios:
    de todos los diálogos del juego.
  - Se ha ajustado el volumen de las voces en varias escenas cinemáticas.
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/time-crisis-1/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/time-crisis/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/time-crisis-1/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/time-crisis/){:target="_blank"}.**
 
-También me gustaría dedicar unas líneas en particular al proyecto **[Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/)**, 
+También me gustaría dedicar unas líneas en particular al proyecto **[Silent Hill 2: Enhanced Edition](https://enhanced.townofsilenthill.com/SH2/){:target="_blank"}**, 
 el cual cerró sus puertas con una actualización final el pasado 30 de agosto de este año.
 
 Ha sido un honor poder formar parte de un proyecto que pretendía revitalizar un clásico injustamente tratado a lo largo de los años, y me alegro 
@@ -42,7 +42,7 @@ la vida de cara al futuro.
 
 Si vais a jugar a la Enhanced Edition, recordad que el mod incluye de serie la revisión y adaptación que hizo el equipo que yo capitaneé hará unos años, 
 pero en su versión en español neutro. Si queréis jugar al parche pensado para el público de España, podéis bajaros los archivos correspondientes en la 
-sección de packs de idioma del proyecto, **[que podéis encontrar pulsando aquí](https://enhanced.townofsilenthill.com/SH2/languagepacks.htm#castilianspanish)**.
+sección de packs de idioma del proyecto, **[que podéis encontrar pulsando aquí](https://enhanced.townofsilenthill.com/SH2/languagepacks.htm#castilianspanish){:target="_blank"}**.
 
 Tanto esta versión del parche como las que distribuyo yo han sido actualizadas para corregir un fallo que rompía el fondo del menú del título. Solo la versión 
 para PC tendrá el número de versión cambiado.

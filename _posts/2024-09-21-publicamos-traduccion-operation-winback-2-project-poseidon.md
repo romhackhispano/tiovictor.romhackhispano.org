@@ -71,9 +71,9 @@ sintiéndolo mucho.**
 
 {% include gallery %}
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](/operation-winback-2-project-poseidon/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/operation-winback-2-project-poseidon/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](/operation-winback-2-project-poseidon/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/operation-winback-2-project-poseidon/){:target="_blank"}.**
 
-Para continuar, quiero hacerme eco de la noticia de que en el último mes he estado ayudando a [LugerDorada](https://www.lugerdorada.com.es/) 
+Para continuar, quiero hacerme eco de la noticia de que en el último mes he estado ayudando a [LugerDorada](https://www.lugerdorada.com.es/){:target="_blank"} 
 **a terminar con el proyecto de doblaje de Resident Evil: Code Veronica. La pasada noche del viernes al sábado se publicó finalmente el parche 
 para la versión de Dreamcast** (exclusivo para la versión PAL española, no habrá port a la NTSC-U ni a la Kanzenban japonesa), así como parches 
 para corregir erratas en las versiones para PlayStation 2 y GameCube.

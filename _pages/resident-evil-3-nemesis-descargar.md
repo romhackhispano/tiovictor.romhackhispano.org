@@ -75,7 +75,7 @@ Dolphin, Gemini (Classic ReBIRTH).
      Jugones y Mazmorras, así como a sus respectivos compañeros de equipos, 
      por todo el apoyo que nos han dado.
 
-<h3 style="text-align: center;">PARCHE DE RETRADUCCIÓN Y DOBLAJE (V1.0):</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE:</h3>
 
 <center>
 <a href="https://www.mediafire.com/folder/rqn7rlbekm590/RE3DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/scF2HYzA#gWX9i4r30g0VgSHr_-aeyA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>

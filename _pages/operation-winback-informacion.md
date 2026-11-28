@@ -31,7 +31,7 @@ CRC-32: effc32fe
 Cómo aplicar un archivo .XDELTA con Delta Patcher:
 
 Necesitarás la imagen original del juego, el archivo xdelta y la aplicación 
-Delta Patcher (**[puedes conseguirla en su web](https://github.com/marco-calautti/DeltaPatcher/releases/)**).
+Delta Patcher (**[puedes conseguirla en su web](https://github.com/marco-calautti/DeltaPatcher/releases/){:target="_blank"}**).
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 

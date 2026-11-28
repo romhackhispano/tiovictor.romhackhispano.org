@@ -20,8 +20,7 @@ Ahora, a los asuntos. Recién llego de vacaciones y me topo con el problema del 
 NTSC-U. En vista de que no es la primera vez que me pasa con un juego de PlayStation One, voy 
 a cambiar la forma de publicar parches con esta consola.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir 
-a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir a la página de descargas</a></strong></h2>
 
 He actualizado el parche en ambas regiones: esta vez los xdelta no irán dirigidos a la imagen 
 del juego, sino a los archivos de su interior, SILENT y HILL. Deberéis extraerlos con el programa 

@@ -36,8 +36,8 @@ en YouTube...
 {% include video id="4XDj-ZbEuw8" provider="youtube" %}
 </center>
 
-o **[en un montón de plataformas de podcasts, como iVoox](https://www.ivoox.com/romhacking-traducciones-fan-mods-doblaje-con-audios-mp3_rf_168013627_1.html)** 
-o **[Acast](https://shows.acast.com/meson-sol)**.
+o **[en un montón de plataformas de podcasts, como iVoox](https://www.ivoox.com/romhacking-traducciones-fan-mods-doblaje-con-audios-mp3_rf_168013627_1.html){:target="_blank"}** 
+o **[Acast](https://shows.acast.com/meson-sol){:target="_blank"}**.
 
 Por mi parte, la programación de herramientas de Policenauts sigue avanzando a un lento ritmo, pero avanza. Sigo avanzando en los otros proyectos menores que 
 tengo archivados con el fin de quitármelos de en medio, así como ayudando a compañeros romhackers en cuestiones puntuales.

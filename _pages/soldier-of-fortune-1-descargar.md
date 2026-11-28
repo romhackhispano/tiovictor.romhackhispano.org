@@ -25,14 +25,14 @@ Alacoque, Philipp Biermann
 
 <center>
 <a href="http://www.mediafire.com/file/dfb8hczbqmmy4dm/SoldierOfFortuneDC-V10.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="
-https://mega.nz/#!dQsy1IbA!GAhiN4XWzxATwqT02jpSegRNqodBa3Az-RZv2sIDBcI" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+https://mega.nz/#!dQsy1IbA!GAhiN4XWzxATwqT02jpSegRNqodBa3Az-RZv2sIDBcI" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/soldier-of-fortune/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center>
 
 <h3 style="text-align: center;">PARCHE DE TRADUCCIÓN PARA PC:</h3>
 
 <center>
 <a href="http://www.mediafire.com/file/dymrq0fdy3fpcd3/SoldierOfFortunePC-V10.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="
-https://mega.nz/#!gRNFFBCZ!ikvJdDWDhf-MI2lk8lsIMDfahXx6ul9qzyi8_CXoNxo" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+https://mega.nz/#!gRNFFBCZ!ikvJdDWDhf-MI2lk8lsIMDfahXx6ul9qzyi8_CXoNxo" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/soldier-of-fortune/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 <h2 style="text-align: center;"><a href="/soldier-of-fortune-1/"><strong>VOLVER</strong></a></h2>

@@ -23,9 +23,9 @@ poneros a parchear, ya que hay que tener en cuenta varios detalles.
 
 **EDIT 23/06/2016:** Si el parcheador os ha dado un error con el programa VAG2WAV, necesitáis 
 las librerías Visual C++ Redistributable, versión 32 bits (vcredist_x86), que podréis encontrar 
-[aquí](https://www.microsoft.com/es-ES/download/details.aspx?id=48145).
+[aquí](https://www.microsoft.com/es-ES/download/details.aspx?id=48145){:target="_blank"}.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/alone-in-the-dark-dc/descargar/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/alone-in-the-dark-dc/descargar/">Ir a la página de descargas</a></strong></h2>
 
 <!--more-->
 

@@ -23,9 +23,9 @@ espinita que teníamos clavada.
 la versión europea en CD, y otro parche para el mod Classic ReBIRTH de Gemini.** No hay cambios en la traducción, así que el resto 
 de versiones de consolas siguen como están.
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/){:target="_blank"}.**
 
-Por otro lado, **[Resident Evil Castellano](https://x.com/ResidentDoblaje) ha contado a lo largo del día sus últimas novedades, 
+Por otro lado, **[Resident Evil Castellano](https://x.com/ResidentDoblaje){:target="_blank"} ha contado a lo largo del día sus últimas novedades, 
 que incluyen el anuncio de un nuevo proyecto secreto y la primera muestra del doblaje de Resident Evil 3.** ¡No os lo perdáis!
 
 ¡Seguiremos informando!

@@ -177,7 +177,7 @@ técnica para reventarlos. Meterme con este juego fue, a grandes rasgos, un anto
 <a name="aot"></a>
 ## A.o.T/Ataque a los titanes: Wings of Freedom para PC, PS3 y PS Vita
 
-Y aquí viene un juego cuyo proyecto tiene una historia mucho más interesante, sino que podría parecer que **[viola las normas que me autoimpuse hace ya un tiempo](/2018/08/22/comunicado-relacion-futuro-tio-victor)**. 
+Y aquí viene un juego cuyo proyecto tiene una historia mucho más interesante, sino que podría parecer que **[viola las normas que me autoimpuse hace ya un tiempo](/2018/08/22/comunicado-relacion-futuro-tio-victor){:target="_blank"}**. 
 Vayamos pasito a pasito.
 
 **Este proyecto se inició hace mucho tiempo, allá por 2017**, con la intención de montar un fandub del mismo en el que participaría el equipo que 
@@ -222,7 +222,7 @@ un fuego tan lento que apenas han tenido repercusión.
 (ya tengo bastantes RPG a mis espaldas como para dirigir OTRO).
 
 Antes de despedirme, **quiero hacer mención a otro proyecto** donde también estoy metiendo mano, una colaboración: **el fandoblaje al castellano de Resident Evil: 
-Code Veronica X, dirigido por Estudios G3S**. Podéis seguir sus progresos y ver el porrón de muestras del reparto completo **[en su cuenta de Twitter](https://twitter.com/codeveronicaesp)**. 
+Code Veronica X, dirigido por Estudios G3S**. Podéis seguir sus progresos y ver el porrón de muestras del reparto completo **[en su cuenta de Twitter](https://twitter.com/codeveronicaesp){:target="_blank"}**. 
 Está quedando un doblaje que puede verse codo con codo con trabajos hechos por profesionales (y hay más de un profesional invitado).
 
 Mi papel en este proyecto es el de organizar una retraducción íntegra de sus textos (los del doblaje los ha llevado ya G3S, y ha hecho un buen trabajo) 

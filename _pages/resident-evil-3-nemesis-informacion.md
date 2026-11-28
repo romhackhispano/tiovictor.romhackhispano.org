@@ -51,7 +51,7 @@ comments: false
 ### Cómo aplicar un parche .XDELTA
 
 **Necesitarás el archivo original a modificar, el archivo xdelta 
-correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**)**.**
+correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/){:target="_blank"}**)**.**
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 
@@ -128,7 +128,8 @@ MD5 de track03: 612b527af3fd5cb69280235c38179a3d
 ```
 
 **Una vez confirmes que tienes tu copia de seguridad en orden, es hora de 
-descargar el Universal Dreamcast Patcher de Derek Pascarella** (puedes conseguirlo en **[su página web](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases/)**)**.** 
+descargar el Universal Dreamcast Patcher de Derek Pascarella** (puedes conseguirlo 
+en **[su página web](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases/){:target="_blank"}**)**.** 
 Las siguientes instrucciones se corresponden con la versión 2.0.
 
 El programa es muy sencillo:
@@ -186,7 +187,7 @@ ReBIRTH creado por Gemini.**
      versión española y ten cuidado si vas a cambiar el idioma.
    - Si no tienes las carpetas DATA, DATA_A, DATA_AJ, DATA_AS, DATA_S y ROOM 
      extraídas, sigue los siguientes pasos. Si no, salta al último paso.
-   - Descárgate la herramienta RE3ROFSExtractor [de esta página web](https://classicremodification.com/doku.php?id=re3_tools).
+   - Descárgate la herramienta RE3ROFSExtractor [de esta página web](https://classicremodification.com/doku.php?id=re3_tools){:target="_blank"}.
    - Dentro del archivo comprimido encontrarás los archivos rerofs.exe y 
      rerofs.bat. Copia estos dos archivos a la raíz del juego y ejecuta el 
      archivo .bat.
@@ -243,7 +244,7 @@ VERSIÓN GOG ESPAÑOLA 1.0 hotfix 4
      versión 1.1.0 de SourceNext.
    - Si no tienes las carpetas DATA, DATA_A, DATA_AJ, DATA_J y ROOM 
      extraídas, sigue los siguientes pasos. Si no, salta al último paso.
-   - Descárgate la herramienta RE3ROFSExtractor [de esta página web](https://classicremodification.com/doku.php?id=re3_tools).
+   - Descárgate la herramienta RE3ROFSExtractor [de esta página web](https://classicremodification.com/doku.php?id=re3_tools){:target="_blank"}.
    - Dentro del archivo comprimido encontrarás los archivos rerofs.exe y 
      rerofs.bat. Copia estos dos archivos a la raíz del juego y ejecuta el 
      archivo .bat.

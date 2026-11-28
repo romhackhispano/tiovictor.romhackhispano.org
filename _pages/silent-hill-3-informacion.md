@@ -20,7 +20,7 @@ Lo era. Otra cosa eran los contenedores donde estaban metidos dichos
 archivos.
 
 La saga Silent Hill ha sido una de las que ha marcado mi juventud, aún 
-manchada por las traducciones reguleras con las que nos «agasajaba» la 
+manchada por las traducciones reguleras con las que nos «agasajaba» la 
 Konami de aquellos tiempos. Al igual que pasó con Metal Gear Solid 2 y 
 Silent Hill 2, el caso de Silent Hill 3 parece otro en el que se cogió un 
 primer borrador de la traducción sin revisar cosas, una traducción 

@@ -91,7 +91,7 @@ equipo de FFMpeg, el equipo de ImageMagick, Stenzek (Duckstation).
    texturas en HD, al proyecto Seamless HD por inspirarme con su estructura 
    de carpetas para Dolphin y a bserv por inspirarme en dos detallitos 
    menores de sus texturas en HD.
- - A CrazyOwl por encontrar la forma de poder editar los textos de la 
+ - A CrazyOwl por encontrar la forma de poder editar los textos de la 
    biblioteca de la comisaría en Dreamcast.
  - También queremos dar las gracias a Daniel Quesada de Hobby Consolas, a 
    Francisco Beltrán de Resident Evil Survival Horror y a Darth Khalos de 
@@ -102,14 +102,14 @@ equipo de FFMpeg, el equipo de ImageMagick, Stenzek (Duckstation).
    créditos del juego (o dejándolos solo en vuestros vídeos, pero 
    quitándolos del propio juego). Sabemos quiénes sois.
 
-<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V2.01 2025):</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE:</h3>
 
 <center>
 <a href="https://www.mediafire.com/folder/wf2mvdcw01g09/RE2DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/lJ0nRQCL#MduF8MOHM2uHpug5xkxxEA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
-**[PPF-O-Matic 3.0: Para aplicar archivos .ppf.](https://www.psx-place.com/resources/ppf-o-matic.507/)**  
+**[PPF-O-Matic 3.0: Para aplicar archivos .ppf.](https://www.psx-place.com/resources/ppf-o-matic.507/){:target="_blank"}**  
 **[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**  
 **[Universal Dreamcast Patcher (para la versión de Dreamcast)](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases){:target="_blank"}**  
 **[binmerge-gui (para separar una imagen BIN en sus pistas individuales, para la Dual Shock Ver.)](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}**

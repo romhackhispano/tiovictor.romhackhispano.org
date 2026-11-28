@@ -20,7 +20,7 @@ Pero, antes, unos minutos musicales.
 
 {% include video id="y-JqH1M4Ya8" provider="youtube" %}
 
-Ha habido pocas novedades con respecto al informe de situación que publiqué **[el 28 de diciembre](/2019/12/28/hemos-llegado-100-textos-traducidos/)**, pero alguna es de
+Ha habido pocas novedades con respecto al informe de situación que publiqué **[el 28 de diciembre](/2019/12/28/hemos-llegado-100-textos-traducidos/){:target="_blank"}**, pero alguna es de
 carácter especial. Por el momento, la revisión va a hacerse con el mismo equipo actual (más la incorporación de Retroductor). En caso 
 de que alguno de nuestros miembros tenga que dejar de participar activamente, anunciaríamos lo antes posible la búsqueda de sustitutos.
 

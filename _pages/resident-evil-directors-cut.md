@@ -34,4 +34,4 @@ Sega Saturn y allanar el camino a otras futuras versiones para PlayStation y PC.
 La versión 4.1 para Sega Saturn se hizo en colaboración con Delta Island.
 
 La versión 4.2 se estrenó el 29 de julio de 2024 con motivo del lanzamiento de un doblaje 
-al castellano íntegro, llevado a cabo por el grupo **[Resident Evil Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO?cbrd=1)**.
+al castellano íntegro, llevado a cabo por el grupo **[Resident Evil Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO?cbrd=1){:target="_blank"}**.

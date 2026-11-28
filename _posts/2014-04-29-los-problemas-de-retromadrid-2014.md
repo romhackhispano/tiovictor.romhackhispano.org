@@ -53,11 +53,11 @@ desarrolladores indies, tiendas como El Filtro o RetroCables...
 Para terminar esta salida de tema, os dejo el comunicado oficial de la AUIC y otras declaraciones que 
 hay sobre la red, para que os hagáis vuestras propias conclusiones.
 
-[Comunicado de la AUIC](http://www.retromadrid.org/comunicado-oficial-de-la-organizacion/)  
-[Vídeo desde el punto de vista de los visitantes](http://youtu.be/hIqg1bVZWzc)  
-[Reportaje del evento por eGAMERS](http://www.youtube.com/watch?v=kqelXOukMcU)  
-[Reflexiones de 16 Bits Era](https://www.youtube.com/watch?v=UuEbNNqVxeg)
+[Comunicado de la AUIC](http://www.retromadrid.org/comunicado-oficial-de-la-organizacion/){:target="_blank"}  
+[Vídeo desde el punto de vista de los visitantes](http://youtu.be/hIqg1bVZWzc){:target="_blank"}  
+[Reportaje del evento por eGAMERS](http://www.youtube.com/watch?v=kqelXOukMcU){:target="_blank"}  
+[Reflexiones de 16 Bits Era](https://www.youtube.com/watch?v=UuEbNNqVxeg){:target="_blank"}
 
 El sábado, como os dije en exclusiva a los que pasásteis por el stand, anunciaré proyectos nuevos.
 
-(Imagen por [Mr Raymon](http://www.youtube.com/user/MrRaymon))
+(Imagen por [Mr Raymon](http://www.youtube.com/user/MrRaymon){:target="_blank"})

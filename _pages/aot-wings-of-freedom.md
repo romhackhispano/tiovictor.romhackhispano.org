@@ -1,5 +1,5 @@
 ---
-title: "A.o.T. Wings of Freedom (PC, PS3, PSVita, EN PROGRESO)"
+title: "A.o.T. Wings of Freedom (PC, PS3, PSVita, 1.0)"
 permalink: /aot-wings-of-freedom/
 header:
   overlay_image: /img/headers/pages/AOTWingsOfFreedomHeader.jpg

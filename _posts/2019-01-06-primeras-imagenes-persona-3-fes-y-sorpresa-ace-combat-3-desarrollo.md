@@ -22,8 +22,8 @@ del glosario debían ser elegidos por unanimidad. Lo que parecía una idea buena
 cuanto alguien del equipo se vio falto de tiempo, lo que a su vez provocó una serie de bajas por inactividad y porque 
 la vida real se interpuso en el camino.
 
-Por ese motivo tuve que buscar a un miembro adicional, **[Rokuso](http://www.rokuso.com/),** e intentar recuperar el ritmo 
-que habíamos perdido. Por suerte, y con la ayuda de Truefaiterman y de los miembros del Proyecto AMALA de **[TraduSquare](https://tradusquare.es/),**
+Por ese motivo tuve que buscar a un miembro adicional, **[Rokuso](http://www.rokuso.com/){:target="_blank"},** e intentar recuperar el ritmo 
+que habíamos perdido. Por suerte, y con la ayuda de Truefaiterman y de los miembros del Proyecto AMALA de **[TraduSquare](https://tradusquare.es/){:target="_blank"},**
 hemos podido desencallar la parte de la traducción.
 
 Por otro lado, en los últimos dos meses he podido contactar con uno de los mejores romhackers de PlayStation 2, el señor 
@@ -54,8 +54,8 @@ probar suerte por si acabo la lista, estos son los requisitos necesarios para pa
 
 Con esto terminan las novedades sobre Persona 3 FES. Como ya habréis visto en el título, sí, **estoy organizando la traducción al castellano 
 de la versión japonesa (Completa) de Ace Combat 3: Electrosphere.** En este caso estoy colaborando con el 
-**[equipo de traducción italiano](https://ac3es.infrid.com/doku.php?id=ace_combat_3_-_translation_help_wiki_ita)**, compuesto por Infrid, 
-OrientalComputer_01, SolidSnake11 y yarghenforgen, el cual basa sus investigaciones en las del **[Project NEMO](https://projectnemo.net/)**.
+**[equipo de traducción italiano](https://ac3es.infrid.com/doku.php?id=ace_combat_3_-_translation_help_wiki_ita){:target="_blank"}**, compuesto por Infrid, 
+OrientalComputer_01, SolidSnake11 y yarghenforgen, el cual basa sus investigaciones en las del **[Project NEMO](https://projectnemo.net/){:target="_blank"}**.
 
 Por resumir el estado del proyecto, el 95% de los textos están fundidos en gráficos. Por este motivo el equipo italiano lleva 
 meses programando un kit de herramientas con las que coger subtítulos en formato de texto y exportarlos directamente al juego.

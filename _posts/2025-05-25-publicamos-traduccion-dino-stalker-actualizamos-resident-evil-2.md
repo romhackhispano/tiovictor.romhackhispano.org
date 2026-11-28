@@ -50,14 +50,14 @@ Aquí tenéis unas capturitas del resultado:
 
 Aunque el parche solo está pensado para la versión europea, esta incluye selector de hercios, así que se puede jugar bien a 60 hz.
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/dino-stalker/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/dino-stalker/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/dino-stalker/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/dino-stalker/){:target="_blank"}.**
 
 Por otro lado, tengo novedades sobre los proyectos de doblaje de los Resident Evil. Para empezar, **hemos publicado hoy una actualización de 
 importancia para el parche de Resident Evil 2 de la Dual Shock Ver. estadounidense que corrige un bug grave en el que el cronómetro no se 
 muestra durante los modos del cuarto superviviente (Hunk y Tofu)**, afectando también a la pantalla del ránking. Solo subiremos el número de 
 versión para la edición Dual Shock Ver. de PlayStation.
 
-**Podéis acceder a los enlaces de los parches de Resident Evil 2 [en su página correspondiente del proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/).**
+**Podéis acceder a los enlaces de los parches de Resident Evil 2 [en su página correspondiente del proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/){:target="_blank"}.**
 
 Ya por último, **me gustaría hablar de los avances en la adaptación del fandoblaje de Resident Evil 1 a sus versiones de PC**. 
 Como comenté la última vez, están demostrando ser un hueso muy duro de roer y a D3fau4, principal responsable del sistema, le está 

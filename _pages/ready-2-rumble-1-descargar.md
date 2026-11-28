@@ -13,18 +13,18 @@ comments: false
 
 *Utiliza herramientas de Zoinkity, queueRAM, Octocontrabass, Steve Monaco «Klarth» y RedComet.*
 
-<h3 style="text-align: center;">PARCHE 2.0 PARA LA VERSIÓN DE NINTENDO 64:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN PARA NINTENDO 64:</h3>
 
 <center>
 <a href="https://www.mediafire.com/file/s82zuln33x3dj5d/Ready2Rumble-N64-EUSpanishTranslation-V2.0-IlDucci.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> 
-<a href="https://mega.nz/file/0A10BAxY#g3Cg-GoUAjNL88GeI6Tioeaeb-OSKhVRsJ07btyZfgA" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://mega.nz/file/0A10BAxY#g3Cg-GoUAjNL88GeI6Tioeaeb-OSKhVRsJ07btyZfgA" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/ready-2-rumble/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
-<h3 style="text-align: center;">PARCHE 1.0 PARA LA VERSIÓN DE PLAYSTATION ONE:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN PARA PLAYSTATION:</h3>
 
 <center>
 <a href="https://www.mediafire.com/file/1tfpsdk561idp6q/Ready2Rumble-PSX-PAL.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> 
-<a href="https://mega.nz/file/xFdS2J4C#WQq7-Gvvrg0WBb6tsZlta2WSLJrX7ScdoSVtrT4SGUg" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://mega.nz/file/xFdS2J4C#WQq7-Gvvrg0WBb6tsZlta2WSLJrX7ScdoSVtrT4SGUg" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/ready-2-rumble/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

@@ -24,8 +24,7 @@ los proyectos que albergamos en este humilde blog como si solo queríais recorda
 viejos tiempos. Ha sido un honor y un placer participar en este proyecto y seguiré 
 participando en futuros RetroMadrid/Barcelona, siempre que me sea económicamente posible.
 
-<strong><a href="http://www.youtube.com/watch?v=SQDoPZaQFSY">Podéis ver un videoreportaje 
-del evento (Gracias a La Fortaleza de LeChuck) pulsando aquí.</a></strong>
+**[Podéis ver un videoreportaje del evento (Gracias a La Fortaleza de LeChuck) pulsando aquí.](http://www.youtube.com/watch?v=SQDoPZaQFSY){:target="_blank"}**
 
 Ahora, sobre los proyectos actuales. Hoy puedo anunciar que **se ha liberado la primera 
 versión final de la traducción de Tom Clancy's Rainbow Six y su expansión Eagle Watch** 
@@ -35,9 +34,9 @@ antitrampas actuales para jugar en multijugador).
 
 Podéis descargarla pulsando en el enlace de debajo. **Recordad que debéis instalar en este 
 orden lo siguiente:** Rainbow Six, su actualización 1.04, Eagle Watch y su actualización 
-1.50. Si tenéis el pack de Codegame, ya vienen pre-actualizados.  
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/saga-rainbow-six-para-pc/descargar/">Ir 
-a la página de descargas</a></strong></h2>
+1.50. Si tenéis el pack de Codegame, ya vienen pre-actualizados.
+
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/saga-rainbow-six-para-pc/descargar/">Ir a la página de descargas</a></strong></h2>
 
 La traducción de la saga Rogue Spear sigue su curso, pero no hay novedades sobre su estado.
 
@@ -47,8 +46,8 @@ gráfica polaca de 1995**. Es muy corta y es muy, muy paleta, así que TheFireRe
 (Los responsables de esa traducción) hemos querido darle un toque muy, muy paleto y muy 
 castizo.
 
-Para descargarla, esta vez os tengo que 
-mandar <strong><a href="http://prdownloads.sourceforge.net/scummvm/soltys-es-v1.0.zip?download" target="_blank">a la página de descargas de ScummVM.org</a>.</strong>
+Para descargarla, esta vez os tengo que mandar 
+**[a la página de descargas de ScummVM.org](https://www.scummvm.org/games/#games-cge:soltys){:target="_blank"}.**
 
 Os dejo un pequeño vídeo de demostración del Rainbow Six.
 

@@ -52,7 +52,7 @@ A diferencia de otros proyectos que he organizado, este testeo será de carácte
 de plena confianza que pueda ayudarme con esta tarea, a la vista de la hostilidad que estoy conociendo por parte de ciertos frentes de pequeño calado.
 
 En cuanto al resto de proyectos, quedan aparcados hasta que finalice el testeo de Persona 3 FES. Sí que puedo anunciar que me tomé unos cuántos ratillos para cambiar el chip de todo... 
-en Grand Theft Auto III. **He llevado a cabo una revisión integral de textos de ese juego para el proyecto de ingeniería inversa [re3](https://github.com/GTAmodding/re3)**, que ya está disponible 
+en Grand Theft Auto III. **He llevado a cabo una revisión integral de textos de ese juego para el proyecto de ingeniería inversa [re3](https://github.com/GTAmodding/re3){:target="_blank"}**, que ya está disponible 
 dentro de la carpeta gamefiles. Solo tenéis que sacar los archivos de la versión de PC (podéis comprarla en Steam o en la tienda de Rockstar), iniciar sesión en Github para poder descargaros 
 los últimos binarios disponibles y copiaros los contenidos de la carpeta gamefiles que hay en el repositorio para poder jugar a la versión revisada. Esta traducción también es compatible con 
 los sourceports existentes de re3, como las versiones para Wii U y PS Vita.

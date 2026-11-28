@@ -18,7 +18,7 @@ Hoy vengo con una noticia breve. **He actualizado el parche de revisión de text
 
 Alguno ha visto que iba a anunciar una versión 1.0.4 que llegué a publicar, esa versión se paralizó porque pensé que Óscar había terminado su partida y no había sido así. De ahí el salto.
 
-**La versión neutra ya está en manos de las buenas gentes de la Enhanced Edition**, pero no actualizarán la traducción hasta su próxima nueva versión, que se está centrando en corregir los modelados del juego. Podéis ver los avances del estado de su proyecto en su cuenta de Twitter/X, **[WhereAllBegins](https://twitter.com/whereallbegins)**.
+**La versión neutra ya está en manos de las buenas gentes de la Enhanced Edition**, pero no actualizarán la traducción hasta su próxima nueva versión, que se está centrando en corregir los modelados del juego. Podéis ver los avances del estado de su proyecto en su cuenta de Twitter/X, **[WhereAllBegins](https://twitter.com/whereallbegins){:target="_blank"}**.
 
 Seguiremos informando.
 

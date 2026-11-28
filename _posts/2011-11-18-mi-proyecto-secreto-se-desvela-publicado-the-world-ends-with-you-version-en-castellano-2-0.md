@@ -21,7 +21,7 @@ Ahora, tres años después, puedo mostraros aquello en lo que trabajé en secret
 y prácticamente, en solitario: La traducción y doblaje en Castellano 2.0 de 
 The World Ends With You, para Nintendo DS.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/the-world-ends-with-you-version-en-castellano-2-0/descargar/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/the-world-ends-with-you-version-en-castellano-2-0/descargar/">Ir a la página de descargas</a></strong></h2>
 
 {% include video id="Nm2dRlux8CI" provider="youtube" %}
 

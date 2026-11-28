@@ -58,7 +58,7 @@ más vuelva a intentarlo, no voy a ayudar tan alegremente a todo aquel que utili
 consentimiento o el consentimiento de los integrantes de los equipos correspondientes. Quien quiera utilizar o adaptar alguno de estos proyectos deberá 
 contactarme antes de nada.**
 
-**En fin, no puedo hablar de ingeniería inversa sin hablar del trabajo que ha hecho [Bo, de Rings of Saturn](https://32bits.substack.com/).** Gracias a él, 
+**En fin, no puedo hablar de ingeniería inversa sin hablar del trabajo que ha hecho [Bo, de Rings of Saturn](https://32bits.substack.com/){:target="_blank"}.** Gracias a él, 
 hemos podido resolver un bug catastrófico que destrozaba los subtítulos justo al final del juego, en cuanto salía la cuenta atrás, así como modificar el juego 
 para que se parezca, en ciertos sentidos, a la versión francesa. Chapeau, caballero.
 
@@ -66,7 +66,7 @@ Os dejo una selección muy «mini» de capturas de la versión de Sega Saturn.
 
 {% include gallery layout="half" %}
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/){:target="_blank"}.**
 
 Ya para terminar, también he actualizado el parche de revisión del Silent Hill 2 a la versión 1.0.7. Es un parche muy menor que solo añade textos para 
 las nuevas cadenas de la futura actualización de la Enhanced Edition. Poca cosa.

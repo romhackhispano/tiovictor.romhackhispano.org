@@ -57,9 +57,9 @@ varios gráficos, pero aún quedan otros cuantos.
 
 Las malas noticias son que no tengo nada que comentar de *Operation Winback*, sigue donde está y necesita alguien que pueda debuggear PS2.
 
-Y ya para terminar, este año por fin vuelve <b><a href="http://www.retromadrid.org/">RetroMadrid</a></b>, la feria de la informática clásica por excelencia de la capital de España, 
-con un cambio radical de sistema (Pasa a financiarse mediante crowdfunding, 
-<a href="http://www.retromadrid.org/campana-de-apoyo/">¡echadles una mano si podéis!</a>) para evitar los problemas ocurridos en la última edición. 
+Y ya para terminar, este año por fin vuelve **[RetroMadrid](http://www.retromadrid.org/){:target="_blank"}**, la feria de la informática clásica 
+por excelencia de la capital de España, con un cambio radical de sistema (Pasa a financiarse mediante crowdfunding, 
+[¡echadles una mano si podéis!](http://www.retromadrid.org/campana-de-apoyo/){:target="_blank"}) para evitar los problemas ocurridos en la última edición. 
 Lamentablemente, ni el grupo SegaClassics ni Traducciones del Tío Víctor estarán presentes en calidad de expositores debido al cansancio producido 
 por las últimas ediciones. Aunque sí que asistiré como visitante durante el sábado.
 

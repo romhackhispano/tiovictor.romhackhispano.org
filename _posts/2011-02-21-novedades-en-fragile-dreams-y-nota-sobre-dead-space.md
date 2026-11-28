@@ -21,7 +21,7 @@ La investigación está casi hecha, y la traducción sobre papel andará al 50%,
 no puedo dar una fecha de lanzamiento todavía, pero creo que este proyecto tendrá 
 muy poca duración.
 
-[La noticia la podéis ver aquí.](http://origames.foro-espana.com/n39-wii-finalmente-si-habra-fragile-en-castellano)
+[La noticia la podéis ver aquí.](http://origames.foro-espana.com/n39-wii-finalmente-si-habra-fragile-en-castellano){:target="_blank"}
 
 En otro orden de cosas, también se me ha contactado para adaptar mi traducción 
 de Dead Space Extraction para Wii a la versión de PlayStation 3. Esta gente, 

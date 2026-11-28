@@ -11,7 +11,7 @@ tags:
 Apenas ha pasado una semana y ya tenemos que actualizar el parche 
 de traducción de Shenmue I a la versión 1.0.1.
 
-El arreglo más importante es que el señor [PacoChan](http://pacochan.tales-tra.com/) 
+El arreglo más importante es que el señor [PacoChan](http://pacochan.tales-tra.com/){:target="_blank"} 
 se ha currado la eliminación del puñetero código código -1073741819 por el 
 programa MDS4DC, por lo que los que tenéis problemas para hacer el Passport, 
 ya deberíais poder generar ese disco.

@@ -73,20 +73,20 @@ nuestras traducciones y doblajes sin permiso y quitando los créditos del
 juego (o dejándolos solo en vuestros vídeos, pero quitándolos del propio 
 juego). Sabemos quiénes sois.*
 
-<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN DEL JUEGO (V3.6 FINAL 2010):</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN SIN DOBLAJE (V3.6 FINAL 2010):</h3>
 
 <center>
-<a href="https://www.mediafire.com/file_premium/exxcw7d72j8anpe/REDC-V36.rar/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/xF1VmbSb#ot3AJMmmRmIRHTQ3nYjEbA12HCJ-zZE_ItCpwhAgSN4" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file_premium/exxcw7d72j8anpe/REDC-V36.rar/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/IBUAkLRA#MBRMMFKk2DKND6GxVbel8dZnDRXsK059igCXZQeiZq0" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
 </center>
 
-<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE DEL JUEGO (V4.2b 2024 PARA PSX Y SATURN):</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE (V4.2b 2024 PARA PSX Y SATURN):</h3>
 
 <center>
 <a href="https://www.mediafire.com/folder/5frfpffnsvg9i/REDC_DOB" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEDIAFIRE</a> <a href="https://mega.nz/folder/hcdVmQLR#rTq2AVpd8NHbsfOgEk_8OA" class="btn btn--primary btn--x-large" target="_blank">Carpeta de MEGA</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  
-**[PPF-O-Matic 3.0: Para aplicar archivos .ppf.](https://www.psx-place.com/resources/ppf-o-matic.507/)**  
+**[PPF-O-Matic 3.0: Para aplicar archivos .ppf.](https://www.psx-place.com/resources/ppf-o-matic.507/){:target="_blank"}**  
 **[Delta Patcher (para aplicar el parche al juego)](https://github.com/marco-calautti/DeltaPatcher/releases){:target="_blank"}**  
 **[binmerge-gui (para separar una imagen BIN en sus pistas individuales, para Saturn)](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}**
 

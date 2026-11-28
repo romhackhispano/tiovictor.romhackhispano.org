@@ -158,9 +158,8 @@ pulidita. Él tiene todo el material necesario para revisar/testear el parche, p
 desaparecido en combate. Y ahí se acaba la cosa.
 
 **Final Fantasy VII:** Acabo de terminar mi colaboración tanto con el proyecto español 
-([Capitaneado por xulikotony](http://traduccionesxt.blogspot.com.es/)) como con la retraducción 
-al inglés de The Reunion ([Organizada por 
-DLPB](http://forums.qhimm.com/index.php?PHPSESSID=eflr09iaai1tn86o085dik2e67&amp;topic=14914.0)).
+([Capitaneado por xulikotony](http://traduccionesxt.blogspot.com.es/){:target="_blank"}) como con la retraducción 
+al inglés de The Reunion ([Organizada por DLPB](http://forums.qhimm.com/index.php?PHPSESSID=eflr09iaai1tn86o085dik2e67&amp;topic=14914.0){:target="_blank"}).
 
 En ambos casos mi tarea ha sido la de convertir y editar los gráficos y vídeos de las 
 versiones de PC y Playstation 1, manteniendo la compatibilidad y el estilo de 1997. La versión 

@@ -34,7 +34,7 @@ habido aquí). Me veo en la necesidad personal de bajar las expectativas de cara
 proyectos futuros de Reviviendo en Castellano: **no esperéis repartazos de semejante lujo en proyectos futuros. Lo que ha ocurrido en este es un unicornio 
 y no tiene por qué repetirse.**
 
-Bueno, vamos a la mandanga: **podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/silent-hill-1/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/silent-hill/).**
+Bueno, vamos a la mandanga: **podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/silent-hill-1/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/silent-hill/){:target="_blank"}.**
 
 Os recordamos que tenemos varios videotutoriales sobre cómo aplicar los parches **[en el canal de YouTube de Reviviendo en Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO/videos){:target="_blank"}**.
 

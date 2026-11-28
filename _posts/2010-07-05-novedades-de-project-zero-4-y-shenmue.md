@@ -19,7 +19,7 @@ Frame/Project Zero 4, del cual soy parte menor, ha anunciado la fecha en la que
 se lanzará el parche en Castellano: el 31 de Julio, justo dos años después de 
 que saliera al mercado japonés el juego.
 
-Como comentan en <a href="http://www.projectsae.es/sae.php" target="_blank">Project Sae</a>, 
+Como comentan en [Project Sae](http://www.projectsae.es/sae.php){:target="_blank"}, 
 se han incluído numerosas mejoras con respecto al parche en Inglés, siendo las 
 más importantes la eliminación de los textos borrosos, la traducción de aquellos 
 contenidos por los cuales no ha pasado el equipo inglés, y el ajuste de los textos 
@@ -31,7 +31,7 @@ Más noticias y unas capturas tras el salto.
 <!--more-->
 
 Por otra parte, he comenzado a testear el disco 3 de Shenmue, projecto que llevo 
-de forma conjunta con la gente de [SegaSaturno](http://www.segasaturno.com).
+de forma conjunta con la gente de [SegaSaturno](http://www.segasaturno.com){:target="_blank"}.
 
 Estoy corrigiendo básicamente las escenas del disco 3 y los gráficos de la carrera 
 de carretillas, que están dando algo de guerra. Aún estamos a la espera de que el 

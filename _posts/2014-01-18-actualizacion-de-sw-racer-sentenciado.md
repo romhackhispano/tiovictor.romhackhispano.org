@@ -12,7 +12,7 @@ Saqué esta traducción con cierta prisa por lo que ha demostrado ser una
 estupidez. Ahora con algo de tiempo y la mágica mano del todopoderoso PacoChan, 
 hemos dejado ya el proyecto fino y resuelto.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/star-wars-episodio-i-racer-para-nintendo-64/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/star-wars-episodio-i-racer-para-nintendo-64/">Ir a la página de descargas</a></strong></h2>
 
 Las novedades son generales: Hemos introducido las letras que faltaban, 
 encontrado la forma de ampliar el espacio de los textos, retraducido cosas, 

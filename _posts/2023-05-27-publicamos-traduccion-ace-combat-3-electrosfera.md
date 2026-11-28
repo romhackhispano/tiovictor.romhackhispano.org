@@ -74,7 +74,7 @@ tags:
 
 Saludos a todos. **Hoy Traducciones del Tío Víctor publica en colaboración con Load Word Team** y tras cinco años de desarrollo **el parche de traducción aficionada de Ace Combat 3: electrosfera**, tanto una nueva versión en inglés como la primera versión en castellano.
 
-Antes de nada, publicidad descarada: **si queréis saber más sobre la parte inglesa del proyecto, [la podéis ver en la página web de Load Word Team](https://loadwordteam.com/blog/)**.
+Antes de nada, publicidad descarada: **si queréis saber más sobre la parte inglesa del proyecto, [la podéis ver en la página web de Load Word Team](https://loadwordteam.com/blog/){:target="_blank"}**.
 
 **Esta noticia se va a centrar en la parte castellana principalmente, y madre mía, ha sido un viaje bastante largo e intenso.** No pensé que acabaría enganchándome a otra franquicia de videojuegos tan fácilmente, pero esto es lo que tiene elegir los proyectos que hago por su atractivo argumental, no por su atractivo jugable (en el caso de los Persona, empecé a traducir el tres por un ramalazo y acabé viéndome gameplays del 4 Golden, 5 Royal y Strikers, pero nunca he sido capaz de pasarme ninguno sin ir a tope de trampas).
 
@@ -93,7 +93,7 @@ No pensé que volvería a ver una historia tan cercana a Ghost in the Shell: Sta
 
 **Ha sido un proyecto agradable de hacer, con un equipo compenetrado tanto en inglés como en español**, y aunque ha tenido elementos muy sufridos, los hemos disfrutado bastante, tanto con la traducción del juego en sí como con la recreación de los elementos gráficos.
 
-**El proceso de traducción de textos ha sido un tanto peculiar**, ya que primero hacía falta la traducción literal del equipo inglés de Load Word Team. Esta fue mi base inicial para traducir al español, aprovechando todas las acotaciones internas que teníamos. Después se fue revisando y puliendo el guion a medida que el inglés también lo hacía, pero cuando decidí que estaba listo para que lo vieran otros ojos... Recurrí a [Dark_Kudoh](https://twitter.com/Dark_Kudoh/) (a quien algunos conoceréis por sus colaboraciones con Loud Kuyuki en el mundo digital de Digimon, otros por su trabajo subtitulando canciones de Vocaloid y de Project Diva, y otros por su trabajo enderezando el desastre que tenía Digimon Story: Cyber Sleuth Complete Edition) y le pedí que revisara utilizando el japonés como base. Al final, tras este toma y daca, tenemos una versión en español que, aunque bebe del inglés, está muy contrastada con la versión japonesa.
+**El proceso de traducción de textos ha sido un tanto peculiar**, ya que primero hacía falta la traducción literal del equipo inglés de Load Word Team. Esta fue mi base inicial para traducir al español, aprovechando todas las acotaciones internas que teníamos. Después se fue revisando y puliendo el guion a medida que el inglés también lo hacía, pero cuando decidí que estaba listo para que lo vieran otros ojos... Recurrí a [Dark_Kudoh](https://twitter.com/Dark_Kudoh/){:target="_blank"} (a quien algunos conoceréis por sus colaboraciones con Loud Kuyuki en el mundo digital de Digimon, otros por su trabajo subtitulando canciones de Vocaloid y de Project Diva, y otros por su trabajo enderezando el desastre que tenía Digimon Story: Cyber Sleuth Complete Edition) y le pedí que revisara utilizando el japonés como base. Al final, tras este toma y daca, tenemos una versión en español que, aunque bebe del inglés, está muy contrastada con la versión japonesa.
 
 De hecho, seguramente notaréis más de una diferencia entre inglés y español por ese mismo motivo. Más tarde, TrueFaiterMan le daría una última lectura a todos los textos, afilando ya de por sí unos textos tan afilados que se oye al afilador marchándose por la lontananza.
 
@@ -123,14 +123,14 @@ Dentro del propio paquete del parche encontraréis:
  - **Un archivo de texto con la traducción de las tres escenas que no contenían subtítulos originalmente** y que, por desgracia, no hemos podido hackear para incorporar los subtítulos dentro del juego.
 
 ¡Pero eso no es todo! **Fuera del parche también podréis encontrar**:
- - **La cinta VHS promocional MISSION 00/MISIÓN 00 restaurada y subtitulada** en inglés y español (**[disponible en el canal de YouTube de Load Word Team](https://www.youtube.com/watch?v=Qi5LBs-D0bk)**).
- - **Las tres escenas sin subtitular antes mencionadas en formato de vídeo** y subtituladas para quien quiera verlas en contexto (**[disponibles en el canal de YouTube de Traducciones del Tío Víctor](https://youtube.com/playlist?list=PLiNIM6nrnm3xc8nbuqctDUh-0OL-hOGq5)**).
+ - **La cinta VHS promocional MISSION 00/MISIÓN 00 restaurada y subtitulada** en inglés y español (**[disponible en el canal de YouTube de Load Word Team](https://www.youtube.com/watch?v=Qi5LBs-D0bk){:target="_blank"}**).
+ - **Las tres escenas sin subtitular antes mencionadas en formato de vídeo** y subtituladas para quien quiera verlas en contexto (**[disponibles en el canal de YouTube de Traducciones del Tío Víctor](https://youtube.com/playlist?list=PLiNIM6nrnm3xc8nbuqctDUh-0OL-hOGq5){:target="_blank"}**).
 
 Os dejo unas cuántas capturas más de la versión prefinal de la traducción:
 
 {% include gallery %}
 
-En fin, vamos cerrando ya esta noticia. **Si queréis acceder al parche de traducción, podéis hacerlo a través [de la página de descargas del proyecto](https://tiovictor.romhackhispano.org/ace-combat-3/descargar/) o [de TraduSquare](https://tradusquare.es/proyectos/ace-combat-3/).**
+En fin, vamos cerrando ya esta noticia. **Si queréis acceder al parche de traducción, podéis hacerlo a través [de la página de descargas del proyecto](https://tiovictor.romhackhispano.org/ace-combat-3/descargar/) o [de TraduSquare](https://tradusquare.es/proyectos/ace-combat-3/){:target="_blank"}.**
 
 De aquí a unas semanas, cuando pase el boom de la noticia y si no hace falta sacar actualizaciones del parche, hablaremos del futuro.
 

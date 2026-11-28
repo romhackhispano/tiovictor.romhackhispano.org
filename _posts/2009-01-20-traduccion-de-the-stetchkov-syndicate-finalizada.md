@@ -24,7 +24,7 @@ También he convertido las alturas y pesos de los sospechosos/rehenes a metros y
 respectivamente. Los créditos están traducidos, pero como en el inglés original hay un bug 
 que los deja a medias, ahí se han quedado.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/swat4-the-stetchkov-syndicate/descargar/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/swat4-the-stetchkov-syndicate/descargar/">Ir a la página de descargas</a></strong></h2>
 
 Sobre Resident Evil, bueno, pretendo meterme en ello en siguiente. Hay una cosa que me preocupa 
 y es el hecho de que muchos me pedís que cuelgue directamente la ISO ya traducida, el problema 

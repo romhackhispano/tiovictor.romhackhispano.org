@@ -21,10 +21,10 @@ _Testeo:_ eliden
 _Desde aquí queremos dar un fuerte saludo al equipo que ha completado la fantraducción 
 italiana en romhacking.it y darles las gracias por permitirnos usar sus modificaciones._
 
-<h3 style="text-align: center;">VERSIÓN 1.5B DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/bh6vcpzyfiaq1qg/T3B-V15B-TraduESP.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/AUdwRDrD#Tc9W1iwCv34CVQsnIFWxlLYeMeVaI8ddX94K4loAHYE" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/bh6vcpzyfiaq1qg/T3B-V15B-TraduESP.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/AUdwRDrD#Tc9W1iwCv34CVQsnIFWxlLYeMeVaI8ddX94K4loAHYE" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/3rd-birthday/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

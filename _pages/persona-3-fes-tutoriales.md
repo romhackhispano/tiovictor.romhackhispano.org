@@ -65,7 +65,7 @@ castellano.
 
 Necesitarás el programa PS2 Patch Engine, por pelvicthrustman, para aplicar 
 el parche (en Windows) sobre una ISO. Actualmente puede descargarse desde 
-[esta página web](https://www.psx-place.com/threads/ps2-patch-engine-by-pelvicthrustman.19167/).
+[esta página web](https://www.psx-place.com/threads/ps2-patch-engine-by-pelvicthrustman.19167/){:target="_blank"}.
 
 Este tutorial se limitará al programa para Windows. Estos son los pasos:
 
@@ -90,7 +90,7 @@ Si ya puedes controlar al resto de personajes, has acabado con el proceso.
 En caso contrario, revisa que no hayas hecho mal ninguno de los pasos. Si 
 has seguido todos los pasos al pie de la letra, coméntanoslo por TraduSquare.
 
-Si tienes Linux, [existe un equivalente llamado PS2 Pnacher que puedes descargar desde aquí.](https://github.com/Snaggly/PS2_Pnacher)
+Si tienes Linux, [existe un equivalente llamado PS2 Pnacher que puedes descargar desde aquí.](https://github.com/Snaggly/PS2_Pnacher){:target="_blank"}
 
 <a name="tuto2"></a>
 ## Cómo hacer un undub con la ISO fantraducida

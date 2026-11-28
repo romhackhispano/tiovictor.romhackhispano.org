@@ -20,8 +20,8 @@ Es una demo cortita, de media hora de duración, en la que todos los diálogos s
 ser inicialmente un proyecto de traducción Japonés-Inglés y luego Inglés-Español, pero al 
 parcheador se le ha unido también el Alemán, así que os estáis bajando un parche tri-idioma.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/whats-shenmue-esp/descargar/">Ir 
-a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/whats-shenmue-esp/descargar/">Ir a la página de descargas</a></strong></h2>
+
 Antes del salto con la información aburrida, comento rápidamente: Este parche solo se ha 
 probado con los discos con el siguiente código en el anillo interior de la cara sin logotipo 
 del GD-ROM:
@@ -35,7 +35,7 @@ desprecintados, podéis probarlos y contarme qué tal va.
 **EDIT 4 de septiembre:** Siguiendo con cosas sobre Shenmue, ya están disponibles los subtítulos 
 del Postmortem de Shenmue que se hizo en la GDC de este año y cuyo vídeo integro subió la gente 
 de ShenmueDojo. [**Podéis verlo pulsando aquí (Recordad activar la función de 
-subtítulos).**](http://www.youtube.com/watch?v=Amu0_EunHmM)
+subtítulos).**](http://www.youtube.com/watch?v=Amu0_EunHmM){:target="_blank"}
 
 <!--more-->
 

@@ -98,7 +98,7 @@ de estos programas en Internet.
 
 Para saber cuál es la versión que tienes, necesitas conocer la suma de 
 comprobación (o «checksum») de tus imágenes en formato .BIN. Recomendamos 
-utilizar el programa WinMD5Free ([disponible en su página web](https://www.winmd5.com)).
+utilizar el programa WinMD5Free ([disponible en su página web](https://www.winmd5.com){:target="_blank"}).
 
 Una vez hayas comprobado qué versión tienes del juego, podrás utilizar la 
 aplicación xdelta (o DeltaPatcher si no te gusta utilizar líneas de 
@@ -141,7 +141,7 @@ original.
 ### Cómo aplicar el archivo .XDELTA con Delta Patcher<a name="ac3info_4"></a>
 
 Necesitarás la imagen original del juego, el archivo xdelta y la aplicación 
-Delta Patcher ([puedes conseguirla en su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)).
+Delta Patcher ([puedes conseguirla en su página web](https://github.com/marco-calautti/DeltaPatcher/releases/){:target="_blank"}).
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 
@@ -182,7 +182,7 @@ bastante antiguo como para haber sacado las 33 pistas del juego en archivos
 
 **Para extraer las pistas, recomiendo utilizar el programa binmerge-gui**, una 
 versión del programa de putnam con una interfaz más fácil de usar gracias a 
-Infrid. [Puedes descargarte el programa en su página de GitHub](https://github.com/loadwordteam/binmerge-gui).
+Infrid. [Puedes descargarte el programa en su página de GitHub](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}.
  - Abre el programa binmerge-gui y selecciona la pestaña «Separar pistas».
  - Haz clic en «Buscar .CUE original» y selecciona el archivo .CUE de tu 
    copia de seguridad del AppenDisc.
@@ -232,7 +232,7 @@ ESPÓILERS.txt" con las traducciones correspondientes.** Ni que decir tiene que
 van a revelaros elementos de la trama del juego, así que abrid ese archivo 
 bajo vuestra propia responsabilidad.
 
-**También podéis ver estas escenas subtituladas [en el canal de YouTube de Traducciones del Tío Víctor](https://www.youtube.com/@TraduccionesdelTioVictor/videos).**
+**También podéis ver estas escenas subtituladas [en el canal de YouTube de Traducciones del Tío Víctor](https://www.youtube.com/@TraduccionesdelTioVictor/videos){:target="_blank"}.**
 
 ### Instrucciones para usar la traducción en una PlayStation 1 o 2<a name="ac3info_7"></a>
 

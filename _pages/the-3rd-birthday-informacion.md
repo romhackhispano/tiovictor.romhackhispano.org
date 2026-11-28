@@ -8,7 +8,7 @@ comments: false
 <h2 style="text-align: center;"><strong><a href="/the-3rd-birthday/informacion/">INFORMACIÓN</a> - <a href="/the-3rd-birthday/descargar/">DESCARGAS</a> - <a href="/the-3rd-birthday/capturas/">CAPTURAS</a></strong></h2>
 
 **El parcheador de la versión 1.0 no funcionará si no tenéis instalado .NET Framework 4, 
-<a title="Descarga de .NET Framework 4" href="http://www.microsoft.com/downloads/es-es/details.aspx?FamilyID=9cfb2d51-5ff4-4491-b0e5-b386f32c0992" target="_blank">que 
+<a title="Descarga de .NET Framework 4" href="https://www.microsoft.com/es-es/download/details.aspx?id=17718" target="_blank">que 
 podéis descargar pulsando aquí</a>.**
 
 Todas las versiones de la fantraducción necesitan una copia de seguridad del disco europeo 
@@ -28,7 +28,7 @@ CRC-32: 80ba851c
 ## Cómo aplicar el archivo .XDELTA con xdeltaUI:
 
 Necesitarás la imagen original del juego en formato .ISO, el archivo xdelta y la aplicación 
-Delta Patcher (**[puedes conseguirla en su web](https://github.com/marco-calautti/DeltaPatcher/releases/)**).
+Delta Patcher (**[puedes conseguirla en su web](https://github.com/marco-calautti/DeltaPatcher/releases/){:target="_blank"}**).
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 

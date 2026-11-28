@@ -130,7 +130,7 @@ fallos en Dreamcast subtitulada:
 ### Cómo aplicar un parche .XDELTA
 
 **Necesitarás el archivo original a modificar, el archivo xdelta 
-correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/)**)**.**
+correspondiente y la aplicación Delta Patcher** (puedes conseguirla en **[su página web](https://github.com/marco-calautti/DeltaPatcher/releases/){:target="_blank"}**)**.**
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 
@@ -167,7 +167,7 @@ bastante antiguo como para haber sacado las 2 pistas del juego en archivos
 
 **Para extraer las pistas, recomiendo utilizar el programa binmerge-gui**, una 
 versión del programa de putnam con una interfaz más fácil de usar gracias a 
-Infrid que [puedes descargarte aquí](https://github.com/loadwordteam/binmerge-gui).
+Infrid que [puedes descargarte aquí](https://github.com/loadwordteam/binmerge-gui){:target="_blank"}.
  - Abre el programa binmerge-gui y selecciona la pestaña «Separar pistas».
  - Haz clic en «Buscar .CUE original» y selecciona el archivo .CUE de tu 
    copia de seguridad del disco.
@@ -280,7 +280,8 @@ MD5 de track06: 71d9302bce0d6e6892f1b78db0e787ee
 parche correspondiente con Universal Dreamcast Patcher.**
 
 Una vez confirmes que tienes tu copia de seguridad en orden, es hora de 
-descargar el Universal Dreamcast Patcher de Derek Pascarella (puedes conseguirlo en **[su página web](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases/)**). 
+descargar el Universal Dreamcast Patcher de Derek Pascarella (puedes conseguirlo en 
+**[su página web](https://github.com/DerekPascarella/UniversalDreamcastPatcher/releases/){:target="_blank"}**). 
 Las siguientes instrucciones se corresponden con la versión 2.0.
 
 El programa es muy sencillo:
@@ -381,7 +382,7 @@ VERSIÓN GOG ESPAÑOLA 1.0 hotfix 4
    - Copia los contenidos de las carpetas «doblaje_esp», «Pl0», «Pl1» y
      «Zmovie» a la raíz de la carpeta con los datos del juego, 
      sobrescribiendo los archivos según sea necesario.
-   - Copia los archivos «winmm.dll» y «mod_spanishRECdub_crypto.7z» a la 
+   - Copia los archivos «winmm.dll» y «mod_spanishRECdub_crypto.7z» a la 
      raíz de la carpeta con los datos del juego.
    - Utiliza DeltaPatcher para aplicar el parche XDELTA correspondiente al 
      ejecutable. RECOMENDAMOS ENCARECIDAMENTE UTILIZAR LA OPCIÓN «Backup 

@@ -16,13 +16,12 @@ Justo a los cuatro días de sacar el The 3rd Birthday, qué casualidad,
 me informan de que ya está disponible un proyecto que tiene más años que 
 el diablo: Resident Evil 2 para Dreamcast.
 
-Podéis descargarlo a través de [SegaSaturno](http://www.segasaturno.com/portal/index.php?topic_id=5555) 
-o del [mirror que alojaremos aquí](http://tiovictor.romhackhispano.org/?page_id=259&amp;did=16).
+Podéis descargarlo a través de [SegaSaturno](http://www.segasaturno.com/portal/index.php?topic_id=5555){:target="_blank"} 
+o del [mirror que alojaremos aquí](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/).
 
-Este proyecto tiene su origen en [SegaSaturno](http://www.segasaturno.com/), 
-así que su hogar residirá allí, el soporte técnico se hará en los foros de 
-[SegaSaturno](http://www.segasaturno.com/). En el proyecto han participado 
-GameZelda, CUE y TuxTheWise, además de un servidor de ustedes.
+Este proyecto tiene su origen en SegaSaturno, 
+así que su hogar residirá allí, el soporte técnico se hará en los foros de SegaSaturno. 
+En el proyecto han participado GameZelda, CUE y TuxTheWise, además de un servidor de ustedes.
 
 Hablando del señor CUE... creo que le debo más de una disculpa, y con bastante retraso. 
 El señor CUE ha sido prácticamente la persona que me ha enseñado como funciona el mundo 
@@ -69,9 +68,8 @@ exclusivo de Dreamcast, como los textos de la VMU.
 La razón por la que haya salido ahora (Lleva listo desde diciembre de 2010) es porque, 
 a diferencia de otros proyectos en los que estoy, me he visto en la necesidad de utilizar 
 una release de un grupo en vez de un parche que se aplique en el GDI. (Más que nada porque 
-no he visto forma de manipular un GDI). La release es la del 
-<a href="http://snesorama.us/board/blog.php?u=77118" target="_blank">grupo DreamCast 
-Resurrection, o también conocido como DCRES</a>, donde manda TuxTheWise. Él ha sido el 
+no he visto forma de manipular un GDI). La release es la del grupo DreamCast Resurrection, 
+o también conocido como DCRES, donde manda TuxTheWise. Él ha sido el 
 responsable de montar los discos que mejor se leen de Dreamcast (mejor que los propios GDI) 
 con esta traducción, así que se debería jugar lo mejor posible.
 

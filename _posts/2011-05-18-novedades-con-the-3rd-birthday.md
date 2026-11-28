@@ -10,9 +10,8 @@ tags:
 - 'Time Crisis'
 - 'The 3rd Birthday'
 ---
-En [Chrono Traducciones](http://chronocrossesp.esforos.com/iquest-que-tal-traducir-parasite-eve-3-the-3rd-birthday-t1130)
- se ha actualizado el post del progreso de la traducción de The 3rd 
- Birthday, proyecto en el que estoy colaborando.
+En [Chrono Traducciones](http://chronocrossesp.esforos.com/iquest-que-tal-traducir-parasite-eve-3-the-3rd-birthday-t1130){:target="_blank"} 
+se ha actualizado el post del progreso de la traducción de The 3rd Birthday, proyecto en el que estoy colaborando.
 
 **Traducción y revisión de textos: 45%
 Inserción de gráficos: 35%**

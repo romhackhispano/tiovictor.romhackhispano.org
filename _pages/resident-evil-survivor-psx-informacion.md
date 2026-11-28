@@ -50,7 +50,8 @@ utilizando xdelta (O xdeltaUI si no te gusta utilizar líneas de comandos).
 Cómo aplicar el archivo .XDELTA con xdeltaUI:
 
 Necesitarás la imagen ya parcheada con el parche anticopia de PSX Killer, 
-el archivo xdelta incluido y la aplicación Delta Patcher (**[puedes conseguirla en su web](https://github.com/marco-calautti/DeltaPatcher/releases/)**).
+el archivo xdelta incluido y la aplicación Delta Patcher (**[puedes conseguirla 
+en su web](https://github.com/marco-calautti/DeltaPatcher/releases/){:target="_blank"}**).
 
  - Abre el programa Delta Patcher.
  - Asegúrate de que la opción «Backup original file» esté activada en el 

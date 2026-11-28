@@ -12,10 +12,10 @@ _**CRÉDITOS DEL PROYECTO:**_
 **Herramientas adicionales:** Klarth, RedComet  
 **Traducción de textos y gráficos, testeo:** IlDucci
 
-<h3 style="text-align: center;">VERSIÓN 1.0.1 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="http://www.mediafire.com/download/q3i6gj32uoxyf5q/TheWorldIsNotEnoughN64V1.0.1.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!wEdShR5R!AaiDHHga5jNyBAaxn-NJB1fVvQWqOe0YoMXmcML3nRM" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="http://www.mediafire.com/download/q3i6gj32uoxyf5q/TheWorldIsNotEnoughN64V1.0.1.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!wEdShR5R!AaiDHHga5jNyBAaxn-NJB1fVvQWqOe0YoMXmcML3nRM" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/el-mundo-nunca-es-suficiente/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 Para que el parche funcione, es necesario tener una copia en formato ByteSwapped de la ROM 

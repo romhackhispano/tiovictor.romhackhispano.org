@@ -10,9 +10,9 @@ tags:
 - 'Ferias retro'
 - 'RetroMadrid'
 ---
-La AUIC, la asociación que organizaba los eventos de RetroMadrid, [ha anunciado 
-oficialmente](http://www.retromadrid.org/comunicado-oficial-retromadrid-2016/) que este 
-año no habrá feria en la capital.
+La AUIC, la asociación que organizaba los eventos de RetroMadrid, 
+[ha anunciado oficialmente](http://www.retromadrid.org/comunicado-oficial-retromadrid-2016/){:target="_blank"} 
+que este año no habrá feria en la capital.
 
 Hay una cierta lógica, teniendo en cuenta el follón que hubo con el aforo y las entradas, 
 en que se pospusiera al año que viene. Pero esto implica que, con casi toda seguridad, no 

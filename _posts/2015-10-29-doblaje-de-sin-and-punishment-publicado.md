@@ -9,7 +9,7 @@ tags:
 - 'Sin and Punishment: Successor of the Earth'
 ---
 Caballeros, hoy publicamos el último proyecto de fandoblaje romhackeado en colaboración 
-con [Estudios G3S](http://www.estudiosg3s.com/): Sin and Punishment: Successor of the 
+con [Estudios G3S](http://www.estudiosg3s.com/){:target="_blank"}: Sin and Punishment: Successor of the 
 Earth para Nintendo 64.
 
 Han sido dos años de duro trabajo (Y prisas para la RetroBarcelona del año pasado), pero 
@@ -24,7 +24,7 @@ fondo que se quedó entre sus páginas.
 
 Disfrutadlo, y como siempre, seguiremos informando.
 
-<h1 style="text-align: center;"><a href="http://tiovictor.romhackhispano.org/sin-and-punishment-n64/descargar/" target="_blank">ENLACE AL PARCHE</a></h1>
+**Podéis acceder a los enlaces de los parches de Sin and Punishment [en su página de proyecto](https://tiovictor.romhackhispano.org/sin-and-punishment-n64/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/sin-and-punishment/){:target="_blank"}.**
 
 **EDIT 01/11/2015:** Siento el retraso, acabo de actualizar el parche a la revisión v1.0b. 
 A la versión subtitulada le faltaba un pequeño detalle... actualizar los CRC de comprobación. 

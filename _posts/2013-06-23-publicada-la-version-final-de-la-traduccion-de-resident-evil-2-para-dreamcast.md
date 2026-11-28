@@ -30,8 +30,7 @@ que ya salen cuando tienen que salir, no antes.
 Podéis descargarla pulsando en el enlace de abajo. Como siempre, la información 
 detallada, tras el salto.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/">Ir 
-a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/">Ir a la página de descargas</a></strong></h2>
 
 <!--more-->
 

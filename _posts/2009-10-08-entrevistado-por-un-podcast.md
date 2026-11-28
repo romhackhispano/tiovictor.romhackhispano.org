@@ -21,7 +21,7 @@ por el videopodcast mexicano InGameVG, junto con Artemio Urbina, uno de los
 responsables de la traducción al inglés de Policenauts. Os dejo el enlace, 
 a ver qué os parece.
 
-[Enlace a la página del audiopodcast](http://www.ingamevg.com/ingame/audiopodcast-13-fansub-en-videojuegos/)
+[Enlace a la página del audiopodcast](http://www.ingamevg.com/ingame/audiopodcast-13-fansub-en-videojuegos/){:target="_blank"}
 
 Y sí, muchos me diréis que he cometido el error más tonto de mi vida, pero 
 ya no hay nada que pueda hacer, ¿no?

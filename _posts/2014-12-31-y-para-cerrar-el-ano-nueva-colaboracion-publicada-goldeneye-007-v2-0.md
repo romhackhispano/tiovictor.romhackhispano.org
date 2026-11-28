@@ -44,11 +44,11 @@ gallery:
 ---
 No quería despedir el año sin un último apunte...
 
-Hoy se ha publicado en [GoldenEye Vault](http://www.goldeneyevault.com/) una de mis 
+Hoy se ha publicado en [GoldenEye Vault](http://www.goldeneyevault.com/){:target="_blank"} una de mis 
 últimas colaboraciones: la versión 2.0 de la traducción al castellano de GoldenEye 007 
-por [Sogun](http://sogunstudio.blogspot.com.es/), Zoinkity y SubDrag.
+por [Sogun](http://sogunstudio.blogspot.com.es/){:target="_blank"}, Zoinkity y SubDrag.
 
-Tal y como comenté [en esta entrevista](http://retromaniacmagazine.blogspot.com.es/2014/12/entrevistamos-al-tio-victor.html) 
+Tal y como comenté [en esta entrevista](http://retromaniacmagazine.blogspot.com.es/2014/12/entrevistamos-al-tio-victor.html){:target="_blank"} 
 (Uy, se me olvidó mencionarla), poco después de RetroBarcelona me dio por jugar a la 
 traducción de Sogun y pensé que podía remozarla un poco... Y acabé no solo dándole un 
 necesario repaso, también he mejorado algunas cosas que nos permitían hacer las herramientas 
@@ -59,7 +59,6 @@ variadas.
 
 Feliz 2015.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/goldeneye-007-colaboracion/">Ir 
-a la página de descargas</a></strong></h2>  
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/goldeneye-007-colaboracion/">Ir a la página de descargas</a></strong></h2>  
 
 {% include gallery %}

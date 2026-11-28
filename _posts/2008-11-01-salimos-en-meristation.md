@@ -12,7 +12,7 @@ tags:
 - 'Personal'
 - 'Resident Evil: Director''s Cut'
 ---
-[Aunque de forma muy efímera.](http://www.meristation.com/pc/reportaje/regreso-al-pasado-los-padres-del-survival-horror/1602515?p=3) 
+[Aunque de forma muy efímera.](http://www.meristation.com/pc/reportaje/regreso-al-pasado-los-padres-del-survival-horror/1602515?p=3){:target="_blank"} 
 Si algo está haciendo la sección "Regreso al Pasado" (Ya que no somos los primeros, 
 anteriormente salió la traducción de Parasite Eve 1 de NeXuS) Es también darle un 
 reconocimiento a los aficionados que hemos hecho posible que ciertos juegos se puedan 

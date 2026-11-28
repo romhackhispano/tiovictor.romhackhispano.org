@@ -27,8 +27,8 @@ latino solo verá la luz en su versión NTSC-U. Actualmente estamos revisando lo
 Sin and Punishment y Policenauts están sin novedad.
 
 También quisiera mencionar la colaboración que he realizado con el canal de YouTube 
-[CensoredGaming](https://www.youtube.com/channel/UCFItIX8SIs4zqhJCHpbeV1A/videos) 
+[CensoredGaming](https://www.youtube.com/channel/UCFItIX8SIs4zqhJCHpbeV1A/videos){:target="_blank"} 
 para su vídeo sobre la lista de censuras realizadas en Shenmue II. Podéis verlo (en inglés) 
-[pulsando aquí](https://www.youtube.com/watch?v=lSa5V0q7JZU).
+[pulsando aquí](https://www.youtube.com/watch?v=lSa5V0q7JZU){:target="_blank"}.
 
 Cuando tenga tiempo haré una actualización como Dios manda. Seguiremos informando.

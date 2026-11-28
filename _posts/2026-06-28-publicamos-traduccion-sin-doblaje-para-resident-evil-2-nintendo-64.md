@@ -34,7 +34,7 @@ Dreamcast manipula las velocidades del juego para que, internamente, el juego va
 He tenido que hacer varias pruebas en emuladores y consola real y parece que ese es el caso y el motivo por el que los subtítulos acababan siempre antes de 
 tiempo, sin importar el modo elegido. Así que así queda cambiado hasta nuevo aviso.
 
-**Podéis acceder a los enlaces de los parches de Resident Evil 2 [en su página de proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/).**
+**Podéis acceder a los enlaces de los parches de Resident Evil 2 [en su página de proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/){:target="_blank"}.**
 
 Os recordamos que tenemos varios videotutoriales sobre cómo aplicar los parches **[en el canal de YouTube de Reviviendo en Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO/videos){:target="_blank"}**.
 

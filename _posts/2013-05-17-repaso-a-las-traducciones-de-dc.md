@@ -16,7 +16,7 @@ Bueno, este mes ha pasado para mí volando. Aparte de la larga revisión de text
 de Shenmue 2, llevada a cabo por gente ajena, han tenido lugar varias novedades 
 en las otras dos traducciones que he publicado en Dreamcast:
 
-- Para empezar, la parte común. El gran [PacoChan](http://pacochan.tales-tra.com/) 
+- Para empezar, la parte común. El gran [PacoChan](http://pacochan.tales-tra.com/){:target="_blank"} 
 ha estado actualizando el sistema de parcheo de juegos de Dreamcast, sobre todo 
 para hacerlo más a prueba de tontos. En concreto, de los tontos que intentaban meter 
 una imagen CDI, MDS o MDF. Ahora el parcheador reconocerá si se está indicando una 

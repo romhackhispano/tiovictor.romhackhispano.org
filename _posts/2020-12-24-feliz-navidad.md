@@ -15,6 +15,6 @@ Desde Traducciones del Tío Víctor y en nombre del equipo de fantraducción al 
 
 Espero poder dar noticias sobre P3FES muy, muy pronto.
 
-He aquí nuestro particular Chrismas (dibujado por [NakuFox](https://twitter.com/NakuFox)):
+He aquí nuestro particular Chrismas (dibujado por [NakuFox](https://twitter.com/NakuFox){:target="_blank"}):
 
 ![Felices Jiijoofiestas](/img/2020/12/jijo2.png) 

@@ -52,7 +52,7 @@ highfredo, kot7k, Dahk, Tyranitar 100, Darkneyra
 <h3 style="text-align: center;">VERSIÓN 2.0 DEL PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="http://www.mediafire.com/download/uaf86eom3986zk5/Parcheador_TWEWY_Final.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!BBtXRYrT!zXK4mZRZ76-CfcKuhhuIkhDtHaTgsDjFybipi8FDnvQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="http://www.mediafire.com/download/uaf86eom3986zk5/Parcheador_TWEWY_Final.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!BBtXRYrT!zXK4mZRZ76-CfcKuhhuIkhDtHaTgsDjFybipi8FDnvQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/the-world-ends-with-you/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 <h2 style="text-align: center;"><a href="/the-world-ends-with-you-version-en-castellano-2-0/"><strong>VOLVER</strong></a></h2>

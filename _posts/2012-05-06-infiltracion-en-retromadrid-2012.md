@@ -27,8 +27,8 @@ hecho el trabajo sucio! ¡JA, JA, JA, JA, JA!
 
 Ahora, en serio: Sí, Shenmue 1 estuvo oficialmente en RetroMadrid, y en el stand 
 nos encontramos los dos principales artífices de esta traducción: Ryo Suzuki, de 
-[SegaSaturno](http://www.segasaturno.com) (Y de pura potra) y un servidor de ustedes. 
-Por supuesto, también estuvieron los responsables de [Dreamcast.es](http://www.dreamcast.es), 
+[SegaSaturno](http://www.segasaturno.com){:target="_blank"} (Y de pura potra) y un servidor de ustedes. 
+Por supuesto, también estuvieron los responsables de [Dreamcast.es](http://www.dreamcast.es){:target="_blank"}, 
 como son Indiket, Neoblast y Chui.
 
 En los próximos días, en la vasta inmensidad de Internérl, deberían empezar a salir 

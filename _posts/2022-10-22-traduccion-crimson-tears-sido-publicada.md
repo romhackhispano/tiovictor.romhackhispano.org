@@ -27,7 +27,7 @@ La modificación de mayor importancia de este proyecto ha sido la edición del v
 la ayuda de **NakuFox** para reconstruir un fragmento de una de las escenas donde aparecen rótulos con texto. El resto de escenas se han 
 podido limpiar con los efectos automáticos de After Effects y con modificaciones simples en Photoshop.
 
-Podéis encontrar el parche **[la sección de descargas del proyecto](https://tiovictor.romhackhispano.org/crimson-tears/descargar/)** o **[la ficha de TraduSquare](https://tradusquare.es/proyectos/crimson-tears/)**.
+Podéis encontrar el parche **[la sección de descargas del proyecto](https://tiovictor.romhackhispano.org/crimson-tears/descargar/)** o **[la ficha de TraduSquare](https://tradusquare.es/proyectos/crimson-tears/){:target="_blank"}**.
 
 **Por otro lado, he actualizado el parche de revisión de textos de Silent Hill 2 a la versión 1.0.3** con unos cambios muy menores, la verdad: 
 había que abreviar las acciones del menú de las opciones de control para que entraran en una pantalla de 4:3. Eran unos textos diferentes a los 

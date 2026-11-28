@@ -9,6 +9,6 @@ tags:
 - 'Shenmue'
 ---
 Lamento que el sonido suena distorsionado, pero poco más se puede hacer con el equipo 
-de los grandes de [FaseBonus](http://www.fasebonus.net).
+de los grandes de [FaseBonus](http://www.fasebonus.net){:target="_blank"}.
 
 **VÍDEO ELIMINADO POR YOUTUBE**

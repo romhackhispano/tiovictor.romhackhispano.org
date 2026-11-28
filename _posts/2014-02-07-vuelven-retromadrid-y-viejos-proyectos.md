@@ -24,9 +24,9 @@ tags:
 - 'RetroMadrid'
 - 'RetroMadrid 2014'
 ---
-Sí, vuelve [la feria retro por excelencia](http://www.retromadrid.org/) 
+Sí, vuelve [la feria retro por excelencia](http://www.retromadrid.org/){:target="_blank"} 
 de la capital de España, este año tendrá lugar  los días 26 y 27 de abril, 
-y por supuesto, SegaSaturno.com, [Dreamcast.es](http://www.dreamcast.es) 
+y por supuesto, SegaSaturno.com, [Dreamcast.es](http://www.dreamcast.es){:target="_blank"} 
 y un servidor de ustedes estarán allí, exponiendo los proyectos más frikis 
 de la Internet. Yo, por supuesto, llevaré las últimas versiones de mis traducciones 
 para que puedan ser probadas (Sólo el sábado).

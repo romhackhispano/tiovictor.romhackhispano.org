@@ -36,7 +36,7 @@ cookies como no persistentes (se eliminan cuando el navegador se cierra); permit
 cookies para un dominio diferente. Además, los navegadores pueden también permitir a los usuarios ver 
 y borrar cookies individualmente.
 
-Dispone de más información sobre las Cookies en: http://es.wikipedia.org/wiki/Cookie
+Dispone de más información sobre las Cookies en: [http://es.wikipedia.org/wiki/Cookie](http://es.wikipedia.org/wiki/Cookie){:target="_blank"}
 
 **Web Beacons**
 
@@ -46,7 +46,7 @@ de las páginas web de un sitio. Los Web beacons sirven y se utilizan de una for
 Además, los web beacons suelen utilizarse para medir el tráfico de usuarios que visitan una página web y 
 poder sacar un patrón de los usuarios de un sitio.
 
-Dispone de más información sobre los web beacons en: http://es.wikipedia.org/wiki/Web_bug
+Dispone de más información sobre los web beacons en: [http://es.wikipedia.org/wiki/Web_bug](http://es.wikipedia.org/wiki/Web_bug){:target="_blank"}
 
 **Terceros**
 
@@ -60,11 +60,9 @@ lo que sucede en nuestras páginas. Actualmente utilizamos las siguientes soluci
 tráfico de este sitio. Puede ver más información sobre la política de privacidad de cada una de las soluciones 
 utilizadas para tal efecto:
 
-_Google (Analytics)_: http://www.google.com/intl/es_ALL/privacypolicy.html
+_Google (Analytics)_: [http://www.google.com/intl/es_ALL/privacypolicy.html](http://www.google.com/intl/es_ALL/privacypolicy.html){:target="_blank"}
 
-<small>(<a href="http://www.online.com.es/2956/internet/politica-de-privacidad-adaptada-a-adsense/">Política de Privacidad</a> bajo licencia CC)</small>
+<small>(<a href="http://www.online.com.es/2956/internet/politica-de-privacidad-adaptada-a-adsense/" target="_blank">Política de Privacidad</a> bajo licencia CC)</small>
 
-_(Esto texto legal está basado en el [escrito por Rubén Colomer](http://www.online.com.es/2956/internet/politica-de-privacidad-adaptada-a-adsense/) compartido 
-bajo licencia [CC](http://creativecommons.org/licenses/by-sa/2.0/deed.es))_
-
-
+_(Este texto legal está basado en el [escrito por Rubén Colomer](http://www.online.com.es/2956/internet/politica-de-privacidad-adaptada-a-adsense/){:target="_blank"} compartido 
+bajo licencia [CC](http://creativecommons.org/licenses/by-sa/2.0/deed.es){:target="_blank"})_

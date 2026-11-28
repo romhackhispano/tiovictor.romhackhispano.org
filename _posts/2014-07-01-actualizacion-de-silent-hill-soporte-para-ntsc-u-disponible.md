@@ -23,6 +23,6 @@ para meter todas las minúsculas con tilde y los caracteres para abrir exclamaci
 Así que tras unos retoques en los textos para que entraran ciertas cosas, aquí tenéis la versión 
 para los que quieran jugar al otro lado del charco, sin las limitaciones de la versión PAL.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir 
-a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir a la página de descargas</a></strong></h2>
+
 Seguiremos informando.

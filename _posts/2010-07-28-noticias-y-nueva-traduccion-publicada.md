@@ -26,7 +26,7 @@ Volviendo a mis traducciones más duraderas, Project Zero 4 ha sacado fecha de
 lanzamiento del parche de traducción: el 31 de Julio. Este viernes. Además, 
 para los quejicas y los impacientes, que sepáis que ésta traducción ha mejorado 
 muchísimo la parte técnica respecto a la versión inglesa, como siempre, tenéis la 
-lista de cambios en <a href="http://www.projectsae.es" target="_blank">Project Sae</a>.
+lista de cambios en [Project Sae](http://www.projectsae.es/sae.php){:target="_blank"}.
 
 Y ahora, las buenas noticias: En Resident Evil 2 para DC se han terminado 
 prácticamente todas las tareas técnicas para traducir éste juego, así que lo 

@@ -28,10 +28,10 @@ FFMpeg, Muzzleflash, bITmASTER
 Rais David Báscones, Paqui Horcajo, Jorge Teixeira, Carlos Salamanca, Javier Gámir y 
 Antonio Cobos.
 
-<h3 style="text-align: center;">VERSIÓN 1.0.2 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/glno8e4enmadrbe/AloneInTheDark4Espa%F1olDreamcast102.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!IJlkiQaY!LJgIMMhaPaGfK5_OwplBfUk6cdgHv6CviKXLEDDk-08" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/glno8e4enmadrbe/AloneInTheDark4Espa%F1olDreamcast102.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!IJlkiQaY!LJgIMMhaPaGfK5_OwplBfUk6cdgHv6CviKXLEDDk-08" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/aitd-nightmare/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 <h1 style="text-align: center;"><strong><a href="/alone-in-the-dark-dc/">VOLVER</a></strong></h1>

@@ -72,9 +72,9 @@ esté solventado, publicaremos dicho pack.
 También estamos a la espera de ver qué se trae Gemini entre manos, pues ha estado anunciando en Twitter/X una nueva versión del Classic ReBIRTH para Resident Evil 1 
 con un montón de novedades y queremos ver si van a afectar a nuestros parches de alguna manera.
 
-**Podéis acceder a los enlaces de los parches de Resident Evil 2 [en su página de proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/).**
+**Podéis acceder a los enlaces de los parches de Resident Evil 2 [en su página de proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/){:target="_blank"}.**
 
-**Podéis acceder a los enlaces de los parches de Resident Evil 3: Nemesis [en su página de proyecto](https://tiovictor.romhackhispano.org/resident-evil-3-nemesis/) o en [si página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-3-nemesis/).**
+**Podéis acceder a los enlaces de los parches de Resident Evil 3: Nemesis [en su página de proyecto](https://tiovictor.romhackhispano.org/resident-evil-3-nemesis/) o en [si página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-3-nemesis/){:target="_blank"}.**
 
 Os recordamos que tenemos varios videotutoriales sobre cómo aplicar los parches **[en el canal de YouTube de Reviviendo en Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO/videos){:target="_blank"}**.
 

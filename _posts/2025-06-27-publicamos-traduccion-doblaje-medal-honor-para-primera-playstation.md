@@ -71,7 +71,7 @@ distinguirlos y que os guste el resultado.
 Como siempre, los parches están pensados para las ediciones europeas en inglés. Tal vez las convierta a las versiones estadounidenses, 
 pero ahora mismo no doy más de sí.
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/medal-of-honor-psx/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/medal-of-honor-y-underground/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/medal-of-honor-psx/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/medal-of-honor-y-underground/){:target="_blank"}.**
 
 Aquí tenéis unas capturitas del resultado: 
 
@@ -81,6 +81,6 @@ Por otro lado, **ayer tuvimos un directo muy interesante y jugoso en Hobby Conso
 y un servidor por Traducciones del Tío Víctor**. En él tuvimos buena charla y anunciamos una serie de cosas... **como el proyecto de retraducción y 
 doblaje de Resident Evil 3: Nemesis**. Sí, sí, cerramos la trilogía que salió originalmente en PlayStation.
 
-Podéis ver el directo entero en el **[canal de YouTube de Hobby Consolas, pulsando aquí](https://www.youtube.com/watch?v=oPWevABBIBE)**.
+Podéis ver el directo entero en el **[canal de YouTube de Hobby Consolas, pulsando aquí](https://www.youtube.com/watch?v=oPWevABBIBE){:target="_blank"}**.
 
 ¡Seguiremos informando!

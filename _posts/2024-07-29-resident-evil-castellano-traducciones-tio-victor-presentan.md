@@ -22,15 +22,15 @@ La calidad del doblaje es, sencillamente, impresionante. Para muestra, un botón
 
 {% include video id="VBGM-vjXDBc" provider="youtube" %}
 
-Podéis ver el resto de vídeos **[en la cuenta de YouTube oficial del proyecto](https://www.youtube.com/@RESIDENTEVILCASTELLANO?cbrd=1)**, y hasta 
-**[un adelanto especial currado por Daniel Quesada, de la revista Hobby Consolas](https://www.youtube.com/watch?v=pS0q9trbpaE)**.
+Podéis ver el resto de vídeos **[en la cuenta de YouTube oficial del proyecto](https://www.youtube.com/@RESIDENTEVILCASTELLANO?cbrd=1){:target="_blank"}**, y hasta 
+**[un adelanto especial currado por Daniel Quesada, de la revista Hobby Consolas](https://www.youtube.com/watch?v=pS0q9trbpaE){:target="_blank"}**.
 
 Sinceramente, **este doblaje llevaba cocinándose desde, por lo menos, diez años**, pero no es un doblaje dirigido por mí, ya que sigo teniendo la 
 vista puesta en Policenauts. En pocas palabras, he ido preparándolo todo para Salvi Garrido, el principal interesado de este proyecto y un viejo conocido 
 mío de otros proyectos. **Toda la fase del doblaje comenzó allá por mayo de este año,** cuando Salvi decidió liarse la manta a la cabeza, **terminando 
 las grabaciones en apenas dos-tres semanas.**
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/).** **O, si queréis saber más sobre cómo se llevó a cabo, seguir leyendo.**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/){:target="_blank"}.** **O, si queréis saber más sobre cómo se llevó a cabo, seguir leyendo.**
 
 <!--more-->
 

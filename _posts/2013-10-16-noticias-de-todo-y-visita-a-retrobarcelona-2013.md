@@ -40,7 +40,7 @@ Ahora, la parte física:
 
 Este año, a Asupiva le ha dado por montar su primera feria Retro en territorio catalán. 
 Que ya iba siendo hora. **Del 8 al 10 de Noviembre, en el Disseny Hub de Barcelona, 
-tendrá lugar [RetroBarcelona 2013](http://retrobarcelona.wordpress.com/).** Así que, 
+tendrá lugar [RetroBarcelona 2013](http://retrobarcelona.wordpress.com/){:target="_blank"}.** Así que, 
 al igual que en los dos últimos RetroMadrid, el grupo Dreamcast.es - SegaSaturno.com - 
 TTV se presentará allí con las últimas novedades de la escena Seguera. Yo personalmente 
 estaré con una nueva beta de Shenmue II y de Policenauts, entre otras sorpresitas.

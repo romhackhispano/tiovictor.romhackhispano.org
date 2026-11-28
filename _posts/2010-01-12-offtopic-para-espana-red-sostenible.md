@@ -36,10 +36,11 @@ incluso la necesidad de modificar al menos 4 leyes, una de ellas orgánica.
 Esto conlleva un cambio radical en el sistema jurídico y una fuente de inseguridad 
 para el sector de las TIC (Tecnología de la Información y la Comunicación). 
 Recordamos, en este sentido, que el intercambio de conocimiento y cultura en 
-la red es un <a href="http://noticias.lainformacion.com/economia-negocios-y-finanzas/redes/los-usuarios-que-descargan-archivos-p2p-gastan-mas-dinero_Fo58z3eGxWsRG0NKpjhCE7/" target="_blank"> motor económico</a> 
-importante para <a href="http://noticias.lainformacion.com/arte-cultura-y-espectaculos/cine/el-cine-espanol-cerrara-con-cifras-record-a-pesar-de-internet_uVFrhCBCXhYPTF51YCG3a7/" target="_blank">salir de la crisis</a> 
-como se ha <a href="http://www.theinquirer.es/2009/11/17/lo-que-las-discograficas-ocultan.html" target="_blank">demostrado</a> 
-<a href="http://www.elmundo.es/elmundo/2009/11/20/cultura/1258739927.html" target="_blank">ampliamente.</a>
+la red es un 
+[motor económico](http://noticias.lainformacion.com/economia-negocios-y-finanzas/redes/los-usuarios-que-descargan-archivos-p2p-gastan-mas-dinero_Fo58z3eGxWsRG0NKpjhCE7/){:target="_blank"} 
+importante para [salir de la crisis](http://noticias.lainformacion.com/arte-cultura-y-espectaculos/cine/el-cine-espanol-cerrara-con-cifras-record-a-pesar-de-internet_uVFrhCBCXhYPTF51YCG3a7/){:target="_blank"} 
+como se ha [demostrado](http://www.theinquirer.es/2009/11/17/lo-que-las-discograficas-ocultan.html){:target="_blank"} 
+[ampliamente.](http://www.elmundo.es/elmundo/2009/11/20/cultura/1258739927.html){:target="_blank"} 
 
 4 - Los mecanismos preventivos urgentes de los que dispone la ley y la judicatura 
 son para proteger a toda ciudadanía frente a riesgos tan graves como los que afectan 
@@ -50,7 +51,7 @@ pueden cerrrar el blog porque "promociono" a uno que "promociona" a otro que lin
 a un tercero que hace negocios presuntamente ilícitos
 
 5 - Recordamos que la propiedad intelectual 
-<a href="http://derechoynormas.blogspot.com/2010/01/la-ley-de-ejecucion-por-la-sospecha.html" target="_blank">no es un derecho fundamental</a> 
+[no es un derecho fundamental](http://derechoynormas.blogspot.com/2010/01/la-ley-de-ejecucion-por-la-sospecha.html){:target="_blank"} 
 contrariamente a las declaraciones del Ministro de Justicia, Francisco Caamaño. 
 Lo que es un derecho fundamental es el derecho a la producción literaria y artística.
 
@@ -75,8 +76,9 @@ La ciudadanía no puede permitir de ninguna manera que sigan los intentos de vul
 derechos fundamentales de las personas, sin la debida tutela judicial efectiva, para 
 proteger derechos de menor rango como la propiedad intelectual. Dicha circunstancia 
 ya fué aclarada con el dictado de inconstitucionalidad de la ley Corcuera (o ley de 
-patada en la puerta). <a href="http://www.facebook.com/group.php?gid=186879394498" target="_blank">El 
-Manifiesto en defensa de los derechos fundamentales en Internet</a>, respaldado por 
+patada en la puerta). 
+[El Manifiesto en defensa de los derechos fundamentales en Internet](http://www.facebook.com/group.php?gid=186879394498){:target="_blank"}, 
+respaldado por 
 más de 200 000 personas, ya avanzó la reacción y demandas de la ciudadanía antes la 
 perspectiva inaceptable del gobierno.
 
@@ -87,10 +89,10 @@ garantizar una regulación del entorno digital que permita expresar todo el pote
 de la Red y de la creación cultural respetando las libertades fundamentales.
 
 En este sentido, reconocemos como referencia para el desarrollo de la era digital, la 
-<a href="http://fcforum.net/es/" target="_blank">Carta para la innovación, la creatividad 
-y el acceso al conocimiento</a>, un documento de síntesis elaborado por más de 
-<a href="http://fcforum.net/es/charter_extended#signatories" target="_blank">100 expertos 
-de 20 países</a> que recoge los principios legales fundamentales que deben inspirar este 
+[Carta para la innovación, la creatividad y el acceso al conocimiento](http://fcforum.net/es/){:target="_blank"}, 
+un documento de síntesis elaborado por más de 
+[100 expertos de 20 países](http://fcforum.net/es/charter_extended#signatories){:target="_blank"} 
+que recoge los principios legales fundamentales que deben inspirar este 
 nuevo horizonte.
 
 En particular, consideramos que en estos momentos es especialmente urgentes la 
@@ -98,35 +100,36 @@ implementación por parte de gobiernos e instituciones competentes, de los sigui
 aspectos recogidos en la Carta:
 
 1 - Las/os artistas como todos los trabajadores tienen que poder vivir de su trabajo 
-(referencia punto 2 "<a href="http://fcforum.net/es/charter_extended#legal" target="_blank">Demandas legales</a>", 
+(referencia punto 2 "[Demandas legales](http://fcforum.net/es/charter_extended#legal){:target="_blank"}", 
 párrafo B. "Estímulo de la creatividad y la innovación", de la 
-<a href="http://fcforum.net/es/charter_extended" target="_blank">Carta</a>);
+[Carta](http://fcforum.net/es/charter_extended){:target="_blank"});
 
 2 - La sociedad necesita para su desarrollo de una red abierta y libre 
-(referencia punto 2 "<a href="http://fcforum.net/es/charter_extended#legal" target="_blank">Demandas legales</a>", 
+(referencia punto 2 "[Demandas legales](http://fcforum.net/es/charter_extended#legal){:target="_blank"}", 
 párrafo D "Acceso a las infraestructuras tecnológicas", de la 
-<a href="http://fcforum.net/es/charter_extended" target="_blank">Carta</a>);
+[Carta](http://fcforum.net/es/charter_extended){:target="_blank"});
 
 3 - El derecho a cita y el derecho a compartir tienen que ser potenciado y no limitado 
 como fundamento de toda posibilidad de información y constitutivo de todo conocimiento 
-(referencia punto 2 "<a href="http://fcforum.net/es/charter_extended#legal" target="_blank">Demandas legales</a>", 
+(referencia punto 2 "[Demandas legales](http://fcforum.net/es/charter_extended#legal){:target="_blank"}", 
 párrafo A "Derechos en un contexto digital", de la 
-<a href="http://fcforum.net/es/charter_extended" target="_blank">Carta</a>);
+[Carta](http://fcforum.net/es/charter_extended){:target="_blank"});
 
 4 - La ciudadanía debe poder disfrutar libremente de los derechos exclusivos de los 
 bienes públicos que se pagan con su dinero, con el dinero publico (referencia punto 2 
-"<a href="http://fcforum.net/es/charter_extended#legal" target="_blank">Demandas legales</a>", 
+"[Demandas legales](http://fcforum.net/es/charter_extended#legal){:target="_blank"}", 
 párrafo C "Conocimiento común y dominio público", de la 
-<a href="http://fcforum.net/es/charter_extended" target="_blank">Carta</a>);
+[Carta](http://fcforum.net/es/charter_extended){:target="_blank"});
 
 5 -Consideramos necesaria una reforma en profundidad del sistema de las entidades 
 de gestión y la abolición del canon digital (referencia punto 2 
-"<a href="http://fcforum.net/es/charter_extended#legal" target="_blank">Demandas legales</a>", 
+"[Demandas legales](http://fcforum.net/es/charter_extended#legal){:target="_blank"}", 
 párrafo B. "Estímulo de la creatividad y la innovación", de la 
-<a href="http://fcforum.net/es/charter_extended" target="_blank">Carta</a>).
+[Carta](http://fcforum.net/es/charter_extended){:target="_blank"}).
 
-Por todo ello hoy se inicia la campaña <a href="http://internetnoseraotratv.net/" target="_blank">INTERNET 
-NO SERA OTRA TELE</a> y se llevarán a cabo diversas acciones ciudadanas durante todo el periodo de la presidencia española de la UE.
+Por todo ello hoy se inicia la campaña 
+[INTERNET NO SERA OTRA TELE](http://internetnoseraotratv.net/){:target="_blank"} 
+y se llevarán a cabo diversas acciones ciudadanas durante todo el periodo de la presidencia española de la UE.
 
 Consideramos particularmente importantes en el calendario de la presidencia de turno 
 española el II Congreso de Economía de la Cultura (29 y 30 de marzo en Barcelona), 
@@ -138,9 +141,9 @@ partidos políticos, representantes de la cultura y legaciones diplomáticas.
 
 Firmado Red SOStenible
 
-<a href="http://red-sostenible.net/" target="_blank">http://Red-SOStenible.net</a>
+[http://Red-SOStenible.net](http://red-sostenible.net/){:target="_blank"}
 
-<a href="http://red-sostenible.net/colabora/" target="_blank">http://Red-SOStenible.net/colabora/</a>
+[http://Red-SOStenible.net/colabora/](http://red-sostenible.net/colabora/){:target="_blank"}
 
 La Red Sostenible somos todos. Si quieres adherirte a este texto, cópialo, blogguéalo, difúndelo.
 

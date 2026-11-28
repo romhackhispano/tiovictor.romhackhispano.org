@@ -148,7 +148,7 @@ solo tienes que indicarle al parcheador dónde se encuentra la carpeta
  - **Tener una PlayStation Vita con Custom Firmware.**
  - **Tener instalado el plugin rePatch. Recomendamos (en 2023) utilizar la 
    versión rePatch-reLoaded, que se encuentra disponible en:**
-   [https://github.com/SonicMastr/rePatch-reLoaded](https://github.com/SonicMastr/rePatch-reLoaded)
+   [https://github.com/SonicMastr/rePatch-reLoaded](https://github.com/SonicMastr/rePatch-reLoaded){:target="_blank"}
  - **Tener instalado el programa VitaShell en su versión más reciente.**
  - **Tener una copia del juego en su versión europea (código de producto 
    PCSB00898) o americana (código de producto PCSE00812) ya instaladas en 

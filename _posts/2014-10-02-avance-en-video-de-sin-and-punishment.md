@@ -10,6 +10,6 @@ tags:
 ---
 Como comenté hace dos noticias, aquí tenéis el aperitivo visible (Y, sobre todo, audible) 
 del proyecto de traducción y doblaje de **Sin and Punishment: Successor of the Earth** para 
-Nintendo 64, en colaboración con [Estudios G3S](http://www.estudiosg3s.com).
+Nintendo 64, en colaboración con [Estudios G3S](http://www.estudiosg3s.com){:target="_blank"}.
 
 {% include video id="IrQ-IXmQInc" provider="youtube" %}

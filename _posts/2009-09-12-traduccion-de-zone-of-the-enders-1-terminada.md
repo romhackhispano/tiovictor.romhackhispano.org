@@ -16,7 +16,7 @@ Por lo tanto, con esto y corrigiendo algunas chapuzas de los menús de la versi�
 PAL, doy por terminada la traducción del juego. Todos los textos traducibles están 
 traducidos, y todos los gráficos que he visto que debía editar también.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/zone-of-the-enders/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/zone-of-the-enders/">Ir a la página de descargas</a></strong></h2>
 
 Necesitaréis una imagen sin traducir del juego para aplicar el parche, no me hago 
 responsable de lo que les pase a las imágenes traducidas con la versión 0.99 si 

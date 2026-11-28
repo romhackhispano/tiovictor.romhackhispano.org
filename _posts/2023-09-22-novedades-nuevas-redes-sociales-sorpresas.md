@@ -49,14 +49,14 @@ mis esfuerzos a terminar Policenauts de una vez por todas. Si aparece algún pro
 como ha sido este caso, me plantearé la idea de meterme con él. Por ejemplo, es posible que haya una actualización futura del Sołtys para traducir 
 los pocos gráficos que queden pendientes, pues hay un nuevo intento de traducción a otro idioma que se está molestando en hacer un editor de gráficos.
 
-También sigo teniendo colaboraciones menores en proyectos de otros compañeros de romhacking, como son [Boku no Natsuyami Portable, dirigido por GriffithVIII](https://tradusquare.es/proyectos/boku-no-natsuyasumi/) o [Moonlight Syndrome, del grupo Lunatics](https://tradusquare.es/proyectos/moonlight-syndrome/).
+También sigo teniendo colaboraciones menores en proyectos de otros compañeros de romhacking, como son [Boku no Natsuyami Portable, dirigido por GriffithVIII](https://tradusquare.es/proyectos/boku-no-natsuyasumi/){:target="_blank"} o [Moonlight Syndrome, del grupo Lunatics](https://tradusquare.es/proyectos/moonlight-syndrome/){:target="_blank"}.
 
 Eso sí, os ruego que no toméis la intervención de Kitchen34 como una oportunidad para pedirme proyectos: **lo suyo ha sido una excepción, una anomalía.**
 
 Para terminar, **en vista de lo turbulenta que se está volviendo Twitter/X, he decidido diversificar mis redes sociales un poco, abriéndome sendas cuentas 
 en Mastodon y BlueSky.**
 
-**Podéis encontrarme en Mastodon en la instancia de TKZ.one, con el usuario [IlDucci](https://tkz.one/@IlDucci), y en BlueSky con el usuario [vgfilducci](https://bsky.app/profile/vgfilducci.bsky.social).**
+**Podéis encontrarme en Mastodon en la instancia de TKZ.one, con el usuario [IlDucci](https://tkz.one/@IlDucci){:target="_blank"}, y en BlueSky con el usuario [vgfilducci](https://bsky.app/profile/vgfilducci.bsky.social){:target="_blank"}.**
 
 Y eso es todo. Seguiremos informando.
 

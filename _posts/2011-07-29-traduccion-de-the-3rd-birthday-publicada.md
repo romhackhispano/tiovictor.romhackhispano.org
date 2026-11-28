@@ -23,12 +23,11 @@ Akareh, Axxel, y un servidor, con la colaboración de Vash, Phoenix y Joghi, de
 la comunidad de romhacking italiano.
 
 Debido a cambios de última hora, este parche se alojará aquí, en mi web. Como 
-siempre, [podéis descargároslo pulsando en este 
-enlace](http://tiovictor.romhackhispano.org/?page_id=259&amp;did=15), y si queréis 
-soporte técnico, pasaros por el [post oficial en los foros de 
-ElOtroLado.net](http://www.elotrolado.net/hilo_traducci-n-parasite-eve-the-3rd-birthday_1608975). 
+siempre, [podéis descargároslo pulsando en este enlace](https://tiovictor.romhackhispano.org/the-3rd-birthday/), 
+y si queréis soporte técnico, pasaros por el 
+[post oficial en los foros de ElOtroLado.net](http://www.elotrolado.net/hilo_traducci-n-parasite-eve-the-3rd-birthday_1608975){:target="_blank"}. 
 Disfrutadla.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/the-3rd-birthday/">Ir a la página de descargas</a></strong></h2><br />
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/the-3rd-birthday/">Ir a la página de descargas</a></strong></h2><br />
 
 {% include video id="oH_8NQhil8s" provider="youtube" %}

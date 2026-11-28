@@ -14,10 +14,10 @@ _- Revisión lingüística:_ Retroductor
 
 _Utiliza herramientas de RedComet, Klarth, CUE, Michael Sabin y MeganGrass._
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/lq9dppio523eckf/FearEffect2ESP-IlDucci-V10.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/JNVkETyZ#QwupQHy9rzpNi9VP6zzx9OmCZM1Y_FhR2nmJgpPrpUM" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/lq9dppio523eckf/FearEffect2ESP-IlDucci-V10.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/JNVkETyZ#QwupQHy9rzpNi9VP6zzx9OmCZM1Y_FhR2nmJgpPrpUM" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/fear-effect-2/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

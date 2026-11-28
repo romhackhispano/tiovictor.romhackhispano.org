@@ -16,8 +16,8 @@ situación actual.
 Empecemos con lo más inmediato: Hemos actualizado el parche de What's Shenmue a la versión 
 1.0.3.
 
-<h1 style="text-align: center;"><strong><a href="http://www.mediafire.com/download/2pi5t865aft8g50/WhatsShenmue103.7z" target="_blank">DESCARGAR 
-WHAT'S SHENMUE V1.0.3</a></strong></h1>  
+**Podéis acceder a los enlaces de los parches de What's Shenmue [en su página de proyecto](https://tiovictor.romhackhispano.org/whats-shenmue/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/whats-shenmue/{:target="_blank"}.**
+
 Esta es la lista de cambios:
 
 -Cambios en los paseantes en los tres idiomas. Gracias a StuntmanSnake por el aviso.  

@@ -20,7 +20,7 @@ traducción al castellano, y así lo confirmo. SaturnAR aún tiene que ponerse m
 que hemos dejado a un lado temporalmente para publicar el parche inglés. Pero el progreso debería reanudar 
 pronto.
 
-El parche y el soporte técnico se realizarán en los foros del equipo inglés, <strong><a href="http://forums.junkerhq.net/viewforum.php?f=2">Junker HQ</a></strong>.
+El parche y el soporte técnico se realizarán en los foros del equipo inglés, **[Junker HQ](http://forums.junkerhq.net/viewforum.php?f=2){:target="_blank"}**.
 
 _**Programación:**_  
 GameZelda, FacundoARG, SaturnAR, Raizing, SkyBladeCloud

@@ -30,8 +30,7 @@ Y poco a poco me voy quitando otros proyectos "pequeños" para poder dedicarle m
 tiempo a los proyectos grandes. Hoy es el turno de cerrar la revisión (Ahora más bien 
 retraducción) de **Silent Hill para PlayStation**.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir 
-a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/silent-hill-1/descargar/">Ir a la página de descargas</a></strong></h2>
 
 Con esta versión doy por cerrado (A menos que surjan fallos nuevos) este proyecto de 
 una vez por todas.  
@@ -52,6 +51,6 @@ traducción de calidad y en perfecto castellano.
 {% include gallery id="gallery2" %}
 
 Si queréis saber más sobre los cambios que han tenido lugar y las personas implicadas, pasaros por 
-[la nueva página del proyecto](http://tiovictor.romhackhispano.org/silent-hill-1/).
+[la nueva página del proyecto](https://tiovictor.romhackhispano.org/silent-hill-1/).
 
 Disfrutadla.

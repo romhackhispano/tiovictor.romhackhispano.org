@@ -26,9 +26,9 @@ Revisión de la versión 2.0: IlDucci
 Doblaje: VGF  
 Caligrafía de la carta: ConanCimmerio
 
-<h3 style="text-align: center;">VERSIÓN 2.0 DEL PARCHE PARA PLAYSTATION:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN PARA PLAYSTATION:</h3>
 <center>
-<a href="http://www.mediafire.com/download/a5oyc59071gad2e/CTTFF-ES-20.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!8YNwHDzS!Gup-x87OVLNn4Vonx0fZ18CWQCBMVii8_ALnWUynrHg" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="http://www.mediafire.com/download/a5oyc59071gad2e/CTTFF-ES-20.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!8YNwHDzS!Gup-x87OVLNn4Vonx0fZ18CWQCBMVii8_ALnWUynrHg" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/clock-tower/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**CRÉDITOS DE LA VERSIÓN PARA SUPER NINTENDO:**_
@@ -46,9 +46,9 @@ Utiliza herramientas de RedComet y Klarth.
 
 **AVISO: REQUIRE UNA ROM CON EL PARCHE DE AEON GENESIS YA APLICADO.**
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE PARA SUPER NINTENDO:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN PARA SUPER NINTENDO:</h3>
 <center>
-<a href="https://www.mediafire.com/file/9dubl8n6ltotcyx/CTSNES-ESP-10BETA.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/1AdAyLyI#uWo61feorYp66V1IT1gksLoKME_feaa8RDk0JdrVpuQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/9dubl8n6ltotcyx/CTSNES-ESP-10BETA.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/1AdAyLyI#uWo61feorYp66V1IT1gksLoKME_feaa8RDk0JdrVpuQ" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/clock-tower/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

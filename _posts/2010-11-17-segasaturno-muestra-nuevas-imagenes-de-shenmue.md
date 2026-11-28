@@ -19,5 +19,4 @@ Aún queda bastante por traducir, pues en ambos la acción en Dobuita/Sakuragaok
 tiene también su ración. Por mi parte, también he terminado con los gráficos 
 del juego que faltaban, y estoy terminando el testeo de las cutscenes del disco 3.
 
-Para ver las fotos y la información que ha comentado Ryo Suzuki, [pulsad en este 
-enlace](http://www.segasaturno.com/portal/viewtopic.php?f=19&amp;t=5164&amp;highlight=).
+Para ver las fotos y la información que ha comentado Ryo Suzuki, [pulsad en este enlace](http://www.segasaturno.com/portal/viewtopic.php?f=19&amp;t=5164&amp;highlight=){:target="_blank"}.

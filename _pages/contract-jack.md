@@ -23,10 +23,11 @@ gallery:
  - url: /img/2007/04/vlcsnap-2012-12-21-12h46m10s65.jpg
    image_path: /img/2007/04/vlcsnap-2012-12-21-12h46m10s65.jpg
 ---
-Traducción al castellano de Contract J.A.C.K., juego basado en el motor e historia de No One Lives Forever 2, para ordenador. Traducción terminada el 24 de febrero de 2005.
+Traducción al castellano de Contract J.A.C.K., juego basado en el motor e historia de No One Lives Forever 2, para ordenador. Traducción terminada el 24 de febrero de 2005. Revisada y republicada el 24 de diciembre de 2012.
 
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 <center>
-<a href="http://www.mediafire.com/download/fncxldie1cy6fo9/ContractJACK-ESv15.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!UAFTTaRS!OAxadwYqm2dmm48yWAmxLa51hXqWc6nMLfqCVLNBNeo" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="http://www.mediafire.com/download/fncxldie1cy6fo9/ContractJACK-ESv15.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!UAFTTaRS!OAxadwYqm2dmm48yWAmxLa51hXqWc6nMLfqCVLNBNeo" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/contract-jack/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 Instrucciones de uso: copiar los contenidos del rar en la carpeta donde esté instalado el juego. Sobreescribir si pregunta.

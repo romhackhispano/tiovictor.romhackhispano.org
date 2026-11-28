@@ -14,7 +14,7 @@ Bien, señores, creo que el Team Extraction, el equipo que ha estado el último
 medio año liado con esta traducción, ha podido por fin cumplir con su labor. 
 Hoy publicamos la traducción no-oficial de Dead Space Extraction.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/dead-space-extraction/">Ir a la página de descargas</a></strong></h2><br />
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/dead-space-extraction/">Ir a la página de descargas</a></strong></h2><br />
 
 La versión 1.0 sólo se ha probado con la versión PAL del juego, no hemos tocado 
 la versión NTSC, y no sabemos si es compatible. Los usuarios NTSC podéis probar 

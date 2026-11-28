@@ -25,12 +25,9 @@ El porcentaje general de Shenmue II pasa a ser del **40%**. También aprovecho p
 anunciar que el parcheador final incluirá, además del doblaje en Castellano y Español 
 Latino de la introducción del juego, **el doblaje del Shenmue Digest Movie**, el resumen 
 de 15 minutos del primer Shenmue (Para los que no lo conozcáis, 
-<a title="Enlace al fandub del Shenmue I Digest 
-Movie" href="http://www.youtube.com/watch?v=RdVN5rz6a_Q" target="_blank">podéis verlo haciendo 
-clic en este enlace</a>) y, en el caso de las voces en Japonés, **la voz machorra original de Yuan**, 
-<a title="Comparación de doblajes de Yuan en Shenmue 
-II" href="http://www.youtube.com/watch?v=Mm2QUICTTyM" target="_blank">la que existía 
-en el doblaje Japonés original</a>.
+<a title="Enlace al fandub del Shenmue I Digest Movie" href="http://www.youtube.com/watch?v=RdVN5rz6a_Q" target="_blank">podéis verlo haciendo clic en este enlace</a>) 
+y, en el caso de las voces en Japonés, **la voz machorra original de Yuan**, 
+<a title="Comparación de doblajes de Yuan en Shenmue II" href="http://www.youtube.com/watch?v=Mm2QUICTTyM" target="_blank">la que existía en el doblaje Japonés original</a>.
 
 Todo esto, por supuesto, será opcional y podrá incorporarse o no a las imágenes del 
 juego creadas.

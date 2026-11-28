@@ -17,10 +17,10 @@ comments: false
 
 *Utiliza informaciones de wmltogether y herramientas de Klarth, RedComet, PacoChan, CUE, Darkmet y Dageron.*
 
-<h3 style="text-align: center;">VERSIÓN 1.0.1 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/faorch4o0a7ju4b/ENB_TTV_V1.0.1.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/xAc2iChK#weFFwWu1cwuMtb1YQ9lWhegpM8u9EZ_8n4dq2wItKGc" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/faorch4o0a7ju4b/ENB_TTV_V1.0.1.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/xAc2iChK#weFFwWu1cwuMtb1YQ9lWhegpM8u9EZ_8n4dq2wItKGc" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/echo-night-beyond/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

@@ -12,10 +12,10 @@ _Traducción, programación, edición de texturas:_ IlDucci
 
 _Utiliza herramientas de RedComet, Klarth, Hermes/PS2REALITY y Dageron._
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/u134tj9e0ckw3b8/OPWB-V10-ESP.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/pYVkSZqC#PppPK_y0youHdoJW-hBpJDkdKdQNlcJh8-A5cRnoAyE" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/u134tj9e0ckw3b8/OPWB-V10-ESP.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/pYVkSZqC#PppPK_y0youHdoJW-hBpJDkdKdQNlcJh8-A5cRnoAyE" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/operation-winback/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

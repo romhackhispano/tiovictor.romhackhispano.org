@@ -26,7 +26,7 @@ Edición de gráficos principalmente, pero sigo recalcando que el mérito se lo 
 que dar a todo el SaeTeam.
 
 Bueno, me dejo de palabrerías, podéis descargaros la traducción 
-[visitando este enlace a ProjectSae.es.](http://www.projectsae.es/sae.php)
+[visitando este enlace a ProjectSae.es.](http://www.projectsae.es/sae.php){:target="_blank"}
 
 Y recordad, para utilizar esta traducción deberéis usar el sistema de parcheado al 
 vuelo Riivolution. No habrá tanta suerte como con Dead Space Extraction de que algún 

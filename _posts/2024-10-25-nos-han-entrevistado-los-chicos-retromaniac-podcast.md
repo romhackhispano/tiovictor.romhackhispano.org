@@ -26,6 +26,6 @@ En esta entrevista hablamos largo y tendido de todo el proceso de traducción y 
 que han pasado o están en mis manos, como el fandub de Resident Evil: Code Verónica que coorganicé con LugerDorada... o Policenauts.
 
 **[Podéis escuchar el pódcast entero (la entrevista empieza en el minuto 00:36:38) en Ivoox, tanto en su plataforma como descargando el 
-archivo MP3 desde la página web.](https://www.ivoox.com/retromaniac-podcast-7x02-resident-evil-castellano-audios-mp3_rf_135191835_1.html)**
+archivo MP3 desde la página web.](https://www.ivoox.com/retromaniac-podcast-7x02-resident-evil-castellano-audios-mp3_rf_135191835_1.html){:target="_blank"}**
 
 Seguiremos informando.

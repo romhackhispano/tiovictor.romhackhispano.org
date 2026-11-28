@@ -38,6 +38,6 @@ antes de aplicar el parcheador.**
 Os recuerdo también que es necesario desencriptar los archivos de la versión de PSVita antes de usar el parcheador. El léeme tiene un microtutorial 
 con el que podréis saber dónde mirar, pero tendréis que buscar otros tutoriales para seguir todos los pasos.
 
-Y eso es todo, en resumidas cuentas. **Si queréis acceder al parche de traducción, podéis hacerlo a través [de la página de descargas del proyecto](https://tiovictor.romhackhispano.org/aot-wings-of-freedom/descargar) o [de TraduSquare](https://tradusquare.es/proyectos/a-o-t-wings-of-freedom/).**
+Y eso es todo, en resumidas cuentas. **Si queréis acceder al parche de traducción, podéis hacerlo a través [de la página de descargas del proyecto](https://tiovictor.romhackhispano.org/aot-wings-of-freedom/descargar) o [de TraduSquare](https://tradusquare.es/proyectos/a-o-t-wings-of-freedom/){:target="_blank"}.**
 
 Seguiremos informando.

@@ -30,8 +30,8 @@ juegos que no tuvieron una localización oficial.
 Quiero dar las gracias a Alberto Lloret por su fantástico artículo, sin negatividades, lo más 
 neutro posible, mencionando los pros y los contras, las perspectivas de las empresas...
 
-También quiero felicitar desde aquí a [SkyBladeCloud](http://www.skybladecloud.net/) y a 
-[Pablo Muñoz](http://algomasquetraducir.com/) por sus entrevistas. Os las habéis ganado.
+También quiero felicitar desde aquí a [SkyBladeCloud](http://www.skybladecloud.net/){:target="_blank"} y a 
+[Pablo Muñoz](http://algomasquetraducir.com/){:target="_blank"} por sus entrevistas. Os las habéis ganado.
 
 Así que, este logro no es solo para mí, sino para todos vosotros: Para aquellos que habéis 
 colaborado en mis proyectos, para aquellos con los que me llevo bien, para aquellos con los 

@@ -14,7 +14,7 @@ ya es compatible tanto con la versión PAL original del juego como con la fantra
 
 Este mod no ha sido probado exhaustivamente, así que pueden romperse cosas durante los combates. Avisados quedáis.
 
-Tenéis el tuit con el archivo .pnach para PCSX2 aquí: **[Twitter](https://twitter.com/TraduSquare/status/1400859573842481152)**
+Tenéis el tuit con el archivo .pnach para PCSX2 aquí: **[Twitter](https://twitter.com/TraduSquare/status/1400859573842481152){:target="_blank"}**
 
 **EDIT: Siento muchísimo la tardanza en avisar por aquí, pero se ha retirado el mod debido a varios errores producidos por no utilizar 
 la última versión del mismo. Cuando el mod esté corregido, os lo haremos saber.**

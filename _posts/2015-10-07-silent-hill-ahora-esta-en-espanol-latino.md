@@ -20,9 +20,7 @@ para **hacer una versión en español latino del parche.**
 
 Así que sin más demora, aquí van los enlaces de descarga:
 
-<h1 style="text-align: center;"><strong>DESCARGAR V2.1 DE LA TRADUCCIÓN DE SILENT HILL:</strong></h1>
-
-<h1 style="text-align: center;"><a href="https://mega.nz/#!FQFQmQiR!jJ-ZC3y0BJvjifFu-D71lILJTow7Ic03YgHbqs9JeVU" target="_blank">MEGA</a> - <a href="http://www.mediafire.com/download/vo5s3g1o8gnl4te/" target="_blank">MEDIAFIRE</a></h1>
+**Podéis acceder a los enlaces de los parches de Silent Hill [en su página de proyecto](https://tiovictor.romhackhispano.org/silent-hill-1/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/silent-hill/){:target="_blank"}.**
 
 Para correcciones de tipo técnico (Fallos en el juego, cuelgues, etc...) podéis comentarlos 
 aquí, como siempre, pero para la parte escrita (Defectos de traducción, erratas...), si son 
@@ -30,7 +28,7 @@ en español latino, Giromancy sabrá ayudaros mejor que yo.
 
 En otro orden de cosas, y al igual que los últimos años, Traducciones del Tío Víctor estará 
 presente, **junto con el resto del equipo de SegaClassics**, en la próxima [**RetroBarcelona 
-2015**](http://www.retrobarcelona.org/), que este año pasa a tener lugar en el **Museo Marítimo 
+2015**](http://www.retrobarcelona.org/){:target="_blank"}, que este año pasa a tener lugar en el **Museo Marítimo 
 de Barcelona el 14 y 15 de noviembre**.
 
 Aparte de llevar las versiones finales de Sin and Punishment, Shenmue II y una versión alpha 

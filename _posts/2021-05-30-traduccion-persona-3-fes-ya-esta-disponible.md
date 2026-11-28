@@ -92,14 +92,14 @@ Otro día, si eso, hablo del estado del resto de mis proyectos. Que aproveche.
 
 Yo siempre le he tenido tirria a los RPGs de proporciones titánicas, pero cuando Victor me propuso colaborar en la traducción de Persona 3 FES, me sentí bastante halagado. Por aquel entonces cursaba último año de carrera y me costaba encontrar tiempo para realizar correcciones del texto de la historia, pero me las apañé para echar un cable a mi colega. Yo también experimenté bastante altibajos durante este proceso, pero he de decir que ha sido bastante divertido documentarme sobre el mundo de esta joya y debatir las decisiones con Victor. Confío en que el resultado final sea del agrado de muchos y que estéis al loro de futuros proyectos nuestros.
 
-   —[Retroductor](https://twitter.com/Retroductor/)
+   —[Retroductor](https://twitter.com/Retroductor/){:target="_blank"}
 
 Ha sido un placer compartir tiempo y ganas en este proyecto junto a un equipo tan entregado a la hora de buscar la mayor calidad posible en la traducción de Persona 3 FES.
 Persona es una saga a la que le tengo especial cariño, habiéndome dado innumerables horas de disfrute tanto fuera como dentro del televisor. Por lo que, cuando un día me enteré de casualidad gracias al blog de nuestra compañera Rokuso de que se buscaba gente para colaborar en este proyecto, sentí que era la oportunidad ideal para intentar aportar mi granito de arena para la expansión de estos títulos por tierras hispanoparlantes. Y cuánto me alegro de haberlo hecho.
 Y sin más que añadir, ¡que disfrutéis el juego!
 
-   —[Ayamine](https://twitter.com/Isteye)
+   —[Ayamine](https://twitter.com/Isteye){:target="_blank"}
 
 La verdad es que estoy nerviosa y dudo de cada una de mis aportaciones, sospecho que alguna no será bien recibida y me da cosita, pero espero que más de uno disfrute del esfuerzo que hemos hecho, porque de verdad le tengo mucho cariño a este juego y me ha encantado revisitar sus escenarios en este proceso de traducción.
 
-   —[Alhechan](https://twitter.com/Alhechan)
+   —[Alhechan](https://twitter.com/Alhechan){:target="_blank"}

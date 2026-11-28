@@ -26,10 +26,10 @@ www.portalgameover.com por motivarme a arrancar este proyecto.*
 fallo de la traducción inglesa y a José Miguel Zamora por empujarme a darle 
 un repaso a mi traducción.*
 
-<h3 style="text-align: center;">VERSIÓN 1.5 2024 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/hcqyx95wpc3lin9/ZoneOfTheEnders-TraduESP15_2024.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/1J9SGIqK#P2sGMR9xF71707KnuA33LsAMMc34TPPIFts99mN-x9Y" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/hcqyx95wpc3lin9/ZoneOfTheEnders-TraduESP15_2024.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/1J9SGIqK#P2sGMR9xF71707KnuA33LsAMMc34TPPIFts99mN-x9Y" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/zone-of-the-enders/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

@@ -31,7 +31,7 @@ Así que os presento un proyecto sorpresa: **¡Me ha dado por revisar los textos
 Ya iba tocando una inocentada. Los más veteranos lo sabéis. Pero dejad que me explique...
 
 A eso de primeros de julio me crucé con un mod que intenta arreglar y hacer funcional en ordenadores modernos 
-el cutreport para PC de Silent Hill 2, conocido como **[Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/)**, 
+el cutreport para PC de Silent Hill 2, conocido como **[Enhanced Edition](http://www.enhanced.townofsilenthill.com/SH2/){:target="_blank"}**, 
 así que hablé con sus responsables para hacer una revisión rápida. Vi que el formato de textos no estaba bien investigado, 
 así que pillé en un ratito a Infrid, del proyecto de Ace Combat 3, para hacer una herramienta «rápida»... que no estaría 
 lista hasta el 29 de noviembre.
@@ -51,7 +51,7 @@ sido aceptada por parte de la Enhanced Edition y se implementará a partir de su
 
 No voy a prolongarme mucho en este post sobre esta revisión exprés, así que si queréis saber más sobre el proyecto...
 
-<b><u><a href="/silent-hill-2-directors-cut/">Podéis ver la página del proyecto de Silent Hill 2: Director's Cut aquí.</a></u></b>
+**Podéis acceder a los enlaces de los parches de Silent Hill 2 [en su página de proyecto](https://tiovictor.romhackhispano.org/silent-hill-2-directors-cut/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/silent-hill-2-directors-cut/){:target="_blank"}.**
 
 Vamos a lo que muchos estabais esperando al entrar a esta noticia y por lo que más de uno ya tendrá ganas de cogerme por el 
 pescuezo: **Persona 3 FES**.
@@ -68,7 +68,7 @@ Ahora mismo, esta es la situación: Nos quedan por traducir los vínculos de Yuk
 lo que toca es una revisión, tanto lingüística como de longitud de textos (para que no se salgan de las ventanas). Aunque debería ser un 
 proceso más rápido, la traducción no se podrá publicar, como mínimo, hasta 2021.
 
-Para agilizar la revisión, vamos a contar con la ayuda de un veterano de la escena, **[Retroductor](https://twitter.com/retroductor)**, 
+Para agilizar la revisión, vamos a contar con la ayuda de un veterano de la escena, **[Retroductor](https://twitter.com/retroductor){:target="_blank"}**, 
 al que algunos conoceréis por su implicación en Fear Effect 2 o por ser el organizador de los proyectos de traducción de The Binding of Isaac 
 o Homestuck.
 

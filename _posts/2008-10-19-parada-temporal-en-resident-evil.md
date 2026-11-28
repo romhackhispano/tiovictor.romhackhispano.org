@@ -13,7 +13,8 @@ tags:
 - 'The World Ends With You'
 ---
 Muy buenas, a pesar de que dije que iba a revisar otra vez Resident Evil, al final 
-no pude. Fui atraído por <a href="http://www.elotrolado.net/hilo_proyecto-traduccion-al-espanol-del-the-world-ends-with-you_1002815">la traducción de The World Ends With You para Nintendo DS</a>, 
+no pude. Fui atraído por 
+[la traducción de The World Ends With You para Nintendo DS](http://www.elotrolado.net/hilo_proyecto-traduccion-al-espanol-del-the-world-ends-with-you_1002815){:target="_blank"}, 
 en la que he estado colaborando estos últimos dos meses como traductor, revisor, 
 director de doblaje y actor de doblaje. Ahora que la traducción de textos está 
 acabada, supongo que podré dedicarle más tiempo a los textos del Resident Evil.

@@ -14,7 +14,7 @@ Parece ser que el fallo del PPF-O-Matic congelado va a estar incordiando cada ve
 que saque parche. He repetido el proceso de creación del parche, a ver si ahora no da 
 más problemas. Recordad que estamos usando una imagen en formato IMG.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/resident-evil-directors-cut/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/resident-evil-directors-cut/">Ir a la página de descargas</a></strong></h2>
 
 El léeme es idéntico y no hay cambio de número de versión en el parche.
 

@@ -34,10 +34,10 @@ Narrador: Víctor González Fraile<br>
    (TiledGGD), Stenzek (Duckstation), Nicholas Noble y el equipo de 
    pcsx-redux, Martin Korth (NO$PSX), el equipo de pSXfin.
 
-<h3 style="text-align: center;">VERSIÓN 1.5 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN Y DOBLAJE:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/kwt32u8izsihkcz/TimeCrisisPSOneESP15.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/sAdXFKIa#jyfLEckY4VQgUHlu1vscaRKRQeJQz7ZJRlmsgd1CPz8" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://www.mediafire.com/file_premium/u23usg3umzmvwjt/TimeCrisisPSOneESP15.7z/file" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
+<a href="https://www.mediafire.com/file/kwt32u8izsihkcz/TimeCrisisPSOneESP15.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/sAdXFKIa#jyfLEckY4VQgUHlu1vscaRKRQeJQz7ZJRlmsgd1CPz8" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/time-crisis/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

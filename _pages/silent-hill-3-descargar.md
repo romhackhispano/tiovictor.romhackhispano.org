@@ -23,10 +23,10 @@ a la comunidad de la wiki de Silent Hill 3 por el apunte del oxydol/peróxido
 de hidrógeno, y a Ratiocinator y la gente de Town of Silent Hill por su 
 ayuda y por el trabajo de Silent Hill 2: Enhanced Edition.
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE RETRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE RETRADUCCIÓN:</h3>
 
 <center>
-<a href="https://www.mediafire.com/file/g4hdjxkp1hldt5e/SH3-REVISION-TTV-V1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/NEkXnLpB#lhCP_bWR_j2zxFTNHxkSK11U0AsfTOiMZx2TUGZ5g9U" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="https://www.mediafire.com/file/g4hdjxkp1hldt5e/SH3-REVISION-TTV-V1.0.7z/file" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/file/NEkXnLpB#lhCP_bWR_j2zxFTNHxkSK11U0AsfTOiMZx2TUGZ5g9U" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/silent-hill-3/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 _**Utilidades necesarias para parchear tu copia de seguridad del juego**_  

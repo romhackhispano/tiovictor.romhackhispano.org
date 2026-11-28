@@ -87,7 +87,7 @@ con Ys Net. Solo conseguí silencio de radio o el equivalente en el idioma de RR
 Avancemos hasta 2018. Tuve la suerte de que Shenmue Master (La comunidad francesa de Shenmue y responsables de la programación 
 principal en las fantraducciones de Shenmue I y II) me invitara a mí y a SEGASaturno al MAGIC, un evento de Shibuya Productions 
 en el que podría conocer al creador de Shenmue en persona, Yu Suzuki. Le hicimos una entrevista 
-([que podéis ver aquí](http://www.segasaturno.com/portal/nuestra-entrevista-a-yu-suzuki-en-el-magic-monaco-2018-vf32-vt9374.html?sid=9742496e1ff687fb5bd19f3bc730da68) 
+([que podéis ver aquí](http://www.segasaturno.com/portal/nuestra-entrevista-a-yu-suzuki-en-el-magic-monaco-2018-vf32-vt9374.html?sid=9742496e1ff687fb5bd19f3bc730da68){:target="_blank"} 
 y tuve una charla con miembros de las distribuidoras de Shenmue III, Deep Silver y Koch Media. Tras una charla que parecía 
 productiva, nos intercambiamos nuestras tarjetas de visita y, tras la feria, no recibí ninguna respuesta a mis correos.
 
@@ -98,7 +98,7 @@ en todos los frentes, tanto con las empresas implicadas con SEGA como fuera de e
 alegres que necesitaba, la verdad.
 
 La imagen que los RR.PP. de d3t no supieran qué responder daba mala espina. Llegaron a decir lo siguiente: 
-[en este tuit:](https://twitter.com/d3tLtd/status/985873986583228419)
+[en este tuit:](https://twitter.com/d3tLtd/status/985873986583228419){:target="_blank"}
 
 _Hi Dani; Thank you for your comment. @d3tLtd work on lots of different projects and we take confidentiality very seriously._
 

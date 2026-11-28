@@ -21,7 +21,7 @@ traducidos, más el 100% de los gráficos, el cuaderno de Ryo en su totalidad
 y varios menús que estaban en inglés. (Aún faltan varios).
 
 También quiero destacar que Ryo Suzuki, webmaster de SegaSaturno, se ha 
-currado [una entrevista hacia mí, que podéis conocer aquí](http://www.segasaturno.com/portal/index.php?topic_id=6108).
+currado [una entrevista hacia mí, que podéis conocer aquí](http://www.segasaturno.com/portal/index.php?topic_id=6108){:target="_blank"}.
 
 Os dejo con el tráiler final de este proyecto, y los que queráis leer los 
 detalles exactos, los tenéis tras el salto.
@@ -58,8 +58,8 @@ Adaptador SD, pero hasta ahí conozco.
 
 La intro de la profecía de Shenhua y el final del juego, cuando zarpa el barco, 
 están dobladas. Con el parcheador podéis elegir si queréis voces en Castellano 
-(Por [Laura Peña](http://youtube.com/KarisatoStudios) y [Víctor González](http://youtube.com/DoblajesVGF)), 
-en Español Latino (Por [Rinneichan](http://youtube.com/Rinneichan) y Juanjo Martí) 
+(Por [Laura Peña](http://youtube.com/KarisatoStudios){:target="_blank"} y [Víctor González](http://youtube.com/DoblajesVGF){:target="_blank"}), 
+en Español Latino (Por [Rinneichan](http://youtube.com/Rinneichan){:target="_blank"} y Juanjo Martí) 
 o dejar las voces en Inglés.
 
 Las imágenes que creará el parcheador pueden utilizarse en CDs convencionales 

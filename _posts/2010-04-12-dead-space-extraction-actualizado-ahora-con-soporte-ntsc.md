@@ -18,5 +18,4 @@ Esta actualización sólo incluye un cambio de un error gramatical del primer
 capítulo, y el cambio en el XML de la carpeta Riivolution que permite jugar 
 a cualquier versión del juego con la traducción.
 
-Como siempre, [el parche lo tenéis en esta dirección.]
-(http://tiovictor.romhackhispano.org/dead-space-extraction/)
+Como siempre, [el parche lo tenéis en esta dirección](https://tiovictor.romhackhispano.org/dead-space-extraction/){:target="_blank"}.

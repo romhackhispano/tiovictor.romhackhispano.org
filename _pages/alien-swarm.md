@@ -35,10 +35,9 @@ lanzamiento, Valve publicó la traducción oficial de este juego.
 Esta traducción se guarda aquí a título de recordatorio. Faltan por traducir la línea que dice 
 "Objectives complete!", y los textos en grande de "Misión cumplida" y "Misión fallida".
 
-<h3 style="text-align: center;">VERSIÓN 1.6 DEL PARCHE DE TRADUCCIÓN:</h3>
-
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 <center>
-<a href="http://www.mediafire.com/download/vmp8vcme4p4kt6l/TraduccionAlienSwarm16.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!oIUj2JaK!Pl-WPfXAU5PP1RRjK-wKY5zuJ5G0q6teza2WRh6yBLs" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="http://www.mediafire.com/download/vmp8vcme4p4kt6l/TraduccionAlienSwarm16.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!oIUj2JaK!Pl-WPfXAU5PP1RRjK-wKY5zuJ5G0q6teza2WRh6yBLs" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/alien-swarm/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 Para instalar la traducción, descomprime el archivo .rar en tu carpeta de instalación de 

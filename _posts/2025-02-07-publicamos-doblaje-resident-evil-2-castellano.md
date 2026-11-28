@@ -22,7 +22,7 @@ Shock Ver. norteamericana de PlayStation.**__
 **El parche para la versión de PC**, tanto la distribuida por GOG como el ejecutable original de las versiones de PC, **saldrá dentro de un par 
 de semanas. El parche para Classic ReBIRTH 2 también está en proceso.**
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/).** **O, si queréis saber más sobre cómo se llevó a cabo, seguir leyendo.**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-2-dreamcast/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-2/){:target="_blank"}.** **O, si queréis saber más sobre cómo se llevó a cabo, seguir leyendo.**
 
 <!--more-->
 
@@ -38,11 +38,11 @@ entre manos.
 Solo por cerrar versiones de Resident Evil, **la versión de Nintendo 64 es, ahora mismo, duda de si podrá ser doblada en su totalidad. También 
 nos habéis preguntado por la Deadly Silence, no la hemos estudiado y ahora mismo necesitamos un respiro, así que no hay planes inmediatos.**
 
-Por petición popular, he preparado una serie de minitutoriales sobre cómo aplicar los parches del proyecto (que también pueden venir bien para otros proyectos). Tenéis tres tutoriales: uno para aplicar archivos XDELTA de forma convencional, otro para aplicar archivos XDELTA a imágenes con varias pistas (para los juegos que tienen pistas de audio) y otro para aplicar parches DCP (para Dreamcast). Los podéis encontrar **[en el canal de YouTube de Resident Evil Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO/videos)**.
+Por petición popular, he preparado una serie de minitutoriales sobre cómo aplicar los parches del proyecto (que también pueden venir bien para otros proyectos). Tenéis tres tutoriales: uno para aplicar archivos XDELTA de forma convencional, otro para aplicar archivos XDELTA a imágenes con varias pistas (para los juegos que tienen pistas de audio) y otro para aplicar parches DCP (para Dreamcast). Los podéis encontrar **[en el canal de YouTube de Resident Evil Castellano](https://www.youtube.com/@RESIDENTEVILCASTELLANO/videos){:target="_blank"}**.
 
 Termino con varios apuntes interesantes, porque se nota que el cansancio ataca:
- - Ayer Daniel Quesada mostró en exclusiva los primeros minutos del parche de doblaje de Resident Evil 2 **[en el canal de YouTube de la revista Hobby Consolas](https://www.youtube.com/watch?v=7XQr0eT_F4s).** Desde aquí, me gustaría dar un millón de gracias a Dani por acogernos desde el primer juego.
- - **[El próximo lunes 10 de febrero, a las 23:00, Salvi y yo estaremos en directo en el podcast Back to the Game](https://www.twitch.tv/backttgame/videos)**, 
+ - Ayer Daniel Quesada mostró en exclusiva los primeros minutos del parche de doblaje de Resident Evil 2 **[en el canal de YouTube de la revista Hobby Consolas](https://www.youtube.com/watch?v=7XQr0eT_F4s){:target="_blank"}.** Desde aquí, me gustaría dar un millón de gracias a Dani por acogernos desde el primer juego.
+ - **[El próximo lunes 10 de febrero, a las 23:00, Salvi y yo estaremos en directo en el podcast Back to the Game](https://www.twitch.tv/backttgame/videos){:target="_blank"}**, 
  donde hablaremos del doblaje de Resident Evil 2.
  - Mientras yo he estado liado con Resident Evil 2, mis compañeros de Policenauts han seguido haciendo avances en la programación del juego. No se ha podido 
  avanzar tanto, pero espero poder retomar el proyecto cuanto antes.

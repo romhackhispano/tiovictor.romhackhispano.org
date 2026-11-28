@@ -70,12 +70,12 @@ Podéis acceder a las descargas del proyecto **[desde la página del mismo en T�
 
 ## Resident Evil para Sega Saturn<a name="resident"></a>
 
-Como ya comenté **[allá por septiembre](https://tiovictor.romhackhispano.org/2023/09/22/novedades-nuevas-redes-sociales-sorpresas/){:target="_blank"}**, otro de los proyectos 
+Como ya comenté **[allá por septiembre](https://tiovictor.romhackhispano.org/2023/09/22/novedades-nuevas-redes-sociales-sorpresas/)**, otro de los proyectos 
 que anda pululando por ahí es una conversión de la traducción de Resident Evil: Director's Cut que organicé en su día, en su versión reescrita 4.0, a la versión para Sega 
 Saturn.
 
 **Me complace anunciar que gracias al usuario Bo, hacker con experiencia en Sega Saturn** (y cuyo blog con explicaciones detalladas sobre la modificación de rutinas de Sega Saturn 
-podéis encontrar **[aquí](https://32bits.substack.com/)**), **hemos podido resolver el problema grave que mencioné.**
+podéis encontrar **[aquí](https://32bits.substack.com/){:target="_blank"}**), **hemos podido resolver el problema grave que mencioné.**
 
 **Sin embargo, este problema modifica la rutina de representación de textos de todo el juego, así que hay que testearlo de cabo a rabo** para comprobar que no hayamos roto nada 
 en otra parte. **He dejado el testeo en manos de Cerbero y de Wesker**, dos viejos conocidos de la comunidad hispanoparlante de Sega Saturn. Solo queda esperar hasta que terminen.
@@ -99,7 +99,7 @@ versiones para XBOX original y PC. No debería llevar mucho tiempo.**
 
 ## Sołtys<a name="soltys"></a>
 
-**Como ya comenté en su día, al final me he lanzado a revisar la traducción de Sołtys para traducir los gráficos que quedaban pendientes. Gracias al trabajo de [Stefan Hueg](https://github.com/codengine/cge-tools), 
+**Como ya comenté en su día, al final me he lanzado a revisar la traducción de Sołtys para traducir los gráficos que quedaban pendientes. Gracias al trabajo de [Stefan Hueg](https://github.com/codengine/cge-tools){:target="_blank"}, 
 ahora todas las texturas del juego están a nuestro alcance.**
 
 He traducido casi todas las texturas, solo faltan las del cartel con los nombres de los pueblos porque tengo que elegir cuáles serán las localidades españolas agraciadas. 
@@ -107,7 +107,7 @@ He traducido casi todas las texturas, solo faltan las del cartel con los nombres
 
 ## Ace Combat 3: electrosfera<a name="acecombat3"></a>
 
-Tras acompañar a TrueFaiterMan en su [retransmisión del juego en Twitch](https://www.twitch.tv/truefaiterman/), **descubrimos tres erratas menores dentro del juego. Ya las tengo corregidas, 
+Tras acompañar a TrueFaiterMan en su [retransmisión del juego en Twitch](https://www.twitch.tv/truefaiterman/){:target="_blank"}, **descubrimos tres erratas menores dentro del juego. Ya las tengo corregidas, 
 pero encontré otro bug en los créditos que requiere dedicarle algo más de tiempo**, así que esa versión definitiva del parche queda pospuesta hasta nuevo aviso.
 
 ## Policenauts<a name="policenauts"></a>

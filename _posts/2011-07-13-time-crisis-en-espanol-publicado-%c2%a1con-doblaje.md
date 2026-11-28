@@ -18,9 +18,9 @@ traducción: Time Crisis 1 para PlayStation One.
 Esta traducción ha sido muy especial, tanto por mi fanatismo por este tipo de 
 juegos como por el hecho de que es el primer fandoblaje que publico yo personalmente. 
 Dadles las gracias por el fantástico trabajo que han realizado a los chicos de 
-[Doblaje Amateur](http://www.doblajeamateur.tk), que son los que se lo han currado.
+[Doblaje Amateur](http://www.doblajeamateur.tk){:target="_blank"}, que son los que se lo han currado.
 
-<h2 style="text-align: center;"><strong><a href="http://tiovictor.romhackhispano.org/time-crisis-1/">Ir a la página de descargas</a></strong></h2>
+<h2 style="text-align: center;"><strong><a href="https://tiovictor.romhackhispano.org/time-crisis-1/">Ir a la página de descargas</a></strong></h2>
 
 Más información y notas sobre esta versión tras el salto.
 

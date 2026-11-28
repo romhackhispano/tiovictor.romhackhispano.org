@@ -35,7 +35,7 @@ de _Retroductor_.
 
 Y eso es todo. Feliz sorpresa. De aquí a unas semanas hablaremos de Shenmue.
 
-<b><u><a href="/fear-effect-2-retro-helix/">Podéis descargaros el parche de Fear Effect 2 aquí.</a></u></b>
+**Podéis acceder a los enlaces de los parches de Fear Effect 2: Retro Helix [en su página de proyecto](https://tiovictor.romhackhispano.org/fear-effect-2-retro-helix/) o en [su página de TraduSquare](https://tradusquare.es/proyectos/fear-effect-2/){:target="_blank"}.**
 
 P.D.: Quiero hacer patente mi rechazo y repulsa hacia cierto medio de comunicación del mundillo del videojuego que va por ahí diciendo 
 que las traducciones que publico en esta web se obtienen descargándose la ISO ya parcheada. Desde Traducciones del Tío Víctor recordamos 

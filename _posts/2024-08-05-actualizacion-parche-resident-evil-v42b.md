@@ -34,7 +34,7 @@ Esta es la lista de cambios:
    PlayStation.
  - Otros fallos menores corregidos.
 
-**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/).**
+**Podéis acceder a los enlaces de los parches [en la página del proyecto](https://tiovictor.romhackhispano.org/resident-evil-directors-cut/) o en [la página de TraduSquare](https://tradusquare.es/proyectos/resident-evil-director/){:target="_blank"}.**
 
 Seguiremos informando.
 

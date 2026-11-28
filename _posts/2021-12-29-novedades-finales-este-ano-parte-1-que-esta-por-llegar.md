@@ -50,19 +50,19 @@ en la consola de PCSX2 que no parecen afectar (que sepamos) al funcionamiento de
 actual.** Podéis descargarlo en la página de descargas del proyecto de Persona 3 FES, **[o pulsando aquí](/persona-3-fes/descargar/)**.
 
 Siguiendo con los contenidos extra, **también hemos publicado la herramienta necesaria para desbloquear la edición de las ISOs del juego fantraducido, de cara a que os 
-hagáis vuestros propios undubs y otros mods**. **[D3fau4](https://github.com/D3fau4/)** se ha encargado de adaptar una antigua herramienta abandonada del grupo 
+hagáis vuestros propios undubs y otros mods**. **[D3fau4](https://github.com/D3fau4/){:target="_blank"}** se ha encargado de adaptar una antigua herramienta abandonada del grupo 
 Amicitia, llamada PersonaPatcher, para que sea compatible con las versiones con la fantraducción al castellano, tanto la PAL como la futura NTSC-U.
 
 Tened en cuenta que los métodos actuales para añadir mods al juego, principalmente usando un archivo .pnach para el emulador PCSX2, actualmente no son compatibles 
 y requieren que sus programadores adapten estos programas para nuestra versión. Pero viendo que a estas alturas de partido no han dado soporte ni para la versión NTSC-J 
 ni para la PAL, no cuento con que vayan a hacerlo en un futuro. Si queréis modificar vuestras ISO, hay que hacerlo a la antigua, editándola entera.
 
-Podéis descargaros la aplicación **[PersonaPatcher modificada pulsando en este enlace](https://github.com/D3fau4/Amicitia)**. También he dejado un par de tutoriales 
+Podéis descargaros la aplicación **[PersonaPatcher modificada pulsando en este enlace](https://github.com/D3fau4/Amicitia){:target="_blank"}**. También he dejado un par de tutoriales 
 para modificar vuestras ISO traducidas por escrito, en la página del proyecto de Persona 3 FES.
 
 ## Ace Combat 3: ~~electrosphere~~ electrosfera<a name="ac3es"></a>
 
-Como habréis visto quienes estuvierais presentes durante el **[TraduSquare Direct](https://www.youtube.com/watch?v=BzD09uHdSYU)** o mi Twitter, hemos publicado un 
+Como habréis visto quienes estuvierais presentes durante el **[TraduSquare Direct](https://www.youtube.com/watch?v=BzD09uHdSYU){:target="_blank"}** o mi Twitter, hemos publicado un 
 tráiler final de esta traducción. Siento no haber podido hacer noticia en el momento de su publicación, pero mis circunstancias personales no me permitieron hacer 
 una noticia como Dios manda aquí.
 

@@ -34,11 +34,11 @@ de los cuales no puedo mostrar material nuevo. El primero de ellos sería **Sin 
 Punishment** para Nintendo 64, un proyecto basado en el trabajo del gran **Zoinkity** 
 de AssemblerGames.  
 Pretendemos traducir y doblar el juego entero, y esta vez he delegado las tareas de casting 
-y dirección al [grupo **G3S**](http://www.estudiosg3s.com/index.html) de doblaje. Entre su 
+y dirección al [grupo **G3S**](http://www.estudiosg3s.com/index.html){:target="_blank"} de doblaje. Entre su 
 historial delictivo están los fandubs en castellano de 
-[Gurren Lagann](http://www.estudiosg3s.com/Series/GurrenLagann/gurren_lagann.html), 
-[Fairy Tail](http://www.estudiosg3s.com/Series/FairyTail/fairy_tail.html) y 
-[Kill la Kill](http://www.estudiosg3s.com/Series/KillLaKill/kill_la_kill.html). Yo me 
+[Gurren Lagann](http://www.estudiosg3s.com/Series/GurrenLagann/gurren_lagann.html){:target="_blank"}, 
+[Fairy Tail](http://www.estudiosg3s.com/Series/FairyTail/fairy_tail.html){:target="_blank"} y 
+[Kill la Kill](http://www.estudiosg3s.com/Series/KillLaKill/kill_la_kill.html){:target="_blank"}. Yo me 
 limitaré a las tareas de traducción y edición de gráficos.  
 Todos los textos ya han sido traducidos sobre papel (A la espera de insertarlos) y el proceso 
 de doblaje ha comenzado.

@@ -13,10 +13,10 @@ comments: false
  
 *Utiliza herramientas de IceBerg (Texture Finder), Stealth (ROMulan) y Joshua MacDonald (xdelta).*
 
-<h3 style="text-align: center;">VERSIÓN 1.0 DEL PARCHE DE TRADUCCIÓN:</h3>
+<h3 style="text-align: center;">PARCHE DE TRADUCCIÓN:</h3>
 
 <center>
-<a href="http://www.mediafire.com/download/ym6yrzy5t26gd16/WrecklessXBOXEspanol10.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!wR8wHIRR!l-86I3hnTuFuvCHKDvmjpd7XIU2NP2IpG3sF4omFEVg" class="btn btn--primary btn--x-large" target="_blank">MEGA</a>
+<a href="http://www.mediafire.com/download/ym6yrzy5t26gd16/WrecklessXBOXEspanol10.7z" class="btn btn--primary btn--x-large" target="_blank">MEDIAFIRE</a> <a href="https://mega.nz/#!wR8wHIRR!l-86I3hnTuFuvCHKDvmjpd7XIU2NP2IpG3sF4omFEVg" class="btn btn--primary btn--x-large" target="_blank">MEGA</a> <a href="https://tradusquare.es/proyectos/wreckless-yakuza-missions/" class="btn btn--primary btn--x-large" target="_blank">TRADUSQUARE</a>
 </center><br>
 
 
